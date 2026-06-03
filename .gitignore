@@ -1,0 +1,8 @@
+node_modules/
+dist/
+logs/
+bin/
+cloudflared/
+scripts/
+.DS_Store
+Thumbs.db

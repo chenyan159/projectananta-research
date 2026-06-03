@@ -1,0 +1,5031 @@
+[
+  {
+    "ticker": "DELL",
+    "name": "Dell Technologies",
+    "category": "AI服务器_存储_EMS",
+    "relatedIndustrySlugs": [
+      "dbba762707f9b6",
+      "0cf276aef5bf91",
+      "ec06f9c2aa5381",
+      "ab8cd799486a34",
+      "6e6c626711eae5",
+      "4d45642146e7c3",
+      "cd096ea4005cda",
+      "5275621bff96ae",
+      "28e606b87fe24a",
+      "f7ca3e4d4f0c9a",
+      "72bce2ebd6a361",
+      "7a9f231c9466e6",
+      "8d4824ca25b049",
+      "4f9cf4610ad1dc"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "公司：DELL Dell Technologies 公司调研（2026-05-30）",
+      "reportDate": "2026-05-30",
+      "sourcePath": "基本面/公司调研/AI服务器_存储_EMS/DELL_Dell_Technologies_公司调研_2026-05-30.md",
+      "dataFile": "reports/company/DELL.json"
+    }
+  },
+  {
+    "ticker": "FN",
+    "name": "Fabrinet",
+    "category": "AI服务器_存储_EMS",
+    "relatedIndustrySlugs": [
+      "dbba762707f9b6",
+      "0cf276aef5bf91",
+      "ec06f9c2aa5381",
+      "ab8cd799486a34",
+      "6e6c626711eae5",
+      "4d45642146e7c3",
+      "cd096ea4005cda",
+      "5275621bff96ae",
+      "28e606b87fe24a",
+      "f7ca3e4d4f0c9a",
+      "72bce2ebd6a361",
+      "7a9f231c9466e6",
+      "8d4824ca25b049",
+      "4f9cf4610ad1dc"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "公司：FN Fabrinet",
+      "reportDate": "2026-05-10",
+      "sourcePath": "基本面/公司调研/AI服务器_存储_EMS/FN_Fabrinet_全面尽调_2026-05-10.md",
+      "dataFile": "reports/company/FN.json"
+    }
+  },
+  {
+    "ticker": "HPE",
+    "name": "惠普企业",
+    "category": "AI服务器_存储_EMS",
+    "relatedIndustrySlugs": [
+      "dbba762707f9b6",
+      "0cf276aef5bf91",
+      "ec06f9c2aa5381",
+      "ab8cd799486a34",
+      "6e6c626711eae5",
+      "4d45642146e7c3",
+      "cd096ea4005cda",
+      "5275621bff96ae",
+      "28e606b87fe24a",
+      "f7ca3e4d4f0c9a",
+      "72bce2ebd6a361",
+      "7a9f231c9466e6",
+      "8d4824ca25b049",
+      "4f9cf4610ad1dc"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "公司：HPE Hewlett Packard Enterprise（惠普企业）",
+      "reportDate": "2026-05-10",
+      "sourcePath": "基本面/公司调研/AI服务器_存储_EMS/HPE_惠普企业_全面尽调_2026-05-10.md",
+      "dataFile": "reports/company/HPE.json"
+    }
+  },
+  {
+    "ticker": "JBL",
+    "name": "Jabil Inc",
+    "category": "AI服务器_存储_EMS",
+    "relatedIndustrySlugs": [
+      "dbba762707f9b6",
+      "0cf276aef5bf91",
+      "ec06f9c2aa5381",
+      "ab8cd799486a34",
+      "6e6c626711eae5",
+      "4d45642146e7c3",
+      "cd096ea4005cda",
+      "5275621bff96ae",
+      "28e606b87fe24a",
+      "f7ca3e4d4f0c9a",
+      "72bce2ebd6a361",
+      "7a9f231c9466e6",
+      "8d4824ca25b049",
+      "4f9cf4610ad1dc"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "公司：JBL Jabil Inc.（捷普）",
+      "reportDate": "2026-05-10",
+      "sourcePath": "基本面/公司调研/AI服务器_存储_EMS/JBL_Jabil_Inc_全面尽调_2026-05-10.md",
+      "dataFile": "reports/company/JBL.json"
+    }
+  },
+  {
+    "ticker": "MRAM",
+    "name": "Everspin Technologies",
+    "category": "AI服务器_存储_EMS",
+    "relatedIndustrySlugs": [
+      "dbba762707f9b6",
+      "0cf276aef5bf91",
+      "ec06f9c2aa5381",
+      "ab8cd799486a34",
+      "6e6c626711eae5",
+      "4d45642146e7c3",
+      "cd096ea4005cda",
+      "5275621bff96ae",
+      "28e606b87fe24a",
+      "f7ca3e4d4f0c9a",
+      "72bce2ebd6a361",
+      "7a9f231c9466e6",
+      "8d4824ca25b049",
+      "4f9cf4610ad1dc"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "公司：MRAM - Everspin Technologies, Inc.",
+      "reportDate": "2026-05-10",
+      "sourcePath": "基本面/公司调研/AI服务器_存储_EMS/MRAM_Everspin_Technologies_全面尽调_2026-05-10.md",
+      "dataFile": "reports/company/MRAM.json"
+    }
+  },
+  {
+    "ticker": "NTAP",
+    "name": "NetApp",
+    "category": "AI服务器_存储_EMS",
+    "relatedIndustrySlugs": [
+      "dbba762707f9b6",
+      "0cf276aef5bf91",
+      "ec06f9c2aa5381",
+      "ab8cd799486a34",
+      "6e6c626711eae5",
+      "4d45642146e7c3",
+      "cd096ea4005cda",
+      "5275621bff96ae",
+      "28e606b87fe24a",
+      "f7ca3e4d4f0c9a",
+      "72bce2ebd6a361",
+      "7a9f231c9466e6",
+      "8d4824ca25b049",
+      "4f9cf4610ad1dc"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "NetApp（NTAP）公司调研：AI-native 存储、全闪阵列与混合云数据平台",
+      "reportDate": "2026-05-30",
+      "sourcePath": "基本面/公司调研/AI服务器_存储_EMS/NTAP_NetApp_公司调研_2026-05-30.md",
+      "dataFile": "reports/company/NTAP.json"
+    }
+  },
+  {
+    "ticker": "PENG",
+    "name": "Penguin Solutions",
+    "category": "AI服务器_存储_EMS",
+    "relatedIndustrySlugs": [
+      "dbba762707f9b6",
+      "0cf276aef5bf91",
+      "ec06f9c2aa5381",
+      "ab8cd799486a34",
+      "6e6c626711eae5",
+      "4d45642146e7c3",
+      "cd096ea4005cda",
+      "5275621bff96ae",
+      "28e606b87fe24a",
+      "f7ca3e4d4f0c9a",
+      "72bce2ebd6a361",
+      "7a9f231c9466e6",
+      "8d4824ca25b049",
+      "4f9cf4610ad1dc"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "公司：PENG Penguin Solutions, Inc.（Penguin Solutions）",
+      "reportDate": "2026-05-10",
+      "sourcePath": "基本面/公司调研/AI服务器_存储_EMS/PENG_Penguin_Solutions_全面尽调_2026-05-10.md",
+      "dataFile": "reports/company/PENG.json"
+    }
+  },
+  {
+    "ticker": "SANM",
+    "name": "Sanmina Corporation",
+    "category": "AI服务器_存储_EMS",
+    "relatedIndustrySlugs": [
+      "dbba762707f9b6",
+      "0cf276aef5bf91",
+      "ec06f9c2aa5381",
+      "ab8cd799486a34",
+      "6e6c626711eae5",
+      "4d45642146e7c3",
+      "cd096ea4005cda",
+      "5275621bff96ae",
+      "28e606b87fe24a",
+      "f7ca3e4d4f0c9a",
+      "72bce2ebd6a361",
+      "7a9f231c9466e6",
+      "8d4824ca25b049",
+      "4f9cf4610ad1dc"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "公司：SANM Sanmina Corporation",
+      "reportDate": "2026-05-10",
+      "sourcePath": "基本面/公司调研/AI服务器_存储_EMS/SANM_Sanmina_Corporation_全面尽调_2026-05-10.md",
+      "dataFile": "reports/company/SANM.json"
+    }
+  },
+  {
+    "ticker": "SMCI",
+    "name": "Super Micro Computer Inc",
+    "category": "AI服务器_存储_EMS",
+    "relatedIndustrySlugs": [
+      "dbba762707f9b6",
+      "0cf276aef5bf91",
+      "ec06f9c2aa5381",
+      "ab8cd799486a34",
+      "6e6c626711eae5",
+      "4d45642146e7c3",
+      "cd096ea4005cda",
+      "5275621bff96ae",
+      "28e606b87fe24a",
+      "f7ca3e4d4f0c9a",
+      "72bce2ebd6a361",
+      "7a9f231c9466e6",
+      "8d4824ca25b049",
+      "4f9cf4610ad1dc"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "公司：SMCI Super Micro Computer, Inc.（Supermicro）全面尽调",
+      "reportDate": "2026-05-09",
+      "sourcePath": "基本面/公司调研/AI服务器_存储_EMS/SMCI_Super_Micro_Computer_Inc_全面尽调_2026-05-09.md",
+      "dataFile": "reports/company/SMCI.json"
+    }
+  },
+  {
+    "ticker": "STX",
+    "name": "Seagate Technology",
+    "category": "AI服务器_存储_EMS",
+    "relatedIndustrySlugs": [
+      "dbba762707f9b6",
+      "0cf276aef5bf91",
+      "ec06f9c2aa5381",
+      "ab8cd799486a34",
+      "6e6c626711eae5",
+      "4d45642146e7c3",
+      "cd096ea4005cda",
+      "5275621bff96ae",
+      "28e606b87fe24a",
+      "f7ca3e4d4f0c9a",
+      "72bce2ebd6a361",
+      "7a9f231c9466e6",
+      "8d4824ca25b049",
+      "4f9cf4610ad1dc"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "公司：STX Seagate Technology Holdings plc（希捷科技）",
+      "reportDate": "2026-05-10",
+      "sourcePath": "基本面/公司调研/AI服务器_存储_EMS/STX_Seagate_Technology_全面尽调_2026-05-10.md",
+      "dataFile": "reports/company/STX.json"
+    }
+  },
+  {
+    "ticker": "WDC",
+    "name": "WesternDigital",
+    "category": "AI服务器_存储_EMS",
+    "relatedIndustrySlugs": [
+      "dbba762707f9b6",
+      "0cf276aef5bf91",
+      "ec06f9c2aa5381",
+      "ab8cd799486a34",
+      "6e6c626711eae5",
+      "4d45642146e7c3",
+      "cd096ea4005cda",
+      "5275621bff96ae",
+      "28e606b87fe24a",
+      "f7ca3e4d4f0c9a",
+      "72bce2ebd6a361",
+      "7a9f231c9466e6",
+      "8d4824ca25b049",
+      "4f9cf4610ad1dc"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "公司：WDC Western Digital（WD）全面尽调",
+      "reportDate": "2026-05-10",
+      "sourcePath": "基本面/公司调研/AI服务器_存储_EMS/WDC_WesternDigital_全面尽调_2026-05-10.md",
+      "dataFile": "reports/company/WDC.json"
+    }
+  },
+  {
+    "ticker": "CLS",
+    "name": "Celestica Inc",
+    "category": "AI服务器_存储_EMS",
+    "relatedIndustrySlugs": [
+      "dbba762707f9b6",
+      "0cf276aef5bf91",
+      "ec06f9c2aa5381",
+      "ab8cd799486a34",
+      "6e6c626711eae5",
+      "4d45642146e7c3",
+      "cd096ea4005cda",
+      "5275621bff96ae",
+      "28e606b87fe24a",
+      "f7ca3e4d4f0c9a",
+      "72bce2ebd6a361",
+      "7a9f231c9466e6",
+      "8d4824ca25b049",
+      "4f9cf4610ad1dc"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "公司：CLS Celestica Inc. 全面尽调",
+      "reportDate": "2026-05-10",
+      "sourcePath": "基本面/公司调研/AI服务器_存储_EMS/公司_CLS_Celestica_Inc_全面尽调_2026-05-10.md",
+      "dataFile": "reports/company/CLS.json"
+    }
+  },
+  {
+    "ticker": "FLEX",
+    "name": "Flex Ltd",
+    "category": "AI服务器_存储_EMS",
+    "relatedIndustrySlugs": [
+      "dbba762707f9b6",
+      "0cf276aef5bf91",
+      "ec06f9c2aa5381",
+      "ab8cd799486a34",
+      "6e6c626711eae5",
+      "4d45642146e7c3",
+      "cd096ea4005cda",
+      "5275621bff96ae",
+      "28e606b87fe24a",
+      "f7ca3e4d4f0c9a",
+      "72bce2ebd6a361",
+      "7a9f231c9466e6",
+      "8d4824ca25b049",
+      "4f9cf4610ad1dc"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "公司：FLEX Flex Ltd. 全面尽调",
+      "reportDate": "2026-05-10",
+      "sourcePath": "基本面/公司调研/AI服务器_存储_EMS/公司_FLEX_Flex_Ltd_全面尽调_2026-05-10.md",
+      "dataFile": "reports/company/FLEX.json"
+    }
+  },
+  {
+    "ticker": "MU",
+    "name": "Micron Technology 美光科技",
+    "category": "AI服务器_存储_EMS",
+    "relatedIndustrySlugs": [
+      "dbba762707f9b6",
+      "0cf276aef5bf91",
+      "ec06f9c2aa5381",
+      "ab8cd799486a34",
+      "6e6c626711eae5",
+      "4d45642146e7c3",
+      "cd096ea4005cda",
+      "5275621bff96ae",
+      "28e606b87fe24a",
+      "f7ca3e4d4f0c9a",
+      "72bce2ebd6a361",
+      "7a9f231c9466e6",
+      "8d4824ca25b049",
+      "4f9cf4610ad1dc"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "公司：MU Micron Technology（美光科技）全面尽调",
+      "reportDate": "2026-05-10",
+      "sourcePath": "基本面/公司调研/AI服务器_存储_EMS/公司_MU_Micron_Technology_美光科技_全面尽调_2026-05-10.md",
+      "dataFile": "reports/company/MU.json"
+    }
+  },
+  {
+    "ticker": "PSTG",
+    "name": "Everpure PureStorage",
+    "category": "AI服务器_存储_EMS",
+    "relatedIndustrySlugs": [
+      "dbba762707f9b6",
+      "0cf276aef5bf91",
+      "ec06f9c2aa5381",
+      "ab8cd799486a34",
+      "6e6c626711eae5",
+      "4d45642146e7c3",
+      "cd096ea4005cda",
+      "5275621bff96ae",
+      "28e606b87fe24a",
+      "f7ca3e4d4f0c9a",
+      "72bce2ebd6a361",
+      "7a9f231c9466e6",
+      "8d4824ca25b049",
+      "4f9cf4610ad1dc"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "公司：PSTG / Everpure PureStorage（Pure Storage / Everpure）公司调研_2026-05-30",
+      "reportDate": "2026-05-30",
+      "sourcePath": "基本面/公司调研/AI服务器_存储_EMS/PSTG_Everpure PureStorage_公司调研_2026-05-30.md",
+      "dataFile": "reports/company/PSTG.json"
+    }
+  },
+  {
+    "ticker": "RMBS",
+    "name": "Rambus",
+    "category": "AI服务器_存储_EMS",
+    "relatedIndustrySlugs": [
+      "dbba762707f9b6",
+      "0cf276aef5bf91",
+      "ec06f9c2aa5381",
+      "ab8cd799486a34",
+      "6e6c626711eae5",
+      "4d45642146e7c3",
+      "cd096ea4005cda",
+      "5275621bff96ae",
+      "28e606b87fe24a",
+      "f7ca3e4d4f0c9a",
+      "72bce2ebd6a361",
+      "7a9f231c9466e6",
+      "8d4824ca25b049",
+      "4f9cf4610ad1dc"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "公司：RMBS Rambus Inc. 全面尽调",
+      "reportDate": "2026-05-09",
+      "sourcePath": "基本面/公司调研/AI服务器_存储_EMS/公司_RMBS_Rambus_全面尽调_2026-05-09.md",
+      "dataFile": "reports/company/RMBS.json"
+    }
+  },
+  {
+    "ticker": "SIMO",
+    "name": "Silicon Motion Technology",
+    "category": "AI服务器_存储_EMS",
+    "relatedIndustrySlugs": [
+      "dbba762707f9b6",
+      "0cf276aef5bf91",
+      "ec06f9c2aa5381",
+      "ab8cd799486a34",
+      "6e6c626711eae5",
+      "4d45642146e7c3",
+      "cd096ea4005cda",
+      "5275621bff96ae",
+      "28e606b87fe24a",
+      "f7ca3e4d4f0c9a",
+      "72bce2ebd6a361",
+      "7a9f231c9466e6",
+      "8d4824ca25b049",
+      "4f9cf4610ad1dc"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "公司：SIMO Silicon Motion Technology Corporation（慧荣科技）全面尽调",
+      "reportDate": "2026-05-10",
+      "sourcePath": "基本面/公司调研/AI服务器_存储_EMS/公司_SIMO_Silicon_Motion_Technology_全面尽调_2026-05-10.md",
+      "dataFile": "reports/company/SIMO.json"
+    }
+  },
+  {
+    "ticker": "SNDK",
+    "name": "SanDisk",
+    "category": "AI服务器_存储_EMS",
+    "relatedIndustrySlugs": [
+      "dbba762707f9b6",
+      "0cf276aef5bf91",
+      "ec06f9c2aa5381",
+      "ab8cd799486a34",
+      "6e6c626711eae5",
+      "4d45642146e7c3",
+      "cd096ea4005cda",
+      "5275621bff96ae",
+      "28e606b87fe24a",
+      "f7ca3e4d4f0c9a",
+      "72bce2ebd6a361",
+      "7a9f231c9466e6",
+      "8d4824ca25b049",
+      "4f9cf4610ad1dc"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "公司：SNDK SanDisk",
+      "reportDate": "2026-05-10",
+      "sourcePath": "基本面/公司调研/AI服务器_存储_EMS/公司_SNDK_SanDisk_2026-05-10.md",
+      "dataFile": "reports/company/SNDK.json"
+    }
+  },
+  {
+    "ticker": "ADI",
+    "name": "Analog Devices",
+    "category": "AI计算芯片_EDA_IP_custom_ASIC",
+    "relatedIndustrySlugs": [
+      "dbba762707f9b6",
+      "0cf276aef5bf91",
+      "ec06f9c2aa5381",
+      "ab8cd799486a34",
+      "6e6c626711eae5",
+      "4d45642146e7c3",
+      "cd096ea4005cda",
+      "5275621bff96ae",
+      "28e606b87fe24a",
+      "f7ca3e4d4f0c9a",
+      "72bce2ebd6a361",
+      "7a9f231c9466e6",
+      "8d4824ca25b049",
+      "4f9cf4610ad1dc"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "ADI Analog Devices 公司调研：高性能模拟、电源与数据中心供电/光互联的 AI 基建配套公司",
+      "reportDate": "2026-05-23",
+      "sourcePath": "基本面/公司调研/AI计算芯片_EDA_IP_custom_ASIC/ADI_Analog_Devices_公司调研_2026-05-23.md",
+      "dataFile": "reports/company/ADI.json"
+    }
+  },
+  {
+    "ticker": "AMD",
+    "name": "Advanced Micro Devices",
+    "category": "AI计算芯片_EDA_IP_custom_ASIC",
+    "relatedIndustrySlugs": [
+      "dbba762707f9b6",
+      "0cf276aef5bf91",
+      "ec06f9c2aa5381",
+      "ab8cd799486a34",
+      "6e6c626711eae5",
+      "4d45642146e7c3",
+      "cd096ea4005cda",
+      "5275621bff96ae",
+      "28e606b87fe24a",
+      "f7ca3e4d4f0c9a",
+      "72bce2ebd6a361",
+      "7a9f231c9466e6",
+      "8d4824ca25b049",
+      "4f9cf4610ad1dc"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "AMD / Advanced Micro Devices（AMD）全面尽调：从 MI350P 企业推理到 Helios GW 级集群的二次估值重构",
+      "reportDate": "2026-05-10",
+      "sourcePath": "基本面/公司调研/AI计算芯片_EDA_IP_custom_ASIC/AMD_Advanced_Micro_Devices_全面尽调_2026-05-10.md",
+      "dataFile": "reports/company/AMD.json"
+    }
+  },
+  {
+    "ticker": "AVGO",
+    "name": "Broadcom",
+    "category": "AI计算芯片_EDA_IP_custom_ASIC",
+    "relatedIndustrySlugs": [
+      "dbba762707f9b6",
+      "0cf276aef5bf91",
+      "ec06f9c2aa5381",
+      "ab8cd799486a34",
+      "6e6c626711eae5",
+      "4d45642146e7c3",
+      "cd096ea4005cda",
+      "5275621bff96ae",
+      "28e606b87fe24a",
+      "f7ca3e4d4f0c9a",
+      "72bce2ebd6a361",
+      "7a9f231c9466e6",
+      "8d4824ca25b049",
+      "4f9cf4610ad1dc"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "公司：AVGO Broadcom Inc.（博通）全面尽调",
+      "reportDate": "2026-05-10",
+      "sourcePath": "基本面/公司调研/AI计算芯片_EDA_IP_custom_ASIC/AVGO_Broadcom_全面尽调_2026-05-10.md",
+      "dataFile": "reports/company/AVGO.json"
+    }
+  },
+  {
+    "ticker": "CDNS",
+    "name": "Cadence Design Systems",
+    "category": "AI计算芯片_EDA_IP_custom_ASIC",
+    "relatedIndustrySlugs": [
+      "dbba762707f9b6",
+      "0cf276aef5bf91",
+      "ec06f9c2aa5381",
+      "ab8cd799486a34",
+      "6e6c626711eae5",
+      "4d45642146e7c3",
+      "cd096ea4005cda",
+      "5275621bff96ae",
+      "28e606b87fe24a",
+      "f7ca3e4d4f0c9a",
+      "72bce2ebd6a361",
+      "7a9f231c9466e6",
+      "8d4824ca25b049",
+      "4f9cf4610ad1dc"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "公司：CDNS Cadence Design Systems（Cadence / 楷登电子）全面尽调",
+      "reportDate": "2026-05-10",
+      "sourcePath": "基本面/公司调研/AI计算芯片_EDA_IP_custom_ASIC/CDNS_Cadence_Design_Systems_全面尽调_2026-05-10.md",
+      "dataFile": "reports/company/CDNS.json"
+    }
+  },
+  {
+    "ticker": "INTC",
+    "name": "Intel Corporation 英特尔",
+    "category": "AI计算芯片_EDA_IP_custom_ASIC",
+    "relatedIndustrySlugs": [
+      "dbba762707f9b6",
+      "0cf276aef5bf91",
+      "ec06f9c2aa5381",
+      "ab8cd799486a34",
+      "6e6c626711eae5",
+      "4d45642146e7c3",
+      "cd096ea4005cda",
+      "5275621bff96ae",
+      "28e606b87fe24a",
+      "f7ca3e4d4f0c9a",
+      "72bce2ebd6a361",
+      "7a9f231c9466e6",
+      "8d4824ca25b049",
+      "4f9cf4610ad1dc"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "公司：INTC Intel Corporation（英特尔）全面尽调",
+      "reportDate": "2026-05-10",
+      "sourcePath": "基本面/公司调研/AI计算芯片_EDA_IP_custom_ASIC/INTC_Intel_Corporation_英特尔_全面尽调_2026-05-10.md",
+      "dataFile": "reports/company/INTC.json"
+    }
+  },
+  {
+    "ticker": "MCHP",
+    "name": "Microchip Technology",
+    "category": "AI计算芯片_EDA_IP_custom_ASIC",
+    "relatedIndustrySlugs": [
+      "dbba762707f9b6",
+      "0cf276aef5bf91",
+      "ec06f9c2aa5381",
+      "ab8cd799486a34",
+      "6e6c626711eae5",
+      "4d45642146e7c3",
+      "cd096ea4005cda",
+      "5275621bff96ae",
+      "28e606b87fe24a",
+      "f7ca3e4d4f0c9a",
+      "72bce2ebd6a361",
+      "7a9f231c9466e6",
+      "8d4824ca25b049",
+      "4f9cf4610ad1dc"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "公司：MCHP Microchip Technology（Microchip Technology Incorporated）",
+      "reportDate": "2026-05-10",
+      "sourcePath": "基本面/公司调研/AI计算芯片_EDA_IP_custom_ASIC/MCHP_Microchip_Technology_2026-05-10.md",
+      "dataFile": "reports/company/MCHP.json"
+    }
+  },
+  {
+    "ticker": "MRVL",
+    "name": "Marvell Technology",
+    "category": "AI计算芯片_EDA_IP_custom_ASIC",
+    "relatedIndustrySlugs": [
+      "dbba762707f9b6",
+      "0cf276aef5bf91",
+      "ec06f9c2aa5381",
+      "ab8cd799486a34",
+      "6e6c626711eae5",
+      "4d45642146e7c3",
+      "cd096ea4005cda",
+      "5275621bff96ae",
+      "28e606b87fe24a",
+      "f7ca3e4d4f0c9a",
+      "72bce2ebd6a361",
+      "7a9f231c9466e6",
+      "8d4824ca25b049",
+      "4f9cf4610ad1dc"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "公司：MRVL Marvell Technology 公司调研（2026-05-30）",
+      "reportDate": "2026-05-30",
+      "sourcePath": "基本面/公司调研/AI计算芯片_EDA_IP_custom_ASIC/MRVL_Marvell_Technology_公司调研_2026-05-30.md",
+      "dataFile": "reports/company/MRVL.json"
+    }
+  },
+  {
+    "ticker": "NVDA",
+    "name": "NVIDIA",
+    "category": "AI计算芯片_EDA_IP_custom_ASIC",
+    "relatedIndustrySlugs": [
+      "dbba762707f9b6",
+      "0cf276aef5bf91",
+      "ec06f9c2aa5381",
+      "ab8cd799486a34",
+      "6e6c626711eae5",
+      "4d45642146e7c3",
+      "cd096ea4005cda",
+      "5275621bff96ae",
+      "28e606b87fe24a",
+      "f7ca3e4d4f0c9a",
+      "72bce2ebd6a361",
+      "7a9f231c9466e6",
+      "8d4824ca25b049",
+      "4f9cf4610ad1dc"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "NVDA NVIDIA 公司调研：AI 工厂核心平台、Blackwell/Rubin 订单与供应链尽调（2026-05-23）",
+      "reportDate": "2026-05-23",
+      "sourcePath": "基本面/公司调研/AI计算芯片_EDA_IP_custom_ASIC/NVDA_NVIDIA_公司调研_2026-05-23.md",
+      "dataFile": "reports/company/NVDA.json"
+    }
+  },
+  {
+    "ticker": "ON",
+    "name": "onsemi",
+    "category": "AI计算芯片_EDA_IP_custom_ASIC",
+    "relatedIndustrySlugs": [
+      "dbba762707f9b6",
+      "0cf276aef5bf91",
+      "ec06f9c2aa5381",
+      "ab8cd799486a34",
+      "6e6c626711eae5",
+      "4d45642146e7c3",
+      "cd096ea4005cda",
+      "5275621bff96ae",
+      "28e606b87fe24a",
+      "f7ca3e4d4f0c9a",
+      "72bce2ebd6a361",
+      "7a9f231c9466e6",
+      "8d4824ca25b049",
+      "4f9cf4610ad1dc"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "公司：ON onsemi / ON Semiconductor 全面尽调",
+      "reportDate": "2026-05-10",
+      "sourcePath": "基本面/公司调研/AI计算芯片_EDA_IP_custom_ASIC/ON_onsemi_全面尽调_2026-05-10.md",
+      "dataFile": "reports/company/ON.json"
+    }
+  },
+  {
+    "ticker": "QCOM",
+    "name": "Qualcomm",
+    "category": "AI计算芯片_EDA_IP_custom_ASIC",
+    "relatedIndustrySlugs": [
+      "dbba762707f9b6",
+      "0cf276aef5bf91",
+      "ec06f9c2aa5381",
+      "ab8cd799486a34",
+      "6e6c626711eae5",
+      "4d45642146e7c3",
+      "cd096ea4005cda",
+      "5275621bff96ae",
+      "28e606b87fe24a",
+      "f7ca3e4d4f0c9a",
+      "72bce2ebd6a361",
+      "7a9f231c9466e6",
+      "8d4824ca25b049",
+      "4f9cf4610ad1dc"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "公司：QCOM Qualcomm Incorporated（高通）全面尽调",
+      "reportDate": "2026-05-10",
+      "sourcePath": "基本面/公司调研/AI计算芯片_EDA_IP_custom_ASIC/QCOM_Qualcomm_全面尽调_2026-05-10_AI数据中心更新.md",
+      "dataFile": "reports/company/QCOM.json"
+    }
+  },
+  {
+    "ticker": "STM",
+    "name": "STMicroelectronics",
+    "category": "AI计算芯片_EDA_IP_custom_ASIC",
+    "relatedIndustrySlugs": [
+      "dbba762707f9b6",
+      "0cf276aef5bf91",
+      "ec06f9c2aa5381",
+      "ab8cd799486a34",
+      "6e6c626711eae5",
+      "4d45642146e7c3",
+      "cd096ea4005cda",
+      "5275621bff96ae",
+      "28e606b87fe24a",
+      "f7ca3e4d4f0c9a",
+      "72bce2ebd6a361",
+      "7a9f231c9466e6",
+      "8d4824ca25b049",
+      "4f9cf4610ad1dc"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "公司：STM STMicroelectronics N.V. 全面尽调",
+      "reportDate": "2026-05-10",
+      "sourcePath": "基本面/公司调研/AI计算芯片_EDA_IP_custom_ASIC/STM_STMicroelectronics_全面尽调_2026-05-10.md",
+      "dataFile": "reports/company/STM.json"
+    }
+  },
+  {
+    "ticker": "TXN",
+    "name": "德州仪器",
+    "category": "AI计算芯片_EDA_IP_custom_ASIC",
+    "relatedIndustrySlugs": [
+      "dbba762707f9b6",
+      "0cf276aef5bf91",
+      "ec06f9c2aa5381",
+      "ab8cd799486a34",
+      "6e6c626711eae5",
+      "4d45642146e7c3",
+      "cd096ea4005cda",
+      "5275621bff96ae",
+      "28e606b87fe24a",
+      "f7ca3e4d4f0c9a",
+      "72bce2ebd6a361",
+      "7a9f231c9466e6",
+      "8d4824ca25b049",
+      "4f9cf4610ad1dc"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "公司：TXN Texas Instruments（德州仪器）",
+      "reportDate": "2026-05-10",
+      "sourcePath": "基本面/公司调研/AI计算芯片_EDA_IP_custom_ASIC/TXN_德州仪器_全面尽调_2026-05-10.md",
+      "dataFile": "reports/company/TXN.json"
+    }
+  },
+  {
+    "ticker": "ALAB",
+    "name": "AsteraLabs",
+    "category": "AI计算芯片_EDA_IP_custom_ASIC",
+    "relatedIndustrySlugs": [
+      "dbba762707f9b6",
+      "0cf276aef5bf91",
+      "ec06f9c2aa5381",
+      "ab8cd799486a34",
+      "6e6c626711eae5",
+      "4d45642146e7c3",
+      "cd096ea4005cda",
+      "5275621bff96ae",
+      "28e606b87fe24a",
+      "f7ca3e4d4f0c9a",
+      "72bce2ebd6a361",
+      "7a9f231c9466e6",
+      "8d4824ca25b049",
+      "4f9cf4610ad1dc"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "公司：ALAB Astera Labs",
+      "reportDate": "2026-05-09",
+      "sourcePath": "基本面/公司调研/AI计算芯片_EDA_IP_custom_ASIC/公司_ALAB_AsteraLabs_全面尽调_2026-05-09.md",
+      "dataFile": "reports/company/ALAB.json"
+    }
+  },
+  {
+    "ticker": "ARM",
+    "name": "Arm Holdings",
+    "category": "AI计算芯片_EDA_IP_custom_ASIC",
+    "relatedIndustrySlugs": [
+      "dbba762707f9b6",
+      "0cf276aef5bf91",
+      "ec06f9c2aa5381",
+      "ab8cd799486a34",
+      "6e6c626711eae5",
+      "4d45642146e7c3",
+      "cd096ea4005cda",
+      "5275621bff96ae",
+      "28e606b87fe24a",
+      "f7ca3e4d4f0c9a",
+      "72bce2ebd6a361",
+      "7a9f231c9466e6",
+      "8d4824ca25b049",
+      "4f9cf4610ad1dc"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "公司：ARM Arm Holdings plc",
+      "reportDate": "2026-05-10",
+      "sourcePath": "基本面/公司调研/AI计算芯片_EDA_IP_custom_ASIC/公司_ARM_Arm_Holdings_全面尽调_2026-05-10.md",
+      "dataFile": "reports/company/ARM.json"
+    }
+  },
+  {
+    "ticker": "SNPS",
+    "name": "Synopsys",
+    "category": "AI计算芯片_EDA_IP_custom_ASIC",
+    "relatedIndustrySlugs": [
+      "dbba762707f9b6",
+      "0cf276aef5bf91",
+      "ec06f9c2aa5381",
+      "ab8cd799486a34",
+      "6e6c626711eae5",
+      "4d45642146e7c3",
+      "cd096ea4005cda",
+      "5275621bff96ae",
+      "28e606b87fe24a",
+      "f7ca3e4d4f0c9a",
+      "72bce2ebd6a361",
+      "7a9f231c9466e6",
+      "8d4824ca25b049",
+      "4f9cf4610ad1dc"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "公司：SNPS Synopsys",
+      "reportDate": "2026-05-30",
+      "sourcePath": "基本面/公司调研/AI计算芯片_EDA_IP_custom_ASIC/SNPS_Synopsys_公司调研_2026-05-30.md",
+      "dataFile": "reports/company/SNPS.json"
+    }
+  },
+  {
+    "ticker": "MXL",
+    "name": "MaxLinear",
+    "category": "AI计算芯片_EDA_IP_custom_ASIC",
+    "relatedIndustrySlugs": [
+      "dbba762707f9b6",
+      "0cf276aef5bf91",
+      "ec06f9c2aa5381",
+      "ab8cd799486a34",
+      "6e6c626711eae5",
+      "4d45642146e7c3",
+      "cd096ea4005cda",
+      "5275621bff96ae",
+      "28e606b87fe24a",
+      "f7ca3e4d4f0c9a",
+      "72bce2ebd6a361",
+      "7a9f231c9466e6",
+      "8d4824ca25b049",
+      "4f9cf4610ad1dc"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "公司：MXL MaxLinear（MaxLinear, Inc.）",
+      "reportDate": "2026-05-09",
+      "sourcePath": "基本面/公司调研/AI计算芯片_EDA_IP_custom_ASIC/公司-MXL-MaxLinear-全面尽调-2026-05-09.md",
+      "dataFile": "reports/company/MXL.json"
+    }
+  },
+  {
+    "ticker": "ANET",
+    "name": "Arista Networks",
+    "category": "AI网络_光互联_连接器",
+    "relatedIndustrySlugs": [
+      "a94bb11fd81477",
+      "f37dc7b1bb6ba6",
+      "51cf0d318d035a",
+      "1a69c8319d16b8",
+      "aef5bc702d0c25",
+      "5667502cbbeaa5",
+      "11dbfc364d60ea",
+      "e8585284943891",
+      "fa4acdbb11188d",
+      "e0910b991394a9",
+      "20e0bc22a44250",
+      "f45b0007ce06f2",
+      "e33fcc7fb8b87f",
+      "0e1f6fc1afa8ff",
+      "ae20fc95e030b8",
+      "0430f18b95662e"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "公司：ANET Arista Networks（Arista Networks, Inc.）全面尽调",
+      "reportDate": "2026-05-10",
+      "sourcePath": "基本面/公司调研/AI网络_光互联_连接器/ANET_Arista_Networks_全面尽调_2026-05-10.md",
+      "dataFile": "reports/company/ANET.json"
+    }
+  },
+  {
+    "ticker": "APH",
+    "name": "Amphenol 安费诺",
+    "category": "AI网络_光互联_连接器",
+    "relatedIndustrySlugs": [
+      "a94bb11fd81477",
+      "f37dc7b1bb6ba6",
+      "51cf0d318d035a",
+      "1a69c8319d16b8",
+      "aef5bc702d0c25",
+      "5667502cbbeaa5",
+      "11dbfc364d60ea",
+      "e8585284943891",
+      "fa4acdbb11188d",
+      "e0910b991394a9",
+      "20e0bc22a44250",
+      "f45b0007ce06f2",
+      "e33fcc7fb8b87f",
+      "0e1f6fc1afa8ff",
+      "ae20fc95e030b8",
+      "0430f18b95662e"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "APH - Amphenol Corporation（安费诺）全面尽调",
+      "reportDate": "2026-05-10",
+      "sourcePath": "基本面/公司调研/AI网络_光互联_连接器/APH_Amphenol_安费诺_全面尽调_2026-05-10.md",
+      "dataFile": "reports/company/APH.json"
+    }
+  },
+  {
+    "ticker": "BDC",
+    "name": "Belden",
+    "category": "AI网络_光互联_连接器",
+    "relatedIndustrySlugs": [
+      "a94bb11fd81477",
+      "f37dc7b1bb6ba6",
+      "51cf0d318d035a",
+      "1a69c8319d16b8",
+      "aef5bc702d0c25",
+      "5667502cbbeaa5",
+      "11dbfc364d60ea",
+      "e8585284943891",
+      "fa4acdbb11188d",
+      "e0910b991394a9",
+      "20e0bc22a44250",
+      "f45b0007ce06f2",
+      "e33fcc7fb8b87f",
+      "0e1f6fc1afa8ff",
+      "ae20fc95e030b8",
+      "0430f18b95662e"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "公司：BDC Belden Inc.（Belden）全面尽调",
+      "reportDate": "2026-05-10",
+      "sourcePath": "基本面/公司调研/AI网络_光互联_连接器/BDC_Belden_公司调研_2026-05-10.md",
+      "dataFile": "reports/company/BDC.json"
+    }
+  },
+  {
+    "ticker": "COHR",
+    "name": "Coherent",
+    "category": "AI网络_光互联_连接器",
+    "relatedIndustrySlugs": [
+      "a94bb11fd81477",
+      "f37dc7b1bb6ba6",
+      "51cf0d318d035a",
+      "1a69c8319d16b8",
+      "aef5bc702d0c25",
+      "5667502cbbeaa5",
+      "11dbfc364d60ea",
+      "e8585284943891",
+      "fa4acdbb11188d",
+      "e0910b991394a9",
+      "20e0bc22a44250",
+      "f45b0007ce06f2",
+      "e33fcc7fb8b87f",
+      "0e1f6fc1afa8ff",
+      "ae20fc95e030b8",
+      "0430f18b95662e"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "公司：COHR Coherent Corp.（相干公司）全面尽调",
+      "reportDate": "2026-05-09",
+      "sourcePath": "基本面/公司调研/AI网络_光互联_连接器/COHR_Coherent_全面尽调_2026-05-09.md",
+      "dataFile": "reports/company/COHR.json"
+    }
+  },
+  {
+    "ticker": "CRDO",
+    "name": "Credo Technology Group",
+    "category": "AI网络_光互联_连接器",
+    "relatedIndustrySlugs": [
+      "a94bb11fd81477",
+      "f37dc7b1bb6ba6",
+      "51cf0d318d035a",
+      "1a69c8319d16b8",
+      "aef5bc702d0c25",
+      "5667502cbbeaa5",
+      "11dbfc364d60ea",
+      "e8585284943891",
+      "fa4acdbb11188d",
+      "e0910b991394a9",
+      "20e0bc22a44250",
+      "f45b0007ce06f2",
+      "e33fcc7fb8b87f",
+      "0e1f6fc1afa8ff",
+      "ae20fc95e030b8",
+      "0430f18b95662e"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "公司：CRDO Credo Technology Group Holding Ltd",
+      "reportDate": "2026-05-09",
+      "sourcePath": "基本面/公司调研/AI网络_光互联_连接器/CRDO_Credo_Technology_Group_全面尽调_2026-05-09.md",
+      "dataFile": "reports/company/CRDO.json"
+    }
+  },
+  {
+    "ticker": "CSCO",
+    "name": "Cisco Systems",
+    "category": "AI网络_光互联_连接器",
+    "relatedIndustrySlugs": [
+      "a94bb11fd81477",
+      "f37dc7b1bb6ba6",
+      "51cf0d318d035a",
+      "1a69c8319d16b8",
+      "aef5bc702d0c25",
+      "5667502cbbeaa5",
+      "11dbfc364d60ea",
+      "e8585284943891",
+      "fa4acdbb11188d",
+      "e0910b991394a9",
+      "20e0bc22a44250",
+      "f45b0007ce06f2",
+      "e33fcc7fb8b87f",
+      "0e1f6fc1afa8ff",
+      "ae20fc95e030b8",
+      "0430f18b95662e"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "公司：CSCO Cisco Systems 公司调研",
+      "reportDate": "2026-05-23",
+      "sourcePath": "基本面/公司调研/AI网络_光互联_连接器/CSCO_Cisco_Systems_公司调研_2026-05-23.md",
+      "dataFile": "reports/company/CSCO.json"
+    }
+  },
+  {
+    "ticker": "GLW",
+    "name": "Corning",
+    "category": "AI网络_光互联_连接器",
+    "relatedIndustrySlugs": [
+      "a94bb11fd81477",
+      "f37dc7b1bb6ba6",
+      "51cf0d318d035a",
+      "1a69c8319d16b8",
+      "aef5bc702d0c25",
+      "5667502cbbeaa5",
+      "11dbfc364d60ea",
+      "e8585284943891",
+      "fa4acdbb11188d",
+      "e0910b991394a9",
+      "20e0bc22a44250",
+      "f45b0007ce06f2",
+      "e33fcc7fb8b87f",
+      "0e1f6fc1afa8ff",
+      "ae20fc95e030b8",
+      "0430f18b95662e"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "公司：GLW Corning Incorporated（康宁）全面尽调",
+      "reportDate": "2026-05-10",
+      "sourcePath": "基本面/公司调研/AI网络_光互联_连接器/GLW_Corning_公司尽调_2026-05-10.md",
+      "dataFile": "reports/company/GLW.json"
+    }
+  },
+  {
+    "ticker": "LITE",
+    "name": "Lumentum",
+    "category": "AI网络_光互联_连接器",
+    "relatedIndustrySlugs": [
+      "a94bb11fd81477",
+      "f37dc7b1bb6ba6",
+      "51cf0d318d035a",
+      "1a69c8319d16b8",
+      "aef5bc702d0c25",
+      "5667502cbbeaa5",
+      "11dbfc364d60ea",
+      "e8585284943891",
+      "fa4acdbb11188d",
+      "e0910b991394a9",
+      "20e0bc22a44250",
+      "f45b0007ce06f2",
+      "e33fcc7fb8b87f",
+      "0e1f6fc1afa8ff",
+      "ae20fc95e030b8",
+      "0430f18b95662e"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "LITE / Lumentum Holdings 公司调研（2026-05-15 重做版）",
+      "reportDate": "2026-05-09",
+      "sourcePath": "基本面/公司调研/AI网络_光互联_连接器/LITE_Lumentum_公司调研_2026-05-09.md",
+      "dataFile": "reports/company/LITE.json"
+    }
+  },
+  {
+    "ticker": "LWLG",
+    "name": "Lightwave Logic",
+    "category": "AI网络_光互联_连接器",
+    "relatedIndustrySlugs": [
+      "a94bb11fd81477",
+      "f37dc7b1bb6ba6",
+      "51cf0d318d035a",
+      "1a69c8319d16b8",
+      "aef5bc702d0c25",
+      "5667502cbbeaa5",
+      "11dbfc364d60ea",
+      "e8585284943891",
+      "fa4acdbb11188d",
+      "e0910b991394a9",
+      "20e0bc22a44250",
+      "f45b0007ce06f2",
+      "e33fcc7fb8b87f",
+      "0e1f6fc1afa8ff",
+      "ae20fc95e030b8",
+      "0430f18b95662e"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "公司：LWLG Lightwave Logic 公司调研（2026-05-23）",
+      "reportDate": "2026-05-23",
+      "sourcePath": "基本面/公司调研/AI网络_光互联_连接器/LWLG_Lightwave_Logic_公司调研_2026-05-23.md",
+      "dataFile": "reports/company/LWLG.json"
+    }
+  },
+  {
+    "ticker": "NOK",
+    "name": "诺基亚",
+    "category": "AI网络_光互联_连接器",
+    "relatedIndustrySlugs": [
+      "a94bb11fd81477",
+      "f37dc7b1bb6ba6",
+      "51cf0d318d035a",
+      "1a69c8319d16b8",
+      "aef5bc702d0c25",
+      "5667502cbbeaa5",
+      "11dbfc364d60ea",
+      "e8585284943891",
+      "fa4acdbb11188d",
+      "e0910b991394a9",
+      "20e0bc22a44250",
+      "f45b0007ce06f2",
+      "e33fcc7fb8b87f",
+      "0e1f6fc1afa8ff",
+      "ae20fc95e030b8",
+      "0430f18b95662e"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "公司：NOK Nokia Corporation（诺基亚）",
+      "reportDate": "2026-05-10",
+      "sourcePath": "基本面/公司调研/AI网络_光互联_连接器/NOK_诺基亚_全面尽调_2026-05-10.md",
+      "dataFile": "reports/company/NOK.json"
+    }
+  },
+  {
+    "ticker": "TEL",
+    "name": "TE Connectivity",
+    "category": "AI网络_光互联_连接器",
+    "relatedIndustrySlugs": [
+      "a94bb11fd81477",
+      "f37dc7b1bb6ba6",
+      "51cf0d318d035a",
+      "1a69c8319d16b8",
+      "aef5bc702d0c25",
+      "5667502cbbeaa5",
+      "11dbfc364d60ea",
+      "e8585284943891",
+      "fa4acdbb11188d",
+      "e0910b991394a9",
+      "20e0bc22a44250",
+      "f45b0007ce06f2",
+      "e33fcc7fb8b87f",
+      "0e1f6fc1afa8ff",
+      "ae20fc95e030b8",
+      "0430f18b95662e"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "公司：TEL TE Connectivity plc 全面尽调",
+      "reportDate": "2026-05-10",
+      "sourcePath": "基本面/公司调研/AI网络_光互联_连接器/TEL_TE Connectivity_全面尽调_2026-05-10.md",
+      "dataFile": "reports/company/TEL.json"
+    }
+  },
+  {
+    "ticker": "VIAV",
+    "name": "VIAVI Solutions",
+    "category": "AI网络_光互联_连接器",
+    "relatedIndustrySlugs": [
+      "a94bb11fd81477",
+      "f37dc7b1bb6ba6",
+      "51cf0d318d035a",
+      "1a69c8319d16b8",
+      "aef5bc702d0c25",
+      "5667502cbbeaa5",
+      "11dbfc364d60ea",
+      "e8585284943891",
+      "fa4acdbb11188d",
+      "e0910b991394a9",
+      "20e0bc22a44250",
+      "f45b0007ce06f2",
+      "e33fcc7fb8b87f",
+      "0e1f6fc1afa8ff",
+      "ae20fc95e030b8",
+      "0430f18b95662e"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "公司：VIAV VIAVI Solutions Inc.",
+      "reportDate": "2026-05-10",
+      "sourcePath": "基本面/公司调研/AI网络_光互联_连接器/VIAV_VIAVI_Solutions_全面尽调_2026-05-10.md",
+      "dataFile": "reports/company/VIAV.json"
+    }
+  },
+  {
+    "ticker": "VISN",
+    "name": "Vistance Networks",
+    "category": "AI网络_光互联_连接器",
+    "relatedIndustrySlugs": [
+      "a94bb11fd81477",
+      "f37dc7b1bb6ba6",
+      "51cf0d318d035a",
+      "1a69c8319d16b8",
+      "aef5bc702d0c25",
+      "5667502cbbeaa5",
+      "11dbfc364d60ea",
+      "e8585284943891",
+      "fa4acdbb11188d",
+      "e0910b991394a9",
+      "20e0bc22a44250",
+      "f45b0007ce06f2",
+      "e33fcc7fb8b87f",
+      "0e1f6fc1afa8ff",
+      "ae20fc95e030b8",
+      "0430f18b95662e"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "公司：VISN Vistance Networks, Inc.",
+      "reportDate": "2026-05-10",
+      "sourcePath": "基本面/公司调研/AI网络_光互联_连接器/VISN_Vistance_Networks_全面尽调_2026-05-10.md",
+      "dataFile": "reports/company/VISN.json"
+    }
+  },
+  {
+    "ticker": "AAOI",
+    "name": "Applied Optoelectronics",
+    "category": "AI网络_光互联_连接器",
+    "relatedIndustrySlugs": [
+      "a94bb11fd81477",
+      "f37dc7b1bb6ba6",
+      "51cf0d318d035a",
+      "1a69c8319d16b8",
+      "aef5bc702d0c25",
+      "5667502cbbeaa5",
+      "11dbfc364d60ea",
+      "e8585284943891",
+      "fa4acdbb11188d",
+      "e0910b991394a9",
+      "20e0bc22a44250",
+      "f45b0007ce06f2",
+      "e33fcc7fb8b87f",
+      "0e1f6fc1afa8ff",
+      "ae20fc95e030b8",
+      "0430f18b95662e"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "Applied Optoelectronics, Inc.（AAOI）全面尽调",
+      "reportDate": "2026-05-09",
+      "sourcePath": "基本面/公司调研/AI网络_光互联_连接器/公司_AAOI_Applied_Optoelectronics_全面尽调_2026-05-09.md",
+      "dataFile": "reports/company/AAOI.json"
+    }
+  },
+  {
+    "ticker": "BELFB",
+    "name": "Bel Fuse Inc",
+    "category": "AI网络_光互联_连接器",
+    "relatedIndustrySlugs": [
+      "a94bb11fd81477",
+      "f37dc7b1bb6ba6",
+      "51cf0d318d035a",
+      "1a69c8319d16b8",
+      "aef5bc702d0c25",
+      "5667502cbbeaa5",
+      "11dbfc364d60ea",
+      "e8585284943891",
+      "fa4acdbb11188d",
+      "e0910b991394a9",
+      "20e0bc22a44250",
+      "f45b0007ce06f2",
+      "e33fcc7fb8b87f",
+      "0e1f6fc1afa8ff",
+      "ae20fc95e030b8",
+      "0430f18b95662e"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "公司：BELFB Bel Fuse Inc. 全面尽调",
+      "reportDate": "2026-05-10",
+      "sourcePath": "基本面/公司调研/AI网络_光互联_连接器/公司_BELFB_Bel_Fuse_Inc_全面尽调_2026-05-10.md",
+      "dataFile": "reports/company/BELFB.json"
+    }
+  },
+  {
+    "ticker": "CIEN",
+    "name": "Ciena Corporation",
+    "category": "AI网络_光互联_连接器",
+    "relatedIndustrySlugs": [
+      "a94bb11fd81477",
+      "f37dc7b1bb6ba6",
+      "51cf0d318d035a",
+      "1a69c8319d16b8",
+      "aef5bc702d0c25",
+      "5667502cbbeaa5",
+      "11dbfc364d60ea",
+      "e8585284943891",
+      "fa4acdbb11188d",
+      "e0910b991394a9",
+      "20e0bc22a44250",
+      "f45b0007ce06f2",
+      "e33fcc7fb8b87f",
+      "0e1f6fc1afa8ff",
+      "ae20fc95e030b8",
+      "0430f18b95662e"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "公司：CIEN Ciena Corporation",
+      "reportDate": "2026-05-10",
+      "sourcePath": "基本面/公司调研/AI网络_光互联_连接器/公司_CIEN_Ciena_Corporation_全面尽调_2026-05-10.md",
+      "dataFile": "reports/company/CIEN.json"
+    }
+  },
+  {
+    "ticker": "MTSI",
+    "name": "MACOM Technology Solutions",
+    "category": "AI网络_光互联_连接器",
+    "relatedIndustrySlugs": [
+      "a94bb11fd81477",
+      "f37dc7b1bb6ba6",
+      "51cf0d318d035a",
+      "1a69c8319d16b8",
+      "aef5bc702d0c25",
+      "5667502cbbeaa5",
+      "11dbfc364d60ea",
+      "e8585284943891",
+      "fa4acdbb11188d",
+      "e0910b991394a9",
+      "20e0bc22a44250",
+      "f45b0007ce06f2",
+      "e33fcc7fb8b87f",
+      "0e1f6fc1afa8ff",
+      "ae20fc95e030b8",
+      "0430f18b95662e"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "公司：MTSI MACOM Technology Solutions Holdings, Inc. 全面尽调",
+      "reportDate": "2026-05-09",
+      "sourcePath": "基本面/公司调研/AI网络_光互联_连接器/公司_MTSI_MACOM_Technology_Solutions_全面尽调_2026-05-09.md",
+      "dataFile": "reports/company/MTSI.json"
+    }
+  },
+  {
+    "ticker": "POET",
+    "name": "POET Technologies",
+    "category": "AI网络_光互联_连接器",
+    "relatedIndustrySlugs": [
+      "a94bb11fd81477",
+      "f37dc7b1bb6ba6",
+      "51cf0d318d035a",
+      "1a69c8319d16b8",
+      "aef5bc702d0c25",
+      "5667502cbbeaa5",
+      "11dbfc364d60ea",
+      "e8585284943891",
+      "fa4acdbb11188d",
+      "e0910b991394a9",
+      "20e0bc22a44250",
+      "f45b0007ce06f2",
+      "e33fcc7fb8b87f",
+      "0e1f6fc1afa8ff",
+      "ae20fc95e030b8",
+      "0430f18b95662e"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "POET Technologies（POET）公司调研_2026-05-23",
+      "reportDate": "2026-05-23",
+      "sourcePath": "基本面/公司调研/AI网络_光互联_连接器/POET_POET_Technologies_公司调研_2026-05-23.md",
+      "dataFile": "reports/company/POET.json"
+    }
+  },
+  {
+    "ticker": "SITM",
+    "name": "SiTime Corporation",
+    "category": "AI网络_光互联_连接器",
+    "relatedIndustrySlugs": [
+      "a94bb11fd81477",
+      "f37dc7b1bb6ba6",
+      "51cf0d318d035a",
+      "1a69c8319d16b8",
+      "aef5bc702d0c25",
+      "5667502cbbeaa5",
+      "11dbfc364d60ea",
+      "e8585284943891",
+      "fa4acdbb11188d",
+      "e0910b991394a9",
+      "20e0bc22a44250",
+      "f45b0007ce06f2",
+      "e33fcc7fb8b87f",
+      "0e1f6fc1afa8ff",
+      "ae20fc95e030b8",
+      "0430f18b95662e"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "公司：SITM SiTime Corporation",
+      "reportDate": "2026-05-10",
+      "sourcePath": "基本面/公司调研/AI网络_光互联_连接器/公司_SITM_SiTime_Corporation_全面尽调_2026-05-10.md",
+      "dataFile": "reports/company/SITM.json"
+    }
+  },
+  {
+    "ticker": "SMTC",
+    "name": "Semtech Corporation",
+    "category": "AI网络_光互联_连接器",
+    "relatedIndustrySlugs": [
+      "a94bb11fd81477",
+      "f37dc7b1bb6ba6",
+      "51cf0d318d035a",
+      "1a69c8319d16b8",
+      "aef5bc702d0c25",
+      "5667502cbbeaa5",
+      "11dbfc364d60ea",
+      "e8585284943891",
+      "fa4acdbb11188d",
+      "e0910b991394a9",
+      "20e0bc22a44250",
+      "f45b0007ce06f2",
+      "e33fcc7fb8b87f",
+      "0e1f6fc1afa8ff",
+      "ae20fc95e030b8",
+      "0430f18b95662e"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "公司：SMTC Semtech Corporation 公司调研（2026-05-30）",
+      "reportDate": "2026-05-30",
+      "sourcePath": "基本面/公司调研/AI网络_光互联_连接器/SMTC_Semtech_Corporation_公司调研_2026-05-30.md",
+      "dataFile": "reports/company/SMTC.json"
+    }
+  },
+  {
+    "ticker": "AJNMY",
+    "name": "味之素 Ajinomoto",
+    "category": "半导体材料_化学品_基板",
+    "relatedIndustrySlugs": [
+      "d5c3ffe6b25a19",
+      "a6ec54681ede7e",
+      "c894f9de9c6fd6",
+      "8149177555d101",
+      "f16ee5d922b462",
+      "c15e5e75a60f54",
+      "146604dbe4621a",
+      "e3372effd5175c",
+      "c3cfda637c359f",
+      "e682fd0a82ecfd",
+      "6a5dba2e90bd4a",
+      "9c76efcad27d6a",
+      "8f4c51911c6ca5"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "公司：AJNMY / 2802.T 味之素（Ajinomoto Co., Inc.）",
+      "reportDate": "2026-05-10",
+      "sourcePath": "基本面/公司调研/半导体材料_化学品_基板/AJNMY_味之素_Ajinomoto_公司尽调_2026-05-10.md",
+      "dataFile": "reports/company/AJNMY.json"
+    }
+  },
+  {
+    "ticker": "APD",
+    "name": "Air Products and Chemicals",
+    "category": "半导体材料_化学品_基板",
+    "relatedIndustrySlugs": [
+      "d5c3ffe6b25a19",
+      "a6ec54681ede7e",
+      "c894f9de9c6fd6",
+      "8149177555d101",
+      "f16ee5d922b462",
+      "c15e5e75a60f54",
+      "146604dbe4621a",
+      "e3372effd5175c",
+      "c3cfda637c359f",
+      "e682fd0a82ecfd",
+      "6a5dba2e90bd4a",
+      "9c76efcad27d6a",
+      "8f4c51911c6ca5"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "公司：APD Air Products and Chemicals（空气产品公司）",
+      "reportDate": "2026-05-10",
+      "sourcePath": "基本面/公司调研/半导体材料_化学品_基板/APD_Air_Products_and_Chemicals_全面尽调_2026-05-10.md",
+      "dataFile": "reports/company/APD.json"
+    }
+  },
+  {
+    "ticker": "ASGLY",
+    "name": "AGC Inc",
+    "category": "半导体材料_化学品_基板",
+    "relatedIndustrySlugs": [
+      "d5c3ffe6b25a19",
+      "a6ec54681ede7e",
+      "c894f9de9c6fd6",
+      "8149177555d101",
+      "f16ee5d922b462",
+      "c15e5e75a60f54",
+      "146604dbe4621a",
+      "e3372effd5175c",
+      "c3cfda637c359f",
+      "e682fd0a82ecfd",
+      "6a5dba2e90bd4a",
+      "9c76efcad27d6a",
+      "8f4c51911c6ca5"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "公司：ASGLY - AGC Inc 公司调研（2026-05-21）",
+      "reportDate": "2026-05-21",
+      "sourcePath": "基本面/公司调研/半导体材料_化学品_基板/ASGLY_AGC_Inc_公司调研_2026-05-21.md",
+      "dataFile": "reports/company/ASGLY.json"
+    }
+  },
+  {
+    "ticker": "AXTI",
+    "name": "AXT Inc",
+    "category": "半导体材料_化学品_基板",
+    "relatedIndustrySlugs": [
+      "d5c3ffe6b25a19",
+      "a6ec54681ede7e",
+      "c894f9de9c6fd6",
+      "8149177555d101",
+      "f16ee5d922b462",
+      "c15e5e75a60f54",
+      "146604dbe4621a",
+      "e3372effd5175c",
+      "c3cfda637c359f",
+      "e682fd0a82ecfd",
+      "6a5dba2e90bd4a",
+      "9c76efcad27d6a",
+      "8f4c51911c6ca5"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "公司：AXTI AXT, Inc.",
+      "reportDate": "2026-05-10",
+      "sourcePath": "基本面/公司调研/半导体材料_化学品_基板/AXTI_AXT_Inc_全面尽调_2026-05-10.md",
+      "dataFile": "reports/company/AXTI.json"
+    }
+  },
+  {
+    "ticker": "HOCPY",
+    "name": "HOYA Corporation",
+    "category": "半导体材料_化学品_基板",
+    "relatedIndustrySlugs": [
+      "d5c3ffe6b25a19",
+      "a6ec54681ede7e",
+      "c894f9de9c6fd6",
+      "8149177555d101",
+      "f16ee5d922b462",
+      "c15e5e75a60f54",
+      "146604dbe4621a",
+      "e3372effd5175c",
+      "c3cfda637c359f",
+      "e682fd0a82ecfd",
+      "6a5dba2e90bd4a",
+      "9c76efcad27d6a",
+      "8f4c51911c6ca5"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "公司：HOCPY HOYA Corporation（HOYA株式会社）",
+      "reportDate": "2026-05-10",
+      "sourcePath": "基本面/公司调研/半导体材料_化学品_基板/HOCPY_HOYA_Corporation_公司调研_2026-05-10.md",
+      "dataFile": "reports/company/HOCPY.json"
+    }
+  },
+  {
+    "ticker": "LIN",
+    "name": "Linde plc",
+    "category": "半导体材料_化学品_基板",
+    "relatedIndustrySlugs": [
+      "d5c3ffe6b25a19",
+      "a6ec54681ede7e",
+      "c894f9de9c6fd6",
+      "8149177555d101",
+      "f16ee5d922b462",
+      "c15e5e75a60f54",
+      "146604dbe4621a",
+      "e3372effd5175c",
+      "c3cfda637c359f",
+      "e682fd0a82ecfd",
+      "6a5dba2e90bd4a",
+      "9c76efcad27d6a",
+      "8f4c51911c6ca5"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "公司：LIN Linde plc",
+      "reportDate": "2026-05-10",
+      "sourcePath": "基本面/公司调研/半导体材料_化学品_基板/LIN_Linde_plc_全面尽调_2026-05-10.md",
+      "dataFile": "reports/company/LIN.json"
+    }
+  },
+  {
+    "ticker": "MMM",
+    "name": "3M",
+    "category": "半导体材料_化学品_基板",
+    "relatedIndustrySlugs": [
+      "d5c3ffe6b25a19",
+      "a6ec54681ede7e",
+      "c894f9de9c6fd6",
+      "8149177555d101",
+      "f16ee5d922b462",
+      "c15e5e75a60f54",
+      "146604dbe4621a",
+      "e3372effd5175c",
+      "c3cfda637c359f",
+      "e682fd0a82ecfd",
+      "6a5dba2e90bd4a",
+      "9c76efcad27d6a",
+      "8f4c51911c6ca5"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "公司：MMM 3M Company（3M）",
+      "reportDate": "2026-05-10",
+      "sourcePath": "基本面/公司调研/半导体材料_化学品_基板/MMM_3M_全面尽调_2026-05-10.md",
+      "dataFile": "reports/company/MMM.json"
+    }
+  },
+  {
+    "ticker": "NDSN",
+    "name": "Nordson",
+    "category": "半导体材料_化学品_基板",
+    "relatedIndustrySlugs": [
+      "d5c3ffe6b25a19",
+      "a6ec54681ede7e",
+      "c894f9de9c6fd6",
+      "8149177555d101",
+      "f16ee5d922b462",
+      "c15e5e75a60f54",
+      "146604dbe4621a",
+      "e3372effd5175c",
+      "c3cfda637c359f",
+      "e682fd0a82ecfd",
+      "6a5dba2e90bd4a",
+      "9c76efcad27d6a",
+      "8f4c51911c6ca5"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "公司：NDSN Nordson Corporation（Nordson）公司调研（2026-05-23）",
+      "reportDate": "2026-05-23",
+      "sourcePath": "基本面/公司调研/半导体材料_化学品_基板/NDSN_Nordson_公司调研_2026-05-23.md",
+      "dataFile": "reports/company/NDSN.json"
+    }
+  },
+  {
+    "ticker": "Q",
+    "name": "Qnity Electronics",
+    "category": "半导体材料_化学品_基板",
+    "relatedIndustrySlugs": [
+      "d5c3ffe6b25a19",
+      "a6ec54681ede7e",
+      "c894f9de9c6fd6",
+      "8149177555d101",
+      "f16ee5d922b462",
+      "c15e5e75a60f54",
+      "146604dbe4621a",
+      "e3372effd5175c",
+      "c3cfda637c359f",
+      "e682fd0a82ecfd",
+      "6a5dba2e90bd4a",
+      "9c76efcad27d6a",
+      "8f4c51911c6ca5"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "Qnity Electronics（Q）公司调研：AI先进封装、半导体材料与高密度互连材料平台",
+      "reportDate": "2026-05-21",
+      "sourcePath": "基本面/公司调研/半导体材料_化学品_基板/Q_Qnity_Electronics_公司调研_2026-05-21.md",
+      "dataFile": "reports/company/Q.json"
+    }
+  },
+  {
+    "ticker": "SHECY",
+    "name": "Shin-Etsu Chemical 信越化学",
+    "category": "半导体材料_化学品_基板",
+    "relatedIndustrySlugs": [
+      "d5c3ffe6b25a19",
+      "a6ec54681ede7e",
+      "c894f9de9c6fd6",
+      "8149177555d101",
+      "f16ee5d922b462",
+      "c15e5e75a60f54",
+      "146604dbe4621a",
+      "e3372effd5175c",
+      "c3cfda637c359f",
+      "e682fd0a82ecfd",
+      "6a5dba2e90bd4a",
+      "9c76efcad27d6a",
+      "8f4c51911c6ca5"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "公司：SHECY Shin-Etsu Chemical（信越化学）",
+      "reportDate": "2026-05-10",
+      "sourcePath": "基本面/公司调研/半导体材料_化学品_基板/SHECY_Shin-Etsu_Chemical_信越化学_全面尽调_2026-05-10.md",
+      "dataFile": "reports/company/SHECY.json"
+    }
+  },
+  {
+    "ticker": "SOMMY",
+    "name": "住友化学 Sumitomo Chemical",
+    "category": "半导体材料_化学品_基板",
+    "relatedIndustrySlugs": [
+      "d5c3ffe6b25a19",
+      "a6ec54681ede7e",
+      "c894f9de9c6fd6",
+      "8149177555d101",
+      "f16ee5d922b462",
+      "c15e5e75a60f54",
+      "146604dbe4621a",
+      "e3372effd5175c",
+      "c3cfda637c359f",
+      "e682fd0a82ecfd",
+      "6a5dba2e90bd4a",
+      "9c76efcad27d6a",
+      "8f4c51911c6ca5"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "SOMMY / 4005.T 住友化学（Sumitomo Chemical）公司调研_2026-05-22",
+      "reportDate": "2026-05-22",
+      "sourcePath": "基本面/公司调研/半导体材料_化学品_基板/SOMMY_住友化学_公司调研_2026-05-22.md",
+      "dataFile": "reports/company/SOMMY.json"
+    }
+  },
+  {
+    "ticker": "CC",
+    "name": "The Chemours Company",
+    "category": "半导体材料_化学品_基板",
+    "relatedIndustrySlugs": [
+      "d5c3ffe6b25a19",
+      "a6ec54681ede7e",
+      "c894f9de9c6fd6",
+      "8149177555d101",
+      "f16ee5d922b462",
+      "c15e5e75a60f54",
+      "146604dbe4621a",
+      "e3372effd5175c",
+      "c3cfda637c359f",
+      "e682fd0a82ecfd",
+      "6a5dba2e90bd4a",
+      "9c76efcad27d6a",
+      "8f4c51911c6ca5"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "公司：CC The Chemours Company（科慕）全面尽调",
+      "reportDate": "2026-05-10",
+      "sourcePath": "基本面/公司调研/半导体材料_化学品_基板/公司_CC_The_Chemours_Company_全面尽调_2026-05-10.md",
+      "dataFile": "reports/company/CC.json"
+    }
+  },
+  {
+    "ticker": "ECL",
+    "name": "Ecolab",
+    "category": "半导体材料_化学品_基板",
+    "relatedIndustrySlugs": [
+      "d5c3ffe6b25a19",
+      "a6ec54681ede7e",
+      "c894f9de9c6fd6",
+      "8149177555d101",
+      "f16ee5d922b462",
+      "c15e5e75a60f54",
+      "146604dbe4621a",
+      "e3372effd5175c",
+      "c3cfda637c359f",
+      "e682fd0a82ecfd",
+      "6a5dba2e90bd4a",
+      "9c76efcad27d6a",
+      "8f4c51911c6ca5"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "公司：ECL Ecolab Inc.（艺康）全面尽调",
+      "reportDate": "2026-05-10",
+      "sourcePath": "基本面/公司调研/半导体材料_化学品_基板/公司_ECL_Ecolab_全面尽调_2026-05-10.md",
+      "dataFile": "reports/company/ECL.json"
+    }
+  },
+  {
+    "ticker": "ENTG",
+    "name": "Entegris",
+    "category": "半导体材料_化学品_基板",
+    "relatedIndustrySlugs": [
+      "d5c3ffe6b25a19",
+      "a6ec54681ede7e",
+      "c894f9de9c6fd6",
+      "8149177555d101",
+      "f16ee5d922b462",
+      "c15e5e75a60f54",
+      "146604dbe4621a",
+      "e3372effd5175c",
+      "c3cfda637c359f",
+      "e682fd0a82ecfd",
+      "6a5dba2e90bd4a",
+      "9c76efcad27d6a",
+      "8f4c51911c6ca5"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "公司：ENTG Entegris",
+      "reportDate": "2026-05-10",
+      "sourcePath": "基本面/公司调研/半导体材料_化学品_基板/公司_ENTG_Entegris_全面尽调_2026-05-10.md",
+      "dataFile": "reports/company/ENTG.json"
+    }
+  },
+  {
+    "ticker": "MTRN",
+    "name": "Materion",
+    "category": "半导体材料_化学品_基板",
+    "relatedIndustrySlugs": [
+      "d5c3ffe6b25a19",
+      "a6ec54681ede7e",
+      "c894f9de9c6fd6",
+      "8149177555d101",
+      "f16ee5d922b462",
+      "c15e5e75a60f54",
+      "146604dbe4621a",
+      "e3372effd5175c",
+      "c3cfda637c359f",
+      "e682fd0a82ecfd",
+      "6a5dba2e90bd4a",
+      "9c76efcad27d6a",
+      "8f4c51911c6ca5"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "公司：MTRN - Materion Corporation",
+      "reportDate": "2026-05-10",
+      "sourcePath": "基本面/公司调研/半导体材料_化学品_基板/公司_MTRN_Materion_全面尽调_2026-05-10.md",
+      "dataFile": "reports/company/MTRN.json"
+    }
+  },
+  {
+    "ticker": "ROG",
+    "name": "Rogers Corporation",
+    "category": "半导体材料_化学品_基板",
+    "relatedIndustrySlugs": [
+      "d5c3ffe6b25a19",
+      "a6ec54681ede7e",
+      "c894f9de9c6fd6",
+      "8149177555d101",
+      "f16ee5d922b462",
+      "c15e5e75a60f54",
+      "146604dbe4621a",
+      "e3372effd5175c",
+      "c3cfda637c359f",
+      "e682fd0a82ecfd",
+      "6a5dba2e90bd4a",
+      "9c76efcad27d6a",
+      "8f4c51911c6ca5"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "公司：ROG Rogers Corporation（罗杰斯公司）",
+      "reportDate": "2026-05-10",
+      "sourcePath": "基本面/公司调研/半导体材料_化学品_基板/公司_ROG_Rogers_Corporation_全面尽调_2026-05-10.md",
+      "dataFile": "reports/company/ROG.json"
+    }
+  },
+  {
+    "ticker": "AEP",
+    "name": "American Electric Power",
+    "category": "电力_发电_能源_储能",
+    "relatedIndustrySlugs": [
+      "45b65359204b8d",
+      "0d56399a2b31a9",
+      "c22bcf0abbe73c",
+      "4c8a62f9c2fc66",
+      "f112dfe1c5d069",
+      "a80f5981fe1bca",
+      "d21c252df597e2",
+      "d2f4e1afd04d26",
+      "521fe672520d00",
+      "5cafa4056e0614",
+      "36a358f0481551",
+      "fcb7689dd4e50e",
+      "de2f40f9c6a104",
+      "12545fd24b58dc"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "公司：AEP American Electric Power Company, Inc.",
+      "reportDate": "2026-05-10",
+      "sourcePath": "基本面/公司调研/电力_发电_能源_储能/AEP_American_Electric_Power_全面尽调_2026-05-10.md",
+      "dataFile": "reports/company/AEP.json"
+    }
+  },
+  {
+    "ticker": "BE",
+    "name": "Bloom Energy",
+    "category": "电力_发电_能源_储能",
+    "relatedIndustrySlugs": [
+      "45b65359204b8d",
+      "0d56399a2b31a9",
+      "c22bcf0abbe73c",
+      "4c8a62f9c2fc66",
+      "f112dfe1c5d069",
+      "a80f5981fe1bca",
+      "d21c252df597e2",
+      "d2f4e1afd04d26",
+      "521fe672520d00",
+      "5cafa4056e0614",
+      "36a358f0481551",
+      "fcb7689dd4e50e",
+      "de2f40f9c6a104",
+      "12545fd24b58dc"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "公司：BE Bloom Energy（Bloom Energy Corporation）全面尽调",
+      "reportDate": "2026-05-10",
+      "sourcePath": "基本面/公司调研/电力_发电_能源_储能/BE_Bloom_Energy_全面尽调_2026-05-10.md",
+      "dataFile": "reports/company/BE.json"
+    }
+  },
+  {
+    "ticker": "BWXT",
+    "name": "BWX Technologies",
+    "category": "电力_发电_能源_储能",
+    "relatedIndustrySlugs": [
+      "45b65359204b8d",
+      "0d56399a2b31a9",
+      "c22bcf0abbe73c",
+      "4c8a62f9c2fc66",
+      "f112dfe1c5d069",
+      "a80f5981fe1bca",
+      "d21c252df597e2",
+      "d2f4e1afd04d26",
+      "521fe672520d00",
+      "5cafa4056e0614",
+      "36a358f0481551",
+      "fcb7689dd4e50e",
+      "de2f40f9c6a104",
+      "12545fd24b58dc"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "公司：BWXT BWX Technologies, Inc. 全面尽调",
+      "reportDate": "2026-05-10",
+      "sourcePath": "基本面/公司调研/电力_发电_能源_储能/BWXT_BWX_Technologies_全面尽调_2026-05-10.md",
+      "dataFile": "reports/company/BWXT.json"
+    }
+  },
+  {
+    "ticker": "CMI",
+    "name": "Cummins Inc",
+    "category": "电力_发电_能源_储能",
+    "relatedIndustrySlugs": [
+      "45b65359204b8d",
+      "0d56399a2b31a9",
+      "c22bcf0abbe73c",
+      "4c8a62f9c2fc66",
+      "f112dfe1c5d069",
+      "a80f5981fe1bca",
+      "d21c252df597e2",
+      "d2f4e1afd04d26",
+      "521fe672520d00",
+      "5cafa4056e0614",
+      "36a358f0481551",
+      "fcb7689dd4e50e",
+      "de2f40f9c6a104",
+      "12545fd24b58dc"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "公司：CMI Cummins Inc.（康明斯）全面尽调",
+      "reportDate": "2026-05-10",
+      "sourcePath": "基本面/公司调研/电力_发电_能源_储能/CMI_Cummins_Inc_全面尽调_2026-05-10.md",
+      "dataFile": "reports/company/CMI.json"
+    }
+  },
+  {
+    "ticker": "DTE",
+    "name": "DTE Energy Company",
+    "category": "电力_发电_能源_储能",
+    "relatedIndustrySlugs": [
+      "45b65359204b8d",
+      "0d56399a2b31a9",
+      "c22bcf0abbe73c",
+      "4c8a62f9c2fc66",
+      "f112dfe1c5d069",
+      "a80f5981fe1bca",
+      "d21c252df597e2",
+      "d2f4e1afd04d26",
+      "521fe672520d00",
+      "5cafa4056e0614",
+      "36a358f0481551",
+      "fcb7689dd4e50e",
+      "de2f40f9c6a104",
+      "12545fd24b58dc"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "公司：DTE DTE Energy Company",
+      "reportDate": "2026-05-10",
+      "sourcePath": "基本面/公司调研/电力_发电_能源_储能/DTE_DTE_Energy_Company_全面尽调_2026-05-10.md",
+      "dataFile": "reports/company/DTE.json"
+    }
+  },
+  {
+    "ticker": "ENS",
+    "name": "EnerSys",
+    "category": "电力_发电_能源_储能",
+    "relatedIndustrySlugs": [
+      "45b65359204b8d",
+      "0d56399a2b31a9",
+      "c22bcf0abbe73c",
+      "4c8a62f9c2fc66",
+      "f112dfe1c5d069",
+      "a80f5981fe1bca",
+      "d21c252df597e2",
+      "d2f4e1afd04d26",
+      "521fe672520d00",
+      "5cafa4056e0614",
+      "36a358f0481551",
+      "fcb7689dd4e50e",
+      "de2f40f9c6a104",
+      "12545fd24b58dc"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "ENS / EnerSys 公司调研：AI数据中心后备电源、TPPL与锂电增量的工业电池平台（2026-05-23）",
+      "reportDate": "2026-05-23",
+      "sourcePath": "基本面/公司调研/电力_发电_能源_储能/ENS_EnerSys_公司调研_2026-05-23.md",
+      "dataFile": "reports/company/ENS.json"
+    }
+  },
+  {
+    "ticker": "ENPH",
+    "name": "Enphase Energy",
+    "category": "电力_发电_能源_储能",
+    "relatedIndustrySlugs": [
+      "45b65359204b8d",
+      "0d56399a2b31a9",
+      "c22bcf0abbe73c",
+      "4c8a62f9c2fc66",
+      "f112dfe1c5d069",
+      "a80f5981fe1bca",
+      "d21c252df597e2",
+      "d2f4e1afd04d26",
+      "521fe672520d00",
+      "5cafa4056e0614",
+      "36a358f0481551",
+      "fcb7689dd4e50e",
+      "de2f40f9c6a104",
+      "12545fd24b58dc"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "ENPH Enphase Energy 公司调研：户用太阳能微逆与储能的周期底部，AI 数据中心 SST 是 2028 以后期权",
+      "reportDate": "2026-05-22",
+      "sourcePath": "基本面/公司调研/电力_发电_能源_储能/ENPH_Enphase_Energy_公司调研_2026-05-22.md",
+      "dataFile": "reports/company/ENPH.json"
+    }
+  },
+  {
+    "ticker": "ET",
+    "name": "Energy Transfer LP",
+    "category": "电力_发电_能源_储能",
+    "relatedIndustrySlugs": [
+      "45b65359204b8d",
+      "0d56399a2b31a9",
+      "c22bcf0abbe73c",
+      "4c8a62f9c2fc66",
+      "f112dfe1c5d069",
+      "a80f5981fe1bca",
+      "d21c252df597e2",
+      "d2f4e1afd04d26",
+      "521fe672520d00",
+      "5cafa4056e0614",
+      "36a358f0481551",
+      "fcb7689dd4e50e",
+      "de2f40f9c6a104",
+      "12545fd24b58dc"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "ET Energy Transfer LP 全面尽调",
+      "reportDate": "2026-05-10",
+      "sourcePath": "基本面/公司调研/电力_发电_能源_储能/ET_Energy_Transfer_LP_全面尽调_2026-05-10.md",
+      "dataFile": "reports/company/ET.json"
+    }
+  },
+  {
+    "ticker": "ETR",
+    "name": "Entergy Corporation",
+    "category": "电力_发电_能源_储能",
+    "relatedIndustrySlugs": [
+      "45b65359204b8d",
+      "0d56399a2b31a9",
+      "c22bcf0abbe73c",
+      "4c8a62f9c2fc66",
+      "f112dfe1c5d069",
+      "a80f5981fe1bca",
+      "d21c252df597e2",
+      "d2f4e1afd04d26",
+      "521fe672520d00",
+      "5cafa4056e0614",
+      "36a358f0481551",
+      "fcb7689dd4e50e",
+      "de2f40f9c6a104",
+      "12545fd24b58dc"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "公司：ETR Entergy Corporation",
+      "reportDate": "2026-05-10",
+      "sourcePath": "基本面/公司调研/电力_发电_能源_储能/ETR_Entergy_Corporation_全面尽调_2026-05-10.md",
+      "dataFile": "reports/company/ETR.json"
+    }
+  },
+  {
+    "ticker": "FCEL",
+    "name": "FuelCell Energy",
+    "category": "电力_发电_能源_储能",
+    "relatedIndustrySlugs": [
+      "45b65359204b8d",
+      "0d56399a2b31a9",
+      "c22bcf0abbe73c",
+      "4c8a62f9c2fc66",
+      "f112dfe1c5d069",
+      "a80f5981fe1bca",
+      "d21c252df597e2",
+      "d2f4e1afd04d26",
+      "521fe672520d00",
+      "5cafa4056e0614",
+      "36a358f0481551",
+      "fcb7689dd4e50e",
+      "de2f40f9c6a104",
+      "12545fd24b58dc"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "公司：FCEL FuelCell Energy, Inc.",
+      "reportDate": "2026-05-10",
+      "sourcePath": "基本面/公司调研/电力_发电_能源_储能/FCEL_FuelCell_Energy_全面尽调_2026-05-10.md",
+      "dataFile": "reports/company/FCEL.json"
+    }
+  },
+  {
+    "ticker": "GEV",
+    "name": "GE Vernova",
+    "category": "电力_发电_能源_储能",
+    "relatedIndustrySlugs": [
+      "45b65359204b8d",
+      "0d56399a2b31a9",
+      "c22bcf0abbe73c",
+      "4c8a62f9c2fc66",
+      "f112dfe1c5d069",
+      "a80f5981fe1bca",
+      "d21c252df597e2",
+      "d2f4e1afd04d26",
+      "521fe672520d00",
+      "5cafa4056e0614",
+      "36a358f0481551",
+      "fcb7689dd4e50e",
+      "de2f40f9c6a104",
+      "12545fd24b58dc"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "GEV / GE Vernova Inc.（GE Vernova）全面尽调重做版（核验至 2026-05-15）",
+      "reportDate": "2026-05-10",
+      "sourcePath": "基本面/公司调研/电力_发电_能源_储能/GEV_GE_Vernova_全面尽调_2026-05-10.md",
+      "dataFile": "reports/company/GEV.json"
+    }
+  },
+  {
+    "ticker": "GNRC",
+    "name": "Generac Holdings",
+    "category": "电力_发电_能源_储能",
+    "relatedIndustrySlugs": [
+      "45b65359204b8d",
+      "0d56399a2b31a9",
+      "c22bcf0abbe73c",
+      "4c8a62f9c2fc66",
+      "f112dfe1c5d069",
+      "a80f5981fe1bca",
+      "d21c252df597e2",
+      "d2f4e1afd04d26",
+      "521fe672520d00",
+      "5cafa4056e0614",
+      "36a358f0481551",
+      "fcb7689dd4e50e",
+      "de2f40f9c6a104",
+      "12545fd24b58dc"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "公司：GNRC Generac Holdings Inc.（Generac）全面尽调",
+      "reportDate": "2026-05-10",
+      "sourcePath": "基本面/公司调研/电力_发电_能源_储能/GNRC_Generac_Holdings_全面尽调_2026-05-10.md",
+      "dataFile": "reports/company/GNRC.json"
+    }
+  },
+  {
+    "ticker": "OKLO",
+    "name": "Oklo Inc",
+    "category": "电力_发电_能源_储能",
+    "relatedIndustrySlugs": [
+      "45b65359204b8d",
+      "0d56399a2b31a9",
+      "c22bcf0abbe73c",
+      "4c8a62f9c2fc66",
+      "f112dfe1c5d069",
+      "a80f5981fe1bca",
+      "d21c252df597e2",
+      "d2f4e1afd04d26",
+      "521fe672520d00",
+      "5cafa4056e0614",
+      "36a358f0481551",
+      "fcb7689dd4e50e",
+      "de2f40f9c6a104",
+      "12545fd24b58dc"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "公司：OKLO Oklo Inc 公司调研",
+      "reportDate": "2026-05-22",
+      "sourcePath": "基本面/公司调研/电力_发电_能源_储能/OKLO_Oklo_Inc_公司调研_2026-05-22.md",
+      "dataFile": "reports/company/OKLO.json"
+    }
+  },
+  {
+    "ticker": "PSIX",
+    "name": "Power Solutions International",
+    "category": "电力_发电_能源_储能",
+    "relatedIndustrySlugs": [
+      "45b65359204b8d",
+      "0d56399a2b31a9",
+      "c22bcf0abbe73c",
+      "4c8a62f9c2fc66",
+      "f112dfe1c5d069",
+      "a80f5981fe1bca",
+      "d21c252df597e2",
+      "d2f4e1afd04d26",
+      "521fe672520d00",
+      "5cafa4056e0614",
+      "36a358f0481551",
+      "fcb7689dd4e50e",
+      "de2f40f9c6a104",
+      "12545fd24b58dc"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "PSIX Power Solutions International（Power Solutions International, Inc.）全面尽调",
+      "reportDate": "2026-05-15",
+      "sourcePath": "基本面/公司调研/电力_发电_能源_储能/PSIX_Power_Solutions_International_全面尽调_2026-05-15.md",
+      "dataFile": "reports/company/PSIX.json"
+    }
+  },
+  {
+    "ticker": "PWR",
+    "name": "Quanta Services",
+    "category": "电力_发电_能源_储能",
+    "relatedIndustrySlugs": [
+      "45b65359204b8d",
+      "0d56399a2b31a9",
+      "c22bcf0abbe73c",
+      "4c8a62f9c2fc66",
+      "f112dfe1c5d069",
+      "a80f5981fe1bca",
+      "d21c252df597e2",
+      "d2f4e1afd04d26",
+      "521fe672520d00",
+      "5cafa4056e0614",
+      "36a358f0481551",
+      "fcb7689dd4e50e",
+      "de2f40f9c6a104",
+      "12545fd24b58dc"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "公司：PWR Quanta Services, Inc. 全面尽调",
+      "reportDate": "2026-05-10",
+      "sourcePath": "基本面/公司调研/电力_发电_能源_储能/PWR_Quanta_Services_全面尽调_2026-05-10.md",
+      "dataFile": "reports/company/PWR.json"
+    }
+  },
+  {
+    "ticker": "RYCEY",
+    "name": "Rolls-Royce Holdings",
+    "category": "电力_发电_能源_储能",
+    "relatedIndustrySlugs": [
+      "45b65359204b8d",
+      "0d56399a2b31a9",
+      "c22bcf0abbe73c",
+      "4c8a62f9c2fc66",
+      "f112dfe1c5d069",
+      "a80f5981fe1bca",
+      "d21c252df597e2",
+      "d2f4e1afd04d26",
+      "521fe672520d00",
+      "5cafa4056e0614",
+      "36a358f0481551",
+      "fcb7689dd4e50e",
+      "de2f40f9c6a104",
+      "12545fd24b58dc"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "公司：RYCEY Rolls-Royce Holdings plc",
+      "reportDate": "2026-05-10",
+      "sourcePath": "基本面/公司调研/电力_发电_能源_储能/RYCEY_Rolls-Royce_Holdings_全面尽调_2026-05-10.md",
+      "dataFile": "reports/company/RYCEY.json"
+    }
+  },
+  {
+    "ticker": "VST",
+    "name": "Vistra Corp",
+    "category": "电力_发电_能源_储能",
+    "relatedIndustrySlugs": [
+      "45b65359204b8d",
+      "0d56399a2b31a9",
+      "c22bcf0abbe73c",
+      "4c8a62f9c2fc66",
+      "f112dfe1c5d069",
+      "a80f5981fe1bca",
+      "d21c252df597e2",
+      "d2f4e1afd04d26",
+      "521fe672520d00",
+      "5cafa4056e0614",
+      "36a358f0481551",
+      "fcb7689dd4e50e",
+      "de2f40f9c6a104",
+      "12545fd24b58dc"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "公司：VST Vistra Corp.",
+      "reportDate": "2026-05-10",
+      "sourcePath": "基本面/公司调研/电力_发电_能源_储能/VST_Vistra_Corp_全面尽调_2026-05-10.md",
+      "dataFile": "reports/company/VST.json"
+    }
+  },
+  {
+    "ticker": "CEG",
+    "name": "Constellation Energy",
+    "category": "电力_发电_能源_储能",
+    "relatedIndustrySlugs": [
+      "45b65359204b8d",
+      "0d56399a2b31a9",
+      "c22bcf0abbe73c",
+      "4c8a62f9c2fc66",
+      "f112dfe1c5d069",
+      "a80f5981fe1bca",
+      "d21c252df597e2",
+      "d2f4e1afd04d26",
+      "521fe672520d00",
+      "5cafa4056e0614",
+      "36a358f0481551",
+      "fcb7689dd4e50e",
+      "de2f40f9c6a104",
+      "12545fd24b58dc"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "CEG Constellation Energy 公司调研：核电、燃气与 AI 数据中心电力平台",
+      "reportDate": "2026-05-21",
+      "sourcePath": "基本面/公司调研/电力_发电_能源_储能/CEG_Constellation_Energy_公司调研_2026-05-21.md",
+      "dataFile": "reports/company/CEG.json"
+    }
+  },
+  {
+    "ticker": "FLNC",
+    "name": "Fluence Energy",
+    "category": "电力_发电_能源_储能",
+    "relatedIndustrySlugs": [
+      "45b65359204b8d",
+      "0d56399a2b31a9",
+      "c22bcf0abbe73c",
+      "4c8a62f9c2fc66",
+      "f112dfe1c5d069",
+      "a80f5981fe1bca",
+      "d21c252df597e2",
+      "d2f4e1afd04d26",
+      "521fe672520d00",
+      "5cafa4056e0614",
+      "36a358f0481551",
+      "fcb7689dd4e50e",
+      "de2f40f9c6a104",
+      "12545fd24b58dc"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "公司：FLNC Fluence Energy, Inc.",
+      "reportDate": "2026-05-09",
+      "sourcePath": "基本面/公司调研/电力_发电_能源_储能/公司_FLNC_Fluence_Energy_全面尽调_2026-05-09.md",
+      "dataFile": "reports/company/FLNC.json"
+    }
+  },
+  {
+    "ticker": "SMR",
+    "name": "NuScale Power",
+    "category": "电力_发电_能源_储能",
+    "relatedIndustrySlugs": [
+      "45b65359204b8d",
+      "0d56399a2b31a9",
+      "c22bcf0abbe73c",
+      "4c8a62f9c2fc66",
+      "f112dfe1c5d069",
+      "a80f5981fe1bca",
+      "d21c252df597e2",
+      "d2f4e1afd04d26",
+      "521fe672520d00",
+      "5cafa4056e0614",
+      "36a358f0481551",
+      "fcb7689dd4e50e",
+      "de2f40f9c6a104",
+      "12545fd24b58dc"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "公司：SMR NuScale Power 公司调研",
+      "reportDate": "2026-05-22",
+      "sourcePath": "基本面/公司调研/电力_发电_能源_储能/SMR_NuScale_Power_公司调研_2026-05-22.md",
+      "dataFile": "reports/company/SMR.json"
+    }
+  },
+  {
+    "ticker": "AMPX",
+    "name": "Amprius Technologies",
+    "category": "电力_发电_能源_储能",
+    "relatedIndustrySlugs": [
+      "45b65359204b8d",
+      "0d56399a2b31a9",
+      "c22bcf0abbe73c",
+      "4c8a62f9c2fc66",
+      "f112dfe1c5d069",
+      "a80f5981fe1bca",
+      "d21c252df597e2",
+      "d2f4e1afd04d26",
+      "521fe672520d00",
+      "5cafa4056e0614",
+      "36a358f0481551",
+      "fcb7689dd4e50e",
+      "de2f40f9c6a104",
+      "12545fd24b58dc"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "AMPX Amprius Technologies 公司调研 2026-06-03",
+      "reportDate": "2026-06-03",
+      "sourcePath": "基本面/公司调研/电力_发电_能源_储能/AMPX_Amprius_Technologies_公司调研_2026-06-03.md",
+      "dataFile": "reports/company/AMPX.json"
+    }
+  },
+  {
+    "ticker": "AEHR",
+    "name": "Aehr Test Systems",
+    "category": "封测_检测_计量_光罩",
+    "relatedIndustrySlugs": [
+      "d5c3ffe6b25a19",
+      "a6ec54681ede7e",
+      "c894f9de9c6fd6",
+      "8149177555d101",
+      "f16ee5d922b462",
+      "c15e5e75a60f54",
+      "146604dbe4621a",
+      "e3372effd5175c",
+      "c3cfda637c359f",
+      "e682fd0a82ecfd",
+      "6a5dba2e90bd4a",
+      "9c76efcad27d6a",
+      "8f4c51911c6ca5"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "公司：AEHR - Aehr Test Systems, Inc. 全面尽调",
+      "reportDate": "2026-05-10",
+      "sourcePath": "基本面/公司调研/封测_检测_计量_光罩/AEHR_Aehr_Test_Systems_全面尽调_2026-05-10.md",
+      "dataFile": "reports/company/AEHR.json"
+    }
+  },
+  {
+    "ticker": "ASX",
+    "name": "ASE Technology Holding",
+    "category": "封测_检测_计量_光罩",
+    "relatedIndustrySlugs": [
+      "d5c3ffe6b25a19",
+      "a6ec54681ede7e",
+      "c894f9de9c6fd6",
+      "8149177555d101",
+      "f16ee5d922b462",
+      "c15e5e75a60f54",
+      "146604dbe4621a",
+      "e3372effd5175c",
+      "c3cfda637c359f",
+      "e682fd0a82ecfd",
+      "6a5dba2e90bd4a",
+      "9c76efcad27d6a",
+      "8f4c51911c6ca5"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "公司：ASX — ASE Technology Holding Co., Ltd.（日月光投控）全面尽调",
+      "reportDate": "2026-05-09",
+      "sourcePath": "基本面/公司调研/封测_检测_计量_光罩/ASX_ASE_Technology_Holding_全面尽调_2026-05-09.md",
+      "dataFile": "reports/company/ASX.json"
+    }
+  },
+  {
+    "ticker": "COHU",
+    "name": "Cohu Inc",
+    "category": "封测_检测_计量_光罩",
+    "relatedIndustrySlugs": [
+      "d5c3ffe6b25a19",
+      "a6ec54681ede7e",
+      "c894f9de9c6fd6",
+      "8149177555d101",
+      "f16ee5d922b462",
+      "c15e5e75a60f54",
+      "146604dbe4621a",
+      "e3372effd5175c",
+      "c3cfda637c359f",
+      "e682fd0a82ecfd",
+      "6a5dba2e90bd4a",
+      "9c76efcad27d6a",
+      "8f4c51911c6ca5"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "公司：COHU - Cohu, Inc. 全面尽调",
+      "reportDate": "2026-05-10",
+      "sourcePath": "基本面/公司调研/封测_检测_计量_光罩/COHU_Cohu_Inc_全面尽调_2026-05-10.md",
+      "dataFile": "reports/company/COHU.json"
+    }
+  },
+  {
+    "ticker": "IMOS",
+    "name": "ChipMOS Technologies 南茂科技",
+    "category": "封测_检测_计量_光罩",
+    "relatedIndustrySlugs": [
+      "d5c3ffe6b25a19",
+      "a6ec54681ede7e",
+      "c894f9de9c6fd6",
+      "8149177555d101",
+      "f16ee5d922b462",
+      "c15e5e75a60f54",
+      "146604dbe4621a",
+      "e3372effd5175c",
+      "c3cfda637c359f",
+      "e682fd0a82ecfd",
+      "6a5dba2e90bd4a",
+      "9c76efcad27d6a",
+      "8f4c51911c6ca5"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "公司：IMOS ChipMOS Technologies 南茂科技（公司调研，2026-05-22）",
+      "reportDate": "2026-05-22",
+      "sourcePath": "基本面/公司调研/封测_检测_计量_光罩/IMOS_ChipMOS_Technologies_南茂科技_公司调研_2026-05-22.md",
+      "dataFile": "reports/company/IMOS.json"
+    }
+  },
+  {
+    "ticker": "KEYS",
+    "name": "Keysight Technologies",
+    "category": "封测_检测_计量_光罩",
+    "relatedIndustrySlugs": [
+      "d5c3ffe6b25a19",
+      "a6ec54681ede7e",
+      "c894f9de9c6fd6",
+      "8149177555d101",
+      "f16ee5d922b462",
+      "c15e5e75a60f54",
+      "146604dbe4621a",
+      "e3372effd5175c",
+      "c3cfda637c359f",
+      "e682fd0a82ecfd",
+      "6a5dba2e90bd4a",
+      "9c76efcad27d6a",
+      "8f4c51911c6ca5"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "KEYS_Keysight Technologies 公司调研：AI数据中心高速互连、光电验证与电子设计测试平台（2026-05-22）",
+      "reportDate": "2026-05-22",
+      "sourcePath": "基本面/公司调研/封测_检测_计量_光罩/KEYS_Keysight_Technologies_公司调研_2026-05-22.md",
+      "dataFile": "reports/company/KEYS.json"
+    }
+  },
+  {
+    "ticker": "KLIC",
+    "name": "Kulicke Soffa",
+    "category": "封测_检测_计量_光罩",
+    "relatedIndustrySlugs": [
+      "d5c3ffe6b25a19",
+      "a6ec54681ede7e",
+      "c894f9de9c6fd6",
+      "8149177555d101",
+      "f16ee5d922b462",
+      "c15e5e75a60f54",
+      "146604dbe4621a",
+      "e3372effd5175c",
+      "c3cfda637c359f",
+      "e682fd0a82ecfd",
+      "6a5dba2e90bd4a",
+      "9c76efcad27d6a",
+      "8f4c51911c6ca5"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "公司：【Kulicke & Soffa Industries, Inc.（KLIC）】全面尽调",
+      "reportDate": "2026-05-09",
+      "sourcePath": "基本面/公司调研/封测_检测_计量_光罩/KLIC_Kulicke_Soffa_公司调研_2026-05-09.md",
+      "dataFile": "reports/company/KLIC.json"
+    }
+  },
+  {
+    "ticker": "MICLF",
+    "name": "Mycronic AB",
+    "category": "封测_检测_计量_光罩",
+    "relatedIndustrySlugs": [
+      "d5c3ffe6b25a19",
+      "a6ec54681ede7e",
+      "c894f9de9c6fd6",
+      "8149177555d101",
+      "f16ee5d922b462",
+      "c15e5e75a60f54",
+      "146604dbe4621a",
+      "e3372effd5175c",
+      "c3cfda637c359f",
+      "e682fd0a82ecfd",
+      "6a5dba2e90bd4a",
+      "9c76efcad27d6a",
+      "8f4c51911c6ca5"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "公司：MICLF / MYCR - Mycronic AB (publ) 全面尽调",
+      "reportDate": "2026-05-10",
+      "sourcePath": "基本面/公司调研/封测_检测_计量_光罩/MICLF_Mycronic_AB_全面尽调_2026-05-10.md",
+      "dataFile": "reports/company/MICLF.json"
+    }
+  },
+  {
+    "ticker": "ONTO",
+    "name": "Onto Innovation",
+    "category": "封测_检测_计量_光罩",
+    "relatedIndustrySlugs": [
+      "d5c3ffe6b25a19",
+      "a6ec54681ede7e",
+      "c894f9de9c6fd6",
+      "8149177555d101",
+      "f16ee5d922b462",
+      "c15e5e75a60f54",
+      "146604dbe4621a",
+      "e3372effd5175c",
+      "c3cfda637c359f",
+      "e682fd0a82ecfd",
+      "6a5dba2e90bd4a",
+      "9c76efcad27d6a",
+      "8f4c51911c6ca5"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "ONTO / Onto Innovation Inc. 全面尽调（2026-05-15）",
+      "reportDate": "2026-05-09",
+      "sourcePath": "基本面/公司调研/封测_检测_计量_光罩/ONTO_Onto_Innovation_全面尽调_2026-05-09.md",
+      "dataFile": "reports/company/ONTO.json"
+    }
+  },
+  {
+    "ticker": "PLAB",
+    "name": "Photronics",
+    "category": "封测_检测_计量_光罩",
+    "relatedIndustrySlugs": [
+      "d5c3ffe6b25a19",
+      "a6ec54681ede7e",
+      "c894f9de9c6fd6",
+      "8149177555d101",
+      "f16ee5d922b462",
+      "c15e5e75a60f54",
+      "146604dbe4621a",
+      "e3372effd5175c",
+      "c3cfda637c359f",
+      "e682fd0a82ecfd",
+      "6a5dba2e90bd4a",
+      "9c76efcad27d6a",
+      "8f4c51911c6ca5"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "公司：PLAB Photronics 公司调研 2026-05-30",
+      "reportDate": "2026-05-30",
+      "sourcePath": "基本面/公司调研/封测_检测_计量_光罩/PLAB_Photronics_公司调研_2026-05-30.md",
+      "dataFile": "reports/company/PLAB.json"
+    }
+  },
+  {
+    "ticker": "TDY",
+    "name": "Teledyne Technologies",
+    "category": "封测_检测_计量_光罩",
+    "relatedIndustrySlugs": [
+      "d5c3ffe6b25a19",
+      "a6ec54681ede7e",
+      "c894f9de9c6fd6",
+      "8149177555d101",
+      "f16ee5d922b462",
+      "c15e5e75a60f54",
+      "146604dbe4621a",
+      "e3372effd5175c",
+      "c3cfda637c359f",
+      "e682fd0a82ecfd",
+      "6a5dba2e90bd4a",
+      "9c76efcad27d6a",
+      "8f4c51911c6ca5"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "公司：TDY Teledyne Technologies Incorporated",
+      "reportDate": "2026-05-10",
+      "sourcePath": "基本面/公司调研/封测_检测_计量_光罩/TDY_Teledyne_Technologies_全面尽调_2026-05-10.md",
+      "dataFile": "reports/company/TDY.json"
+    }
+  },
+  {
+    "ticker": "TMO",
+    "name": "Thermo Fisher Scientific",
+    "category": "封测_检测_计量_光罩",
+    "relatedIndustrySlugs": [
+      "d5c3ffe6b25a19",
+      "a6ec54681ede7e",
+      "c894f9de9c6fd6",
+      "8149177555d101",
+      "f16ee5d922b462",
+      "c15e5e75a60f54",
+      "146604dbe4621a",
+      "e3372effd5175c",
+      "c3cfda637c359f",
+      "e682fd0a82ecfd",
+      "6a5dba2e90bd4a",
+      "9c76efcad27d6a",
+      "8f4c51911c6ca5"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "TMO — Thermo Fisher Scientific（赛默飞世尔科技）全面尽调",
+      "reportDate": "2026-05-10",
+      "sourcePath": "基本面/公司调研/封测_检测_计量_光罩/TMO_Thermo_Fisher_Scientific_全面尽调_2026-05-10.md",
+      "dataFile": "reports/company/TMO.json"
+    }
+  },
+  {
+    "ticker": "AMKR",
+    "name": "Amkor Technology",
+    "category": "封测_检测_计量_光罩",
+    "relatedIndustrySlugs": [
+      "d5c3ffe6b25a19",
+      "a6ec54681ede7e",
+      "c894f9de9c6fd6",
+      "8149177555d101",
+      "f16ee5d922b462",
+      "c15e5e75a60f54",
+      "146604dbe4621a",
+      "e3372effd5175c",
+      "c3cfda637c359f",
+      "e682fd0a82ecfd",
+      "6a5dba2e90bd4a",
+      "9c76efcad27d6a",
+      "8f4c51911c6ca5"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "公司：AMKR Amkor Technology, Inc. 全面尽调",
+      "reportDate": "2026-05-10",
+      "sourcePath": "基本面/公司调研/封测_检测_计量_光罩/公司_AMKR_Amkor_Technology_全面尽调_2026-05-10.md",
+      "dataFile": "reports/company/AMKR.json"
+    }
+  },
+  {
+    "ticker": "CAMT",
+    "name": "Camtek",
+    "category": "封测_检测_计量_光罩",
+    "relatedIndustrySlugs": [
+      "d5c3ffe6b25a19",
+      "a6ec54681ede7e",
+      "c894f9de9c6fd6",
+      "8149177555d101",
+      "f16ee5d922b462",
+      "c15e5e75a60f54",
+      "146604dbe4621a",
+      "e3372effd5175c",
+      "c3cfda637c359f",
+      "e682fd0a82ecfd",
+      "6a5dba2e90bd4a",
+      "9c76efcad27d6a",
+      "8f4c51911c6ca5"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "CAMT Camtek 公司调研 2026-05-22",
+      "reportDate": "2026-05-22",
+      "sourcePath": "基本面/公司调研/封测_检测_计量_光罩/CAMT_Camtek_公司调研_2026-05-22.md",
+      "dataFile": "reports/company/CAMT.json"
+    }
+  },
+  {
+    "ticker": "FORM",
+    "name": "FormFactor",
+    "category": "封测_检测_计量_光罩",
+    "relatedIndustrySlugs": [
+      "d5c3ffe6b25a19",
+      "a6ec54681ede7e",
+      "c894f9de9c6fd6",
+      "8149177555d101",
+      "f16ee5d922b462",
+      "c15e5e75a60f54",
+      "146604dbe4621a",
+      "e3372effd5175c",
+      "c3cfda637c359f",
+      "e682fd0a82ecfd",
+      "6a5dba2e90bd4a",
+      "9c76efcad27d6a",
+      "8f4c51911c6ca5"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "公司：FORM FormFactor Inc.（FormFactor）全面尽调",
+      "reportDate": "2026-05-09",
+      "sourcePath": "基本面/公司调研/封测_检测_计量_光罩/公司_FORM_FormFactor_全面尽调_2026-05-09.md",
+      "dataFile": "reports/company/FORM.json"
+    }
+  },
+  {
+    "ticker": "TER",
+    "name": "Teradyne",
+    "category": "封测_检测_计量_光罩",
+    "relatedIndustrySlugs": [
+      "d5c3ffe6b25a19",
+      "a6ec54681ede7e",
+      "c894f9de9c6fd6",
+      "8149177555d101",
+      "f16ee5d922b462",
+      "c15e5e75a60f54",
+      "146604dbe4621a",
+      "e3372effd5175c",
+      "c3cfda637c359f",
+      "e682fd0a82ecfd",
+      "6a5dba2e90bd4a",
+      "9c76efcad27d6a",
+      "8f4c51911c6ca5"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "TER / Teradyne, Inc. 全面尽调（2026-05-16 最高思考重做版）",
+      "reportDate": "2026-05-16",
+      "sourcePath": "基本面/公司调研/封测_检测_计量_光罩/公司_TER_Teradyne_全面尽调_2026-05-16.md",
+      "dataFile": "reports/company/TER.json"
+    }
+  },
+  {
+    "ticker": "ATEYY",
+    "name": "Advantest",
+    "category": "封测_检测_计量_光罩",
+    "relatedIndustrySlugs": [
+      "d5c3ffe6b25a19",
+      "a6ec54681ede7e",
+      "c894f9de9c6fd6",
+      "8149177555d101",
+      "f16ee5d922b462",
+      "c15e5e75a60f54",
+      "146604dbe4621a",
+      "e3372effd5175c",
+      "c3cfda637c359f",
+      "e682fd0a82ecfd",
+      "6a5dba2e90bd4a",
+      "9c76efcad27d6a",
+      "8f4c51911c6ca5"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "ATEYY / Advantest 公司调研：AI/HPC 测试设备龙头的 HBM4 与定制 ASIC 杠杆（2026-05-31）",
+      "reportDate": "2026-05-31",
+      "sourcePath": "基本面/公司调研/封测_检测_计量_光罩/ATEYY_Advantest_公司调研_2026-05-31.md",
+      "dataFile": "reports/company/ATEYY.json"
+    }
+  },
+  {
+    "ticker": "ASMVY",
+    "name": "ASMPT",
+    "category": "封测_检测_计量_光罩",
+    "relatedIndustrySlugs": [
+      "d5c3ffe6b25a19",
+      "a6ec54681ede7e",
+      "c894f9de9c6fd6",
+      "8149177555d101",
+      "f16ee5d922b462",
+      "c15e5e75a60f54",
+      "146604dbe4621a",
+      "e3372effd5175c",
+      "c3cfda637c359f",
+      "e682fd0a82ecfd",
+      "6a5dba2e90bd4a",
+      "9c76efcad27d6a",
+      "8f4c51911c6ca5"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "公司：ASMVY ASMPT 公司调研 2026-05-31",
+      "reportDate": "2026-05-31",
+      "sourcePath": "基本面/公司调研/封测_检测_计量_光罩/ASMVY_ASMPT_公司调研_2026-05-31.md",
+      "dataFile": "reports/company/ASMVY.json"
+    }
+  },
+  {
+    "ticker": "BESIY",
+    "name": "BE Semiconductor",
+    "category": "封测_检测_计量_光罩",
+    "relatedIndustrySlugs": [
+      "d5c3ffe6b25a19",
+      "a6ec54681ede7e",
+      "c894f9de9c6fd6",
+      "8149177555d101",
+      "f16ee5d922b462",
+      "c15e5e75a60f54",
+      "146604dbe4621a",
+      "e3372effd5175c",
+      "c3cfda637c359f",
+      "e682fd0a82ecfd",
+      "6a5dba2e90bd4a",
+      "9c76efcad27d6a",
+      "8f4c51911c6ca5"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "BESIY / BE Semiconductor（Besi）公司调研：AI先进封装设备、混合键合与TCB周期拐点（2026-05-31）",
+      "reportDate": "2026-05-31",
+      "sourcePath": "基本面/公司调研/封测_检测_计量_光罩/BESIY_BE_Semiconductor_公司调研_2026-05-31.md",
+      "dataFile": "reports/company/BESIY.json"
+    }
+  },
+  {
+    "ticker": "ALLE",
+    "name": "Allegion plc",
+    "category": "机电_冷却_工程_水处理_边缘工业AI",
+    "relatedIndustrySlugs": [
+      "45b65359204b8d",
+      "0d56399a2b31a9",
+      "c22bcf0abbe73c",
+      "4c8a62f9c2fc66",
+      "f112dfe1c5d069",
+      "a80f5981fe1bca",
+      "d21c252df597e2",
+      "d2f4e1afd04d26",
+      "521fe672520d00",
+      "5cafa4056e0614",
+      "36a358f0481551",
+      "fcb7689dd4e50e",
+      "de2f40f9c6a104",
+      "12545fd24b58dc"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "公司：ALLE Allegion plc",
+      "reportDate": "2026-05-10",
+      "sourcePath": "基本面/公司调研/机电_冷却_工程_水处理_边缘工业AI/ALLE_Allegion_plc_全面尽调_2026-05-10.md",
+      "dataFile": "reports/company/ALLE.json"
+    }
+  },
+  {
+    "ticker": "CARR",
+    "name": "Carrier Global",
+    "category": "机电_冷却_工程_水处理_边缘工业AI",
+    "relatedIndustrySlugs": [
+      "45b65359204b8d",
+      "0d56399a2b31a9",
+      "c22bcf0abbe73c",
+      "4c8a62f9c2fc66",
+      "f112dfe1c5d069",
+      "a80f5981fe1bca",
+      "d21c252df597e2",
+      "d2f4e1afd04d26",
+      "521fe672520d00",
+      "5cafa4056e0614",
+      "36a358f0481551",
+      "fcb7689dd4e50e",
+      "de2f40f9c6a104",
+      "12545fd24b58dc"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "公司：CARR Carrier Global Corporation（开利全球）",
+      "reportDate": "2026-05-10",
+      "sourcePath": "基本面/公司调研/机电_冷却_工程_水处理_边缘工业AI/CARR_Carrier_Global_全面尽调_2026-05-10.md",
+      "dataFile": "reports/company/CARR.json"
+    }
+  },
+  {
+    "ticker": "CAT",
+    "name": "Caterpillar Inc",
+    "category": "机电_冷却_工程_水处理_边缘工业AI",
+    "relatedIndustrySlugs": [
+      "45b65359204b8d",
+      "0d56399a2b31a9",
+      "c22bcf0abbe73c",
+      "4c8a62f9c2fc66",
+      "f112dfe1c5d069",
+      "a80f5981fe1bca",
+      "d21c252df597e2",
+      "d2f4e1afd04d26",
+      "521fe672520d00",
+      "5cafa4056e0614",
+      "36a358f0481551",
+      "fcb7689dd4e50e",
+      "de2f40f9c6a104",
+      "12545fd24b58dc"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "公司：CAT Caterpillar Inc. 公司全面尽调：AI 数据中心电力把“周期机械股”重定价为物理 AI 基建供应商",
+      "reportDate": "2026-05-10",
+      "sourcePath": "基本面/公司调研/机电_冷却_工程_水处理_边缘工业AI/CAT_Caterpillar_Inc_公司尽调_2026-05-10.md",
+      "dataFile": "reports/company/CAT.json"
+    }
+  },
+  {
+    "ticker": "DCI",
+    "name": "Donaldson Company",
+    "category": "机电_冷却_工程_水处理_边缘工业AI",
+    "relatedIndustrySlugs": [
+      "45b65359204b8d",
+      "0d56399a2b31a9",
+      "c22bcf0abbe73c",
+      "4c8a62f9c2fc66",
+      "f112dfe1c5d069",
+      "a80f5981fe1bca",
+      "d21c252df597e2",
+      "d2f4e1afd04d26",
+      "521fe672520d00",
+      "5cafa4056e0614",
+      "36a358f0481551",
+      "fcb7689dd4e50e",
+      "de2f40f9c6a104",
+      "12545fd24b58dc"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "公司：DCI Donaldson Company, Inc.（Donaldson）",
+      "reportDate": "2026-05-10",
+      "sourcePath": "基本面/公司调研/机电_冷却_工程_水处理_边缘工业AI/DCI_Donaldson_Company_公司尽调_2026-05-10.md",
+      "dataFile": "reports/company/DCI.json"
+    }
+  },
+  {
+    "ticker": "FIX",
+    "name": "Comfort Systems USA",
+    "category": "机电_冷却_工程_水处理_边缘工业AI",
+    "relatedIndustrySlugs": [
+      "45b65359204b8d",
+      "0d56399a2b31a9",
+      "c22bcf0abbe73c",
+      "4c8a62f9c2fc66",
+      "f112dfe1c5d069",
+      "a80f5981fe1bca",
+      "d21c252df597e2",
+      "d2f4e1afd04d26",
+      "521fe672520d00",
+      "5cafa4056e0614",
+      "36a358f0481551",
+      "fcb7689dd4e50e",
+      "de2f40f9c6a104",
+      "12545fd24b58dc"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "公司：FIX Comfort Systems USA",
+      "reportDate": "2026-05-10",
+      "sourcePath": "基本面/公司调研/机电_冷却_工程_水处理_边缘工业AI/FIX_Comfort_Systems_USA_2026-05-10.md",
+      "dataFile": "reports/company/FIX.json"
+    }
+  },
+  {
+    "ticker": "FTV",
+    "name": "Fortive Corporation",
+    "category": "机电_冷却_工程_水处理_边缘工业AI",
+    "relatedIndustrySlugs": [
+      "45b65359204b8d",
+      "0d56399a2b31a9",
+      "c22bcf0abbe73c",
+      "4c8a62f9c2fc66",
+      "f112dfe1c5d069",
+      "a80f5981fe1bca",
+      "d21c252df597e2",
+      "d2f4e1afd04d26",
+      "521fe672520d00",
+      "5cafa4056e0614",
+      "36a358f0481551",
+      "fcb7689dd4e50e",
+      "de2f40f9c6a104",
+      "12545fd24b58dc"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "公司：FTV Fortive Corporation",
+      "reportDate": "2026-05-10",
+      "sourcePath": "基本面/公司调研/机电_冷却_工程_水处理_边缘工业AI/FTV_Fortive_Corporation_全面尽调_2026-05-10.md",
+      "dataFile": "reports/company/FTV.json"
+    }
+  },
+  {
+    "ticker": "MSI",
+    "name": "Motorola Solutions",
+    "category": "机电_冷却_工程_水处理_边缘工业AI",
+    "relatedIndustrySlugs": [
+      "45b65359204b8d",
+      "0d56399a2b31a9",
+      "c22bcf0abbe73c",
+      "4c8a62f9c2fc66",
+      "f112dfe1c5d069",
+      "a80f5981fe1bca",
+      "d21c252df597e2",
+      "d2f4e1afd04d26",
+      "521fe672520d00",
+      "5cafa4056e0614",
+      "36a358f0481551",
+      "fcb7689dd4e50e",
+      "de2f40f9c6a104",
+      "12545fd24b58dc"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "公司：MSI Motorola Solutions（摩托罗拉解决方案）",
+      "reportDate": "2026-05-10",
+      "sourcePath": "基本面/公司调研/机电_冷却_工程_水处理_边缘工业AI/MSI_Motorola_Solutions_全面尽调_2026-05-10.md",
+      "dataFile": "reports/company/MSI.json"
+    }
+  },
+  {
+    "ticker": "PH",
+    "name": "Parker-Hannifin",
+    "category": "机电_冷却_工程_水处理_边缘工业AI",
+    "relatedIndustrySlugs": [
+      "45b65359204b8d",
+      "0d56399a2b31a9",
+      "c22bcf0abbe73c",
+      "4c8a62f9c2fc66",
+      "f112dfe1c5d069",
+      "a80f5981fe1bca",
+      "d21c252df597e2",
+      "d2f4e1afd04d26",
+      "521fe672520d00",
+      "5cafa4056e0614",
+      "36a358f0481551",
+      "fcb7689dd4e50e",
+      "de2f40f9c6a104",
+      "12545fd24b58dc"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "公司：PH Parker-Hannifin Corporation（派克汉尼汾）",
+      "reportDate": "2026-05-10",
+      "sourcePath": "基本面/公司调研/机电_冷却_工程_水处理_边缘工业AI/PH_Parker-Hannifin_公司尽调_2026-05-10.md",
+      "dataFile": "reports/company/PH.json"
+    }
+  },
+  {
+    "ticker": "PNR",
+    "name": "Pentair plc",
+    "category": "机电_冷却_工程_水处理_边缘工业AI",
+    "relatedIndustrySlugs": [
+      "45b65359204b8d",
+      "0d56399a2b31a9",
+      "c22bcf0abbe73c",
+      "4c8a62f9c2fc66",
+      "f112dfe1c5d069",
+      "a80f5981fe1bca",
+      "d21c252df597e2",
+      "d2f4e1afd04d26",
+      "521fe672520d00",
+      "5cafa4056e0614",
+      "36a358f0481551",
+      "fcb7689dd4e50e",
+      "de2f40f9c6a104",
+      "12545fd24b58dc"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "PNR - Pentair plc 公司全面尽调",
+      "reportDate": "2026-05-10",
+      "sourcePath": "基本面/公司调研/机电_冷却_工程_水处理_边缘工业AI/PNR_Pentair_plc_全面尽调_2026-05-10.md",
+      "dataFile": "reports/company/PNR.json"
+    }
+  },
+  {
+    "ticker": "RKLB",
+    "name": "Rocket Lab",
+    "category": "机电_冷却_工程_水处理_边缘工业AI",
+    "relatedIndustrySlugs": [
+      "45b65359204b8d",
+      "0d56399a2b31a9",
+      "c22bcf0abbe73c",
+      "4c8a62f9c2fc66",
+      "f112dfe1c5d069",
+      "a80f5981fe1bca",
+      "d21c252df597e2",
+      "d2f4e1afd04d26",
+      "521fe672520d00",
+      "5cafa4056e0614",
+      "36a358f0481551",
+      "fcb7689dd4e50e",
+      "de2f40f9c6a104",
+      "12545fd24b58dc"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "公司：RKLB Rocket Lab Corporation",
+      "reportDate": "2026-05-11",
+      "sourcePath": "基本面/公司调研/机电_冷却_工程_水处理_边缘工业AI/RKLB_Rocket_Lab_全面尽调_2026-05-11.md",
+      "dataFile": "reports/company/RKLB.json"
+    }
+  },
+  {
+    "ticker": "TSLA",
+    "name": "Tesla",
+    "category": "机电_冷却_工程_水处理_边缘工业AI",
+    "relatedIndustrySlugs": [
+      "45b65359204b8d",
+      "0d56399a2b31a9",
+      "c22bcf0abbe73c",
+      "4c8a62f9c2fc66",
+      "f112dfe1c5d069",
+      "a80f5981fe1bca",
+      "d21c252df597e2",
+      "d2f4e1afd04d26",
+      "521fe672520d00",
+      "5cafa4056e0614",
+      "36a358f0481551",
+      "fcb7689dd4e50e",
+      "de2f40f9c6a104",
+      "12545fd24b58dc"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "公司：TSLA Tesla, Inc.（特斯拉）全面尽调",
+      "reportDate": "2026-05-10",
+      "sourcePath": "基本面/公司调研/机电_冷却_工程_水处理_边缘工业AI/TSLA_Tesla_公司全面尽调_2026-05-10.md",
+      "dataFile": "reports/company/TSLA.json"
+    }
+  },
+  {
+    "ticker": "TT",
+    "name": "Trane Technologies",
+    "category": "机电_冷却_工程_水处理_边缘工业AI",
+    "relatedIndustrySlugs": [
+      "45b65359204b8d",
+      "0d56399a2b31a9",
+      "c22bcf0abbe73c",
+      "4c8a62f9c2fc66",
+      "f112dfe1c5d069",
+      "a80f5981fe1bca",
+      "d21c252df597e2",
+      "d2f4e1afd04d26",
+      "521fe672520d00",
+      "5cafa4056e0614",
+      "36a358f0481551",
+      "fcb7689dd4e50e",
+      "de2f40f9c6a104",
+      "12545fd24b58dc"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "TT Trane Technologies（特灵科技）公司调研（2026-05-16）",
+      "reportDate": "2026-05-16",
+      "sourcePath": "基本面/公司调研/机电_冷却_工程_水处理_边缘工业AI/TT_Trane_Technologies_公司调研_2026-05-16.md",
+      "dataFile": "reports/company/TT.json"
+    }
+  },
+  {
+    "ticker": "VRT",
+    "name": "Vertiv",
+    "category": "机电_冷却_工程_水处理_边缘工业AI",
+    "relatedIndustrySlugs": [
+      "45b65359204b8d",
+      "0d56399a2b31a9",
+      "c22bcf0abbe73c",
+      "4c8a62f9c2fc66",
+      "f112dfe1c5d069",
+      "a80f5981fe1bca",
+      "d21c252df597e2",
+      "d2f4e1afd04d26",
+      "521fe672520d00",
+      "5cafa4056e0614",
+      "36a358f0481551",
+      "fcb7689dd4e50e",
+      "de2f40f9c6a104",
+      "12545fd24b58dc"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "公司：VRT - Vertiv Holdings Co 全面尽调",
+      "reportDate": "2026-05-09",
+      "sourcePath": "基本面/公司调研/机电_冷却_工程_水处理_边缘工业AI/VRT_Vertiv_全面尽调_2026-05-09.md",
+      "dataFile": "reports/company/VRT.json"
+    }
+  },
+  {
+    "ticker": "DOV",
+    "name": "Dover Corporation",
+    "category": "机电_冷却_工程_水处理_边缘工业AI",
+    "relatedIndustrySlugs": [
+      "45b65359204b8d",
+      "0d56399a2b31a9",
+      "c22bcf0abbe73c",
+      "4c8a62f9c2fc66",
+      "f112dfe1c5d069",
+      "a80f5981fe1bca",
+      "d21c252df597e2",
+      "d2f4e1afd04d26",
+      "521fe672520d00",
+      "5cafa4056e0614",
+      "36a358f0481551",
+      "fcb7689dd4e50e",
+      "de2f40f9c6a104",
+      "12545fd24b58dc"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "公司：DOV Dover Corporation（Dover）",
+      "reportDate": "2026-05-10",
+      "sourcePath": "基本面/公司调研/机电_冷却_工程_水处理_边缘工业AI/公司_DOV_Dover_Corporation_全面尽调_2026-05-10.md",
+      "dataFile": "reports/company/DOV.json"
+    }
+  },
+  {
+    "ticker": "JCI",
+    "name": "Johnson Controls",
+    "category": "机电_冷却_工程_水处理_边缘工业AI",
+    "relatedIndustrySlugs": [
+      "45b65359204b8d",
+      "0d56399a2b31a9",
+      "c22bcf0abbe73c",
+      "4c8a62f9c2fc66",
+      "f112dfe1c5d069",
+      "a80f5981fe1bca",
+      "d21c252df597e2",
+      "d2f4e1afd04d26",
+      "521fe672520d00",
+      "5cafa4056e0614",
+      "36a358f0481551",
+      "fcb7689dd4e50e",
+      "de2f40f9c6a104",
+      "12545fd24b58dc"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "公司：JCI Johnson Controls International plc",
+      "reportDate": "2026-05-10",
+      "sourcePath": "基本面/公司调研/机电_冷却_工程_水处理_边缘工业AI/公司_JCI_Johnson_Controls_全面尽调_2026-05-10.md",
+      "dataFile": "reports/company/JCI.json"
+    }
+  },
+  {
+    "ticker": "MOD",
+    "name": "Modine Manufacturing",
+    "category": "机电_冷却_工程_水处理_边缘工业AI",
+    "relatedIndustrySlugs": [
+      "45b65359204b8d",
+      "0d56399a2b31a9",
+      "c22bcf0abbe73c",
+      "4c8a62f9c2fc66",
+      "f112dfe1c5d069",
+      "a80f5981fe1bca",
+      "d21c252df597e2",
+      "d2f4e1afd04d26",
+      "521fe672520d00",
+      "5cafa4056e0614",
+      "36a358f0481551",
+      "fcb7689dd4e50e",
+      "de2f40f9c6a104",
+      "12545fd24b58dc"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "Modine Manufacturing（MOD）公司调研_2026-05-30",
+      "reportDate": "2026-05-30",
+      "sourcePath": "基本面/公司调研/机电_冷却_工程_水处理_边缘工业AI/MOD_Modine_Manufacturing_公司调研_2026-05-30.md",
+      "dataFile": "reports/company/MOD.json"
+    }
+  },
+  {
+    "ticker": "AAON",
+    "name": "AAON",
+    "category": "机电_冷却_工程_水处理_边缘工业AI",
+    "relatedIndustrySlugs": [
+      "45b65359204b8d",
+      "0d56399a2b31a9",
+      "c22bcf0abbe73c",
+      "4c8a62f9c2fc66",
+      "f112dfe1c5d069",
+      "a80f5981fe1bca",
+      "d21c252df597e2",
+      "d2f4e1afd04d26",
+      "521fe672520d00",
+      "5cafa4056e0614",
+      "36a358f0481551",
+      "fcb7689dd4e50e",
+      "de2f40f9c6a104",
+      "12545fd24b58dc"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "AAON（AAON）公司调研：从半定制 HVAC 到 AI 数据中心热管理产能股（2026-05-31）",
+      "reportDate": "2026-05-31",
+      "sourcePath": "基本面/公司调研/机电_冷却_工程_水处理_边缘工业AI/AAON_AAON_公司调研_2026-05-31.md",
+      "dataFile": "reports/company/AAON.json"
+    }
+  },
+  {
+    "ticker": "IESC",
+    "name": "IES Holdings",
+    "category": "机电_冷却_工程_水处理_边缘工业AI",
+    "relatedIndustrySlugs": [
+      "45b65359204b8d",
+      "0d56399a2b31a9",
+      "c22bcf0abbe73c",
+      "4c8a62f9c2fc66",
+      "f112dfe1c5d069",
+      "a80f5981fe1bca",
+      "d21c252df597e2",
+      "d2f4e1afd04d26",
+      "521fe672520d00",
+      "5cafa4056e0614",
+      "36a358f0481551",
+      "fcb7689dd4e50e",
+      "de2f40f9c6a104",
+      "12545fd24b58dc"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "公司：IESC IES Holdings - AI 数据中心 MEP、通信基础设施与定制电力设备公司调研（2026-05-31）",
+      "reportDate": "2026-05-31",
+      "sourcePath": "基本面/公司调研/机电_冷却_工程_水处理_边缘工业AI/IESC_IES Holdings_公司调研_2026-05-31.md",
+      "dataFile": "reports/company/IESC.json"
+    }
+  },
+  {
+    "ticker": "EME",
+    "name": "EMCOR Group",
+    "category": "机电_冷却_工程_水处理_边缘工业AI",
+    "relatedIndustrySlugs": [
+      "45b65359204b8d",
+      "0d56399a2b31a9",
+      "c22bcf0abbe73c",
+      "4c8a62f9c2fc66",
+      "f112dfe1c5d069",
+      "a80f5981fe1bca",
+      "d21c252df597e2",
+      "d2f4e1afd04d26",
+      "521fe672520d00",
+      "5cafa4056e0614",
+      "36a358f0481551",
+      "fcb7689dd4e50e",
+      "de2f40f9c6a104",
+      "12545fd24b58dc"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "公司：EME EMCOR Group",
+      "reportDate": "2026-05-31",
+      "sourcePath": "基本面/公司调研/机电_冷却_工程_水处理_边缘工业AI/EME_EMCOR_Group_公司调研_2026-05-31.md",
+      "dataFile": "reports/company/EME.json"
+    }
+  },
+  {
+    "ticker": "MYRG",
+    "name": "MYR Group",
+    "category": "机电_冷却_工程_水处理_边缘工业AI",
+    "relatedIndustrySlugs": [
+      "45b65359204b8d",
+      "0d56399a2b31a9",
+      "c22bcf0abbe73c",
+      "4c8a62f9c2fc66",
+      "f112dfe1c5d069",
+      "a80f5981fe1bca",
+      "d21c252df597e2",
+      "d2f4e1afd04d26",
+      "521fe672520d00",
+      "5cafa4056e0614",
+      "36a358f0481551",
+      "fcb7689dd4e50e",
+      "de2f40f9c6a104",
+      "12545fd24b58dc"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "MYRG_MYR Group：电力工程与数据中心电气施工的 AI 基建间接受益公司",
+      "reportDate": "2026-05-31",
+      "sourcePath": "基本面/公司调研/机电_冷却_工程_水处理_边缘工业AI/MYRG_MYR Group_公司调研_2026-05-31.md",
+      "dataFile": "reports/company/MYRG.json"
+    }
+  },
+  {
+    "ticker": "ACLS",
+    "name": "Axcelis Technologies",
+    "category": "晶圆制造_前道设备",
+    "relatedIndustrySlugs": [
+      "d5c3ffe6b25a19",
+      "a6ec54681ede7e",
+      "c894f9de9c6fd6",
+      "8149177555d101",
+      "f16ee5d922b462",
+      "c15e5e75a60f54",
+      "146604dbe4621a",
+      "e3372effd5175c",
+      "c3cfda637c359f",
+      "e682fd0a82ecfd",
+      "6a5dba2e90bd4a",
+      "9c76efcad27d6a",
+      "8f4c51911c6ca5"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "公司：ACLS Axcelis Technologies",
+      "reportDate": "2026-05-10",
+      "sourcePath": "基本面/公司调研/晶圆制造_前道设备/ACLS_Axcelis_Technologies_全面尽调_2026-05-10.md",
+      "dataFile": "reports/company/ACLS.json"
+    }
+  },
+  {
+    "ticker": "ACMR",
+    "name": "ACM Research",
+    "category": "晶圆制造_前道设备",
+    "relatedIndustrySlugs": [
+      "d5c3ffe6b25a19",
+      "a6ec54681ede7e",
+      "c894f9de9c6fd6",
+      "8149177555d101",
+      "f16ee5d922b462",
+      "c15e5e75a60f54",
+      "146604dbe4621a",
+      "e3372effd5175c",
+      "c3cfda637c359f",
+      "e682fd0a82ecfd",
+      "6a5dba2e90bd4a",
+      "9c76efcad27d6a",
+      "8f4c51911c6ca5"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "公司：ACMR ACM Research（盛美半导体）全面尽调",
+      "reportDate": "2026-05-10",
+      "sourcePath": "基本面/公司调研/晶圆制造_前道设备/ACMR_ACM_Research_全面尽调_2026-05-10.md",
+      "dataFile": "reports/company/ACMR.json"
+    }
+  },
+  {
+    "ticker": "AMAT",
+    "name": "Applied Materials",
+    "category": "晶圆制造_前道设备",
+    "relatedIndustrySlugs": [
+      "d5c3ffe6b25a19",
+      "a6ec54681ede7e",
+      "c894f9de9c6fd6",
+      "8149177555d101",
+      "f16ee5d922b462",
+      "c15e5e75a60f54",
+      "146604dbe4621a",
+      "e3372effd5175c",
+      "c3cfda637c359f",
+      "e682fd0a82ecfd",
+      "6a5dba2e90bd4a",
+      "9c76efcad27d6a",
+      "8f4c51911c6ca5"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "公司：AMAT Applied Materials 公司调研 2026-05-22",
+      "reportDate": "2026-05-22",
+      "sourcePath": "基本面/公司调研/晶圆制造_前道设备/AMAT_Applied Materials_公司调研_2026-05-22.md",
+      "dataFile": "reports/company/AMAT.json"
+    }
+  },
+  {
+    "ticker": "ASMIY",
+    "name": "ASM International",
+    "category": "晶圆制造_前道设备",
+    "relatedIndustrySlugs": [
+      "d5c3ffe6b25a19",
+      "a6ec54681ede7e",
+      "c894f9de9c6fd6",
+      "8149177555d101",
+      "f16ee5d922b462",
+      "c15e5e75a60f54",
+      "146604dbe4621a",
+      "e3372effd5175c",
+      "c3cfda637c359f",
+      "e682fd0a82ecfd",
+      "6a5dba2e90bd4a",
+      "9c76efcad27d6a",
+      "8f4c51911c6ca5"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "公司：ASMIY / ASM International N.V.",
+      "reportDate": "2026-05-10",
+      "sourcePath": "基本面/公司调研/晶圆制造_前道设备/ASMIY_ASM_International_公司尽调_2026-05-10.md",
+      "dataFile": "reports/company/ASMIY.json"
+    }
+  },
+  {
+    "ticker": "ASML",
+    "name": "ASML Holding NV",
+    "category": "晶圆制造_前道设备",
+    "relatedIndustrySlugs": [
+      "d5c3ffe6b25a19",
+      "a6ec54681ede7e",
+      "c894f9de9c6fd6",
+      "8149177555d101",
+      "f16ee5d922b462",
+      "c15e5e75a60f54",
+      "146604dbe4621a",
+      "e3372effd5175c",
+      "c3cfda637c359f",
+      "e682fd0a82ecfd",
+      "6a5dba2e90bd4a",
+      "9c76efcad27d6a",
+      "8f4c51911c6ca5"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "公司：ASML / ASML Holding N.V.（ASML）",
+      "reportDate": "2026-05-10",
+      "sourcePath": "基本面/公司调研/晶圆制造_前道设备/ASML_ASML_Holding_NV_公司调研_2026-05-10.md",
+      "dataFile": "reports/company/ASML.json"
+    }
+  },
+  {
+    "ticker": "DSCSY",
+    "name": "DISCO",
+    "category": "晶圆制造_前道设备",
+    "relatedIndustrySlugs": [
+      "d5c3ffe6b25a19",
+      "a6ec54681ede7e",
+      "c894f9de9c6fd6",
+      "8149177555d101",
+      "f16ee5d922b462",
+      "c15e5e75a60f54",
+      "146604dbe4621a",
+      "e3372effd5175c",
+      "c3cfda637c359f",
+      "e682fd0a82ecfd",
+      "6a5dba2e90bd4a",
+      "9c76efcad27d6a",
+      "8f4c51911c6ca5"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "公司：DSCSY / DISCO Corporation（迪思科）",
+      "reportDate": "2026-05-10",
+      "sourcePath": "基本面/公司调研/晶圆制造_前道设备/DSCSY_DISCO_全面尽调_2026-05-10.md",
+      "dataFile": "reports/company/DSCSY.json"
+    }
+  },
+  {
+    "ticker": "GFS",
+    "name": "GlobalFoundries",
+    "category": "晶圆制造_前道设备",
+    "relatedIndustrySlugs": [
+      "d5c3ffe6b25a19",
+      "a6ec54681ede7e",
+      "c894f9de9c6fd6",
+      "8149177555d101",
+      "f16ee5d922b462",
+      "c15e5e75a60f54",
+      "146604dbe4621a",
+      "e3372effd5175c",
+      "c3cfda637c359f",
+      "e682fd0a82ecfd",
+      "6a5dba2e90bd4a",
+      "9c76efcad27d6a",
+      "8f4c51911c6ca5"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "公司：GFS GlobalFoundries",
+      "reportDate": "2026-05-10",
+      "sourcePath": "基本面/公司调研/晶圆制造_前道设备/GFS_GlobalFoundries_全面尽调_2026-05-10.md",
+      "dataFile": "reports/company/GFS.json"
+    }
+  },
+  {
+    "ticker": "KLAC",
+    "name": "KLA Corporation",
+    "category": "晶圆制造_前道设备",
+    "relatedIndustrySlugs": [
+      "d5c3ffe6b25a19",
+      "a6ec54681ede7e",
+      "c894f9de9c6fd6",
+      "8149177555d101",
+      "f16ee5d922b462",
+      "c15e5e75a60f54",
+      "146604dbe4621a",
+      "e3372effd5175c",
+      "c3cfda637c359f",
+      "e682fd0a82ecfd",
+      "6a5dba2e90bd4a",
+      "9c76efcad27d6a",
+      "8f4c51911c6ca5"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "公司：KLAC KLA Corporation（KLA，科磊）全面尽调",
+      "reportDate": "2026-05-10",
+      "sourcePath": "基本面/公司调研/晶圆制造_前道设备/KLAC_KLA_Corporation_全面尽调_2026-05-10.md",
+      "dataFile": "reports/company/KLAC.json"
+    }
+  },
+  {
+    "ticker": "LRCX",
+    "name": "Lam Research",
+    "category": "晶圆制造_前道设备",
+    "relatedIndustrySlugs": [
+      "d5c3ffe6b25a19",
+      "a6ec54681ede7e",
+      "c894f9de9c6fd6",
+      "8149177555d101",
+      "f16ee5d922b462",
+      "c15e5e75a60f54",
+      "146604dbe4621a",
+      "e3372effd5175c",
+      "c3cfda637c359f",
+      "e682fd0a82ecfd",
+      "6a5dba2e90bd4a",
+      "9c76efcad27d6a",
+      "8f4c51911c6ca5"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "公司：LRCX Lam Research（泛林集团）全面尽调",
+      "reportDate": "2026-05-10",
+      "sourcePath": "基本面/公司调研/晶圆制造_前道设备/LRCX_Lam_Research_全面尽调_2026-05-10.md",
+      "dataFile": "reports/company/LRCX.json"
+    }
+  },
+  {
+    "ticker": "MKSI",
+    "name": "MKS Inc",
+    "category": "晶圆制造_前道设备",
+    "relatedIndustrySlugs": [
+      "d5c3ffe6b25a19",
+      "a6ec54681ede7e",
+      "c894f9de9c6fd6",
+      "8149177555d101",
+      "f16ee5d922b462",
+      "c15e5e75a60f54",
+      "146604dbe4621a",
+      "e3372effd5175c",
+      "c3cfda637c359f",
+      "e682fd0a82ecfd",
+      "6a5dba2e90bd4a",
+      "9c76efcad27d6a",
+      "8f4c51911c6ca5"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "MKSI - MKS Inc. 公司全面尽调",
+      "reportDate": "2026-05-10",
+      "sourcePath": "基本面/公司调研/晶圆制造_前道设备/MKSI_MKS_Inc_全面尽调_2026-05-10.md",
+      "dataFile": "reports/company/MKSI.json"
+    }
+  },
+  {
+    "ticker": "TSEM",
+    "name": "Tower Semiconductor",
+    "category": "晶圆制造_前道设备",
+    "relatedIndustrySlugs": [
+      "d5c3ffe6b25a19",
+      "a6ec54681ede7e",
+      "c894f9de9c6fd6",
+      "8149177555d101",
+      "f16ee5d922b462",
+      "c15e5e75a60f54",
+      "146604dbe4621a",
+      "e3372effd5175c",
+      "c3cfda637c359f",
+      "e682fd0a82ecfd",
+      "6a5dba2e90bd4a",
+      "9c76efcad27d6a",
+      "8f4c51911c6ca5"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "公司：TSEM Tower Semiconductor 公司调研 2026-05-22",
+      "reportDate": "2026-05-22",
+      "sourcePath": "基本面/公司调研/晶圆制造_前道设备/TSEM_Tower_Semiconductor_公司调研_2026-05-22.md",
+      "dataFile": "reports/company/TSEM.json"
+    }
+  },
+  {
+    "ticker": "TSM",
+    "name": "台积电",
+    "category": "晶圆制造_前道设备",
+    "relatedIndustrySlugs": [
+      "d5c3ffe6b25a19",
+      "a6ec54681ede7e",
+      "c894f9de9c6fd6",
+      "8149177555d101",
+      "f16ee5d922b462",
+      "c15e5e75a60f54",
+      "146604dbe4621a",
+      "e3372effd5175c",
+      "c3cfda637c359f",
+      "e682fd0a82ecfd",
+      "6a5dba2e90bd4a",
+      "9c76efcad27d6a",
+      "8f4c51911c6ca5"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "公司：TSM 台积电（Taiwan Semiconductor Manufacturing Company）",
+      "reportDate": "2026-05-10",
+      "sourcePath": "基本面/公司调研/晶圆制造_前道设备/TSM_台积电_全面尽调_2026-05-10.md",
+      "dataFile": "reports/company/TSM.json"
+    }
+  },
+  {
+    "ticker": "UCTT",
+    "name": "Ultra Clean Holdings",
+    "category": "晶圆制造_前道设备",
+    "relatedIndustrySlugs": [
+      "d5c3ffe6b25a19",
+      "a6ec54681ede7e",
+      "c894f9de9c6fd6",
+      "8149177555d101",
+      "f16ee5d922b462",
+      "c15e5e75a60f54",
+      "146604dbe4621a",
+      "e3372effd5175c",
+      "c3cfda637c359f",
+      "e682fd0a82ecfd",
+      "6a5dba2e90bd4a",
+      "9c76efcad27d6a",
+      "8f4c51911c6ca5"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "公司：UCTT Ultra Clean Holdings, Inc.（Ultra Clean / UCT）",
+      "reportDate": "2026-05-10",
+      "sourcePath": "基本面/公司调研/晶圆制造_前道设备/UCTT_Ultra_Clean_Holdings_全面尽调_2026-05-10.md",
+      "dataFile": "reports/company/UCTT.json"
+    }
+  },
+  {
+    "ticker": "UMC",
+    "name": "United Microelectronics 联华电子",
+    "category": "晶圆制造_前道设备",
+    "relatedIndustrySlugs": [
+      "d5c3ffe6b25a19",
+      "a6ec54681ede7e",
+      "c894f9de9c6fd6",
+      "8149177555d101",
+      "f16ee5d922b462",
+      "c15e5e75a60f54",
+      "146604dbe4621a",
+      "e3372effd5175c",
+      "c3cfda637c359f",
+      "e682fd0a82ecfd",
+      "6a5dba2e90bd4a",
+      "9c76efcad27d6a",
+      "8f4c51911c6ca5"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "公司：UMC - United Microelectronics Corporation（联华电子）全面尽调",
+      "reportDate": "2026-05-10",
+      "sourcePath": "基本面/公司调研/晶圆制造_前道设备/UMC_United_Microelectronics_联华电子_全面尽调_2026-05-10.md",
+      "dataFile": "reports/company/UMC.json"
+    }
+  },
+  {
+    "ticker": "VECO",
+    "name": "Veeco Instruments",
+    "category": "晶圆制造_前道设备",
+    "relatedIndustrySlugs": [
+      "d5c3ffe6b25a19",
+      "a6ec54681ede7e",
+      "c894f9de9c6fd6",
+      "8149177555d101",
+      "f16ee5d922b462",
+      "c15e5e75a60f54",
+      "146604dbe4621a",
+      "e3372effd5175c",
+      "c3cfda637c359f",
+      "e682fd0a82ecfd",
+      "6a5dba2e90bd4a",
+      "9c76efcad27d6a",
+      "8f4c51911c6ca5"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "公司：VECO Veeco Instruments Inc. 全面尽调",
+      "reportDate": "2026-05-10",
+      "sourcePath": "基本面/公司调研/晶圆制造_前道设备/VECO_Veeco_Instruments_全面尽调_2026-05-10.md",
+      "dataFile": "reports/company/VECO.json"
+    }
+  },
+  {
+    "ticker": "ICHR",
+    "name": "Ichor Holdings",
+    "category": "晶圆制造_前道设备",
+    "relatedIndustrySlugs": [
+      "d5c3ffe6b25a19",
+      "a6ec54681ede7e",
+      "c894f9de9c6fd6",
+      "8149177555d101",
+      "f16ee5d922b462",
+      "c15e5e75a60f54",
+      "146604dbe4621a",
+      "e3372effd5175c",
+      "c3cfda637c359f",
+      "e682fd0a82ecfd",
+      "6a5dba2e90bd4a",
+      "9c76efcad27d6a",
+      "8f4c51911c6ca5"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "公司：ICHR Ichor Holdings, Ltd.",
+      "reportDate": "2026-05-10",
+      "sourcePath": "基本面/公司调研/晶圆制造_前道设备/公司_ICHR_Ichor_Holdings_2026-05-10.md",
+      "dataFile": "reports/company/ICHR.json"
+    }
+  },
+  {
+    "ticker": "NVMI",
+    "name": "Nova Ltd",
+    "category": "晶圆制造_前道设备",
+    "relatedIndustrySlugs": [
+      "d5c3ffe6b25a19",
+      "a6ec54681ede7e",
+      "c894f9de9c6fd6",
+      "8149177555d101",
+      "f16ee5d922b462",
+      "c15e5e75a60f54",
+      "146604dbe4621a",
+      "e3372effd5175c",
+      "c3cfda637c359f",
+      "e682fd0a82ecfd",
+      "6a5dba2e90bd4a",
+      "9c76efcad27d6a",
+      "8f4c51911c6ca5"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "NVMI Nova Ltd 公司调研：先进过程控制/材料计量在 AI 芯片制造中的高弹性标的",
+      "reportDate": "2026-05-22",
+      "sourcePath": "基本面/公司调研/晶圆制造_前道设备/NVMI_Nova_Ltd_公司调研_2026-05-22.md",
+      "dataFile": "reports/company/NVMI.json"
+    }
+  },
+  {
+    "ticker": "ABBNY",
+    "name": "ABB Ltd",
+    "category": "配电_电源_功率器件",
+    "relatedIndustrySlugs": [
+      "45b65359204b8d",
+      "0d56399a2b31a9",
+      "c22bcf0abbe73c",
+      "4c8a62f9c2fc66",
+      "f112dfe1c5d069",
+      "a80f5981fe1bca",
+      "d21c252df597e2",
+      "d2f4e1afd04d26",
+      "521fe672520d00",
+      "5cafa4056e0614",
+      "36a358f0481551",
+      "fcb7689dd4e50e",
+      "de2f40f9c6a104",
+      "12545fd24b58dc"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "公司：ABBNY ABB Ltd（ABB）全面尽调",
+      "reportDate": "2026-05-10",
+      "sourcePath": "基本面/公司调研/配电_电源_功率器件/ABBNY_ABB_Ltd_全面尽调_2026-05-10.md",
+      "dataFile": "reports/company/ABBNY.json"
+    }
+  },
+  {
+    "ticker": "AOSL",
+    "name": "Alpha and Omega Semiconductor",
+    "category": "配电_电源_功率器件",
+    "relatedIndustrySlugs": [
+      "45b65359204b8d",
+      "0d56399a2b31a9",
+      "c22bcf0abbe73c",
+      "4c8a62f9c2fc66",
+      "f112dfe1c5d069",
+      "a80f5981fe1bca",
+      "d21c252df597e2",
+      "d2f4e1afd04d26",
+      "521fe672520d00",
+      "5cafa4056e0614",
+      "36a358f0481551",
+      "fcb7689dd4e50e",
+      "de2f40f9c6a104",
+      "12545fd24b58dc"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "公司：AOSL Alpha and Omega Semiconductor Limited",
+      "reportDate": "2026-05-09",
+      "sourcePath": "基本面/公司调研/配电_电源_功率器件/AOSL_Alpha_and_Omega_Semiconductor_全面尽调_2026-05-09.md",
+      "dataFile": "reports/company/AOSL.json"
+    }
+  },
+  {
+    "ticker": "ATKR",
+    "name": "Atkore",
+    "category": "配电_电源_功率器件",
+    "relatedIndustrySlugs": [
+      "45b65359204b8d",
+      "0d56399a2b31a9",
+      "c22bcf0abbe73c",
+      "4c8a62f9c2fc66",
+      "f112dfe1c5d069",
+      "a80f5981fe1bca",
+      "d21c252df597e2",
+      "d2f4e1afd04d26",
+      "521fe672520d00",
+      "5cafa4056e0614",
+      "36a358f0481551",
+      "fcb7689dd4e50e",
+      "de2f40f9c6a104",
+      "12545fd24b58dc"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "公司：ATKR Atkore Inc.（Atkore）",
+      "reportDate": "2026-05-10",
+      "sourcePath": "基本面/公司调研/配电_电源_功率器件/ATKR_Atkore_全面尽调_2026-05-10.md",
+      "dataFile": "reports/company/ATKR.json"
+    }
+  },
+  {
+    "ticker": "DIOD",
+    "name": "Diodes Incorporated",
+    "category": "配电_电源_功率器件",
+    "relatedIndustrySlugs": [
+      "45b65359204b8d",
+      "0d56399a2b31a9",
+      "c22bcf0abbe73c",
+      "4c8a62f9c2fc66",
+      "f112dfe1c5d069",
+      "a80f5981fe1bca",
+      "d21c252df597e2",
+      "d2f4e1afd04d26",
+      "521fe672520d00",
+      "5cafa4056e0614",
+      "36a358f0481551",
+      "fcb7689dd4e50e",
+      "de2f40f9c6a104",
+      "12545fd24b58dc"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "公司：DIOD Diodes Incorporated（Diodes Inc.）全面尽调",
+      "reportDate": "2026-05-10",
+      "sourcePath": "基本面/公司调研/配电_电源_功率器件/DIOD_Diodes_Incorporated_全面尽调_2026-05-10.md",
+      "dataFile": "reports/company/DIOD.json"
+    }
+  },
+  {
+    "ticker": "HUBB",
+    "name": "Hubbell",
+    "category": "配电_电源_功率器件",
+    "relatedIndustrySlugs": [
+      "45b65359204b8d",
+      "0d56399a2b31a9",
+      "c22bcf0abbe73c",
+      "4c8a62f9c2fc66",
+      "f112dfe1c5d069",
+      "a80f5981fe1bca",
+      "d21c252df597e2",
+      "d2f4e1afd04d26",
+      "521fe672520d00",
+      "5cafa4056e0614",
+      "36a358f0481551",
+      "fcb7689dd4e50e",
+      "de2f40f9c6a104",
+      "12545fd24b58dc"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "HUBB / Hubbell 公司全面尽调：AI 数据中心电力与公用事业 T&D 双主线（研究日期：2026-05-16）",
+      "reportDate": "2026-05-16",
+      "sourcePath": "基本面/公司调研/配电_电源_功率器件/HUBB_Hubbell_公司全面尽调_2026-05-16.md",
+      "dataFile": "reports/company/HUBB.json"
+    }
+  },
+  {
+    "ticker": "LFUS",
+    "name": "Littelfuse",
+    "category": "配电_电源_功率器件",
+    "relatedIndustrySlugs": [
+      "45b65359204b8d",
+      "0d56399a2b31a9",
+      "c22bcf0abbe73c",
+      "4c8a62f9c2fc66",
+      "f112dfe1c5d069",
+      "a80f5981fe1bca",
+      "d21c252df597e2",
+      "d2f4e1afd04d26",
+      "521fe672520d00",
+      "5cafa4056e0614",
+      "36a358f0481551",
+      "fcb7689dd4e50e",
+      "de2f40f9c6a104",
+      "12545fd24b58dc"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "公司：LFUS Littelfuse, Inc. 全面尽调",
+      "reportDate": "2026-05-10",
+      "sourcePath": "基本面/公司调研/配电_电源_功率器件/LFUS_Littelfuse_全面尽调_2026-05-10.md",
+      "dataFile": "reports/company/LFUS.json"
+    }
+  },
+  {
+    "ticker": "MIELY",
+    "name": "三菱电机 Mitsubishi Electric",
+    "category": "配电_电源_功率器件",
+    "relatedIndustrySlugs": [
+      "45b65359204b8d",
+      "0d56399a2b31a9",
+      "c22bcf0abbe73c",
+      "4c8a62f9c2fc66",
+      "f112dfe1c5d069",
+      "a80f5981fe1bca",
+      "d21c252df597e2",
+      "d2f4e1afd04d26",
+      "521fe672520d00",
+      "5cafa4056e0614",
+      "36a358f0481551",
+      "fcb7689dd4e50e",
+      "de2f40f9c6a104",
+      "12545fd24b58dc"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "公司：MIELY Mitsubishi Electric Corporation（三菱电机）",
+      "reportDate": "2026-05-10",
+      "sourcePath": "基本面/公司调研/配电_电源_功率器件/MIELY_三菱电机_Mitsubishi_Electric_全面尽调_2026-05-10.md",
+      "dataFile": "reports/company/MIELY.json"
+    }
+  },
+  {
+    "ticker": "MPWR",
+    "name": "Monolithic Power Systems",
+    "category": "配电_电源_功率器件",
+    "relatedIndustrySlugs": [
+      "45b65359204b8d",
+      "0d56399a2b31a9",
+      "c22bcf0abbe73c",
+      "4c8a62f9c2fc66",
+      "f112dfe1c5d069",
+      "a80f5981fe1bca",
+      "d21c252df597e2",
+      "d2f4e1afd04d26",
+      "521fe672520d00",
+      "5cafa4056e0614",
+      "36a358f0481551",
+      "fcb7689dd4e50e",
+      "de2f40f9c6a104",
+      "12545fd24b58dc"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "公司：MPWR Monolithic Power Systems（MPS）",
+      "reportDate": "2026-05-10",
+      "sourcePath": "基本面/公司调研/配电_电源_功率器件/MPWR_Monolithic_Power_Systems_全面尽调_2026-05-10.md",
+      "dataFile": "reports/company/MPWR.json"
+    }
+  },
+  {
+    "ticker": "POWI",
+    "name": "Power Integrations",
+    "category": "配电_电源_功率器件",
+    "relatedIndustrySlugs": [
+      "45b65359204b8d",
+      "0d56399a2b31a9",
+      "c22bcf0abbe73c",
+      "4c8a62f9c2fc66",
+      "f112dfe1c5d069",
+      "a80f5981fe1bca",
+      "d21c252df597e2",
+      "d2f4e1afd04d26",
+      "521fe672520d00",
+      "5cafa4056e0614",
+      "36a358f0481551",
+      "fcb7689dd4e50e",
+      "de2f40f9c6a104",
+      "12545fd24b58dc"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "公司：POWI Power Integrations, Inc. 全面尽调",
+      "reportDate": "2026-05-10",
+      "sourcePath": "基本面/公司调研/配电_电源_功率器件/POWI_Power_Integrations_全面尽调_2026-05-10.md",
+      "dataFile": "reports/company/POWI.json"
+    }
+  },
+  {
+    "ticker": "POWL",
+    "name": "Powell Industries",
+    "category": "配电_电源_功率器件",
+    "relatedIndustrySlugs": [
+      "45b65359204b8d",
+      "0d56399a2b31a9",
+      "c22bcf0abbe73c",
+      "4c8a62f9c2fc66",
+      "f112dfe1c5d069",
+      "a80f5981fe1bca",
+      "d21c252df597e2",
+      "d2f4e1afd04d26",
+      "521fe672520d00",
+      "5cafa4056e0614",
+      "36a358f0481551",
+      "fcb7689dd4e50e",
+      "de2f40f9c6a104",
+      "12545fd24b58dc"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "公司：POWL Powell Industries, Inc. 全面尽调",
+      "reportDate": "2026-05-09",
+      "sourcePath": "基本面/公司调研/配电_电源_功率器件/POWL_Powell_Industries_全面尽调_2026-05-09.md",
+      "dataFile": "reports/company/POWL.json"
+    }
+  },
+  {
+    "ticker": "ST",
+    "name": "Sensata Technologies",
+    "category": "配电_电源_功率器件",
+    "relatedIndustrySlugs": [
+      "45b65359204b8d",
+      "0d56399a2b31a9",
+      "c22bcf0abbe73c",
+      "4c8a62f9c2fc66",
+      "f112dfe1c5d069",
+      "a80f5981fe1bca",
+      "d21c252df597e2",
+      "d2f4e1afd04d26",
+      "521fe672520d00",
+      "5cafa4056e0614",
+      "36a358f0481551",
+      "fcb7689dd4e50e",
+      "de2f40f9c6a104",
+      "12545fd24b58dc"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "公司：ST Sensata Technologies Holding plc（森萨塔科技）全面尽调",
+      "reportDate": "2026-05-10",
+      "sourcePath": "基本面/公司调研/配电_电源_功率器件/ST_Sensata_Technologies_公司尽调_2026-05-10.md",
+      "dataFile": "reports/company/ST.json"
+    }
+  },
+  {
+    "ticker": "VICR",
+    "name": "Vicor Corporation",
+    "category": "配电_电源_功率器件",
+    "relatedIndustrySlugs": [
+      "45b65359204b8d",
+      "0d56399a2b31a9",
+      "c22bcf0abbe73c",
+      "4c8a62f9c2fc66",
+      "f112dfe1c5d069",
+      "a80f5981fe1bca",
+      "d21c252df597e2",
+      "d2f4e1afd04d26",
+      "521fe672520d00",
+      "5cafa4056e0614",
+      "36a358f0481551",
+      "fcb7689dd4e50e",
+      "de2f40f9c6a104",
+      "12545fd24b58dc"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "VICR Vicor Corporation 全面尽调",
+      "reportDate": "2026-05-10",
+      "sourcePath": "基本面/公司调研/配电_电源_功率器件/VICR_Vicor_Corporation_全面尽调_2026-05-10.md",
+      "dataFile": "reports/company/VICR.json"
+    }
+  },
+  {
+    "ticker": "VSH",
+    "name": "Vishay Intertechnology",
+    "category": "配电_电源_功率器件",
+    "relatedIndustrySlugs": [
+      "45b65359204b8d",
+      "0d56399a2b31a9",
+      "c22bcf0abbe73c",
+      "4c8a62f9c2fc66",
+      "f112dfe1c5d069",
+      "a80f5981fe1bca",
+      "d21c252df597e2",
+      "d2f4e1afd04d26",
+      "521fe672520d00",
+      "5cafa4056e0614",
+      "36a358f0481551",
+      "fcb7689dd4e50e",
+      "de2f40f9c6a104",
+      "12545fd24b58dc"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "Vishay Intertechnology（VSH）公司调研：AI电源树里的分立半导体与被动元件供应商",
+      "reportDate": "2026-05-23",
+      "sourcePath": "基本面/公司调研/配电_电源_功率器件/VSH_Vishay_Intertechnology_公司调研_2026-05-23.md",
+      "dataFile": "reports/company/VSH.json"
+    }
+  },
+  {
+    "ticker": "WOLF",
+    "name": "Wolfspeed",
+    "category": "配电_电源_功率器件",
+    "relatedIndustrySlugs": [
+      "45b65359204b8d",
+      "0d56399a2b31a9",
+      "c22bcf0abbe73c",
+      "4c8a62f9c2fc66",
+      "f112dfe1c5d069",
+      "a80f5981fe1bca",
+      "d21c252df597e2",
+      "d2f4e1afd04d26",
+      "521fe672520d00",
+      "5cafa4056e0614",
+      "36a358f0481551",
+      "fcb7689dd4e50e",
+      "de2f40f9c6a104",
+      "12545fd24b58dc"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "WOLF Wolfspeed, Inc. 全面尽调",
+      "reportDate": "2026-05-10",
+      "sourcePath": "基本面/公司调研/配电_电源_功率器件/WOLF_Wolfspeed_全面尽调_2026-05-10.md",
+      "dataFile": "reports/company/WOLF.json"
+    }
+  },
+  {
+    "ticker": "ETN",
+    "name": "Eaton Corporation",
+    "category": "配电_电源_功率器件",
+    "relatedIndustrySlugs": [
+      "45b65359204b8d",
+      "0d56399a2b31a9",
+      "c22bcf0abbe73c",
+      "4c8a62f9c2fc66",
+      "f112dfe1c5d069",
+      "a80f5981fe1bca",
+      "d21c252df597e2",
+      "d2f4e1afd04d26",
+      "521fe672520d00",
+      "5cafa4056e0614",
+      "36a358f0481551",
+      "fcb7689dd4e50e",
+      "de2f40f9c6a104",
+      "12545fd24b58dc"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "公司：ETN Eaton Corporation plc（伊顿）全面尽调",
+      "reportDate": "2026-05-10",
+      "sourcePath": "基本面/公司调研/配电_电源_功率器件/公司_ETN_Eaton_Corporation_全面尽调_2026-05-10.md",
+      "dataFile": "reports/company/ETN.json"
+    }
+  },
+  {
+    "ticker": "IFNNY",
+    "name": "Infineon Technologies AG 英飞凌科技",
+    "category": "配电_电源_功率器件",
+    "relatedIndustrySlugs": [
+      "45b65359204b8d",
+      "0d56399a2b31a9",
+      "c22bcf0abbe73c",
+      "4c8a62f9c2fc66",
+      "f112dfe1c5d069",
+      "a80f5981fe1bca",
+      "d21c252df597e2",
+      "d2f4e1afd04d26",
+      "521fe672520d00",
+      "5cafa4056e0614",
+      "36a358f0481551",
+      "fcb7689dd4e50e",
+      "de2f40f9c6a104",
+      "12545fd24b58dc"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "公司：IFNNY Infineon Technologies AG（英飞凌科技）全面尽调",
+      "reportDate": "2026-05-10",
+      "sourcePath": "基本面/公司调研/配电_电源_功率器件/公司_IFNNY_Infineon_Technologies_AG_英飞凌科技_全面尽调_2026-05-10.md",
+      "dataFile": "reports/company/IFNNY.json"
+    }
+  },
+  {
+    "ticker": "NVT",
+    "name": "nVent Electric",
+    "category": "配电_电源_功率器件",
+    "relatedIndustrySlugs": [
+      "45b65359204b8d",
+      "0d56399a2b31a9",
+      "c22bcf0abbe73c",
+      "4c8a62f9c2fc66",
+      "f112dfe1c5d069",
+      "a80f5981fe1bca",
+      "d21c252df597e2",
+      "d2f4e1afd04d26",
+      "521fe672520d00",
+      "5cafa4056e0614",
+      "36a358f0481551",
+      "fcb7689dd4e50e",
+      "de2f40f9c6a104",
+      "12545fd24b58dc"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "公司：NVT / nVent Electric plc 全面尽调（2026-05-16）",
+      "reportDate": "2026-05-16",
+      "sourcePath": "基本面/公司调研/配电_电源_功率器件/公司_NVT_nVent_Electric_全面尽调_2026-05-16.md",
+      "dataFile": "reports/company/NVT.json"
+    }
+  },
+  {
+    "ticker": "NVTS",
+    "name": "Navitas Semiconductor",
+    "category": "配电_电源_功率器件",
+    "relatedIndustrySlugs": [
+      "45b65359204b8d",
+      "0d56399a2b31a9",
+      "c22bcf0abbe73c",
+      "4c8a62f9c2fc66",
+      "f112dfe1c5d069",
+      "a80f5981fe1bca",
+      "d21c252df597e2",
+      "d2f4e1afd04d26",
+      "521fe672520d00",
+      "5cafa4056e0614",
+      "36a358f0481551",
+      "fcb7689dd4e50e",
+      "de2f40f9c6a104",
+      "12545fd24b58dc"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "公司：NVTS Navitas Semiconductor Corporation",
+      "reportDate": "2026-05-10",
+      "sourcePath": "基本面/公司调研/配电_电源_功率器件/公司_NVTS_Navitas_Semiconductor_全面尽调_2026-05-10.md",
+      "dataFile": "reports/company/NVTS.json"
+    }
+  },
+  {
+    "ticker": "ADBE",
+    "name": "Adobe",
+    "category": "云算力_IDC_AI软件平台",
+    "relatedIndustrySlugs": [
+      "dbba762707f9b6",
+      "0cf276aef5bf91",
+      "ec06f9c2aa5381",
+      "ab8cd799486a34",
+      "6e6c626711eae5",
+      "4d45642146e7c3",
+      "cd096ea4005cda",
+      "5275621bff96ae",
+      "28e606b87fe24a",
+      "f7ca3e4d4f0c9a",
+      "72bce2ebd6a361",
+      "7a9f231c9466e6",
+      "8d4824ca25b049",
+      "4f9cf4610ad1dc"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "公司：ADBE Adobe Inc.",
+      "reportDate": "2026-05-10",
+      "sourcePath": "基本面/公司调研/云算力_IDC_AI软件平台/ADBE_Adobe_公司全面尽调_2026-05-10.md",
+      "dataFile": "reports/company/ADBE.json"
+    }
+  },
+  {
+    "ticker": "AMZN",
+    "name": "Amazon",
+    "category": "云算力_IDC_AI软件平台",
+    "relatedIndustrySlugs": [
+      "dbba762707f9b6",
+      "0cf276aef5bf91",
+      "ec06f9c2aa5381",
+      "ab8cd799486a34",
+      "6e6c626711eae5",
+      "4d45642146e7c3",
+      "cd096ea4005cda",
+      "5275621bff96ae",
+      "28e606b87fe24a",
+      "f7ca3e4d4f0c9a",
+      "72bce2ebd6a361",
+      "7a9f231c9466e6",
+      "8d4824ca25b049",
+      "4f9cf4610ad1dc"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "公司：AMZN Amazon.com, Inc.（亚马逊）",
+      "reportDate": "2026-05-10",
+      "sourcePath": "基本面/公司调研/云算力_IDC_AI软件平台/AMZN_Amazon_全面尽调_2026-05-10.md",
+      "dataFile": "reports/company/AMZN.json"
+    }
+  },
+  {
+    "ticker": "APLD",
+    "name": "Applied Digital",
+    "category": "云算力_IDC_AI软件平台",
+    "relatedIndustrySlugs": [
+      "dbba762707f9b6",
+      "0cf276aef5bf91",
+      "ec06f9c2aa5381",
+      "ab8cd799486a34",
+      "6e6c626711eae5",
+      "4d45642146e7c3",
+      "cd096ea4005cda",
+      "5275621bff96ae",
+      "28e606b87fe24a",
+      "f7ca3e4d4f0c9a",
+      "72bce2ebd6a361",
+      "7a9f231c9466e6",
+      "8d4824ca25b049",
+      "4f9cf4610ad1dc"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "公司：APLD Applied Digital Corporation 全面尽调",
+      "reportDate": "2026-05-10",
+      "sourcePath": "基本面/公司调研/云算力_IDC_AI软件平台/APLD_Applied_Digital_全面尽调_2026-05-10.md",
+      "dataFile": "reports/company/APLD.json"
+    }
+  },
+  {
+    "ticker": "CRWD",
+    "name": "CrowdStrike",
+    "category": "云算力_IDC_AI软件平台",
+    "relatedIndustrySlugs": [
+      "dbba762707f9b6",
+      "0cf276aef5bf91",
+      "ec06f9c2aa5381",
+      "ab8cd799486a34",
+      "6e6c626711eae5",
+      "4d45642146e7c3",
+      "cd096ea4005cda",
+      "5275621bff96ae",
+      "28e606b87fe24a",
+      "f7ca3e4d4f0c9a",
+      "72bce2ebd6a361",
+      "7a9f231c9466e6",
+      "8d4824ca25b049",
+      "4f9cf4610ad1dc"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "公司：CRWD CrowdStrike Holdings, Inc. 全面尽调",
+      "reportDate": "2026-05-10",
+      "sourcePath": "基本面/公司调研/云算力_IDC_AI软件平台/CRWD_CrowdStrike_公司调研_2026-05-10.md",
+      "dataFile": "reports/company/CRWD.json"
+    }
+  },
+  {
+    "ticker": "CRWV",
+    "name": "CoreWeave",
+    "category": "云算力_IDC_AI软件平台",
+    "relatedIndustrySlugs": [
+      "dbba762707f9b6",
+      "0cf276aef5bf91",
+      "ec06f9c2aa5381",
+      "ab8cd799486a34",
+      "6e6c626711eae5",
+      "4d45642146e7c3",
+      "cd096ea4005cda",
+      "5275621bff96ae",
+      "28e606b87fe24a",
+      "f7ca3e4d4f0c9a",
+      "72bce2ebd6a361",
+      "7a9f231c9466e6",
+      "8d4824ca25b049",
+      "4f9cf4610ad1dc"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "CRWV CoreWeave 公司调研：AI 云算力、GPU 容量金融化与高杠杆扩张",
+      "reportDate": "2026-05-22",
+      "sourcePath": "基本面/公司调研/云算力_IDC_AI软件平台/CRWV_CoreWeave_公司调研_2026-05-22.md",
+      "dataFile": "reports/company/CRWV.json"
+    }
+  },
+  {
+    "ticker": "DLR",
+    "name": "Digital Realty",
+    "category": "云算力_IDC_AI软件平台",
+    "relatedIndustrySlugs": [
+      "dbba762707f9b6",
+      "0cf276aef5bf91",
+      "ec06f9c2aa5381",
+      "ab8cd799486a34",
+      "6e6c626711eae5",
+      "4d45642146e7c3",
+      "cd096ea4005cda",
+      "5275621bff96ae",
+      "28e606b87fe24a",
+      "f7ca3e4d4f0c9a",
+      "72bce2ebd6a361",
+      "7a9f231c9466e6",
+      "8d4824ca25b049",
+      "4f9cf4610ad1dc"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "公司：DLR Digital Realty Trust（Digital Realty）全面尽调",
+      "reportDate": "2026-05-10",
+      "sourcePath": "基本面/公司调研/云算力_IDC_AI软件平台/DLR_Digital Realty_全面尽调_2026-05-10.md",
+      "dataFile": "reports/company/DLR.json"
+    }
+  },
+  {
+    "ticker": "GOOGL",
+    "name": "Alphabet Inc",
+    "category": "云算力_IDC_AI软件平台",
+    "relatedIndustrySlugs": [
+      "dbba762707f9b6",
+      "0cf276aef5bf91",
+      "ec06f9c2aa5381",
+      "ab8cd799486a34",
+      "6e6c626711eae5",
+      "4d45642146e7c3",
+      "cd096ea4005cda",
+      "5275621bff96ae",
+      "28e606b87fe24a",
+      "f7ca3e4d4f0c9a",
+      "72bce2ebd6a361",
+      "7a9f231c9466e6",
+      "8d4824ca25b049",
+      "4f9cf4610ad1dc"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "公司：GOOGL Alphabet Inc.（Google）全面尽调",
+      "reportDate": "2026-05-10",
+      "sourcePath": "基本面/公司调研/云算力_IDC_AI软件平台/GOOGL_Alphabet_Inc_全面尽调_2026-05-10.md",
+      "dataFile": "reports/company/GOOGL.json"
+    }
+  },
+  {
+    "ticker": "IBM",
+    "name": "International Business Machines",
+    "category": "云算力_IDC_AI软件平台",
+    "relatedIndustrySlugs": [
+      "dbba762707f9b6",
+      "0cf276aef5bf91",
+      "ec06f9c2aa5381",
+      "ab8cd799486a34",
+      "6e6c626711eae5",
+      "4d45642146e7c3",
+      "cd096ea4005cda",
+      "5275621bff96ae",
+      "28e606b87fe24a",
+      "f7ca3e4d4f0c9a",
+      "72bce2ebd6a361",
+      "7a9f231c9466e6",
+      "8d4824ca25b049",
+      "4f9cf4610ad1dc"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "公司：IBM - International Business Machines Corporation",
+      "reportDate": "2026-05-10",
+      "sourcePath": "基本面/公司调研/云算力_IDC_AI软件平台/IBM_International_Business_Machines_全面尽调_2026-05-10.md",
+      "dataFile": "reports/company/IBM.json"
+    }
+  },
+  {
+    "ticker": "IREN",
+    "name": "IREN Limited",
+    "category": "云算力_IDC_AI软件平台",
+    "relatedIndustrySlugs": [
+      "dbba762707f9b6",
+      "0cf276aef5bf91",
+      "ec06f9c2aa5381",
+      "ab8cd799486a34",
+      "6e6c626711eae5",
+      "4d45642146e7c3",
+      "cd096ea4005cda",
+      "5275621bff96ae",
+      "28e606b87fe24a",
+      "f7ca3e4d4f0c9a",
+      "72bce2ebd6a361",
+      "7a9f231c9466e6",
+      "8d4824ca25b049",
+      "4f9cf4610ad1dc"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "公司：IREN - IREN Limited（NASDAQ: IREN）全面尽调",
+      "reportDate": "2026-05-10",
+      "sourcePath": "基本面/公司调研/云算力_IDC_AI软件平台/IREN_IREN_Limited_全面尽调_2026-05-10.md",
+      "dataFile": "reports/company/IREN.json"
+    }
+  },
+  {
+    "ticker": "META",
+    "name": "Meta Platforms",
+    "category": "云算力_IDC_AI软件平台",
+    "relatedIndustrySlugs": [
+      "dbba762707f9b6",
+      "0cf276aef5bf91",
+      "ec06f9c2aa5381",
+      "ab8cd799486a34",
+      "6e6c626711eae5",
+      "4d45642146e7c3",
+      "cd096ea4005cda",
+      "5275621bff96ae",
+      "28e606b87fe24a",
+      "f7ca3e4d4f0c9a",
+      "72bce2ebd6a361",
+      "7a9f231c9466e6",
+      "8d4824ca25b049",
+      "4f9cf4610ad1dc"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "公司：META Meta Platforms, Inc.",
+      "reportDate": "2026-05-10",
+      "sourcePath": "基本面/公司调研/云算力_IDC_AI软件平台/META_Meta_Platforms_全面尽调_2026-05-10.md",
+      "dataFile": "reports/company/META.json"
+    }
+  },
+  {
+    "ticker": "MSFT",
+    "name": "微软",
+    "category": "云算力_IDC_AI软件平台",
+    "relatedIndustrySlugs": [
+      "dbba762707f9b6",
+      "0cf276aef5bf91",
+      "ec06f9c2aa5381",
+      "ab8cd799486a34",
+      "6e6c626711eae5",
+      "4d45642146e7c3",
+      "cd096ea4005cda",
+      "5275621bff96ae",
+      "28e606b87fe24a",
+      "f7ca3e4d4f0c9a",
+      "72bce2ebd6a361",
+      "7a9f231c9466e6",
+      "8d4824ca25b049",
+      "4f9cf4610ad1dc"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "公司：MSFT Microsoft Corporation（微软）全面尽调",
+      "reportDate": "2026-05-10",
+      "sourcePath": "基本面/公司调研/云算力_IDC_AI软件平台/MSFT_微软_全面尽调_2026-05-10.md",
+      "dataFile": "reports/company/MSFT.json"
+    }
+  },
+  {
+    "ticker": "NTNX",
+    "name": "Nutanix",
+    "category": "云算力_IDC_AI软件平台",
+    "relatedIndustrySlugs": [
+      "dbba762707f9b6",
+      "0cf276aef5bf91",
+      "ec06f9c2aa5381",
+      "ab8cd799486a34",
+      "6e6c626711eae5",
+      "4d45642146e7c3",
+      "cd096ea4005cda",
+      "5275621bff96ae",
+      "28e606b87fe24a",
+      "f7ca3e4d4f0c9a",
+      "72bce2ebd6a361",
+      "7a9f231c9466e6",
+      "8d4824ca25b049",
+      "4f9cf4610ad1dc"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "公司：NTNX Nutanix 公司调研：混合多云、VMware 替代与 Agentic AI 基础设施软件的再定位",
+      "reportDate": "2026-05-30",
+      "sourcePath": "基本面/公司调研/云算力_IDC_AI软件平台/NTNX_Nutanix_公司调研_2026-05-30.md",
+      "dataFile": "reports/company/NTNX.json"
+    }
+  },
+  {
+    "ticker": "ORCL",
+    "name": "Oracle Corporation",
+    "category": "云算力_IDC_AI软件平台",
+    "relatedIndustrySlugs": [
+      "dbba762707f9b6",
+      "0cf276aef5bf91",
+      "ec06f9c2aa5381",
+      "ab8cd799486a34",
+      "6e6c626711eae5",
+      "4d45642146e7c3",
+      "cd096ea4005cda",
+      "5275621bff96ae",
+      "28e606b87fe24a",
+      "f7ca3e4d4f0c9a",
+      "72bce2ebd6a361",
+      "7a9f231c9466e6",
+      "8d4824ca25b049",
+      "4f9cf4610ad1dc"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "公司：ORCL Oracle Corporation（甲骨文）全面尽调",
+      "reportDate": "2026-05-10",
+      "sourcePath": "基本面/公司调研/云算力_IDC_AI软件平台/ORCL_Oracle_Corporation_全面尽调_2026-05-10.md",
+      "dataFile": "reports/company/ORCL.json"
+    }
+  },
+  {
+    "ticker": "BABA",
+    "name": "Alibaba 阿里巴巴",
+    "category": "云算力_IDC_AI软件平台",
+    "relatedIndustrySlugs": [
+      "dbba762707f9b6",
+      "0cf276aef5bf91",
+      "ec06f9c2aa5381",
+      "ab8cd799486a34",
+      "6e6c626711eae5",
+      "4d45642146e7c3",
+      "cd096ea4005cda",
+      "5275621bff96ae",
+      "28e606b87fe24a",
+      "f7ca3e4d4f0c9a",
+      "72bce2ebd6a361",
+      "7a9f231c9466e6",
+      "8d4824ca25b049",
+      "4f9cf4610ad1dc"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "BABA Alibaba 阿里巴巴公司调研：电商现金牛、AI Cloud 再定价与 T-Head 算力供给链",
+      "reportDate": "2026-05-22",
+      "sourcePath": "基本面/公司调研/云算力_IDC_AI软件平台/BABA_Alibaba_阿里巴巴_公司调研_2026-05-22.md",
+      "dataFile": "reports/company/BABA.json"
+    }
+  },
+  {
+    "ticker": "EQIX",
+    "name": "Equinix",
+    "category": "云算力_IDC_AI软件平台",
+    "relatedIndustrySlugs": [
+      "dbba762707f9b6",
+      "0cf276aef5bf91",
+      "ec06f9c2aa5381",
+      "ab8cd799486a34",
+      "6e6c626711eae5",
+      "4d45642146e7c3",
+      "cd096ea4005cda",
+      "5275621bff96ae",
+      "28e606b87fe24a",
+      "f7ca3e4d4f0c9a",
+      "72bce2ebd6a361",
+      "7a9f231c9466e6",
+      "8d4824ca25b049",
+      "4f9cf4610ad1dc"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "公司：EQIX Equinix",
+      "reportDate": "2026-05-10",
+      "sourcePath": "基本面/公司调研/云算力_IDC_AI软件平台/公司_EQIX_Equinix_全面尽调_2026-05-10.md",
+      "dataFile": "reports/company/EQIX.json"
+    }
+  },
+  {
+    "ticker": "NBIS",
+    "name": "Nebius Group",
+    "category": "云算力_IDC_AI软件平台",
+    "relatedIndustrySlugs": [
+      "dbba762707f9b6",
+      "0cf276aef5bf91",
+      "ec06f9c2aa5381",
+      "ab8cd799486a34",
+      "6e6c626711eae5",
+      "4d45642146e7c3",
+      "cd096ea4005cda",
+      "5275621bff96ae",
+      "28e606b87fe24a",
+      "f7ca3e4d4f0c9a",
+      "72bce2ebd6a361",
+      "7a9f231c9466e6",
+      "8d4824ca25b049",
+      "4f9cf4610ad1dc"
+    ],
+    "hasReport": true,
+    "report": {
+      "title": "公司：NBIS Nebius Group（Nebius）公司调研 2026-05-22",
+      "reportDate": "2026-05-22",
+      "sourcePath": "基本面/公司调研/云算力_IDC_AI软件平台/NBIS_Nebius_Group_公司调研_2026-05-22.md",
+      "dataFile": "reports/company/NBIS.json"
+    }
+  }
+]

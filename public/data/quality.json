@@ -1,0 +1,42 @@
+{
+  "summary": {
+    "companyIndexCount": 180,
+    "companyReportUnique": 180,
+    "industryIndexCount": 74,
+    "industryReportUnique": 74,
+    "featureFileCount": 52,
+    "rankingRuns": {
+      "crossCheck": 179,
+      "veryAggressive": 179,
+      "aggressive": 179,
+      "balanced": 179
+    },
+    "rawIndustryReportCount": 74
+  },
+  "alerts": [
+    {
+      "severity": "warn",
+      "type": "ranking-missing-crossCheck",
+      "title": "交叉检查排名未覆盖全部公司",
+      "message": "缺失 1 家：AMPX"
+    },
+    {
+      "severity": "warn",
+      "type": "ranking-missing-veryAggressive",
+      "title": "非常激进排名未覆盖全部公司",
+      "message": "缺失 1 家：AMPX"
+    },
+    {
+      "severity": "warn",
+      "type": "ranking-missing-aggressive",
+      "title": "激进排名未覆盖全部公司",
+      "message": "缺失 1 家：AMPX"
+    },
+    {
+      "severity": "warn",
+      "type": "ranking-missing-balanced",
+      "title": "平衡排名未覆盖全部公司",
+      "message": "缺失 1 家：AMPX"
+    }
+  ]
+}
