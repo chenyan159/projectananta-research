@@ -22,9 +22,13 @@ GitHub Pages should publish from:
 
 Current public URL:
 
+- `https://projectananta.com/`
+
+Fallback GitHub Pages URL:
+
 - `https://chenyan159.github.io/projectananta-research/`
 
-`projectananta.com` is not configured in the publish bundle while the domain is still registered at Cloudflare Registrar. Re-add `public/CNAME` only after the domain has been transferred to a non-Cloudflare registrar and its DNS records point to GitHub Pages.
+`projectananta.com` is configured by `public/CNAME` and `docs/CNAME`. The domain is currently registered at Cloudflare Registrar, so Cloudflare DNS is required until the domain can be transferred out after the 60-day registrar lock.
 
 ## Update Workflow
 
@@ -41,4 +45,4 @@ GitHub Pages will serve the updated `docs/` files after the push is processed.
 
 ## Cost Note
 
-This setup is intended to use GitHub Pages free hosting from a public repository. It does not require GitHub Actions for publishing and does not use Cloudflare paid features.
+This setup is intended to use GitHub Pages free hosting from a public repository. It does not require GitHub Actions for publishing. While `PROJECTANANTA.COM` remains registered at Cloudflare Registrar, it uses Cloudflare DNS only; Tunnel, Access, Workers, R2, and other paid Cloudflare products are not required.

@@ -2,16 +2,17 @@
 
 Current status as of 2026-06-03:
 
-- GitHub Pages site is live at `https://chenyan159.github.io/projectananta-research/`.
+- GitHub Pages site is live at `https://projectananta.com/` once Cloudflare DNS points to GitHub Pages.
+- Fallback URL is `https://chenyan159.github.io/projectananta-research/`.
 - `PROJECTANANTA.COM` is registered at Cloudflare Registrar.
 - RDAP registration time: `2026-06-03T07:33:25Z`.
 - RDAP status includes `client transfer prohibited`.
 - Current nameservers are `brad.ns.cloudflare.com` and `grannbo.ns.cloudflare.com`.
-- The GitHub Pages publish bundle intentionally has no `CNAME` file, so the default GitHub Pages URL does not redirect to the unresolved apex domain.
+- The GitHub Pages publish bundle includes `docs/CNAME` with `projectananta.com`.
 
 ## Earliest Transfer Window
 
-Cloudflare Registrar domains cannot use non-Cloudflare nameservers while they remain at Cloudflare Registrar. To avoid Cloudflare entirely, transfer the domain to another registrar that allows normal DNS management.
+Cloudflare Registrar domains cannot use non-Cloudflare nameservers while they remain at Cloudflare Registrar. Until transfer is possible, Cloudflare DNS is required. To avoid Cloudflare entirely later, transfer the domain to another registrar that allows normal DNS management.
 
 Because the domain was registered on `2026-06-03T07:33:25Z`, the 60-day ICANN transfer lock should clear no earlier than:
 
