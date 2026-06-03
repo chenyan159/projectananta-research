@@ -19,9 +19,12 @@ GitHub Pages should publish from:
 
 - Branch: `main`
 - Folder: `/docs`
-- Custom domain: `projectananta.com`
 
-The `docs/CNAME` file is generated from `public/CNAME`.
+Current public URL:
+
+- `https://chenyan159.github.io/projectananta-research/`
+
+`projectananta.com` is not configured in the publish bundle while the domain is still registered at Cloudflare Registrar. Re-add `public/CNAME` only after the domain has been transferred to a non-Cloudflare registrar and its DNS records point to GitHub Pages.
 
 ## Update Workflow
 
