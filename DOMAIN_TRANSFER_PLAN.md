@@ -2,13 +2,14 @@
 
 Current status as of 2026-06-03:
 
-- GitHub Pages site is live at `https://projectananta.com/` once Cloudflare DNS points to GitHub Pages.
+- GitHub Pages is configured for `projectananta.com`.
 - Fallback URL is `https://chenyan159.github.io/projectananta-research/`.
 - `PROJECTANANTA.COM` is registered at Cloudflare Registrar.
 - RDAP registration time: `2026-06-03T07:33:25Z`.
 - RDAP status includes `client transfer prohibited`.
 - Current nameservers are `brad.ns.cloudflare.com` and `grannbo.ns.cloudflare.com`.
 - The GitHub Pages publish bundle includes `docs/CNAME` with `projectananta.com`.
+- Current operating model is Cloudflare DNS only plus GitHub Pages. Cloudflare Tunnel, Access, Workers, and R2 are not required.
 
 ## Earliest Transfer Window
 
@@ -30,8 +31,14 @@ At the new registrar or DNS host, configure GitHub Pages DNS:
 @    A      185.199.109.153
 @    A      185.199.110.153
 @    A      185.199.111.153
+@    AAAA   2606:50c0:8000::153
+@    AAAA   2606:50c0:8001::153
+@    AAAA   2606:50c0:8002::153
+@    AAAA   2606:50c0:8003::153
 www  CNAME  chenyan159.github.io
 ```
+
+Use DNS-only records. Do not proxy GitHub Pages through Cloudflare unless the deployment model is deliberately changed and re-tested.
 
 Then restore the custom domain in this repo:
 
@@ -49,3 +56,5 @@ Finally, in GitHub repository settings:
 - Pages source: `main` / `/docs`
 - Custom domain: `projectananta.com`
 - Enable `Enforce HTTPS` after GitHub's DNS check passes.
+
+If GitHub Pages shows a certificate or DNS check in progress, wait and retry. Do not reintroduce Cloudflare Tunnel as a workaround for this static site.
