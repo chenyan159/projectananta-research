@@ -1,10 +1,10 @@
 {
   "summary": {
     "companyIndexCount": 180,
-    "companyReportUnique": 180,
+    "companyReportUnique": 179,
     "companyEvaluationUnique": 179,
     "industryIndexCount": 74,
-    "industryReportUnique": 74,
+    "industryReportUnique": 68,
     "featureFileCount": 52,
     "effectiveFeatureCount": 22,
     "effectiveFeatureAsOf": "2026-06-04",
@@ -24,9 +24,15 @@
       "balanced9m": 179,
       "eightS06InfoGate": 179
     },
-    "rawIndustryReportCount": 74
+    "rawIndustryReportCount": 77
   },
   "alerts": [
+    {
+      "severity": "warn",
+      "type": "company-report-missing",
+      "title": "公司索引中存在未匹配正式报告",
+      "message": "DELL"
+    },
     {
       "severity": "warn",
       "type": "company-evaluation-missing",
@@ -38,6 +44,12 @@
       "type": "ranking-missing-default",
       "title": "双源-财报事件右尾排名未覆盖全部公司",
       "message": "缺失 1 家：AMPX"
+    },
+    {
+      "severity": "info",
+      "type": "industry-report-missing",
+      "title": "行业索引中存在未匹配正式报告",
+      "message": "导管、桥架与线缆管理；商用AI加速芯片；AI-native存储与KV Cache基础设施；封装基板、中介层与RDL；先进封装材料与热界面材料；HBM与存储测试设备"
     },
     {
       "severity": "info",
