@@ -5,6 +5,8 @@
     "industryIndexCount": 74,
     "industryReportUnique": 74,
     "featureFileCount": 52,
+    "effectiveFeatureCount": 22,
+    "effectiveFeatureAsOf": "2026-06-04",
     "dailyNewsCount": 10,
     "rankingRuns": {
       "crossCheck": 179,
