@@ -20,11 +20,18 @@
       "4f9cf4610ad1dc"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "公司：DELL Dell Technologies 公司调研（2026-05-30）",
       "reportDate": "2026-05-30",
       "sourcePath": "基本面/公司调研/AI服务器_存储_EMS/DELL_Dell_Technologies_公司调研_2026-05-30.md",
       "dataFile": "reports/company/DELL.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：Dell Technologies",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/DELL_Dell_Technologies_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/DELL.json"
     }
   },
   {
@@ -48,11 +55,18 @@
       "4f9cf4610ad1dc"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "公司：FN Fabrinet",
       "reportDate": "2026-05-10",
       "sourcePath": "基本面/公司调研/AI服务器_存储_EMS/FN_Fabrinet_全面尽调_2026-05-10.md",
       "dataFile": "reports/company/FN.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：Fabrinet（FN）",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/FN_Fabrinet_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/FN.json"
     }
   },
   {
@@ -76,11 +90,18 @@
       "4f9cf4610ad1dc"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "公司：HPE Hewlett Packard Enterprise（惠普企业）",
       "reportDate": "2026-05-10",
       "sourcePath": "基本面/公司调研/AI服务器_存储_EMS/HPE_惠普企业_全面尽调_2026-05-10.md",
       "dataFile": "reports/company/HPE.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：惠普企业（HPE）",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/HPE_惠普企业_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/HPE.json"
     }
   },
   {
@@ -104,11 +125,18 @@
       "4f9cf4610ad1dc"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "公司：JBL Jabil Inc.（捷普）",
       "reportDate": "2026-05-10",
       "sourcePath": "基本面/公司调研/AI服务器_存储_EMS/JBL_Jabil_Inc_全面尽调_2026-05-10.md",
       "dataFile": "reports/company/JBL.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：Jabil Inc（JBL）",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/JBL_Jabil_Inc_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/JBL.json"
     }
   },
   {
@@ -132,11 +160,18 @@
       "4f9cf4610ad1dc"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "公司：MRAM - Everspin Technologies, Inc.",
       "reportDate": "2026-05-10",
       "sourcePath": "基本面/公司调研/AI服务器_存储_EMS/MRAM_Everspin_Technologies_全面尽调_2026-05-10.md",
       "dataFile": "reports/company/MRAM.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：Everspin Technologies（MRAM）",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/MRAM_Everspin_Technologies_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/MRAM.json"
     }
   },
   {
@@ -160,11 +195,18 @@
       "4f9cf4610ad1dc"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "NetApp（NTAP）公司调研：AI-native 存储、全闪阵列与混合云数据平台",
       "reportDate": "2026-05-30",
       "sourcePath": "基本面/公司调研/AI服务器_存储_EMS/NTAP_NetApp_公司调研_2026-05-30.md",
       "dataFile": "reports/company/NTAP.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与经营价值传导评估：NetApp（NTAP）",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/NTAP_NetApp_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/NTAP.json"
     }
   },
   {
@@ -188,11 +230,18 @@
       "4f9cf4610ad1dc"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "公司：PENG Penguin Solutions, Inc.（Penguin Solutions）",
       "reportDate": "2026-05-10",
       "sourcePath": "基本面/公司调研/AI服务器_存储_EMS/PENG_Penguin_Solutions_全面尽调_2026-05-10.md",
       "dataFile": "reports/company/PENG.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：Penguin Solutions（PENG）",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/PENG_Penguin_Solutions_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/PENG.json"
     }
   },
   {
@@ -216,11 +265,18 @@
       "4f9cf4610ad1dc"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "公司：SANM Sanmina Corporation",
       "reportDate": "2026-05-10",
       "sourcePath": "基本面/公司调研/AI服务器_存储_EMS/SANM_Sanmina_Corporation_全面尽调_2026-05-10.md",
       "dataFile": "reports/company/SANM.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：Sanmina Corporation（SANM）",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/SANM_Sanmina_Corporation_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/SANM.json"
     }
   },
   {
@@ -244,11 +300,18 @@
       "4f9cf4610ad1dc"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "公司：SMCI Super Micro Computer, Inc.（Supermicro）全面尽调",
       "reportDate": "2026-05-09",
       "sourcePath": "基本面/公司调研/AI服务器_存储_EMS/SMCI_Super_Micro_Computer_Inc_全面尽调_2026-05-09.md",
       "dataFile": "reports/company/SMCI.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：Super Micro Computer Inc（SMCI）",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/SMCI_Super_Micro_Computer_Inc_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/SMCI.json"
     }
   },
   {
@@ -272,11 +335,18 @@
       "4f9cf4610ad1dc"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "公司：STX Seagate Technology Holdings plc（希捷科技）",
       "reportDate": "2026-05-10",
       "sourcePath": "基本面/公司调研/AI服务器_存储_EMS/STX_Seagate_Technology_全面尽调_2026-05-10.md",
       "dataFile": "reports/company/STX.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：Seagate Technology (STX)",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/STX_Seagate_Technology_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/STX.json"
     }
   },
   {
@@ -300,11 +370,18 @@
       "4f9cf4610ad1dc"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "公司：WDC Western Digital（WD）全面尽调",
       "reportDate": "2026-05-10",
       "sourcePath": "基本面/公司调研/AI服务器_存储_EMS/WDC_WesternDigital_全面尽调_2026-05-10.md",
       "dataFile": "reports/company/WDC.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：Western Digital",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/WDC_WesternDigital_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/WDC.json"
     }
   },
   {
@@ -328,11 +405,18 @@
       "4f9cf4610ad1dc"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "公司：CLS Celestica Inc. 全面尽调",
       "reportDate": "2026-05-10",
       "sourcePath": "基本面/公司调研/AI服务器_存储_EMS/公司_CLS_Celestica_Inc_全面尽调_2026-05-10.md",
       "dataFile": "reports/company/CLS.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：Celestica Inc（CLS）",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/CLS_Celestica_Inc_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/CLS.json"
     }
   },
   {
@@ -356,11 +440,18 @@
       "4f9cf4610ad1dc"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "公司：FLEX Flex Ltd. 全面尽调",
       "reportDate": "2026-05-10",
       "sourcePath": "基本面/公司调研/AI服务器_存储_EMS/公司_FLEX_Flex_Ltd_全面尽调_2026-05-10.md",
       "dataFile": "reports/company/FLEX.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：Flex Ltd",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/FLEX_Flex_Ltd_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/FLEX.json"
     }
   },
   {
@@ -384,11 +475,18 @@
       "4f9cf4610ad1dc"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "公司：MU Micron Technology（美光科技）全面尽调",
       "reportDate": "2026-05-10",
       "sourcePath": "基本面/公司调研/AI服务器_存储_EMS/公司_MU_Micron_Technology_美光科技_全面尽调_2026-05-10.md",
       "dataFile": "reports/company/MU.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：Micron Technology 美光科技（MU）",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/MU_Micron_Technology_美光科技_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/MU.json"
     }
   },
   {
@@ -412,11 +510,18 @@
       "4f9cf4610ad1dc"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "公司：PSTG / Everpure PureStorage（Pure Storage / Everpure）公司调研_2026-05-30",
       "reportDate": "2026-05-30",
       "sourcePath": "基本面/公司调研/AI服务器_存储_EMS/PSTG_Everpure PureStorage_公司调研_2026-05-30.md",
       "dataFile": "reports/company/PSTG.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：Everpure PureStorage（项目代号 PSTG）",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/PSTG_Everpure_PureStorage_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/PSTG.json"
     }
   },
   {
@@ -440,11 +545,18 @@
       "4f9cf4610ad1dc"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "公司：RMBS Rambus Inc. 全面尽调",
       "reportDate": "2026-05-09",
       "sourcePath": "基本面/公司调研/AI服务器_存储_EMS/公司_RMBS_Rambus_全面尽调_2026-05-09.md",
       "dataFile": "reports/company/RMBS.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：Rambus（RMBS）",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/RMBS_Rambus_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/RMBS.json"
     }
   },
   {
@@ -468,11 +580,18 @@
       "4f9cf4610ad1dc"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "公司：SIMO Silicon Motion Technology Corporation（慧荣科技）全面尽调",
       "reportDate": "2026-05-10",
       "sourcePath": "基本面/公司调研/AI服务器_存储_EMS/公司_SIMO_Silicon_Motion_Technology_全面尽调_2026-05-10.md",
       "dataFile": "reports/company/SIMO.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：SIMO Silicon Motion Technology",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/SIMO_Silicon_Motion_Technology_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/SIMO.json"
     }
   },
   {
@@ -496,11 +615,18 @@
       "4f9cf4610ad1dc"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "公司：SNDK SanDisk",
       "reportDate": "2026-05-10",
       "sourcePath": "基本面/公司调研/AI服务器_存储_EMS/公司_SNDK_SanDisk_2026-05-10.md",
       "dataFile": "reports/company/SNDK.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：SanDisk",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/SNDK_SanDisk_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/SNDK.json"
     }
   },
   {
@@ -524,11 +650,18 @@
       "4f9cf4610ad1dc"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "ADI Analog Devices 公司调研：高性能模拟、电源与数据中心供电/光互联的 AI 基建配套公司",
       "reportDate": "2026-05-23",
       "sourcePath": "基本面/公司调研/AI计算芯片_EDA_IP_custom_ASIC/ADI_Analog_Devices_公司调研_2026-05-23.md",
       "dataFile": "reports/company/ADI.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：Analog Devices（ADI）",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/ADI_Analog_Devices_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/ADI.json"
     }
   },
   {
@@ -552,11 +685,18 @@
       "4f9cf4610ad1dc"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "AMD / Advanced Micro Devices（AMD）全面尽调：从 MI350P 企业推理到 Helios GW 级集群的二次估值重构",
       "reportDate": "2026-05-10",
       "sourcePath": "基本面/公司调研/AI计算芯片_EDA_IP_custom_ASIC/AMD_Advanced_Micro_Devices_全面尽调_2026-05-10.md",
       "dataFile": "reports/company/AMD.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：Advanced Micro Devices（AMD）",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/AMD_Advanced_Micro_Devices_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/AMD.json"
     }
   },
   {
@@ -580,11 +720,18 @@
       "4f9cf4610ad1dc"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "公司：AVGO Broadcom Inc.（博通）全面尽调",
       "reportDate": "2026-05-10",
       "sourcePath": "基本面/公司调研/AI计算芯片_EDA_IP_custom_ASIC/AVGO_Broadcom_全面尽调_2026-05-10.md",
       "dataFile": "reports/company/AVGO.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：Broadcom (AVGO)",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/AVGO_Broadcom_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/AVGO.json"
     }
   },
   {
@@ -608,11 +755,18 @@
       "4f9cf4610ad1dc"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "公司：CDNS Cadence Design Systems（Cadence / 楷登电子）全面尽调",
       "reportDate": "2026-05-10",
       "sourcePath": "基本面/公司调研/AI计算芯片_EDA_IP_custom_ASIC/CDNS_Cadence_Design_Systems_全面尽调_2026-05-10.md",
       "dataFile": "reports/company/CDNS.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：Cadence Design Systems（CDNS）",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/CDNS_Cadence_Design_Systems_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/CDNS.json"
     }
   },
   {
@@ -636,11 +790,18 @@
       "4f9cf4610ad1dc"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "公司：INTC Intel Corporation（英特尔）全面尽调",
       "reportDate": "2026-05-10",
       "sourcePath": "基本面/公司调研/AI计算芯片_EDA_IP_custom_ASIC/INTC_Intel_Corporation_英特尔_全面尽调_2026-05-10.md",
       "dataFile": "reports/company/INTC.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：Intel Corporation 英特尔（INTC）",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/INTC_Intel_Corporation_英特尔_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/INTC.json"
     }
   },
   {
@@ -664,11 +825,18 @@
       "4f9cf4610ad1dc"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "公司：MCHP Microchip Technology（Microchip Technology Incorporated）",
       "reportDate": "2026-05-10",
       "sourcePath": "基本面/公司调研/AI计算芯片_EDA_IP_custom_ASIC/MCHP_Microchip_Technology_2026-05-10.md",
       "dataFile": "reports/company/MCHP.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：Microchip Technology（MCHP）",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/MCHP_Microchip_Technology_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/MCHP.json"
     }
   },
   {
@@ -692,11 +860,18 @@
       "4f9cf4610ad1dc"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "公司：MRVL Marvell Technology 公司调研（2026-05-30）",
       "reportDate": "2026-05-30",
       "sourcePath": "基本面/公司调研/AI计算芯片_EDA_IP_custom_ASIC/MRVL_Marvell_Technology_公司调研_2026-05-30.md",
       "dataFile": "reports/company/MRVL.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：Marvell Technology（MRVL）",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/MRVL_Marvell_Technology_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/MRVL.json"
     }
   },
   {
@@ -720,11 +895,18 @@
       "4f9cf4610ad1dc"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "NVDA NVIDIA 公司调研：AI 工厂核心平台、Blackwell/Rubin 订单与供应链尽调（2026-05-23）",
       "reportDate": "2026-05-23",
       "sourcePath": "基本面/公司调研/AI计算芯片_EDA_IP_custom_ASIC/NVDA_NVIDIA_公司调研_2026-05-23.md",
       "dataFile": "reports/company/NVDA.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：NVIDIA",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/NVDA_NVIDIA_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/NVDA.json"
     }
   },
   {
@@ -748,11 +930,18 @@
       "4f9cf4610ad1dc"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "公司：ON onsemi / ON Semiconductor 全面尽调",
       "reportDate": "2026-05-10",
       "sourcePath": "基本面/公司调研/AI计算芯片_EDA_IP_custom_ASIC/ON_onsemi_全面尽调_2026-05-10.md",
       "dataFile": "reports/company/ON.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：onsemi（ON）",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/ON_onsemi_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/ON.json"
     }
   },
   {
@@ -776,11 +965,18 @@
       "4f9cf4610ad1dc"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "公司：QCOM Qualcomm Incorporated（高通）全面尽调",
       "reportDate": "2026-05-10",
       "sourcePath": "基本面/公司调研/AI计算芯片_EDA_IP_custom_ASIC/QCOM_Qualcomm_全面尽调_2026-05-10_AI数据中心更新.md",
       "dataFile": "reports/company/QCOM.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：Qualcomm（QCOM）",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/QCOM_Qualcomm_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/QCOM.json"
     }
   },
   {
@@ -804,11 +1000,18 @@
       "4f9cf4610ad1dc"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "公司：STM STMicroelectronics N.V. 全面尽调",
       "reportDate": "2026-05-10",
       "sourcePath": "基本面/公司调研/AI计算芯片_EDA_IP_custom_ASIC/STM_STMicroelectronics_全面尽调_2026-05-10.md",
       "dataFile": "reports/company/STM.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：STMicroelectronics（STM）",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/STM_STMicroelectronics_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/STM.json"
     }
   },
   {
@@ -832,11 +1035,18 @@
       "4f9cf4610ad1dc"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "公司：TXN Texas Instruments（德州仪器）",
       "reportDate": "2026-05-10",
       "sourcePath": "基本面/公司调研/AI计算芯片_EDA_IP_custom_ASIC/TXN_德州仪器_全面尽调_2026-05-10.md",
       "dataFile": "reports/company/TXN.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：德州仪器（TXN）",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/TXN_德州仪器_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/TXN.json"
     }
   },
   {
@@ -860,11 +1070,18 @@
       "4f9cf4610ad1dc"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "公司：ALAB Astera Labs",
       "reportDate": "2026-05-09",
       "sourcePath": "基本面/公司调研/AI计算芯片_EDA_IP_custom_ASIC/公司_ALAB_AsteraLabs_全面尽调_2026-05-09.md",
       "dataFile": "reports/company/ALAB.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：Astera Labs（ALAB）",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/ALAB_AsteraLabs_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/ALAB.json"
     }
   },
   {
@@ -888,11 +1105,18 @@
       "4f9cf4610ad1dc"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "公司：ARM Arm Holdings plc",
       "reportDate": "2026-05-10",
       "sourcePath": "基本面/公司调研/AI计算芯片_EDA_IP_custom_ASIC/公司_ARM_Arm_Holdings_全面尽调_2026-05-10.md",
       "dataFile": "reports/company/ARM.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：Arm Holdings",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/ARM_Arm_Holdings_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/ARM.json"
     }
   },
   {
@@ -916,11 +1140,18 @@
       "4f9cf4610ad1dc"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "公司：SNPS Synopsys",
       "reportDate": "2026-05-30",
       "sourcePath": "基本面/公司调研/AI计算芯片_EDA_IP_custom_ASIC/SNPS_Synopsys_公司调研_2026-05-30.md",
       "dataFile": "reports/company/SNPS.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：Synopsys (SNPS)",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/SNPS_Synopsys_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/SNPS.json"
     }
   },
   {
@@ -944,11 +1175,18 @@
       "4f9cf4610ad1dc"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "公司：MXL MaxLinear（MaxLinear, Inc.）",
       "reportDate": "2026-05-09",
       "sourcePath": "基本面/公司调研/AI计算芯片_EDA_IP_custom_ASIC/公司-MXL-MaxLinear-全面尽调-2026-05-09.md",
       "dataFile": "reports/company/MXL.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：MaxLinear（MXL）",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/MXL_MaxLinear_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/MXL.json"
     }
   },
   {
@@ -974,11 +1212,18 @@
       "0430f18b95662e"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "公司：ANET Arista Networks（Arista Networks, Inc.）全面尽调",
       "reportDate": "2026-05-10",
       "sourcePath": "基本面/公司调研/AI网络_光互联_连接器/ANET_Arista_Networks_全面尽调_2026-05-10.md",
       "dataFile": "reports/company/ANET.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与经营价值传导评估：Arista Networks（ANET）",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/ANET_Arista_Networks_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/ANET.json"
     }
   },
   {
@@ -1004,11 +1249,18 @@
       "0430f18b95662e"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "APH - Amphenol Corporation（安费诺）全面尽调",
       "reportDate": "2026-05-10",
       "sourcePath": "基本面/公司调研/AI网络_光互联_连接器/APH_Amphenol_安费诺_全面尽调_2026-05-10.md",
       "dataFile": "reports/company/APH.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：Amphenol 安费诺（APH）",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/APH_Amphenol_安费诺_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/APH.json"
     }
   },
   {
@@ -1034,11 +1286,18 @@
       "0430f18b95662e"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "公司：BDC Belden Inc.（Belden）全面尽调",
       "reportDate": "2026-05-10",
       "sourcePath": "基本面/公司调研/AI网络_光互联_连接器/BDC_Belden_公司调研_2026-05-10.md",
       "dataFile": "reports/company/BDC.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：Belden（BDC）",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/BDC_Belden_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/BDC.json"
     }
   },
   {
@@ -1064,11 +1323,18 @@
       "0430f18b95662e"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "公司：COHR Coherent Corp.（相干公司）全面尽调",
       "reportDate": "2026-05-09",
       "sourcePath": "基本面/公司调研/AI网络_光互联_连接器/COHR_Coherent_全面尽调_2026-05-09.md",
       "dataFile": "reports/company/COHR.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：Coherent（COHR）",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/COHR_Coherent_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/COHR.json"
     }
   },
   {
@@ -1094,11 +1360,18 @@
       "0430f18b95662e"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "公司：CRDO Credo Technology Group Holding Ltd",
       "reportDate": "2026-05-09",
       "sourcePath": "基本面/公司调研/AI网络_光互联_连接器/CRDO_Credo_Technology_Group_全面尽调_2026-05-09.md",
       "dataFile": "reports/company/CRDO.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：Credo Technology Group（CRDO）",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/CRDO_Credo_Technology_Group_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/CRDO.json"
     }
   },
   {
@@ -1124,11 +1397,18 @@
       "0430f18b95662e"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "公司：CSCO Cisco Systems 公司调研",
       "reportDate": "2026-05-23",
       "sourcePath": "基本面/公司调研/AI网络_光互联_连接器/CSCO_Cisco_Systems_公司调研_2026-05-23.md",
       "dataFile": "reports/company/CSCO.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：Cisco Systems（CSCO）",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/CSCO_Cisco_Systems_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/CSCO.json"
     }
   },
   {
@@ -1154,11 +1434,18 @@
       "0430f18b95662e"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "公司：GLW Corning Incorporated（康宁）全面尽调",
       "reportDate": "2026-05-10",
       "sourcePath": "基本面/公司调研/AI网络_光互联_连接器/GLW_Corning_公司尽调_2026-05-10.md",
       "dataFile": "reports/company/GLW.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与经营价值传导评估：Corning Incorporated（GLW）",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/GLW_Corning_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/GLW.json"
     }
   },
   {
@@ -1184,11 +1471,18 @@
       "0430f18b95662e"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "LITE / Lumentum Holdings 公司调研（2026-05-15 重做版）",
       "reportDate": "2026-05-09",
       "sourcePath": "基本面/公司调研/AI网络_光互联_连接器/LITE_Lumentum_公司调研_2026-05-09.md",
       "dataFile": "reports/company/LITE.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：Lumentum（LITE）",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/LITE_Lumentum_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/LITE.json"
     }
   },
   {
@@ -1214,11 +1508,18 @@
       "0430f18b95662e"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "公司：LWLG Lightwave Logic 公司调研（2026-05-23）",
       "reportDate": "2026-05-23",
       "sourcePath": "基本面/公司调研/AI网络_光互联_连接器/LWLG_Lightwave_Logic_公司调研_2026-05-23.md",
       "dataFile": "reports/company/LWLG.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：Lightwave Logic",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/LWLG_Lightwave_Logic_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/LWLG.json"
     }
   },
   {
@@ -1244,11 +1545,18 @@
       "0430f18b95662e"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "公司：NOK Nokia Corporation（诺基亚）",
       "reportDate": "2026-05-10",
       "sourcePath": "基本面/公司调研/AI网络_光互联_连接器/NOK_诺基亚_全面尽调_2026-05-10.md",
       "dataFile": "reports/company/NOK.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：诺基亚（NOK）",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/NOK_诺基亚_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/NOK.json"
     }
   },
   {
@@ -1274,11 +1582,18 @@
       "0430f18b95662e"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "公司：TEL TE Connectivity plc 全面尽调",
       "reportDate": "2026-05-10",
       "sourcePath": "基本面/公司调研/AI网络_光互联_连接器/TEL_TE Connectivity_全面尽调_2026-05-10.md",
       "dataFile": "reports/company/TEL.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：TE Connectivity",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/TEL_TE_Connectivity_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/TEL.json"
     }
   },
   {
@@ -1304,11 +1619,18 @@
       "0430f18b95662e"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "公司：VIAV VIAVI Solutions Inc.",
       "reportDate": "2026-05-10",
       "sourcePath": "基本面/公司调研/AI网络_光互联_连接器/VIAV_VIAVI_Solutions_全面尽调_2026-05-10.md",
       "dataFile": "reports/company/VIAV.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：VIAVI Solutions",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/VIAV_VIAVI_Solutions_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/VIAV.json"
     }
   },
   {
@@ -1334,11 +1656,18 @@
       "0430f18b95662e"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "公司：VISN Vistance Networks, Inc.",
       "reportDate": "2026-05-10",
       "sourcePath": "基本面/公司调研/AI网络_光互联_连接器/VISN_Vistance_Networks_全面尽调_2026-05-10.md",
       "dataFile": "reports/company/VISN.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：Vistance Networks (VISN)",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/VISN_Vistance_Networks_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/VISN.json"
     }
   },
   {
@@ -1364,11 +1693,18 @@
       "0430f18b95662e"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "Applied Optoelectronics, Inc.（AAOI）全面尽调",
       "reportDate": "2026-05-09",
       "sourcePath": "基本面/公司调研/AI网络_光互联_连接器/公司_AAOI_Applied_Optoelectronics_全面尽调_2026-05-09.md",
       "dataFile": "reports/company/AAOI.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：Applied Optoelectronics（AAOI）",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/AAOI_Applied_Optoelectronics_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/AAOI.json"
     }
   },
   {
@@ -1394,11 +1730,18 @@
       "0430f18b95662e"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "公司：BELFB Bel Fuse Inc. 全面尽调",
       "reportDate": "2026-05-10",
       "sourcePath": "基本面/公司调研/AI网络_光互联_连接器/公司_BELFB_Bel_Fuse_Inc_全面尽调_2026-05-10.md",
       "dataFile": "reports/company/BELFB.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：Bel Fuse Inc.（BELFB）",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/BELFB_Bel_Fuse_Inc_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/BELFB.json"
     }
   },
   {
@@ -1424,11 +1767,18 @@
       "0430f18b95662e"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "公司：CIEN Ciena Corporation",
       "reportDate": "2026-05-10",
       "sourcePath": "基本面/公司调研/AI网络_光互联_连接器/公司_CIEN_Ciena_Corporation_全面尽调_2026-05-10.md",
       "dataFile": "reports/company/CIEN.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：Ciena Corporation（CIEN）",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/CIEN_Ciena_Corporation_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/CIEN.json"
     }
   },
   {
@@ -1454,11 +1804,18 @@
       "0430f18b95662e"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "公司：MTSI MACOM Technology Solutions Holdings, Inc. 全面尽调",
       "reportDate": "2026-05-09",
       "sourcePath": "基本面/公司调研/AI网络_光互联_连接器/公司_MTSI_MACOM_Technology_Solutions_全面尽调_2026-05-09.md",
       "dataFile": "reports/company/MTSI.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：MACOM Technology Solutions (MTSI)",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/MTSI_MACOM_Technology_Solutions_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/MTSI.json"
     }
   },
   {
@@ -1484,11 +1841,18 @@
       "0430f18b95662e"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "POET Technologies（POET）公司调研_2026-05-23",
       "reportDate": "2026-05-23",
       "sourcePath": "基本面/公司调研/AI网络_光互联_连接器/POET_POET_Technologies_公司调研_2026-05-23.md",
       "dataFile": "reports/company/POET.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：POET Technologies（POET）",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/POET_POET_Technologies_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/POET.json"
     }
   },
   {
@@ -1514,11 +1878,18 @@
       "0430f18b95662e"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "公司：SITM SiTime Corporation",
       "reportDate": "2026-05-10",
       "sourcePath": "基本面/公司调研/AI网络_光互联_连接器/公司_SITM_SiTime_Corporation_全面尽调_2026-05-10.md",
       "dataFile": "reports/company/SITM.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与经营价值传导评估：SiTime Corporation（SITM）",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/SITM_SiTime_Corporation_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/SITM.json"
     }
   },
   {
@@ -1544,11 +1915,18 @@
       "0430f18b95662e"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "公司：SMTC Semtech Corporation 公司调研（2026-05-30）",
       "reportDate": "2026-05-30",
       "sourcePath": "基本面/公司调研/AI网络_光互联_连接器/SMTC_Semtech_Corporation_公司调研_2026-05-30.md",
       "dataFile": "reports/company/SMTC.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：Semtech Corporation（SMTC）",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/SMTC_Semtech_Corporation_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/SMTC.json"
     }
   },
   {
@@ -1571,11 +1949,18 @@
       "8f4c51911c6ca5"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "公司：AJNMY / 2802.T 味之素（Ajinomoto Co., Inc.）",
       "reportDate": "2026-05-10",
       "sourcePath": "基本面/公司调研/半导体材料_化学品_基板/AJNMY_味之素_Ajinomoto_公司尽调_2026-05-10.md",
       "dataFile": "reports/company/AJNMY.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：味之素 Ajinomoto（AJNMY / 2802.T）",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/AJNMY_味之素_Ajinomoto_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/AJNMY.json"
     }
   },
   {
@@ -1598,11 +1983,18 @@
       "8f4c51911c6ca5"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "公司：APD Air Products and Chemicals（空气产品公司）",
       "reportDate": "2026-05-10",
       "sourcePath": "基本面/公司调研/半导体材料_化学品_基板/APD_Air_Products_and_Chemicals_全面尽调_2026-05-10.md",
       "dataFile": "reports/company/APD.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：Air Products and Chemicals（APD）",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/APD_Air_Products_and_Chemicals_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/APD.json"
     }
   },
   {
@@ -1625,11 +2017,18 @@
       "8f4c51911c6ca5"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "公司：ASGLY - AGC Inc 公司调研（2026-05-21）",
       "reportDate": "2026-05-21",
       "sourcePath": "基本面/公司调研/半导体材料_化学品_基板/ASGLY_AGC_Inc_公司调研_2026-05-21.md",
       "dataFile": "reports/company/ASGLY.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：AGC Inc（ASGLY）",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/ASGLY_AGC_Inc_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/ASGLY.json"
     }
   },
   {
@@ -1652,11 +2051,18 @@
       "8f4c51911c6ca5"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "公司：AXTI AXT, Inc.",
       "reportDate": "2026-05-10",
       "sourcePath": "基本面/公司调研/半导体材料_化学品_基板/AXTI_AXT_Inc_全面尽调_2026-05-10.md",
       "dataFile": "reports/company/AXTI.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：AXT Inc",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/AXTI_AXT_Inc_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/AXTI.json"
     }
   },
   {
@@ -1679,11 +2085,18 @@
       "8f4c51911c6ca5"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "公司：HOCPY HOYA Corporation（HOYA株式会社）",
       "reportDate": "2026-05-10",
       "sourcePath": "基本面/公司调研/半导体材料_化学品_基板/HOCPY_HOYA_Corporation_公司调研_2026-05-10.md",
       "dataFile": "reports/company/HOCPY.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：HOYA Corporation（HOCPY）",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/HOCPY_HOYA_Corporation_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/HOCPY.json"
     }
   },
   {
@@ -1706,11 +2119,18 @@
       "8f4c51911c6ca5"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "公司：LIN Linde plc",
       "reportDate": "2026-05-10",
       "sourcePath": "基本面/公司调研/半导体材料_化学品_基板/LIN_Linde_plc_全面尽调_2026-05-10.md",
       "dataFile": "reports/company/LIN.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：Linde plc (LIN)",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/LIN_Linde_plc_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/LIN.json"
     }
   },
   {
@@ -1733,11 +2153,18 @@
       "8f4c51911c6ca5"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "公司：MMM 3M Company（3M）",
       "reportDate": "2026-05-10",
       "sourcePath": "基本面/公司调研/半导体材料_化学品_基板/MMM_3M_全面尽调_2026-05-10.md",
       "dataFile": "reports/company/MMM.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：3M（MMM）",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/MMM_3M_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/MMM.json"
     }
   },
   {
@@ -1760,11 +2187,18 @@
       "8f4c51911c6ca5"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "公司：NDSN Nordson Corporation（Nordson）公司调研（2026-05-23）",
       "reportDate": "2026-05-23",
       "sourcePath": "基本面/公司调研/半导体材料_化学品_基板/NDSN_Nordson_公司调研_2026-05-23.md",
       "dataFile": "reports/company/NDSN.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：Nordson（NDSN）",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/NDSN_Nordson_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/NDSN.json"
     }
   },
   {
@@ -1787,11 +2221,18 @@
       "8f4c51911c6ca5"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "Qnity Electronics（Q）公司调研：AI先进封装、半导体材料与高密度互连材料平台",
       "reportDate": "2026-05-21",
       "sourcePath": "基本面/公司调研/半导体材料_化学品_基板/Q_Qnity_Electronics_公司调研_2026-05-21.md",
       "dataFile": "reports/company/Q.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：Qnity Electronics（Q）",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/Q_Qnity_Electronics_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/Q.json"
     }
   },
   {
@@ -1814,11 +2255,18 @@
       "8f4c51911c6ca5"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "公司：SHECY Shin-Etsu Chemical（信越化学）",
       "reportDate": "2026-05-10",
       "sourcePath": "基本面/公司调研/半导体材料_化学品_基板/SHECY_Shin-Etsu_Chemical_信越化学_全面尽调_2026-05-10.md",
       "dataFile": "reports/company/SHECY.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：Shin-Etsu Chemical 信越化学（SHECY）",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/SHECY_Shin-Etsu_Chemical_信越化学_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/SHECY.json"
     }
   },
   {
@@ -1841,11 +2289,18 @@
       "8f4c51911c6ca5"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "SOMMY / 4005.T 住友化学（Sumitomo Chemical）公司调研_2026-05-22",
       "reportDate": "2026-05-22",
       "sourcePath": "基本面/公司调研/半导体材料_化学品_基板/SOMMY_住友化学_公司调研_2026-05-22.md",
       "dataFile": "reports/company/SOMMY.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：住友化学 Sumitomo Chemical（SOMMY / 4005.T）",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/SOMMY_住友化学_Sumitomo_Chemical_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/SOMMY.json"
     }
   },
   {
@@ -1868,11 +2323,18 @@
       "8f4c51911c6ca5"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "公司：CC The Chemours Company（科慕）全面尽调",
       "reportDate": "2026-05-10",
       "sourcePath": "基本面/公司调研/半导体材料_化学品_基板/公司_CC_The_Chemours_Company_全面尽调_2026-05-10.md",
       "dataFile": "reports/company/CC.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：The Chemours Company（CC）",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/CC_The_Chemours_Company_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/CC.json"
     }
   },
   {
@@ -1895,11 +2357,18 @@
       "8f4c51911c6ca5"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "公司：ECL Ecolab Inc.（艺康）全面尽调",
       "reportDate": "2026-05-10",
       "sourcePath": "基本面/公司调研/半导体材料_化学品_基板/公司_ECL_Ecolab_全面尽调_2026-05-10.md",
       "dataFile": "reports/company/ECL.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：Ecolab（ECL）",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/ECL_Ecolab_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/ECL.json"
     }
   },
   {
@@ -1922,11 +2391,18 @@
       "8f4c51911c6ca5"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "公司：ENTG Entegris",
       "reportDate": "2026-05-10",
       "sourcePath": "基本面/公司调研/半导体材料_化学品_基板/公司_ENTG_Entegris_全面尽调_2026-05-10.md",
       "dataFile": "reports/company/ENTG.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：Entegris（ENTG）",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/ENTG_Entegris_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/ENTG.json"
     }
   },
   {
@@ -1949,11 +2425,18 @@
       "8f4c51911c6ca5"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "公司：MTRN - Materion Corporation",
       "reportDate": "2026-05-10",
       "sourcePath": "基本面/公司调研/半导体材料_化学品_基板/公司_MTRN_Materion_全面尽调_2026-05-10.md",
       "dataFile": "reports/company/MTRN.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：Materion（MTRN）",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/MTRN_Materion_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/MTRN.json"
     }
   },
   {
@@ -1976,11 +2459,18 @@
       "8f4c51911c6ca5"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "公司：ROG Rogers Corporation（罗杰斯公司）",
       "reportDate": "2026-05-10",
       "sourcePath": "基本面/公司调研/半导体材料_化学品_基板/公司_ROG_Rogers_Corporation_全面尽调_2026-05-10.md",
       "dataFile": "reports/company/ROG.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：Rogers Corporation（ROG）",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/ROG_Rogers_Corporation_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/ROG.json"
     }
   },
   {
@@ -2004,11 +2494,18 @@
       "12545fd24b58dc"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "公司：AEP American Electric Power Company, Inc.",
       "reportDate": "2026-05-10",
       "sourcePath": "基本面/公司调研/电力_发电_能源_储能/AEP_American_Electric_Power_全面尽调_2026-05-10.md",
       "dataFile": "reports/company/AEP.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：American Electric Power（AEP）",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/AEP_American_Electric_Power_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/AEP.json"
     }
   },
   {
@@ -2032,11 +2529,18 @@
       "12545fd24b58dc"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "公司：BE Bloom Energy（Bloom Energy Corporation）全面尽调",
       "reportDate": "2026-05-10",
       "sourcePath": "基本面/公司调研/电力_发电_能源_储能/BE_Bloom_Energy_全面尽调_2026-05-10.md",
       "dataFile": "reports/company/BE.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：BE Semiconductor（BESIY）",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/BESIY_BE_Semiconductor_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/BE.json"
     }
   },
   {
@@ -2060,11 +2564,18 @@
       "12545fd24b58dc"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "公司：BWXT BWX Technologies, Inc. 全面尽调",
       "reportDate": "2026-05-10",
       "sourcePath": "基本面/公司调研/电力_发电_能源_储能/BWXT_BWX_Technologies_全面尽调_2026-05-10.md",
       "dataFile": "reports/company/BWXT.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：BWX Technologies",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/BWXT_BWX_Technologies_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/BWXT.json"
     }
   },
   {
@@ -2088,11 +2599,18 @@
       "12545fd24b58dc"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "公司：CMI Cummins Inc.（康明斯）全面尽调",
       "reportDate": "2026-05-10",
       "sourcePath": "基本面/公司调研/电力_发电_能源_储能/CMI_Cummins_Inc_全面尽调_2026-05-10.md",
       "dataFile": "reports/company/CMI.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：Cummins Inc.（CMI）",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/CMI_Cummins_Inc_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/CMI.json"
     }
   },
   {
@@ -2116,11 +2634,18 @@
       "12545fd24b58dc"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "公司：DTE DTE Energy Company",
       "reportDate": "2026-05-10",
       "sourcePath": "基本面/公司调研/电力_发电_能源_储能/DTE_DTE_Energy_Company_全面尽调_2026-05-10.md",
       "dataFile": "reports/company/DTE.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：DTE Energy Company",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/DTE_DTE_Energy_Company_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/DTE.json"
     }
   },
   {
@@ -2144,11 +2669,18 @@
       "12545fd24b58dc"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "ENS / EnerSys 公司调研：AI数据中心后备电源、TPPL与锂电增量的工业电池平台（2026-05-23）",
       "reportDate": "2026-05-23",
       "sourcePath": "基本面/公司调研/电力_发电_能源_储能/ENS_EnerSys_公司调研_2026-05-23.md",
       "dataFile": "reports/company/ENS.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：EnerSys（ENS）",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/ENS_EnerSys_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/ENS.json"
     }
   },
   {
@@ -2172,11 +2704,18 @@
       "12545fd24b58dc"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "ENPH Enphase Energy 公司调研：户用太阳能微逆与储能的周期底部，AI 数据中心 SST 是 2028 以后期权",
       "reportDate": "2026-05-22",
       "sourcePath": "基本面/公司调研/电力_发电_能源_储能/ENPH_Enphase_Energy_公司调研_2026-05-22.md",
       "dataFile": "reports/company/ENPH.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：Enphase Energy（ENPH）",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/ENPH_Enphase_Energy_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/ENPH.json"
     }
   },
   {
@@ -2200,11 +2739,18 @@
       "12545fd24b58dc"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "ET Energy Transfer LP 全面尽调",
       "reportDate": "2026-05-10",
       "sourcePath": "基本面/公司调研/电力_发电_能源_储能/ET_Energy_Transfer_LP_全面尽调_2026-05-10.md",
       "dataFile": "reports/company/ET.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：Energy Transfer LP（ET）",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/ET_Energy_Transfer_LP_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/ET.json"
     }
   },
   {
@@ -2228,11 +2774,18 @@
       "12545fd24b58dc"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "公司：ETR Entergy Corporation",
       "reportDate": "2026-05-10",
       "sourcePath": "基本面/公司调研/电力_发电_能源_储能/ETR_Entergy_Corporation_全面尽调_2026-05-10.md",
       "dataFile": "reports/company/ETR.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：Entergy Corporation（ETR）",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/ETR_Entergy_Corporation_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/ETR.json"
     }
   },
   {
@@ -2256,11 +2809,18 @@
       "12545fd24b58dc"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "公司：FCEL FuelCell Energy, Inc.",
       "reportDate": "2026-05-10",
       "sourcePath": "基本面/公司调研/电力_发电_能源_储能/FCEL_FuelCell_Energy_全面尽调_2026-05-10.md",
       "dataFile": "reports/company/FCEL.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：FuelCell Energy",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/FCEL_FuelCell_Energy_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/FCEL.json"
     }
   },
   {
@@ -2284,11 +2844,18 @@
       "12545fd24b58dc"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "GEV / GE Vernova Inc.（GE Vernova）全面尽调重做版（核验至 2026-05-15）",
       "reportDate": "2026-05-10",
       "sourcePath": "基本面/公司调研/电力_发电_能源_储能/GEV_GE_Vernova_全面尽调_2026-05-10.md",
       "dataFile": "reports/company/GEV.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：GE Vernova（GEV）",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/GEV_GE_Vernova_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/GEV.json"
     }
   },
   {
@@ -2312,11 +2879,18 @@
       "12545fd24b58dc"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "公司：GNRC Generac Holdings Inc.（Generac）全面尽调",
       "reportDate": "2026-05-10",
       "sourcePath": "基本面/公司调研/电力_发电_能源_储能/GNRC_Generac_Holdings_全面尽调_2026-05-10.md",
       "dataFile": "reports/company/GNRC.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：Generac Holdings（GNRC）",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/GNRC_Generac_Holdings_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/GNRC.json"
     }
   },
   {
@@ -2340,11 +2914,18 @@
       "12545fd24b58dc"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "公司：OKLO Oklo Inc 公司调研",
       "reportDate": "2026-05-22",
       "sourcePath": "基本面/公司调研/电力_发电_能源_储能/OKLO_Oklo_Inc_公司调研_2026-05-22.md",
       "dataFile": "reports/company/OKLO.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：Oklo Inc（OKLO）",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/OKLO_Oklo_Inc_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/OKLO.json"
     }
   },
   {
@@ -2368,11 +2949,18 @@
       "12545fd24b58dc"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "PSIX Power Solutions International（Power Solutions International, Inc.）全面尽调",
       "reportDate": "2026-05-15",
       "sourcePath": "基本面/公司调研/电力_发电_能源_储能/PSIX_Power_Solutions_International_全面尽调_2026-05-15.md",
       "dataFile": "reports/company/PSIX.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：Power Solutions International（PSIX）",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/PSIX_Power_Solutions_International_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/PSIX.json"
     }
   },
   {
@@ -2396,11 +2984,18 @@
       "12545fd24b58dc"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "公司：PWR Quanta Services, Inc. 全面尽调",
       "reportDate": "2026-05-10",
       "sourcePath": "基本面/公司调研/电力_发电_能源_储能/PWR_Quanta_Services_全面尽调_2026-05-10.md",
       "dataFile": "reports/company/PWR.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：Quanta Services（PWR）",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/PWR_Quanta_Services_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/PWR.json"
     }
   },
   {
@@ -2424,11 +3019,18 @@
       "12545fd24b58dc"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "公司：RYCEY Rolls-Royce Holdings plc",
       "reportDate": "2026-05-10",
       "sourcePath": "基本面/公司调研/电力_发电_能源_储能/RYCEY_Rolls-Royce_Holdings_全面尽调_2026-05-10.md",
       "dataFile": "reports/company/RYCEY.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：Rolls-Royce Holdings（RYCEY）",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/RYCEY_Rolls-Royce_Holdings_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/RYCEY.json"
     }
   },
   {
@@ -2452,11 +3054,18 @@
       "12545fd24b58dc"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "公司：VST Vistra Corp.",
       "reportDate": "2026-05-10",
       "sourcePath": "基本面/公司调研/电力_发电_能源_储能/VST_Vistra_Corp_全面尽调_2026-05-10.md",
       "dataFile": "reports/company/VST.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：Vistra Corp.",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/VST_Vistra_Corp_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/VST.json"
     }
   },
   {
@@ -2480,11 +3089,18 @@
       "12545fd24b58dc"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "CEG Constellation Energy 公司调研：核电、燃气与 AI 数据中心电力平台",
       "reportDate": "2026-05-21",
       "sourcePath": "基本面/公司调研/电力_发电_能源_储能/CEG_Constellation_Energy_公司调研_2026-05-21.md",
       "dataFile": "reports/company/CEG.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：Constellation Energy（CEG）",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/CEG_Constellation_Energy_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/CEG.json"
     }
   },
   {
@@ -2508,11 +3124,18 @@
       "12545fd24b58dc"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "公司：FLNC Fluence Energy, Inc.",
       "reportDate": "2026-05-09",
       "sourcePath": "基本面/公司调研/电力_发电_能源_储能/公司_FLNC_Fluence_Energy_全面尽调_2026-05-09.md",
       "dataFile": "reports/company/FLNC.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：Fluence Energy（FLNC）",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/FLNC_Fluence_Energy_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/FLNC.json"
     }
   },
   {
@@ -2536,11 +3159,18 @@
       "12545fd24b58dc"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "公司：SMR NuScale Power 公司调研",
       "reportDate": "2026-05-22",
       "sourcePath": "基本面/公司调研/电力_发电_能源_储能/SMR_NuScale_Power_公司调研_2026-05-22.md",
       "dataFile": "reports/company/SMR.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：NuScale Power",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/SMR_NuScale_Power_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/SMR.json"
     }
   },
   {
@@ -2564,12 +3194,14 @@
       "12545fd24b58dc"
     ],
     "hasReport": true,
+    "hasEvaluation": false,
     "report": {
       "title": "AMPX Amprius Technologies 公司调研 2026-06-03",
       "reportDate": "2026-06-03",
       "sourcePath": "基本面/公司调研/电力_发电_能源_储能/AMPX_Amprius_Technologies_公司调研_2026-06-03.md",
       "dataFile": "reports/company/AMPX.json"
-    }
+    },
+    "evaluation": null
   },
   {
     "ticker": "AEHR",
@@ -2591,11 +3223,18 @@
       "8f4c51911c6ca5"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "公司：AEHR - Aehr Test Systems, Inc. 全面尽调",
       "reportDate": "2026-05-10",
       "sourcePath": "基本面/公司调研/封测_检测_计量_光罩/AEHR_Aehr_Test_Systems_全面尽调_2026-05-10.md",
       "dataFile": "reports/company/AEHR.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：Aehr Test Systems（AEHR）",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/AEHR_Aehr_Test_Systems_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/AEHR.json"
     }
   },
   {
@@ -2618,11 +3257,18 @@
       "8f4c51911c6ca5"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "公司：ASX — ASE Technology Holding Co., Ltd.（日月光投控）全面尽调",
       "reportDate": "2026-05-09",
       "sourcePath": "基本面/公司调研/封测_检测_计量_光罩/ASX_ASE_Technology_Holding_全面尽调_2026-05-09.md",
       "dataFile": "reports/company/ASX.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：ASE Technology Holding",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/ASX_ASE_Technology_Holding_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/ASX.json"
     }
   },
   {
@@ -2645,11 +3291,18 @@
       "8f4c51911c6ca5"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "公司：COHU - Cohu, Inc. 全面尽调",
       "reportDate": "2026-05-10",
       "sourcePath": "基本面/公司调研/封测_检测_计量_光罩/COHU_Cohu_Inc_全面尽调_2026-05-10.md",
       "dataFile": "reports/company/COHU.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：Cohu Inc（COHU）",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/COHU_Cohu_Inc_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/COHU.json"
     }
   },
   {
@@ -2672,11 +3325,18 @@
       "8f4c51911c6ca5"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "公司：IMOS ChipMOS Technologies 南茂科技（公司调研，2026-05-22）",
       "reportDate": "2026-05-22",
       "sourcePath": "基本面/公司调研/封测_检测_计量_光罩/IMOS_ChipMOS_Technologies_南茂科技_公司调研_2026-05-22.md",
       "dataFile": "reports/company/IMOS.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：IMOS ChipMOS Technologies 南茂科技",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/IMOS_ChipMOS_Technologies_南茂科技_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/IMOS.json"
     }
   },
   {
@@ -2699,11 +3359,18 @@
       "8f4c51911c6ca5"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "KEYS_Keysight Technologies 公司调研：AI数据中心高速互连、光电验证与电子设计测试平台（2026-05-22）",
       "reportDate": "2026-05-22",
       "sourcePath": "基本面/公司调研/封测_检测_计量_光罩/KEYS_Keysight_Technologies_公司调研_2026-05-22.md",
       "dataFile": "reports/company/KEYS.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：Keysight Technologies（KEYS）",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/KEYS_Keysight_Technologies_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/KEYS.json"
     }
   },
   {
@@ -2726,11 +3393,18 @@
       "8f4c51911c6ca5"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "公司：【Kulicke & Soffa Industries, Inc.（KLIC）】全面尽调",
       "reportDate": "2026-05-09",
       "sourcePath": "基本面/公司调研/封测_检测_计量_光罩/KLIC_Kulicke_Soffa_公司调研_2026-05-09.md",
       "dataFile": "reports/company/KLIC.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：Kulicke & Soffa（KLIC）",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/KLIC_Kulicke_Soffa_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/KLIC.json"
     }
   },
   {
@@ -2753,11 +3427,18 @@
       "8f4c51911c6ca5"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "公司：MICLF / MYCR - Mycronic AB (publ) 全面尽调",
       "reportDate": "2026-05-10",
       "sourcePath": "基本面/公司调研/封测_检测_计量_光罩/MICLF_Mycronic_AB_全面尽调_2026-05-10.md",
       "dataFile": "reports/company/MICLF.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：Mycronic AB（MICLF / MYCR）",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/MICLF_Mycronic_AB_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/MICLF.json"
     }
   },
   {
@@ -2780,11 +3461,18 @@
       "8f4c51911c6ca5"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "ONTO / Onto Innovation Inc. 全面尽调（2026-05-15）",
       "reportDate": "2026-05-09",
       "sourcePath": "基本面/公司调研/封测_检测_计量_光罩/ONTO_Onto_Innovation_全面尽调_2026-05-09.md",
       "dataFile": "reports/company/ONTO.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：Onto Innovation（ONTO）",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/ONTO_Onto_Innovation_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/ONTO.json"
     }
   },
   {
@@ -2807,11 +3495,18 @@
       "8f4c51911c6ca5"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "公司：PLAB Photronics 公司调研 2026-05-30",
       "reportDate": "2026-05-30",
       "sourcePath": "基本面/公司调研/封测_检测_计量_光罩/PLAB_Photronics_公司调研_2026-05-30.md",
       "dataFile": "reports/company/PLAB.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：Photronics（PLAB）",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/PLAB_Photronics_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/PLAB.json"
     }
   },
   {
@@ -2834,11 +3529,18 @@
       "8f4c51911c6ca5"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "公司：TDY Teledyne Technologies Incorporated",
       "reportDate": "2026-05-10",
       "sourcePath": "基本面/公司调研/封测_检测_计量_光罩/TDY_Teledyne_Technologies_全面尽调_2026-05-10.md",
       "dataFile": "reports/company/TDY.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：Teledyne Technologies（TDY）",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/TDY_Teledyne_Technologies_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/TDY.json"
     }
   },
   {
@@ -2861,11 +3563,18 @@
       "8f4c51911c6ca5"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "TMO — Thermo Fisher Scientific（赛默飞世尔科技）全面尽调",
       "reportDate": "2026-05-10",
       "sourcePath": "基本面/公司调研/封测_检测_计量_光罩/TMO_Thermo_Fisher_Scientific_全面尽调_2026-05-10.md",
       "dataFile": "reports/company/TMO.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：Thermo Fisher Scientific（TMO）",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/TMO_Thermo_Fisher_Scientific_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/TMO.json"
     }
   },
   {
@@ -2888,11 +3597,18 @@
       "8f4c51911c6ca5"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "公司：AMKR Amkor Technology, Inc. 全面尽调",
       "reportDate": "2026-05-10",
       "sourcePath": "基本面/公司调研/封测_检测_计量_光罩/公司_AMKR_Amkor_Technology_全面尽调_2026-05-10.md",
       "dataFile": "reports/company/AMKR.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：Amkor Technology（AMKR）",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/AMKR_Amkor_Technology_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/AMKR.json"
     }
   },
   {
@@ -2915,11 +3631,18 @@
       "8f4c51911c6ca5"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "CAMT Camtek 公司调研 2026-05-22",
       "reportDate": "2026-05-22",
       "sourcePath": "基本面/公司调研/封测_检测_计量_光罩/CAMT_Camtek_公司调研_2026-05-22.md",
       "dataFile": "reports/company/CAMT.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：Camtek（CAMT）",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/CAMT_Camtek_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/CAMT.json"
     }
   },
   {
@@ -2942,11 +3665,18 @@
       "8f4c51911c6ca5"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "公司：FORM FormFactor Inc.（FormFactor）全面尽调",
       "reportDate": "2026-05-09",
       "sourcePath": "基本面/公司调研/封测_检测_计量_光罩/公司_FORM_FormFactor_全面尽调_2026-05-09.md",
       "dataFile": "reports/company/FORM.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：FormFactor（FORM）",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/FORM_FormFactor_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/FORM.json"
     }
   },
   {
@@ -2969,11 +3699,18 @@
       "8f4c51911c6ca5"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "TER / Teradyne, Inc. 全面尽调（2026-05-16 最高思考重做版）",
       "reportDate": "2026-05-16",
       "sourcePath": "基本面/公司调研/封测_检测_计量_光罩/公司_TER_Teradyne_全面尽调_2026-05-16.md",
       "dataFile": "reports/company/TER.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：Teradyne (TER)",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/TER_Teradyne_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/TER.json"
     }
   },
   {
@@ -2996,11 +3733,18 @@
       "8f4c51911c6ca5"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "ATEYY / Advantest 公司调研：AI/HPC 测试设备龙头的 HBM4 与定制 ASIC 杠杆（2026-05-31）",
       "reportDate": "2026-05-31",
       "sourcePath": "基本面/公司调研/封测_检测_计量_光罩/ATEYY_Advantest_公司调研_2026-05-31.md",
       "dataFile": "reports/company/ATEYY.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：Advantest（ATEYY）",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/ATEYY_Advantest_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/ATEYY.json"
     }
   },
   {
@@ -3023,11 +3767,18 @@
       "8f4c51911c6ca5"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "公司：ASMVY ASMPT 公司调研 2026-05-31",
       "reportDate": "2026-05-31",
       "sourcePath": "基本面/公司调研/封测_检测_计量_光罩/ASMVY_ASMPT_公司调研_2026-05-31.md",
       "dataFile": "reports/company/ASMVY.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：ASMPT（ASMVY）",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/ASMVY_ASMPT_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/ASMVY.json"
     }
   },
   {
@@ -3050,11 +3801,18 @@
       "8f4c51911c6ca5"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "BESIY / BE Semiconductor（Besi）公司调研：AI先进封装设备、混合键合与TCB周期拐点（2026-05-31）",
       "reportDate": "2026-05-31",
       "sourcePath": "基本面/公司调研/封测_检测_计量_光罩/BESIY_BE_Semiconductor_公司调研_2026-05-31.md",
       "dataFile": "reports/company/BESIY.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：BE Semiconductor（BESIY）",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/BESIY_BE_Semiconductor_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/BESIY.json"
     }
   },
   {
@@ -3078,11 +3836,18 @@
       "12545fd24b58dc"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "公司：ALLE Allegion plc",
       "reportDate": "2026-05-10",
       "sourcePath": "基本面/公司调研/机电_冷却_工程_水处理_边缘工业AI/ALLE_Allegion_plc_全面尽调_2026-05-10.md",
       "dataFile": "reports/company/ALLE.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：Allegion plc（ALLE）",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/ALLE_Allegion_plc_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/ALLE.json"
     }
   },
   {
@@ -3106,11 +3871,18 @@
       "12545fd24b58dc"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "公司：CARR Carrier Global Corporation（开利全球）",
       "reportDate": "2026-05-10",
       "sourcePath": "基本面/公司调研/机电_冷却_工程_水处理_边缘工业AI/CARR_Carrier_Global_全面尽调_2026-05-10.md",
       "dataFile": "reports/company/CARR.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：Carrier Global（CARR）",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/CARR_Carrier_Global_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/CARR.json"
     }
   },
   {
@@ -3134,11 +3906,18 @@
       "12545fd24b58dc"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "公司：CAT Caterpillar Inc. 公司全面尽调：AI 数据中心电力把“周期机械股”重定价为物理 AI 基建供应商",
       "reportDate": "2026-05-10",
       "sourcePath": "基本面/公司调研/机电_冷却_工程_水处理_边缘工业AI/CAT_Caterpillar_Inc_公司尽调_2026-05-10.md",
       "dataFile": "reports/company/CAT.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：Caterpillar Inc",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/CAT_Caterpillar_Inc_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/CAT.json"
     }
   },
   {
@@ -3162,11 +3941,18 @@
       "12545fd24b58dc"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "公司：DCI Donaldson Company, Inc.（Donaldson）",
       "reportDate": "2026-05-10",
       "sourcePath": "基本面/公司调研/机电_冷却_工程_水处理_边缘工业AI/DCI_Donaldson_Company_公司尽调_2026-05-10.md",
       "dataFile": "reports/company/DCI.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：Donaldson Company（DCI）",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/DCI_Donaldson_Company_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/DCI.json"
     }
   },
   {
@@ -3190,11 +3976,18 @@
       "12545fd24b58dc"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "公司：FIX Comfort Systems USA",
       "reportDate": "2026-05-10",
       "sourcePath": "基本面/公司调研/机电_冷却_工程_水处理_边缘工业AI/FIX_Comfort_Systems_USA_2026-05-10.md",
       "dataFile": "reports/company/FIX.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：Comfort Systems USA（FIX）",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/FIX_Comfort_Systems_USA_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/FIX.json"
     }
   },
   {
@@ -3218,11 +4011,18 @@
       "12545fd24b58dc"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "公司：FTV Fortive Corporation",
       "reportDate": "2026-05-10",
       "sourcePath": "基本面/公司调研/机电_冷却_工程_水处理_边缘工业AI/FTV_Fortive_Corporation_全面尽调_2026-05-10.md",
       "dataFile": "reports/company/FTV.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：Fortive Corporation（FTV）",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/FTV_Fortive_Corporation_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/FTV.json"
     }
   },
   {
@@ -3246,11 +4046,18 @@
       "12545fd24b58dc"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "公司：MSI Motorola Solutions（摩托罗拉解决方案）",
       "reportDate": "2026-05-10",
       "sourcePath": "基本面/公司调研/机电_冷却_工程_水处理_边缘工业AI/MSI_Motorola_Solutions_全面尽调_2026-05-10.md",
       "dataFile": "reports/company/MSI.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：Motorola Solutions（MSI）",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/MSI_Motorola_Solutions_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/MSI.json"
     }
   },
   {
@@ -3274,11 +4081,18 @@
       "12545fd24b58dc"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "公司：PH Parker-Hannifin Corporation（派克汉尼汾）",
       "reportDate": "2026-05-10",
       "sourcePath": "基本面/公司调研/机电_冷却_工程_水处理_边缘工业AI/PH_Parker-Hannifin_公司尽调_2026-05-10.md",
       "dataFile": "reports/company/PH.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：Parker-Hannifin（PH）",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/PH_Parker-Hannifin_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/PH.json"
     }
   },
   {
@@ -3302,11 +4116,18 @@
       "12545fd24b58dc"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "PNR - Pentair plc 公司全面尽调",
       "reportDate": "2026-05-10",
       "sourcePath": "基本面/公司调研/机电_冷却_工程_水处理_边缘工业AI/PNR_Pentair_plc_全面尽调_2026-05-10.md",
       "dataFile": "reports/company/PNR.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：Pentair plc (PNR)",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/PNR_Pentair_plc_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/PNR.json"
     }
   },
   {
@@ -3330,11 +4151,18 @@
       "12545fd24b58dc"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "公司：RKLB Rocket Lab Corporation",
       "reportDate": "2026-05-11",
       "sourcePath": "基本面/公司调研/机电_冷却_工程_水处理_边缘工业AI/RKLB_Rocket_Lab_全面尽调_2026-05-11.md",
       "dataFile": "reports/company/RKLB.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：Rocket Lab（RKLB）",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/RKLB_Rocket_Lab_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/RKLB.json"
     }
   },
   {
@@ -3358,11 +4186,18 @@
       "12545fd24b58dc"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "公司：TSLA Tesla, Inc.（特斯拉）全面尽调",
       "reportDate": "2026-05-10",
       "sourcePath": "基本面/公司调研/机电_冷却_工程_水处理_边缘工业AI/TSLA_Tesla_公司全面尽调_2026-05-10.md",
       "dataFile": "reports/company/TSLA.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：Tesla（TSLA）",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/TSLA_Tesla_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/TSLA.json"
     }
   },
   {
@@ -3386,11 +4221,18 @@
       "12545fd24b58dc"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "TT Trane Technologies（特灵科技）公司调研（2026-05-16）",
       "reportDate": "2026-05-16",
       "sourcePath": "基本面/公司调研/机电_冷却_工程_水处理_边缘工业AI/TT_Trane_Technologies_公司调研_2026-05-16.md",
       "dataFile": "reports/company/TT.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：Trane Technologies（TT）",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/TT_Trane_Technologies_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/TT.json"
     }
   },
   {
@@ -3414,11 +4256,18 @@
       "12545fd24b58dc"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "公司：VRT - Vertiv Holdings Co 全面尽调",
       "reportDate": "2026-05-09",
       "sourcePath": "基本面/公司调研/机电_冷却_工程_水处理_边缘工业AI/VRT_Vertiv_全面尽调_2026-05-09.md",
       "dataFile": "reports/company/VRT.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：Vertiv",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/VRT_Vertiv_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/VRT.json"
     }
   },
   {
@@ -3442,11 +4291,18 @@
       "12545fd24b58dc"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "公司：DOV Dover Corporation（Dover）",
       "reportDate": "2026-05-10",
       "sourcePath": "基本面/公司调研/机电_冷却_工程_水处理_边缘工业AI/公司_DOV_Dover_Corporation_全面尽调_2026-05-10.md",
       "dataFile": "reports/company/DOV.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：Dover Corporation（DOV）",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/DOV_Dover_Corporation_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/DOV.json"
     }
   },
   {
@@ -3470,11 +4326,18 @@
       "12545fd24b58dc"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "公司：JCI Johnson Controls International plc",
       "reportDate": "2026-05-10",
       "sourcePath": "基本面/公司调研/机电_冷却_工程_水处理_边缘工业AI/公司_JCI_Johnson_Controls_全面尽调_2026-05-10.md",
       "dataFile": "reports/company/JCI.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：Johnson Controls（JCI）",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/JCI_Johnson_Controls_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/JCI.json"
     }
   },
   {
@@ -3498,11 +4361,18 @@
       "12545fd24b58dc"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "Modine Manufacturing（MOD）公司调研_2026-05-30",
       "reportDate": "2026-05-30",
       "sourcePath": "基本面/公司调研/机电_冷却_工程_水处理_边缘工业AI/MOD_Modine_Manufacturing_公司调研_2026-05-30.md",
       "dataFile": "reports/company/MOD.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：Modine Manufacturing（MOD）",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/MOD_Modine_Manufacturing_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/MOD.json"
     }
   },
   {
@@ -3526,11 +4396,18 @@
       "12545fd24b58dc"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "AAON（AAON）公司调研：从半定制 HVAC 到 AI 数据中心热管理产能股（2026-05-31）",
       "reportDate": "2026-05-31",
       "sourcePath": "基本面/公司调研/机电_冷却_工程_水处理_边缘工业AI/AAON_AAON_公司调研_2026-05-31.md",
       "dataFile": "reports/company/AAON.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：AAON",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/AAON_AAON_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/AAON.json"
     }
   },
   {
@@ -3554,11 +4431,18 @@
       "12545fd24b58dc"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "公司：IESC IES Holdings - AI 数据中心 MEP、通信基础设施与定制电力设备公司调研（2026-05-31）",
       "reportDate": "2026-05-31",
       "sourcePath": "基本面/公司调研/机电_冷却_工程_水处理_边缘工业AI/IESC_IES Holdings_公司调研_2026-05-31.md",
       "dataFile": "reports/company/IESC.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：IES Holdings（IESC）",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/IESC_IES_Holdings_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/IESC.json"
     }
   },
   {
@@ -3582,11 +4466,18 @@
       "12545fd24b58dc"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "公司：EME EMCOR Group",
       "reportDate": "2026-05-31",
       "sourcePath": "基本面/公司调研/机电_冷却_工程_水处理_边缘工业AI/EME_EMCOR_Group_公司调研_2026-05-31.md",
       "dataFile": "reports/company/EME.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：EMCOR Group",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/EME_EMCOR_Group_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/EME.json"
     }
   },
   {
@@ -3610,11 +4501,18 @@
       "12545fd24b58dc"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "MYRG_MYR Group：电力工程与数据中心电气施工的 AI 基建间接受益公司",
       "reportDate": "2026-05-31",
       "sourcePath": "基本面/公司调研/机电_冷却_工程_水处理_边缘工业AI/MYRG_MYR Group_公司调研_2026-05-31.md",
       "dataFile": "reports/company/MYRG.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：MYR Group（MYRG）",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/MYRG_MYR_Group_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/MYRG.json"
     }
   },
   {
@@ -3637,11 +4535,18 @@
       "8f4c51911c6ca5"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "公司：ACLS Axcelis Technologies",
       "reportDate": "2026-05-10",
       "sourcePath": "基本面/公司调研/晶圆制造_前道设备/ACLS_Axcelis_Technologies_全面尽调_2026-05-10.md",
       "dataFile": "reports/company/ACLS.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：Axcelis Technologies（ACLS）",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/ACLS_Axcelis_Technologies_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/ACLS.json"
     }
   },
   {
@@ -3664,11 +4569,18 @@
       "8f4c51911c6ca5"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "公司：ACMR ACM Research（盛美半导体）全面尽调",
       "reportDate": "2026-05-10",
       "sourcePath": "基本面/公司调研/晶圆制造_前道设备/ACMR_ACM_Research_全面尽调_2026-05-10.md",
       "dataFile": "reports/company/ACMR.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：ACM Research（ACMR）",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/ACMR_ACM_Research_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/ACMR.json"
     }
   },
   {
@@ -3691,11 +4603,18 @@
       "8f4c51911c6ca5"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "公司：AMAT Applied Materials 公司调研 2026-05-22",
       "reportDate": "2026-05-22",
       "sourcePath": "基本面/公司调研/晶圆制造_前道设备/AMAT_Applied Materials_公司调研_2026-05-22.md",
       "dataFile": "reports/company/AMAT.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：Applied Materials（AMAT）",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/AMAT_Applied_Materials_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/AMAT.json"
     }
   },
   {
@@ -3718,11 +4637,18 @@
       "8f4c51911c6ca5"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "公司：ASMIY / ASM International N.V.",
       "reportDate": "2026-05-10",
       "sourcePath": "基本面/公司调研/晶圆制造_前道设备/ASMIY_ASM_International_公司尽调_2026-05-10.md",
       "dataFile": "reports/company/ASMIY.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：ASM International（ASMIY）",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/ASMIY_ASM_International_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/ASMIY.json"
     }
   },
   {
@@ -3745,11 +4671,18 @@
       "8f4c51911c6ca5"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "公司：ASML / ASML Holding N.V.（ASML）",
       "reportDate": "2026-05-10",
       "sourcePath": "基本面/公司调研/晶圆制造_前道设备/ASML_ASML_Holding_NV_公司调研_2026-05-10.md",
       "dataFile": "reports/company/ASML.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：ASML Holding NV",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/ASML_ASML_Holding_NV_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/ASML.json"
     }
   },
   {
@@ -3772,11 +4705,18 @@
       "8f4c51911c6ca5"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "公司：DSCSY / DISCO Corporation（迪思科）",
       "reportDate": "2026-05-10",
       "sourcePath": "基本面/公司调研/晶圆制造_前道设备/DSCSY_DISCO_全面尽调_2026-05-10.md",
       "dataFile": "reports/company/DSCSY.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：DSCSY / DISCO",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/DSCSY_DISCO_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/DSCSY.json"
     }
   },
   {
@@ -3799,11 +4739,18 @@
       "8f4c51911c6ca5"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "公司：GFS GlobalFoundries",
       "reportDate": "2026-05-10",
       "sourcePath": "基本面/公司调研/晶圆制造_前道设备/GFS_GlobalFoundries_全面尽调_2026-05-10.md",
       "dataFile": "reports/company/GFS.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：GlobalFoundries (GFS)",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/GFS_GlobalFoundries_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/GFS.json"
     }
   },
   {
@@ -3826,11 +4773,18 @@
       "8f4c51911c6ca5"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "公司：KLAC KLA Corporation（KLA，科磊）全面尽调",
       "reportDate": "2026-05-10",
       "sourcePath": "基本面/公司调研/晶圆制造_前道设备/KLAC_KLA_Corporation_全面尽调_2026-05-10.md",
       "dataFile": "reports/company/KLAC.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：KLA Corporation",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/KLAC_KLA_Corporation_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/KLAC.json"
     }
   },
   {
@@ -3853,11 +4807,18 @@
       "8f4c51911c6ca5"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "公司：LRCX Lam Research（泛林集团）全面尽调",
       "reportDate": "2026-05-10",
       "sourcePath": "基本面/公司调研/晶圆制造_前道设备/LRCX_Lam_Research_全面尽调_2026-05-10.md",
       "dataFile": "reports/company/LRCX.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：Lam Research（LRCX）",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/LRCX_Lam_Research_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/LRCX.json"
     }
   },
   {
@@ -3880,11 +4841,18 @@
       "8f4c51911c6ca5"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "MKSI - MKS Inc. 公司全面尽调",
       "reportDate": "2026-05-10",
       "sourcePath": "基本面/公司调研/晶圆制造_前道设备/MKSI_MKS_Inc_全面尽调_2026-05-10.md",
       "dataFile": "reports/company/MKSI.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：MKS Inc（MKSI）",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/MKSI_MKS_Inc_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/MKSI.json"
     }
   },
   {
@@ -3907,11 +4875,18 @@
       "8f4c51911c6ca5"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "公司：TSEM Tower Semiconductor 公司调研 2026-05-22",
       "reportDate": "2026-05-22",
       "sourcePath": "基本面/公司调研/晶圆制造_前道设备/TSEM_Tower_Semiconductor_公司调研_2026-05-22.md",
       "dataFile": "reports/company/TSEM.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：Tower Semiconductor（TSEM）",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/TSEM_Tower_Semiconductor_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/TSEM.json"
     }
   },
   {
@@ -3934,11 +4909,18 @@
       "8f4c51911c6ca5"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "公司：TSM 台积电（Taiwan Semiconductor Manufacturing Company）",
       "reportDate": "2026-05-10",
       "sourcePath": "基本面/公司调研/晶圆制造_前道设备/TSM_台积电_全面尽调_2026-05-10.md",
       "dataFile": "reports/company/TSM.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：台积电（TSM）",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/TSM_台积电_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/TSM.json"
     }
   },
   {
@@ -3961,11 +4943,18 @@
       "8f4c51911c6ca5"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "公司：UCTT Ultra Clean Holdings, Inc.（Ultra Clean / UCT）",
       "reportDate": "2026-05-10",
       "sourcePath": "基本面/公司调研/晶圆制造_前道设备/UCTT_Ultra_Clean_Holdings_全面尽调_2026-05-10.md",
       "dataFile": "reports/company/UCTT.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：Ultra Clean Holdings（UCTT）",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/UCTT_Ultra_Clean_Holdings_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/UCTT.json"
     }
   },
   {
@@ -3988,11 +4977,18 @@
       "8f4c51911c6ca5"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "公司：UMC - United Microelectronics Corporation（联华电子）全面尽调",
       "reportDate": "2026-05-10",
       "sourcePath": "基本面/公司调研/晶圆制造_前道设备/UMC_United_Microelectronics_联华电子_全面尽调_2026-05-10.md",
       "dataFile": "reports/company/UMC.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：United Microelectronics 联华电子（UMC）",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/UMC_United_Microelectronics_联华电子_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/UMC.json"
     }
   },
   {
@@ -4015,11 +5011,18 @@
       "8f4c51911c6ca5"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "公司：VECO Veeco Instruments Inc. 全面尽调",
       "reportDate": "2026-05-10",
       "sourcePath": "基本面/公司调研/晶圆制造_前道设备/VECO_Veeco_Instruments_全面尽调_2026-05-10.md",
       "dataFile": "reports/company/VECO.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：Veeco Instruments（VECO）",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/VECO_Veeco_Instruments_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/VECO.json"
     }
   },
   {
@@ -4042,11 +5045,18 @@
       "8f4c51911c6ca5"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "公司：ICHR Ichor Holdings, Ltd.",
       "reportDate": "2026-05-10",
       "sourcePath": "基本面/公司调研/晶圆制造_前道设备/公司_ICHR_Ichor_Holdings_2026-05-10.md",
       "dataFile": "reports/company/ICHR.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：Ichor Holdings（ICHR）",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/ICHR_Ichor_Holdings_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/ICHR.json"
     }
   },
   {
@@ -4069,11 +5079,18 @@
       "8f4c51911c6ca5"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "NVMI Nova Ltd 公司调研：先进过程控制/材料计量在 AI 芯片制造中的高弹性标的",
       "reportDate": "2026-05-22",
       "sourcePath": "基本面/公司调研/晶圆制造_前道设备/NVMI_Nova_Ltd_公司调研_2026-05-22.md",
       "dataFile": "reports/company/NVMI.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：Nova Ltd",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/NVMI_Nova_Ltd_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/NVMI.json"
     }
   },
   {
@@ -4097,11 +5114,18 @@
       "12545fd24b58dc"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "公司：ABBNY ABB Ltd（ABB）全面尽调",
       "reportDate": "2026-05-10",
       "sourcePath": "基本面/公司调研/配电_电源_功率器件/ABBNY_ABB_Ltd_全面尽调_2026-05-10.md",
       "dataFile": "reports/company/ABBNY.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：ABB Ltd（ABBNY）",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/ABBNY_ABB_Ltd_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/ABBNY.json"
     }
   },
   {
@@ -4125,11 +5149,18 @@
       "12545fd24b58dc"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "公司：AOSL Alpha and Omega Semiconductor Limited",
       "reportDate": "2026-05-09",
       "sourcePath": "基本面/公司调研/配电_电源_功率器件/AOSL_Alpha_and_Omega_Semiconductor_全面尽调_2026-05-09.md",
       "dataFile": "reports/company/AOSL.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：Alpha and Omega Semiconductor（AOSL）",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/AOSL_Alpha_and_Omega_Semiconductor_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/AOSL.json"
     }
   },
   {
@@ -4153,11 +5184,18 @@
       "12545fd24b58dc"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "公司：ATKR Atkore Inc.（Atkore）",
       "reportDate": "2026-05-10",
       "sourcePath": "基本面/公司调研/配电_电源_功率器件/ATKR_Atkore_全面尽调_2026-05-10.md",
       "dataFile": "reports/company/ATKR.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：Atkore（ATKR）",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/ATKR_Atkore_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/ATKR.json"
     }
   },
   {
@@ -4181,11 +5219,18 @@
       "12545fd24b58dc"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "公司：DIOD Diodes Incorporated（Diodes Inc.）全面尽调",
       "reportDate": "2026-05-10",
       "sourcePath": "基本面/公司调研/配电_电源_功率器件/DIOD_Diodes_Incorporated_全面尽调_2026-05-10.md",
       "dataFile": "reports/company/DIOD.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：Diodes Incorporated（DIOD）",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/DIOD_Diodes_Incorporated_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/DIOD.json"
     }
   },
   {
@@ -4209,11 +5254,18 @@
       "12545fd24b58dc"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "HUBB / Hubbell 公司全面尽调：AI 数据中心电力与公用事业 T&D 双主线（研究日期：2026-05-16）",
       "reportDate": "2026-05-16",
       "sourcePath": "基本面/公司调研/配电_电源_功率器件/HUBB_Hubbell_公司全面尽调_2026-05-16.md",
       "dataFile": "reports/company/HUBB.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与经营价值传导评估：Hubbell（HUBB）",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/HUBB_Hubbell_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/HUBB.json"
     }
   },
   {
@@ -4237,11 +5289,18 @@
       "12545fd24b58dc"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "公司：LFUS Littelfuse, Inc. 全面尽调",
       "reportDate": "2026-05-10",
       "sourcePath": "基本面/公司调研/配电_电源_功率器件/LFUS_Littelfuse_全面尽调_2026-05-10.md",
       "dataFile": "reports/company/LFUS.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：Littelfuse (LFUS)",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/LFUS_Littelfuse_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/LFUS.json"
     }
   },
   {
@@ -4265,11 +5324,18 @@
       "12545fd24b58dc"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "公司：MIELY Mitsubishi Electric Corporation（三菱电机）",
       "reportDate": "2026-05-10",
       "sourcePath": "基本面/公司调研/配电_电源_功率器件/MIELY_三菱电机_Mitsubishi_Electric_全面尽调_2026-05-10.md",
       "dataFile": "reports/company/MIELY.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：三菱电机 Mitsubishi Electric（MIELY）",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/MIELY_三菱电机_Mitsubishi_Electric_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/MIELY.json"
     }
   },
   {
@@ -4293,11 +5359,18 @@
       "12545fd24b58dc"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "公司：MPWR Monolithic Power Systems（MPS）",
       "reportDate": "2026-05-10",
       "sourcePath": "基本面/公司调研/配电_电源_功率器件/MPWR_Monolithic_Power_Systems_全面尽调_2026-05-10.md",
       "dataFile": "reports/company/MPWR.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：Monolithic Power Systems（MPWR）",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/MPWR_Monolithic_Power_Systems_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/MPWR.json"
     }
   },
   {
@@ -4321,11 +5394,18 @@
       "12545fd24b58dc"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "公司：POWI Power Integrations, Inc. 全面尽调",
       "reportDate": "2026-05-10",
       "sourcePath": "基本面/公司调研/配电_电源_功率器件/POWI_Power_Integrations_全面尽调_2026-05-10.md",
       "dataFile": "reports/company/POWI.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：Power Integrations (POWI)",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/POWI_Power_Integrations_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/POWI.json"
     }
   },
   {
@@ -4349,11 +5429,18 @@
       "12545fd24b58dc"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "公司：POWL Powell Industries, Inc. 全面尽调",
       "reportDate": "2026-05-09",
       "sourcePath": "基本面/公司调研/配电_电源_功率器件/POWL_Powell_Industries_全面尽调_2026-05-09.md",
       "dataFile": "reports/company/POWL.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：Powell Industries（POWL）",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/POWL_Powell_Industries_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/POWL.json"
     }
   },
   {
@@ -4377,11 +5464,18 @@
       "12545fd24b58dc"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "公司：ST Sensata Technologies Holding plc（森萨塔科技）全面尽调",
       "reportDate": "2026-05-10",
       "sourcePath": "基本面/公司调研/配电_电源_功率器件/ST_Sensata_Technologies_公司尽调_2026-05-10.md",
       "dataFile": "reports/company/ST.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与经营价值传导评估：Sensata Technologies（ST）",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/ST_Sensata_Technologies_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/ST.json"
     }
   },
   {
@@ -4405,11 +5499,18 @@
       "12545fd24b58dc"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "VICR Vicor Corporation 全面尽调",
       "reportDate": "2026-05-10",
       "sourcePath": "基本面/公司调研/配电_电源_功率器件/VICR_Vicor_Corporation_全面尽调_2026-05-10.md",
       "dataFile": "reports/company/VICR.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：Vicor Corporation (VICR)",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/VICR_Vicor_Corporation_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/VICR.json"
     }
   },
   {
@@ -4433,11 +5534,18 @@
       "12545fd24b58dc"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "Vishay Intertechnology（VSH）公司调研：AI电源树里的分立半导体与被动元件供应商",
       "reportDate": "2026-05-23",
       "sourcePath": "基本面/公司调研/配电_电源_功率器件/VSH_Vishay_Intertechnology_公司调研_2026-05-23.md",
       "dataFile": "reports/company/VSH.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与经营价值传导评估：Vishay Intertechnology（VSH）",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/VSH_Vishay_Intertechnology_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/VSH.json"
     }
   },
   {
@@ -4461,11 +5569,18 @@
       "12545fd24b58dc"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "WOLF Wolfspeed, Inc. 全面尽调",
       "reportDate": "2026-05-10",
       "sourcePath": "基本面/公司调研/配电_电源_功率器件/WOLF_Wolfspeed_全面尽调_2026-05-10.md",
       "dataFile": "reports/company/WOLF.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：Wolfspeed",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/WOLF_Wolfspeed_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/WOLF.json"
     }
   },
   {
@@ -4489,11 +5604,18 @@
       "12545fd24b58dc"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "公司：ETN Eaton Corporation plc（伊顿）全面尽调",
       "reportDate": "2026-05-10",
       "sourcePath": "基本面/公司调研/配电_电源_功率器件/公司_ETN_Eaton_Corporation_全面尽调_2026-05-10.md",
       "dataFile": "reports/company/ETN.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与经营价值传导评估：Eaton Corporation（ETN）",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/ETN_Eaton_Corporation_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/ETN.json"
     }
   },
   {
@@ -4517,11 +5639,18 @@
       "12545fd24b58dc"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "公司：IFNNY Infineon Technologies AG（英飞凌科技）全面尽调",
       "reportDate": "2026-05-10",
       "sourcePath": "基本面/公司调研/配电_电源_功率器件/公司_IFNNY_Infineon_Technologies_AG_英飞凌科技_全面尽调_2026-05-10.md",
       "dataFile": "reports/company/IFNNY.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：Infineon Technologies AG 英飞凌科技（IFNNY）",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/IFNNY_Infineon_Technologies_AG_英飞凌科技_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/IFNNY.json"
     }
   },
   {
@@ -4545,11 +5674,18 @@
       "12545fd24b58dc"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "公司：NVT / nVent Electric plc 全面尽调（2026-05-16）",
       "reportDate": "2026-05-16",
       "sourcePath": "基本面/公司调研/配电_电源_功率器件/公司_NVT_nVent_Electric_全面尽调_2026-05-16.md",
       "dataFile": "reports/company/NVT.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：nVent Electric（NVT）",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/NVT_nVent_Electric_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/NVT.json"
     }
   },
   {
@@ -4573,11 +5709,18 @@
       "12545fd24b58dc"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "公司：NVTS Navitas Semiconductor Corporation",
       "reportDate": "2026-05-10",
       "sourcePath": "基本面/公司调研/配电_电源_功率器件/公司_NVTS_Navitas_Semiconductor_全面尽调_2026-05-10.md",
       "dataFile": "reports/company/NVTS.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：Navitas Semiconductor（NVTS）",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/NVTS_Navitas_Semiconductor_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/NVTS.json"
     }
   },
   {
@@ -4601,11 +5744,18 @@
       "4f9cf4610ad1dc"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "公司：ADBE Adobe Inc.",
       "reportDate": "2026-05-10",
       "sourcePath": "基本面/公司调研/云算力_IDC_AI软件平台/ADBE_Adobe_公司全面尽调_2026-05-10.md",
       "dataFile": "reports/company/ADBE.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：Adobe",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/ADBE_Adobe_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/ADBE.json"
     }
   },
   {
@@ -4629,11 +5779,18 @@
       "4f9cf4610ad1dc"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "公司：AMZN Amazon.com, Inc.（亚马逊）",
       "reportDate": "2026-05-10",
       "sourcePath": "基本面/公司调研/云算力_IDC_AI软件平台/AMZN_Amazon_全面尽调_2026-05-10.md",
       "dataFile": "reports/company/AMZN.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：Amazon（AMZN）",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/AMZN_Amazon_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/AMZN.json"
     }
   },
   {
@@ -4657,11 +5814,18 @@
       "4f9cf4610ad1dc"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "公司：APLD Applied Digital Corporation 全面尽调",
       "reportDate": "2026-05-10",
       "sourcePath": "基本面/公司调研/云算力_IDC_AI软件平台/APLD_Applied_Digital_全面尽调_2026-05-10.md",
       "dataFile": "reports/company/APLD.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：Applied Digital（APLD）",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/APLD_Applied_Digital_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/APLD.json"
     }
   },
   {
@@ -4685,11 +5849,18 @@
       "4f9cf4610ad1dc"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "公司：CRWD CrowdStrike Holdings, Inc. 全面尽调",
       "reportDate": "2026-05-10",
       "sourcePath": "基本面/公司调研/云算力_IDC_AI软件平台/CRWD_CrowdStrike_公司调研_2026-05-10.md",
       "dataFile": "reports/company/CRWD.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：CrowdStrike",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/CRWD_CrowdStrike_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/CRWD.json"
     }
   },
   {
@@ -4713,11 +5884,18 @@
       "4f9cf4610ad1dc"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "CRWV CoreWeave 公司调研：AI 云算力、GPU 容量金融化与高杠杆扩张",
       "reportDate": "2026-05-22",
       "sourcePath": "基本面/公司调研/云算力_IDC_AI软件平台/CRWV_CoreWeave_公司调研_2026-05-22.md",
       "dataFile": "reports/company/CRWV.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：CoreWeave（CRWV）",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/CRWV_CoreWeave_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/CRWV.json"
     }
   },
   {
@@ -4741,11 +5919,18 @@
       "4f9cf4610ad1dc"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "公司：DLR Digital Realty Trust（Digital Realty）全面尽调",
       "reportDate": "2026-05-10",
       "sourcePath": "基本面/公司调研/云算力_IDC_AI软件平台/DLR_Digital Realty_全面尽调_2026-05-10.md",
       "dataFile": "reports/company/DLR.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：Digital Realty（DLR）",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/DLR_Digital_Realty_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/DLR.json"
     }
   },
   {
@@ -4769,11 +5954,18 @@
       "4f9cf4610ad1dc"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "公司：GOOGL Alphabet Inc.（Google）全面尽调",
       "reportDate": "2026-05-10",
       "sourcePath": "基本面/公司调研/云算力_IDC_AI软件平台/GOOGL_Alphabet_Inc_全面尽调_2026-05-10.md",
       "dataFile": "reports/company/GOOGL.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：Alphabet Inc（GOOGL）",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/GOOGL_Alphabet_Inc_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/GOOGL.json"
     }
   },
   {
@@ -4797,11 +5989,18 @@
       "4f9cf4610ad1dc"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "公司：IBM - International Business Machines Corporation",
       "reportDate": "2026-05-10",
       "sourcePath": "基本面/公司调研/云算力_IDC_AI软件平台/IBM_International_Business_Machines_全面尽调_2026-05-10.md",
       "dataFile": "reports/company/IBM.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：International Business Machines (IBM)",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/IBM_International_Business_Machines_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/IBM.json"
     }
   },
   {
@@ -4825,11 +6024,18 @@
       "4f9cf4610ad1dc"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "公司：IREN - IREN Limited（NASDAQ: IREN）全面尽调",
       "reportDate": "2026-05-10",
       "sourcePath": "基本面/公司调研/云算力_IDC_AI软件平台/IREN_IREN_Limited_全面尽调_2026-05-10.md",
       "dataFile": "reports/company/IREN.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：IREN Limited",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/IREN_IREN_Limited_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/IREN.json"
     }
   },
   {
@@ -4853,11 +6059,18 @@
       "4f9cf4610ad1dc"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "公司：META Meta Platforms, Inc.",
       "reportDate": "2026-05-10",
       "sourcePath": "基本面/公司调研/云算力_IDC_AI软件平台/META_Meta_Platforms_全面尽调_2026-05-10.md",
       "dataFile": "reports/company/META.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：Meta Platforms",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/META_Meta_Platforms_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/META.json"
     }
   },
   {
@@ -4881,11 +6094,18 @@
       "4f9cf4610ad1dc"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "公司：MSFT Microsoft Corporation（微软）全面尽调",
       "reportDate": "2026-05-10",
       "sourcePath": "基本面/公司调研/云算力_IDC_AI软件平台/MSFT_微软_全面尽调_2026-05-10.md",
       "dataFile": "reports/company/MSFT.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：微软",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/MSFT_微软_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/MSFT.json"
     }
   },
   {
@@ -4909,11 +6129,18 @@
       "4f9cf4610ad1dc"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "公司：NTNX Nutanix 公司调研：混合多云、VMware 替代与 Agentic AI 基础设施软件的再定位",
       "reportDate": "2026-05-30",
       "sourcePath": "基本面/公司调研/云算力_IDC_AI软件平台/NTNX_Nutanix_公司调研_2026-05-30.md",
       "dataFile": "reports/company/NTNX.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：Nutanix（NTNX）",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/NTNX_Nutanix_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/NTNX.json"
     }
   },
   {
@@ -4937,11 +6164,18 @@
       "4f9cf4610ad1dc"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "公司：ORCL Oracle Corporation（甲骨文）全面尽调",
       "reportDate": "2026-05-10",
       "sourcePath": "基本面/公司调研/云算力_IDC_AI软件平台/ORCL_Oracle_Corporation_全面尽调_2026-05-10.md",
       "dataFile": "reports/company/ORCL.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：Oracle Corporation（ORCL）",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/ORCL_Oracle_Corporation_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/ORCL.json"
     }
   },
   {
@@ -4965,11 +6199,18 @@
       "4f9cf4610ad1dc"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "BABA Alibaba 阿里巴巴公司调研：电商现金牛、AI Cloud 再定价与 T-Head 算力供给链",
       "reportDate": "2026-05-22",
       "sourcePath": "基本面/公司调研/云算力_IDC_AI软件平台/BABA_Alibaba_阿里巴巴_公司调研_2026-05-22.md",
       "dataFile": "reports/company/BABA.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：Alibaba 阿里巴巴 (BABA)",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/BABA_Alibaba_阿里巴巴_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/BABA.json"
     }
   },
   {
@@ -4993,11 +6234,18 @@
       "4f9cf4610ad1dc"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "公司：EQIX Equinix",
       "reportDate": "2026-05-10",
       "sourcePath": "基本面/公司调研/云算力_IDC_AI软件平台/公司_EQIX_Equinix_全面尽调_2026-05-10.md",
       "dataFile": "reports/company/EQIX.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：Equinix（EQIX）",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/EQIX_Equinix_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/EQIX.json"
     }
   },
   {
@@ -5021,11 +6269,18 @@
       "4f9cf4610ad1dc"
     ],
     "hasReport": true,
+    "hasEvaluation": true,
     "report": {
       "title": "公司：NBIS Nebius Group（Nebius）公司调研 2026-05-22",
       "reportDate": "2026-05-22",
       "sourcePath": "基本面/公司调研/云算力_IDC_AI软件平台/NBIS_Nebius_Group_公司调研_2026-05-22.md",
       "dataFile": "reports/company/NBIS.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：Nebius Group（NBIS）",
+      "reportDate": "2026-06-01",
+      "sourcePath": "基本面/分析报告/公司评估/NBIS_Nebius_Group_收入传导估值评估_2026-06-01.md",
+      "dataFile": "reports/company-evaluation/NBIS.json"
     }
   }
 ]

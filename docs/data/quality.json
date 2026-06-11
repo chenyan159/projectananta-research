@@ -2,6 +2,7 @@
   "summary": {
     "companyIndexCount": 180,
     "companyReportUnique": 180,
+    "companyEvaluationUnique": 179,
     "industryIndexCount": 74,
     "industryReportUnique": 74,
     "featureFileCount": 52,
@@ -9,349 +10,346 @@
     "effectiveFeatureAsOf": "2026-06-04",
     "dailyNewsCount": 10,
     "rankingRuns": {
-      "crossCheck": 179,
+      "dualEventRightTail": 179,
+      "eightS08Antifragile": 179,
+      "eightS10RiskMomentum": 179,
       "veryAggressive": 179,
-      "aggressive": 179,
-      "balanced": 179
+      "dualAggressiveGrowth": 179,
+      "minimalR22": 179,
+      "simple01RevenueStep": 172,
+      "simple17CompanyEval": 179,
+      "twelveS04CounterEvidence": 180,
+      "twelveS02Realization": 180,
+      "twelveS03RiskReward": 180,
+      "balanced9m": 179,
+      "eightS06InfoGate": 179
     },
     "rawIndustryReportCount": 74
   },
   "alerts": [
     {
       "severity": "warn",
-      "type": "ranking-missing-crossCheck",
-      "title": "交叉检查排名未覆盖全部公司",
-      "message": "缺失 1 家：AMPX"
+      "type": "company-evaluation-missing",
+      "title": "公司索引中存在未匹配公司评估",
+      "message": "AMPX"
     },
     {
       "severity": "warn",
-      "type": "ranking-missing-veryAggressive",
-      "title": "非常激进排名未覆盖全部公司",
-      "message": "缺失 1 家：AMPX"
-    },
-    {
-      "severity": "warn",
-      "type": "ranking-missing-aggressive",
-      "title": "激进排名未覆盖全部公司",
-      "message": "缺失 1 家：AMPX"
-    },
-    {
-      "severity": "warn",
-      "type": "ranking-missing-balanced",
-      "title": "平衡排名未覆盖全部公司",
+      "type": "ranking-missing-default",
+      "title": "双源-财报事件右尾排名未覆盖全部公司",
       "message": "缺失 1 家：AMPX"
     },
     {
       "severity": "info",
       "type": "feature-coverage-F01",
-      "title": "F01 覆盖数与平衡排名不同",
-      "message": "AI收益暴露纯度: 180 行，平衡排名 179 行"
+      "title": "F01 覆盖数与默认公司排序不同",
+      "message": "AI收益暴露纯度: 180 行，默认公司排序 179 行"
     },
     {
       "severity": "info",
       "type": "feature-coverage-F02",
-      "title": "F02 覆盖数与平衡排名不同",
-      "message": "产业链关键节点度: 180 行，平衡排名 179 行"
+      "title": "F02 覆盖数与默认公司排序不同",
+      "message": "产业链关键节点度: 180 行，默认公司排序 179 行"
     },
     {
       "severity": "info",
       "type": "feature-coverage-F03",
-      "title": "F03 覆盖数与平衡排名不同",
-      "message": "认知差与重估空间: 180 行，平衡排名 179 行"
+      "title": "F03 覆盖数与默认公司排序不同",
+      "message": "认知差与重估空间: 180 行，默认公司排序 179 行"
     },
     {
       "severity": "info",
       "type": "feature-coverage-F04",
-      "title": "F04 覆盖数与平衡排名不同",
-      "message": "已披露业绩动能: 180 行，平衡排名 179 行"
+      "title": "F04 覆盖数与默认公司排序不同",
+      "message": "已披露业绩动能: 180 行，默认公司排序 179 行"
     },
     {
       "severity": "info",
       "type": "feature-coverage-F05",
-      "title": "F05 覆盖数与平衡排名不同",
-      "message": "当前估值赔率: 180 行，平衡排名 179 行"
+      "title": "F05 覆盖数与默认公司排序不同",
+      "message": "当前估值赔率: 180 行，默认公司排序 179 行"
     },
     {
       "severity": "info",
       "type": "feature-coverage-F06",
-      "title": "F06 覆盖数与平衡排名不同",
-      "message": "同业历史估值分位: 180 行，平衡排名 179 行"
+      "title": "F06 覆盖数与默认公司排序不同",
+      "message": "同业历史估值分位: 180 行，默认公司排序 179 行"
     },
     {
       "severity": "info",
       "type": "feature-coverage-F07",
-      "title": "F07 覆盖数与平衡排名不同",
-      "message": "估值隐含增长压力: 180 行，平衡排名 179 行"
+      "title": "F07 覆盖数与默认公司排序不同",
+      "message": "估值隐含增长压力: 180 行，默认公司排序 179 行"
     },
     {
       "severity": "info",
       "type": "feature-coverage-F08",
-      "title": "F08 覆盖数与平衡排名不同",
-      "message": "财务承压可控性: 180 行，平衡排名 179 行"
+      "title": "F08 覆盖数与默认公司排序不同",
+      "message": "财务承压可控性: 180 行，默认公司排序 179 行"
     },
     {
       "severity": "info",
       "type": "feature-coverage-F09",
-      "title": "F09 覆盖数与平衡排名不同",
-      "message": "现金流转换质量: 180 行，平衡排名 179 行"
+      "title": "F09 覆盖数与默认公司排序不同",
+      "message": "现金流转换质量: 180 行，默认公司排序 179 行"
     },
     {
       "severity": "info",
       "type": "feature-coverage-F10",
-      "title": "F10 覆盖数与平衡排名不同",
-      "message": "1-3月收入兑现信号: 180 行，平衡排名 179 行"
+      "title": "F10 覆盖数与默认公司排序不同",
+      "message": "1-3月收入兑现信号: 180 行，默认公司排序 179 行"
     },
     {
       "severity": "info",
       "type": "feature-coverage-F11",
-      "title": "F11 覆盖数与平衡排名不同",
-      "message": "3-6月收入加速信号: 180 行，平衡排名 179 行"
+      "title": "F11 覆盖数与默认公司排序不同",
+      "message": "3-6月收入加速信号: 180 行，默认公司排序 179 行"
     },
     {
       "severity": "info",
       "type": "feature-coverage-F12",
-      "title": "F12 覆盖数与平衡排名不同",
-      "message": "6-12月收入台阶信号: 180 行，平衡排名 179 行"
+      "title": "F12 覆盖数与默认公司排序不同",
+      "message": "6-12月收入台阶信号: 180 行，默认公司排序 179 行"
     },
     {
       "severity": "info",
       "type": "feature-coverage-F13",
-      "title": "F13 覆盖数与平衡排名不同",
-      "message": "1-3月利润兑现信号: 180 行，平衡排名 179 行"
+      "title": "F13 覆盖数与默认公司排序不同",
+      "message": "1-3月利润兑现信号: 180 行，默认公司排序 179 行"
     },
     {
       "severity": "info",
       "type": "feature-coverage-F14",
-      "title": "F14 覆盖数与平衡排名不同",
-      "message": "3-6月利润率改善信号: 180 行，平衡排名 179 行"
+      "title": "F14 覆盖数与默认公司排序不同",
+      "message": "3-6月利润率改善信号: 180 行，默认公司排序 179 行"
     },
     {
       "severity": "info",
       "type": "feature-coverage-F15",
-      "title": "F15 覆盖数与平衡排名不同",
-      "message": "6-12月利润台阶信号: 180 行，平衡排名 179 行"
+      "title": "F15 覆盖数与默认公司排序不同",
+      "message": "6-12月利润台阶信号: 180 行，默认公司排序 179 行"
     },
     {
       "severity": "info",
       "type": "feature-coverage-F16",
-      "title": "F16 覆盖数与平衡排名不同",
-      "message": "1-3月交付承接能力: 180 行，平衡排名 179 行"
+      "title": "F16 覆盖数与默认公司排序不同",
+      "message": "1-3月交付承接能力: 180 行，默认公司排序 179 行"
     },
     {
       "severity": "info",
       "type": "feature-coverage-F17",
-      "title": "F17 覆盖数与平衡排名不同",
-      "message": "3-6月产能释放能力: 180 行，平衡排名 179 行"
+      "title": "F17 覆盖数与默认公司排序不同",
+      "message": "3-6月产能释放能力: 180 行，默认公司排序 179 行"
     },
     {
       "severity": "info",
       "type": "feature-coverage-F18",
-      "title": "F18 覆盖数与平衡排名不同",
-      "message": "6-12月产能台阶能力: 180 行，平衡排名 179 行"
+      "title": "F18 覆盖数与默认公司排序不同",
+      "message": "6-12月产能台阶能力: 180 行，默认公司排序 179 行"
     },
     {
       "severity": "info",
       "type": "feature-coverage-F19",
-      "title": "F19 覆盖数与平衡排名不同",
-      "message": "核心产品商业化阶段: 180 行，平衡排名 179 行"
+      "title": "F19 覆盖数与默认公司排序不同",
+      "message": "核心产品商业化阶段: 180 行，默认公司排序 179 行"
     },
     {
       "severity": "info",
       "type": "feature-coverage-F20",
-      "title": "F20 覆盖数与平衡排名不同",
-      "message": "下一代平台适配度: 180 行，平衡排名 179 行"
+      "title": "F20 覆盖数与默认公司排序不同",
+      "message": "下一代平台适配度: 180 行，默认公司排序 179 行"
     },
     {
       "severity": "info",
       "type": "feature-coverage-F21",
-      "title": "F21 覆盖数与平衡排名不同",
-      "message": "功能瓶颈强度: 180 行，平衡排名 179 行"
+      "title": "F21 覆盖数与默认公司排序不同",
+      "message": "功能瓶颈强度: 180 行，默认公司排序 179 行"
     },
     {
       "severity": "info",
       "type": "feature-coverage-F22",
-      "title": "F22 覆盖数与平衡排名不同",
-      "message": "技术稀缺与复制难度: 180 行，平衡排名 179 行"
+      "title": "F22 覆盖数与默认公司排序不同",
+      "message": "技术稀缺与复制难度: 180 行，默认公司排序 179 行"
     },
     {
       "severity": "info",
       "type": "feature-coverage-F23",
-      "title": "F23 覆盖数与平衡排名不同",
-      "message": "技术路线主流概率: 180 行，平衡排名 179 行"
+      "title": "F23 覆盖数与默认公司排序不同",
+      "message": "技术路线主流概率: 180 行，默认公司排序 179 行"
     },
     {
       "severity": "info",
       "type": "feature-coverage-F24",
-      "title": "F24 覆盖数与平衡排名不同",
-      "message": "单位负载价值量: 180 行，平衡排名 179 行"
+      "title": "F24 覆盖数与默认公司排序不同",
+      "message": "单位负载价值量: 180 行，默认公司排序 179 行"
     },
     {
       "severity": "info",
       "type": "feature-coverage-F25",
-      "title": "F25 覆盖数与平衡排名不同",
-      "message": "需求到收入链条清晰度: 180 行，平衡排名 179 行"
+      "title": "F25 覆盖数与默认公司排序不同",
+      "message": "需求到收入链条清晰度: 180 行，默认公司排序 179 行"
     },
     {
       "severity": "info",
       "type": "feature-coverage-F26",
-      "title": "F26 覆盖数与平衡排名不同",
-      "message": "细分行业空间弹性: 180 行，平衡排名 179 行"
+      "title": "F26 覆盖数与默认公司排序不同",
+      "message": "细分行业空间弹性: 180 行，默认公司排序 179 行"
     },
     {
       "severity": "info",
       "type": "feature-coverage-F27",
-      "title": "F27 覆盖数与平衡排名不同",
-      "message": "AI capex收益弹性: 180 行，平衡排名 179 行"
+      "title": "F27 覆盖数与默认公司排序不同",
+      "message": "AI capex收益弹性: 180 行，默认公司排序 179 行"
     },
     {
       "severity": "info",
       "type": "feature-coverage-F28",
-      "title": "F28 覆盖数与平衡排名不同",
-      "message": "客户层级质量: 180 行，平衡排名 179 行"
+      "title": "F28 覆盖数与默认公司排序不同",
+      "message": "客户层级质量: 180 行，默认公司排序 179 行"
     },
     {
       "severity": "info",
       "type": "feature-coverage-F29",
-      "title": "F29 覆盖数与平衡排名不同",
-      "message": "客户切换成本: 180 行，平衡排名 179 行"
+      "title": "F29 覆盖数与默认公司排序不同",
+      "message": "客户切换成本: 180 行，默认公司排序 179 行"
     },
     {
       "severity": "info",
       "type": "feature-coverage-F30",
-      "title": "F30 覆盖数与平衡排名不同",
-      "message": "收入可见度: 180 行，平衡排名 179 行"
+      "title": "F30 覆盖数与默认公司排序不同",
+      "message": "收入可见度: 180 行，默认公司排序 179 行"
     },
     {
       "severity": "info",
       "type": "feature-coverage-F31",
-      "title": "F31 覆盖数与平衡排名不同",
-      "message": "订单刚性与可确认性: 180 行，平衡排名 179 行"
+      "title": "F31 覆盖数与默认公司排序不同",
+      "message": "订单刚性与可确认性: 180 行，默认公司排序 179 行"
     },
     {
       "severity": "info",
       "type": "feature-coverage-F32",
-      "title": "F32 覆盖数与平衡排名不同",
-      "message": "订单下修风险可控性: 180 行，平衡排名 179 行"
+      "title": "F32 覆盖数与默认公司排序不同",
+      "message": "订单下修风险可控性: 180 行，默认公司排序 179 行"
     },
     {
       "severity": "info",
       "type": "feature-coverage-F33",
-      "title": "F33 覆盖数与平衡排名不同",
-      "message": "市场供给紧张度: 180 行，平衡排名 179 行"
+      "title": "F33 覆盖数与默认公司排序不同",
+      "message": "市场供给紧张度: 180 行，默认公司排序 179 行"
     },
     {
       "severity": "info",
       "type": "feature-coverage-F34",
-      "title": "F34 覆盖数与平衡排名不同",
-      "message": "价格传导能力: 180 行，平衡排名 179 行"
+      "title": "F34 覆盖数与默认公司排序不同",
+      "message": "价格传导能力: 180 行，默认公司排序 179 行"
     },
     {
       "severity": "info",
       "type": "feature-coverage-F35",
-      "title": "F35 覆盖数与平衡排名不同",
-      "message": "竞争优势持续性: 180 行，平衡排名 179 行"
+      "title": "F35 覆盖数与默认公司排序不同",
+      "message": "竞争优势持续性: 180 行，默认公司排序 179 行"
     },
     {
       "severity": "info",
       "type": "feature-coverage-F36",
-      "title": "F36 覆盖数与平衡排名不同",
-      "message": "供给瓶颈受益度: 180 行，平衡排名 179 行"
+      "title": "F36 覆盖数与默认公司排序不同",
+      "message": "供给瓶颈受益度: 180 行，默认公司排序 179 行"
     },
     {
       "severity": "info",
       "type": "feature-coverage-F37",
-      "title": "F37 覆盖数与平衡排名不同",
-      "message": "1-3月催化剂强度: 180 行，平衡排名 179 行"
+      "title": "F37 覆盖数与默认公司排序不同",
+      "message": "1-3月催化剂强度: 180 行，默认公司排序 179 行"
     },
     {
       "severity": "info",
       "type": "feature-coverage-F38",
-      "title": "F38 覆盖数与平衡排名不同",
-      "message": "3-6月催化剂强度: 180 行，平衡排名 179 行"
+      "title": "F38 覆盖数与默认公司排序不同",
+      "message": "3-6月催化剂强度: 180 行，默认公司排序 179 行"
     },
     {
       "severity": "info",
       "type": "feature-coverage-F39",
-      "title": "F39 覆盖数与平衡排名不同",
-      "message": "6-12月催化剂强度: 180 行，平衡排名 179 行"
+      "title": "F39 覆盖数与默认公司排序不同",
+      "message": "6-12月催化剂强度: 180 行，默认公司排序 179 行"
     },
     {
       "severity": "info",
       "type": "feature-coverage-F40",
-      "title": "F40 覆盖数与平衡排名不同",
-      "message": "正向预期差强度: 180 行，平衡排名 179 行"
+      "title": "F40 覆盖数与默认公司排序不同",
+      "message": "正向预期差强度: 180 行，默认公司排序 179 行"
     },
     {
       "severity": "info",
       "type": "feature-coverage-F41",
-      "title": "F41 覆盖数与平衡排名不同",
-      "message": "负向预期差风险可控性: 180 行，平衡排名 179 行"
+      "title": "F41 覆盖数与默认公司排序不同",
+      "message": "负向预期差风险可控性: 180 行，默认公司排序 179 行"
     },
     {
       "severity": "info",
       "type": "feature-coverage-F42",
-      "title": "F42 覆盖数与平衡排名不同",
-      "message": "情景收益不对称性: 180 行，平衡排名 179 行"
+      "title": "F42 覆盖数与默认公司排序不同",
+      "message": "情景收益不对称性: 180 行，默认公司排序 179 行"
     },
     {
       "severity": "info",
       "type": "feature-coverage-F43",
-      "title": "F43 覆盖数与平衡排名不同",
-      "message": "基本面兑现确定性: 180 行，平衡排名 179 行"
+      "title": "F43 覆盖数与默认公司排序不同",
+      "message": "基本面兑现确定性: 180 行，默认公司排序 179 行"
     },
     {
       "severity": "info",
       "type": "feature-coverage-F44",
-      "title": "F44 覆盖数与平衡排名不同",
-      "message": "上行弹性: 180 行，平衡排名 179 行"
+      "title": "F44 覆盖数与默认公司排序不同",
+      "message": "上行弹性: 180 行，默认公司排序 179 行"
     },
     {
       "severity": "info",
       "type": "feature-coverage-F45",
-      "title": "F45 覆盖数与平衡排名不同",
-      "message": "执行风险可控性: 180 行，平衡排名 179 行"
+      "title": "F45 覆盖数与默认公司排序不同",
+      "message": "执行风险可控性: 180 行，默认公司排序 179 行"
     },
     {
       "severity": "info",
       "type": "feature-coverage-F46",
-      "title": "F46 覆盖数与平衡排名不同",
-      "message": "替代风险可控性: 180 行，平衡排名 179 行"
+      "title": "F46 覆盖数与默认公司排序不同",
+      "message": "替代风险可控性: 180 行，默认公司排序 179 行"
     },
     {
       "severity": "info",
       "type": "feature-coverage-F47",
-      "title": "F47 覆盖数与平衡排名不同",
-      "message": "客户集中风险可控性: 180 行，平衡排名 179 行"
+      "title": "F47 覆盖数与默认公司排序不同",
+      "message": "客户集中风险可控性: 180 行，默认公司排序 179 行"
     },
     {
       "severity": "info",
       "type": "feature-coverage-F48",
-      "title": "F48 覆盖数与平衡排名不同",
-      "message": "非AI业务拖累可控性: 180 行，平衡排名 179 行"
+      "title": "F48 覆盖数与默认公司排序不同",
+      "message": "非AI业务拖累可控性: 180 行，默认公司排序 179 行"
     },
     {
       "severity": "info",
       "type": "feature-coverage-F49",
-      "title": "F49 覆盖数与平衡排名不同",
-      "message": "披露与证据可信度: 180 行，平衡排名 179 行"
+      "title": "F49 覆盖数与默认公司排序不同",
+      "message": "披露与证据可信度: 180 行，默认公司排序 179 行"
     },
     {
       "severity": "info",
       "type": "feature-coverage-F50",
-      "title": "F50 覆盖数与平衡排名不同",
-      "message": "价格相对强度: 180 行，平衡排名 179 行"
+      "title": "F50 覆盖数与默认公司排序不同",
+      "message": "价格相对强度: 180 行，默认公司排序 179 行"
     },
     {
       "severity": "info",
       "type": "feature-coverage-F51",
-      "title": "F51 覆盖数与平衡排名不同",
-      "message": "交易流动性: 180 行，平衡排名 179 行"
+      "title": "F51 覆盖数与默认公司排序不同",
+      "message": "交易流动性: 180 行，默认公司排序 179 行"
     },
     {
       "severity": "info",
       "type": "feature-coverage-F52",
-      "title": "F52 覆盖数与平衡排名不同",
-      "message": "监管地缘风险: 180 行，平衡排名 179 行"
+      "title": "F52 覆盖数与默认公司排序不同",
+      "message": "监管地缘风险: 180 行，默认公司排序 179 行"
     }
   ]
 }
