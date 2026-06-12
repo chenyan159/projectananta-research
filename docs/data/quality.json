@@ -1,8 +1,8 @@
 {
   "summary": {
     "companyIndexCount": 180,
-    "companyReportUnique": 179,
-    "companyEvaluationUnique": 179,
+    "companyReportUnique": 180,
+    "companyEvaluationUnique": 178,
     "industryIndexCount": 74,
     "industryReportUnique": 68,
     "featureFileCount": 52,
@@ -29,15 +29,9 @@
   "alerts": [
     {
       "severity": "warn",
-      "type": "company-report-missing",
-      "title": "公司索引中存在未匹配正式报告",
-      "message": "DELL"
-    },
-    {
-      "severity": "warn",
       "type": "company-evaluation-missing",
       "title": "公司索引中存在未匹配公司评估",
-      "message": "AMPX"
+      "message": "MYRG, ACLS"
     },
     {
       "severity": "warn",
