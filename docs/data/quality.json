@@ -2,7 +2,7 @@
   "summary": {
     "companyIndexCount": 180,
     "companyReportUnique": 180,
-    "companyEvaluationUnique": 178,
+    "companyEvaluationUnique": 180,
     "industryIndexCount": 74,
     "industryReportUnique": 68,
     "featureFileCount": 52,
@@ -27,12 +27,6 @@
     "rawIndustryReportCount": 77
   },
   "alerts": [
-    {
-      "severity": "warn",
-      "type": "company-evaluation-missing",
-      "title": "公司索引中存在未匹配公司评估",
-      "message": "MYRG, ACLS"
-    },
     {
       "severity": "warn",
       "type": "ranking-missing-default",
