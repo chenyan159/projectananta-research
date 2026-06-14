@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-13T13:02:34.729Z",
-  "generatedAtDisplay": "2026/6/13 06:02:34",
+  "generatedAt": "2026-06-14T13:01:12.681Z",
+  "generatedAtDisplay": "2026/6/14 06:01:12",
   "sourceRootName": "Investment",
   "siteRoot": "tools/site",
   "companyCount": 180,
@@ -13,7 +13,7 @@
   "effectiveFeatureAsOf": "2026-06-04",
   "latestRankingDate": "2026-06-11",
   "latestFinancialDate": "2026-06-12",
-  "latestDailyNewsDate": "2026-06-13",
+  "latestDailyNewsDate": "2026-06-14",
   "dailyNewsCount": 10,
   "qualityAlertCount": 54
 }
