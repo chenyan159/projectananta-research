@@ -101,15 +101,15 @@
     "hasReport": true,
     "hasEvaluation": true,
     "report": {
-      "title": "公司：HPE 惠普企业（Hewlett Packard Enterprise）",
-      "reportDate": "2026-06-11",
-      "sourcePath": "基本面/公司调研/AI服务器_存储_EMS/HPE_惠普企业_公司调研_2026-06-11.md",
+      "title": "HPE_惠普企业（Hewlett Packard Enterprise）公司调研_2026-06-20",
+      "reportDate": "2026-06-20",
+      "sourcePath": "基本面/公司调研/AI服务器_存储_EMS/HPE_惠普企业_公司调研_2026-06-20.md",
       "dataFile": "reports/company/HPE.json"
     },
     "evaluation": {
-      "title": "公司收入传导与价值传导评估：惠普企业 HPE",
-      "reportDate": "2026-06-12",
-      "sourcePath": "基本面/分析报告/公司评估/HPE_惠普企业_收入传导估值评估_2026-06-12.md",
+      "title": "公司收入传导与价值传导评估：惠普企业（HPE）",
+      "reportDate": "2026-06-20",
+      "sourcePath": "基本面/分析报告/公司评估/HPE_惠普企业_收入传导估值评估_2026-06-20.md",
       "dataFile": "reports/company-evaluation/HPE.json"
     }
   },
@@ -139,15 +139,15 @@
     "hasReport": true,
     "hasEvaluation": true,
     "report": {
-      "title": "JBL / Jabil Inc 公司调研：AI 数据中心 rack-scale EMS、液冷、电力与硅光制造平台",
-      "reportDate": "2026-06-11",
-      "sourcePath": "基本面/公司调研/AI服务器_存储_EMS/JBL_Jabil Inc_公司调研_2026-06-11.md",
+      "title": "JBL_Jabil Inc 公司调研：AI硬件加速制造、数据中心EMS与现金流约束下的再定价（2026-06-20）",
+      "reportDate": "2026-06-20",
+      "sourcePath": "基本面/公司调研/AI服务器_存储_EMS/JBL_Jabil Inc_公司调研_2026-06-20.md",
       "dataFile": "reports/company/JBL.json"
     },
     "evaluation": {
-      "title": "公司收入传导与价值传导评估：Jabil Inc",
-      "reportDate": "2026-06-12",
-      "sourcePath": "基本面/分析报告/公司评估/JBL_Jabil_Inc_收入传导估值评估_2026-06-12.md",
+      "title": "公司收入传导与价值传导评估：Jabil Inc.",
+      "reportDate": "2026-06-20",
+      "sourcePath": "基本面/分析报告/公司评估/JBL_Jabil_Inc_收入传导估值评估_2026-06-20.md",
       "dataFile": "reports/company-evaluation/JBL.json"
     }
   },
@@ -747,15 +747,15 @@
     "hasReport": true,
     "hasEvaluation": true,
     "report": {
-      "title": "Advanced Micro Devices（AMD）公司调研_2026-06-11",
-      "reportDate": "2026-06-11",
-      "sourcePath": "基本面/公司调研/AI计算芯片_EDA_IP_custom_ASIC/AMD_Advanced_Micro_Devices_公司调研_2026-06-11.md",
+      "title": "AMD / Advanced Micro Devices（AMD）公司调研 2026-06-20",
+      "reportDate": "2026-06-20",
+      "sourcePath": "基本面/公司调研/AI计算芯片_EDA_IP_custom_ASIC/AMD_Advanced Micro Devices_公司调研_2026-06-20.md",
       "dataFile": "reports/company/AMD.json"
     },
     "evaluation": {
       "title": "公司收入传导与价值传导评估：Advanced Micro Devices（AMD）",
-      "reportDate": "2026-06-12",
-      "sourcePath": "基本面/分析报告/公司评估/AMD_Advanced_Micro_Devices_收入传导估值评估_2026-06-12.md",
+      "reportDate": "2026-06-20",
+      "sourcePath": "基本面/分析报告/公司评估/AMD_Advanced_Micro_Devices_收入传导估值评估_2026-06-20.md",
       "dataFile": "reports/company-evaluation/AMD.json"
     }
   },
@@ -785,15 +785,15 @@
     "hasReport": true,
     "hasEvaluation": true,
     "report": {
-      "title": "Broadcom（AVGO）公司调研：定制 AI XPU、以太网网络芯片与 VMware 软件平台（2026-06-11）",
-      "reportDate": "2026-06-11",
-      "sourcePath": "基本面/公司调研/AI计算芯片_EDA_IP_custom_ASIC/AVGO_Broadcom_公司调研_2026-06-11.md",
+      "title": "AVGO Broadcom 公司调研：定制 AI ASIC、以太网 Fabric 与 VMware 软件现金流（2026-06-20）",
+      "reportDate": "2026-06-20",
+      "sourcePath": "基本面/公司调研/AI计算芯片_EDA_IP_custom_ASIC/AVGO_Broadcom_公司调研_2026-06-20.md",
       "dataFile": "reports/company/AVGO.json"
     },
     "evaluation": {
       "title": "公司收入传导与价值传导评估：Broadcom（AVGO）",
-      "reportDate": "2026-06-12",
-      "sourcePath": "基本面/分析报告/公司评估/AVGO_Broadcom_收入传导估值评估_2026-06-12.md",
+      "reportDate": "2026-06-20",
+      "sourcePath": "基本面/分析报告/公司评估/AVGO_Broadcom_收入传导估值评估_2026-06-20.md",
       "dataFile": "reports/company-evaluation/AVGO.json"
     }
   },
@@ -937,15 +937,15 @@
     "hasReport": true,
     "hasEvaluation": true,
     "report": {
-      "title": "Marvell Technology（MRVL）公司调研：AI Custom ASIC、光互联 DSP、交换芯片与 CXL/PCIe Scale-up 平台",
-      "reportDate": "2026-06-11",
-      "sourcePath": "基本面/公司调研/AI计算芯片_EDA_IP_custom_ASIC/MRVL_Marvell Technology_公司调研_2026-06-11.md",
+      "title": "公司：MRVL Marvell Technology 公司调研",
+      "reportDate": "2026-06-20",
+      "sourcePath": "基本面/公司调研/AI计算芯片_EDA_IP_custom_ASIC/MRVL_Marvell Technology_公司调研_2026-06-20.md",
       "dataFile": "reports/company/MRVL.json"
     },
     "evaluation": {
-      "title": "公司收入传导与价值传导评估：Marvell Technology（MRVL）",
-      "reportDate": "2026-06-12",
-      "sourcePath": "基本面/分析报告/公司评估/MRVL_Marvell_Technology_收入传导估值评估_2026-06-12.md",
+      "title": "公司收入传导与经营价值传导评估：Marvell Technology（MRVL）",
+      "reportDate": "2026-06-20",
+      "sourcePath": "基本面/分析报告/公司评估/MRVL_Marvell_Technology_收入传导估值评估_2026-06-20.md",
       "dataFile": "reports/company-evaluation/MRVL.json"
     }
   },
@@ -975,15 +975,15 @@
     "hasReport": true,
     "hasEvaluation": true,
     "report": {
-      "title": "NVDA NVIDIA 公司调研 2026-06-11",
-      "reportDate": "2026-06-11",
-      "sourcePath": "基本面/公司调研/AI计算芯片_EDA_IP_custom_ASIC/NVDA_NVIDIA_公司调研_2026-06-11.md",
+      "title": "NVDA NVIDIA 公司调研：AI GPU、机架级平台与数据中心网络全栈尽调（2026-06-20）",
+      "reportDate": "2026-06-20",
+      "sourcePath": "基本面/公司调研/AI计算芯片_EDA_IP_custom_ASIC/NVDA_NVIDIA_公司调研_2026-06-20.md",
       "dataFile": "reports/company/NVDA.json"
     },
     "evaluation": {
-      "title": "公司收入传导与经营价值传导评估：NVIDIA（NVDA）",
-      "reportDate": "2026-06-12",
-      "sourcePath": "基本面/分析报告/公司评估/NVDA_NVIDIA_收入传导估值评估_2026-06-12.md",
+      "title": "公司收入传导与价值传导评估：NVIDIA",
+      "reportDate": "2026-06-20",
+      "sourcePath": "基本面/分析报告/公司评估/NVDA_NVIDIA_收入传导估值评估_2026-06-20.md",
       "dataFile": "reports/company-evaluation/NVDA.json"
     }
   },
@@ -1427,15 +1427,15 @@
     "hasReport": true,
     "hasEvaluation": true,
     "report": {
-      "title": "COHR Coherent 公司调研：AI 光互联垂直整合平台（2026-06-11）",
-      "reportDate": "2026-06-11",
-      "sourcePath": "基本面/公司调研/AI网络_光互联_连接器/COHR_Coherent_公司调研_2026-06-11.md",
+      "title": "COHR Coherent 公司调研_2026-06-20",
+      "reportDate": "2026-06-20",
+      "sourcePath": "基本面/公司调研/AI网络_光互联_连接器/COHR_Coherent_公司调研_2026-06-20.md",
       "dataFile": "reports/company/COHR.json"
     },
     "evaluation": {
       "title": "公司收入传导与价值传导评估：Coherent（COHR）",
-      "reportDate": "2026-06-12",
-      "sourcePath": "基本面/分析报告/公司评估/COHR_Coherent_收入传导估值评估_2026-06-12.md",
+      "reportDate": "2026-06-20",
+      "sourcePath": "基本面/分析报告/公司评估/COHR_Coherent_收入传导估值评估_2026-06-20.md",
       "dataFile": "reports/company-evaluation/COHR.json"
     }
   },
@@ -1501,15 +1501,15 @@
     "hasReport": true,
     "hasEvaluation": true,
     "report": {
-      "title": "Cisco Systems（CSCO）公司调研：AI 网络、Silicon One、Acacia 光互联与安全可观测平台",
-      "reportDate": "2026-06-11",
-      "sourcePath": "基本面/公司调研/AI网络_光互联_连接器/CSCO_Cisco Systems_公司调研_2026-06-11.md",
+      "title": "CSCO Cisco Systems 公司调研：AI网络、Silicon One、Splunk与安全可观测转型（2026-06-20）",
+      "reportDate": "2026-06-20",
+      "sourcePath": "基本面/公司调研/AI网络_光互联_连接器/CSCO_Cisco Systems_公司调研_2026-06-20.md",
       "dataFile": "reports/company/CSCO.json"
     },
     "evaluation": {
-      "title": "公司收入传导与价值传导评估：Cisco Systems（CSCO）",
-      "reportDate": "2026-06-12",
-      "sourcePath": "基本面/分析报告/公司评估/CSCO_Cisco_Systems_收入传导估值评估_2026-06-12.md",
+      "title": "公司收入传导与价值传导评估：Cisco Systems",
+      "reportDate": "2026-06-20",
+      "sourcePath": "基本面/分析报告/公司评估/CSCO_Cisco_Systems_收入传导估值评估_2026-06-20.md",
       "dataFile": "reports/company-evaluation/CSCO.json"
     }
   },
@@ -1871,15 +1871,15 @@
     "hasReport": true,
     "hasEvaluation": true,
     "report": {
-      "title": "CIEN_Ciena Corporation 公司调研：AI Scale-across 光网络、相干 DCI 与云客户订单周期（2026-06-11）",
-      "reportDate": "2026-06-11",
-      "sourcePath": "基本面/公司调研/AI网络_光互联_连接器/CIEN_Ciena_Corporation_公司调研_2026-06-11.md",
+      "title": "CIEN_Ciena Corporation 公司调研：AI scale-across 光网络、相干光与数据中心互联的高弹性供应商",
+      "reportDate": "2026-06-20",
+      "sourcePath": "基本面/公司调研/AI网络_光互联_连接器/CIEN_Ciena Corporation_公司调研_2026-06-20.md",
       "dataFile": "reports/company/CIEN.json"
     },
     "evaluation": {
       "title": "公司收入传导与价值传导评估：Ciena Corporation（CIEN）",
-      "reportDate": "2026-06-12",
-      "sourcePath": "基本面/分析报告/公司评估/CIEN_Ciena_Corporation_收入传导估值评估_2026-06-12.md",
+      "reportDate": "2026-06-20",
+      "sourcePath": "基本面/分析报告/公司评估/CIEN_Ciena_Corporation_收入传导估值评估_2026-06-20.md",
       "dataFile": "reports/company-evaluation/CIEN.json"
     }
   },
@@ -2951,15 +2951,15 @@
     "hasReport": true,
     "hasEvaluation": true,
     "report": {
-      "title": "FuelCell Energy（FCEL）公司调研：AI 数据中心自备电期权很大，但当前仍是亏损燃料电池制造商",
-      "reportDate": "2026-06-11",
-      "sourcePath": "基本面/公司调研/电力_发电_能源_储能/FCEL_FuelCell Energy_公司调研_2026-06-11.md",
+      "title": "FCEL / FuelCell Energy 公司调研_2026-06-20",
+      "reportDate": "2026-06-20",
+      "sourcePath": "基本面/公司调研/电力_发电_能源_储能/FCEL_FuelCell_Energy_公司调研_2026-06-20.md",
       "dataFile": "reports/company/FCEL.json"
     },
     "evaluation": {
-      "title": "公司收入传导与价值传导评估：FuelCell Energy（FCEL）",
-      "reportDate": "2026-06-12",
-      "sourcePath": "基本面/分析报告/公司评估/FCEL_FuelCell_Energy_收入传导估值评估_2026-06-12.md",
+      "title": "公司收入传导与价值传导评估：FuelCell Energy (FCEL)",
+      "reportDate": "2026-06-20",
+      "sourcePath": "基本面/分析报告/公司评估/FCEL_FuelCell_Energy_收入传导估值评估_2026-06-20.md",
       "dataFile": "reports/company-evaluation/FCEL.json"
     }
   },
@@ -4433,15 +4433,15 @@
     "hasReport": true,
     "hasEvaluation": true,
     "report": {
-      "title": "VRT Vertiv 公司调研 2026-06-11",
-      "reportDate": "2026-06-11",
-      "sourcePath": "基本面/公司调研/机电_冷却_工程_水处理_边缘工业AI/VRT_Vertiv_公司调研_2026-06-11.md",
+      "title": "公司：VRT Vertiv 公司调研",
+      "reportDate": "2026-06-20",
+      "sourcePath": "基本面/公司调研/机电_冷却_工程_水处理_边缘工业AI/VRT_Vertiv_公司调研_2026-06-20.md",
       "dataFile": "reports/company/VRT.json"
     },
     "evaluation": {
       "title": "公司收入传导与价值传导评估：Vertiv",
-      "reportDate": "2026-06-12",
-      "sourcePath": "基本面/分析报告/公司评估/VRT_Vertiv_收入传导估值评估_2026-06-12.md",
+      "reportDate": "2026-06-20",
+      "sourcePath": "基本面/分析报告/公司评估/VRT_Vertiv_收入传导估值评估_2026-06-20.md",
       "dataFile": "reports/company-evaluation/VRT.json"
     }
   },
@@ -5078,15 +5078,15 @@
     "hasReport": true,
     "hasEvaluation": true,
     "report": {
-      "title": "TSEM_Tower Semiconductor 公司调研_2026-06-11",
-      "reportDate": "2026-06-11",
-      "sourcePath": "基本面/公司调研/晶圆制造_前道设备/TSEM_Tower Semiconductor_公司调研_2026-06-11.md",
+      "title": "公司：TSEM Tower Semiconductor 公司调研",
+      "reportDate": "2026-06-20",
+      "sourcePath": "基本面/公司调研/晶圆制造_前道设备/TSEM_Tower Semiconductor_公司调研_2026-06-20.md",
       "dataFile": "reports/company/TSEM.json"
     },
     "evaluation": {
       "title": "公司收入传导与价值传导评估：Tower Semiconductor",
-      "reportDate": "2026-06-12",
-      "sourcePath": "基本面/分析报告/公司评估/TSEM_Tower_Semiconductor_收入传导估值评估_2026-06-12.md",
+      "reportDate": "2026-06-20",
+      "sourcePath": "基本面/分析报告/公司评估/TSEM_Tower_Semiconductor_收入传导估值评估_2026-06-20.md",
       "dataFile": "reports/company-evaluation/TSEM.json"
     }
   },
@@ -5115,15 +5115,15 @@
     "hasReport": true,
     "hasEvaluation": true,
     "report": {
-      "title": "公司：TSM 台积电（Taiwan Semiconductor Manufacturing Company）公司调研_2026-06-11",
-      "reportDate": "2026-06-11",
-      "sourcePath": "基本面/公司调研/晶圆制造_前道设备/TSM_台积电_公司调研_2026-06-11.md",
+      "title": "公司：TSM 台积电（Taiwan Semiconductor Manufacturing Company）公司调研_2026-06-20",
+      "reportDate": "2026-06-20",
+      "sourcePath": "基本面/公司调研/晶圆制造_前道设备/TSM_台积电_公司调研_2026-06-20.md",
       "dataFile": "reports/company/TSM.json"
     },
     "evaluation": {
-      "title": "公司收入传导与价值传导评估：台积电",
-      "reportDate": "2026-06-12",
-      "sourcePath": "基本面/分析报告/公司评估/TSM_台积电_收入传导估值评估_2026-06-12.md",
+      "title": "公司收入传导与价值传导评估：台积电（TSM）",
+      "reportDate": "2026-06-20",
+      "sourcePath": "基本面/分析报告/公司评估/TSM_台积电_收入传导估值评估_2026-06-20.md",
       "dataFile": "reports/company-evaluation/TSM.json"
     }
   },
@@ -5810,15 +5810,15 @@
     "hasReport": true,
     "hasEvaluation": true,
     "report": {
-      "title": "ETN Eaton Corporation 公司调研：AI 数据中心电力、配电、液冷和 Mobility 剥离后的再定价",
-      "reportDate": "2026-06-12",
-      "sourcePath": "基本面/公司调研/配电_电源_功率器件/ETN_Eaton_Corporation_公司调研_2026-06-12.md",
+      "title": "ETN Eaton Corporation 公司调研：AI数据中心电力瓶颈下的配电、电源与热管理平台",
+      "reportDate": "2026-06-20",
+      "sourcePath": "基本面/公司调研/配电_电源_功率器件/ETN_Eaton Corporation_公司调研_2026-06-20.md",
       "dataFile": "reports/company/ETN.json"
     },
     "evaluation": {
-      "title": "公司收入传导与价值传导评估：Eaton Corporation",
-      "reportDate": "2026-06-12",
-      "sourcePath": "基本面/分析报告/公司评估/ETN_Eaton_Corporation_收入传导估值评估_2026-06-12.md",
+      "title": "公司收入传导与价值传导评估：Eaton Corporation（ETN）",
+      "reportDate": "2026-06-20",
+      "sourcePath": "基本面/分析报告/公司评估/ETN_Eaton_Corporation_收入传导估值评估_2026-06-20.md",
       "dataFile": "reports/company-evaluation/ETN.json"
     }
   },
@@ -5950,15 +5950,15 @@
     "hasReport": true,
     "hasEvaluation": true,
     "report": {
-      "title": "Adobe（ADBE）公司调研：创意与文档软件龙头的 AI 工作流再定价",
-      "reportDate": "2026-06-11",
-      "sourcePath": "基本面/公司调研/云算力_IDC_AI软件平台/ADBE_Adobe_公司调研_2026-06-11.md",
+      "title": "Adobe（ADBE）公司调研：创意软件、文档生产力与 AI 客户体验编排平台",
+      "reportDate": "2026-06-20",
+      "sourcePath": "基本面/公司调研/云算力_IDC_AI软件平台/ADBE_Adobe_公司调研_2026-06-20.md",
       "dataFile": "reports/company/ADBE.json"
     },
     "evaluation": {
-      "title": "公司收入传导与价值传导评估：Adobe（ADBE）",
-      "reportDate": "2026-06-12",
-      "sourcePath": "基本面/分析报告/公司评估/ADBE_Adobe_收入传导估值评估_2026-06-12.md",
+      "title": "公司收入传导与价值传导评估：Adobe",
+      "reportDate": "2026-06-20",
+      "sourcePath": "基本面/分析报告/公司评估/ADBE_Adobe_收入传导估值评估_2026-06-20.md",
       "dataFile": "reports/company-evaluation/ADBE.json"
     }
   },
@@ -5988,15 +5988,15 @@
     "hasReport": true,
     "hasEvaluation": true,
     "report": {
-      "title": "AMZN Amazon 公司调研 2026-06-11",
-      "reportDate": "2026-06-11",
-      "sourcePath": "基本面/公司调研/云算力_IDC_AI软件平台/AMZN_Amazon_公司调研_2026-06-11.md",
+      "title": "公司：AMZN Amazon 公司调研（2026-06-20）",
+      "reportDate": "2026-06-20",
+      "sourcePath": "基本面/公司调研/云算力_IDC_AI软件平台/AMZN_Amazon_公司调研_2026-06-20.md",
       "dataFile": "reports/company/AMZN.json"
     },
     "evaluation": {
       "title": "公司收入传导与价值传导评估：Amazon",
-      "reportDate": "2026-06-12",
-      "sourcePath": "基本面/分析报告/公司评估/AMZN_Amazon_收入传导估值评估_2026-06-12.md",
+      "reportDate": "2026-06-20",
+      "sourcePath": "基本面/分析报告/公司评估/AMZN_Amazon_收入传导估值评估_2026-06-20.md",
       "dataFile": "reports/company-evaluation/AMZN.json"
     }
   },
@@ -6178,15 +6178,15 @@
     "hasReport": true,
     "hasEvaluation": true,
     "report": {
-      "title": "GOOGL Alphabet Inc 公司调研：搜索现金牛、AI 云与 TPU 硬件化的再定价",
-      "reportDate": "2026-06-12",
-      "sourcePath": "基本面/公司调研/云算力_IDC_AI软件平台/GOOGL_Alphabet_Inc_公司调研_2026-06-12.md",
+      "title": "Alphabet Inc（GOOGL）公司调研：Search 现金牛、Google Cloud/TPU 与 AI 数据中心再定价",
+      "reportDate": "2026-06-20",
+      "sourcePath": "基本面/公司调研/云算力_IDC_AI软件平台/GOOGL_Alphabet Inc_公司调研_2026-06-20.md",
       "dataFile": "reports/company/GOOGL.json"
     },
     "evaluation": {
       "title": "公司收入传导与价值传导评估：Alphabet Inc（GOOGL）",
-      "reportDate": "2026-06-12",
-      "sourcePath": "基本面/分析报告/公司评估/GOOGL_Alphabet_Inc_收入传导估值评估_2026-06-12.md",
+      "reportDate": "2026-06-20",
+      "sourcePath": "基本面/分析报告/公司评估/GOOGL_Alphabet_Inc_收入传导估值评估_2026-06-20.md",
       "dataFile": "reports/company-evaluation/GOOGL.json"
     }
   },
@@ -6292,15 +6292,15 @@
     "hasReport": true,
     "hasEvaluation": true,
     "report": {
-      "title": "公司：META Meta Platforms",
-      "reportDate": "2026-06-11",
-      "sourcePath": "基本面/公司调研/云算力_IDC_AI软件平台/META_Meta Platforms_公司调研_2026-06-11.md",
+      "title": "Meta Platforms（META）公司调研_2026-06-20",
+      "reportDate": "2026-06-20",
+      "sourcePath": "基本面/公司调研/云算力_IDC_AI软件平台/META_Meta Platforms_公司调研_2026-06-20.md",
       "dataFile": "reports/company/META.json"
     },
     "evaluation": {
       "title": "公司收入传导与价值传导评估：Meta Platforms",
-      "reportDate": "2026-06-12",
-      "sourcePath": "基本面/分析报告/公司评估/META_Meta_Platforms_收入传导估值评估_2026-06-12.md",
+      "reportDate": "2026-06-20",
+      "sourcePath": "基本面/分析报告/公司评估/META_Meta_Platforms_收入传导估值评估_2026-06-20.md",
       "dataFile": "reports/company-evaluation/META.json"
     }
   },
@@ -6330,15 +6330,15 @@
     "hasReport": true,
     "hasEvaluation": true,
     "report": {
-      "title": "MSFT_微软（Microsoft Corporation）公司调研_2026-06-12",
-      "reportDate": "2026-06-12",
-      "sourcePath": "基本面/公司调研/云算力_IDC_AI软件平台/MSFT_微软_公司调研_2026-06-12.md",
+      "title": "公司：MSFT 微软（Microsoft）公司调研_2026-06-20",
+      "reportDate": "2026-06-20",
+      "sourcePath": "基本面/公司调研/云算力_IDC_AI软件平台/MSFT_微软_公司调研_2026-06-20.md",
       "dataFile": "reports/company/MSFT.json"
     },
     "evaluation": {
-      "title": "公司收入传导与价值传导评估：微软（MSFT）",
-      "reportDate": "2026-06-12",
-      "sourcePath": "基本面/分析报告/公司评估/MSFT_微软_收入传导估值评估_2026-06-12.md",
+      "title": "公司收入传导与价值传导评估：MSFT 微软",
+      "reportDate": "2026-06-20",
+      "sourcePath": "基本面/分析报告/公司评估/MSFT_微软_收入传导估值评估_2026-06-20.md",
       "dataFile": "reports/company-evaluation/MSFT.json"
     }
   },
@@ -6406,15 +6406,15 @@
     "hasReport": true,
     "hasEvaluation": true,
     "report": {
-      "title": "Oracle Corporation（ORCL）公司调研：数据库现金牛、OCI AI 工厂和多云数据库的再定价",
-      "reportDate": "2026-06-12",
-      "sourcePath": "基本面/公司调研/云算力_IDC_AI软件平台/ORCL_Oracle Corporation_公司调研_2026-06-12.md",
+      "title": "Oracle Corporation（ORCL）公司调研：数据库现金牛转向 AI 云基础设施容量平台",
+      "reportDate": "2026-06-20",
+      "sourcePath": "基本面/公司调研/云算力_IDC_AI软件平台/ORCL_Oracle Corporation_公司调研_2026-06-20.md",
       "dataFile": "reports/company/ORCL.json"
     },
     "evaluation": {
       "title": "公司收入传导与价值传导评估：Oracle Corporation（ORCL）",
-      "reportDate": "2026-06-12",
-      "sourcePath": "基本面/分析报告/公司评估/ORCL_Oracle_Corporation_收入传导估值评估_2026-06-12.md",
+      "reportDate": "2026-06-20",
+      "sourcePath": "基本面/分析报告/公司评估/ORCL_Oracle_Corporation_收入传导估值评估_2026-06-20.md",
       "dataFile": "reports/company-evaluation/ORCL.json"
     }
   },
@@ -6444,15 +6444,15 @@
     "hasReport": true,
     "hasEvaluation": true,
     "report": {
-      "title": "公司：BABA Alibaba 阿里巴巴公司调研",
-      "reportDate": "2026-06-11",
-      "sourcePath": "基本面/公司调研/云算力_IDC_AI软件平台/BABA_Alibaba 阿里巴巴_公司调研_2026-06-11.md",
+      "title": "公司：BABA Alibaba 阿里巴巴公司调研_2026-06-20",
+      "reportDate": "2026-06-20",
+      "sourcePath": "基本面/公司调研/云算力_IDC_AI软件平台/BABA_Alibaba阿里巴巴_公司调研_2026-06-20.md",
       "dataFile": "reports/company/BABA.json"
     },
     "evaluation": {
-      "title": "公司收入传导与经营价值传导评估：Alibaba 阿里巴巴（BABA）",
-      "reportDate": "2026-06-12",
-      "sourcePath": "基本面/分析报告/公司评估/BABA_Alibaba_阿里巴巴_收入传导估值评估_2026-06-12.md",
+      "title": "公司收入传导与价值传导评估：BABA Alibaba 阿里巴巴",
+      "reportDate": "2026-06-20",
+      "sourcePath": "基本面/分析报告/公司评估/BABA_Alibaba_阿里巴巴_收入传导估值评估_2026-06-20.md",
       "dataFile": "reports/company-evaluation/BABA.json"
     }
   },
@@ -6482,15 +6482,15 @@
     "hasReport": true,
     "hasEvaluation": true,
     "report": {
-      "title": "公司：EQIX Equinix（Equinix, Inc.）公司调研_2026-06-12",
-      "reportDate": "2026-06-12",
-      "sourcePath": "基本面/公司调研/云算力_IDC_AI软件平台/EQIX_Equinix_公司调研_2026-06-12.md",
+      "title": "EQIX Equinix 公司调研：全球互联型数据中心REIT，AI数据中心周期中的“高密度托管 + 私有互联 + xScale”平台",
+      "reportDate": "2026-06-20",
+      "sourcePath": "基本面/公司调研/云算力_IDC_AI软件平台/EQIX_Equinix_公司调研_2026-06-20.md",
       "dataFile": "reports/company/EQIX.json"
     },
     "evaluation": {
       "title": "公司收入传导与价值传导评估：Equinix（EQIX）",
-      "reportDate": "2026-06-12",
-      "sourcePath": "基本面/分析报告/公司评估/EQIX_Equinix_收入传导估值评估_2026-06-12.md",
+      "reportDate": "2026-06-20",
+      "sourcePath": "基本面/分析报告/公司评估/EQIX_Equinix_收入传导估值评估_2026-06-20.md",
       "dataFile": "reports/company-evaluation/EQIX.json"
     }
   },
