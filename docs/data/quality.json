@@ -1,8 +1,8 @@
 {
   "summary": {
-    "companyIndexCount": 180,
-    "companyReportUnique": 180,
-    "companyEvaluationUnique": 180,
+    "companyIndexCount": 181,
+    "companyReportUnique": 181,
+    "companyEvaluationUnique": 181,
     "industryIndexCount": 74,
     "industryReportUnique": 68,
     "featureFileCount": 52,
@@ -17,10 +17,9 @@
       "dualAggressiveGrowth": 179,
       "minimalR22": 179,
       "simple01RevenueStep": 172,
-      "simple17CompanyEval": 179,
       "twelveS04CounterEvidence": 180,
       "twelveS02Realization": 180,
-      "twelveS03RiskReward": 180,
+      "twelveS03RiskReward": 1440,
       "balanced9m": 179,
       "eightS06InfoGate": 179,
       "___5_": 180
@@ -32,7 +31,7 @@
       "severity": "warn",
       "type": "ranking-missing-default",
       "title": "双源-财报事件右尾排名未覆盖全部公司",
-      "message": "缺失 1 家：AMPX"
+      "message": "缺失 2 家：SMTOY, AMPX"
     },
     {
       "severity": "info",

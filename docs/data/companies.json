@@ -2167,15 +2167,15 @@
     "hasReport": true,
     "hasEvaluation": true,
     "report": {
-      "title": "公司：AXTI AXT Inc 公司调研：AI 光互联把 InP 衬底小厂推到供应链瓶颈位（2026-06-11）",
-      "reportDate": "2026-06-11",
-      "sourcePath": "基本面/公司调研/半导体材料_化学品_基板/AXTI_AXT_Inc_公司调研_2026-06-11.md",
+      "title": "AXTI AXT Inc（AXT Inc）公司调研_2026-06-22",
+      "reportDate": "2026-06-22",
+      "sourcePath": "基本面/公司调研/半导体材料_化学品_基板/AXTI_AXT_Inc_公司调研_2026-06-22.md",
       "dataFile": "reports/company/AXTI.json"
     },
     "evaluation": {
       "title": "公司收入传导与价值传导评估：AXT Inc（AXTI）",
-      "reportDate": "2026-06-12",
-      "sourcePath": "基本面/分析报告/公司评估/AXTI_AXT_Inc_收入传导估值评估_2026-06-12.md",
+      "reportDate": "2026-06-22",
+      "sourcePath": "基本面/分析报告/公司评估/AXTI_AXT_Inc_收入传导估值评估_2026-06-22.md",
       "dataFile": "reports/company-evaluation/AXTI.json"
     }
   },
@@ -2621,6 +2621,43 @@
       "reportDate": "2026-06-12",
       "sourcePath": "基本面/分析报告/公司评估/ROG_Rogers_Corporation_收入传导估值评估_2026-06-12.md",
       "dataFile": "reports/company-evaluation/ROG.json"
+    }
+  },
+  {
+    "ticker": "SMTOY",
+    "name": "住友电工 Sumitomo Electric Industries",
+    "category": "半导体材料_化学品_基板",
+    "relatedIndustrySlugs": [
+      "d5c3ffe6b25a19",
+      "bc28d1f5f97ba8",
+      "a6ec54681ede7e",
+      "c894f9de9c6fd6",
+      "8149177555d101",
+      "f16ee5d922b462",
+      "28c5dffe7b28bf",
+      "8ace5b1bbe20fd",
+      "c15e5e75a60f54",
+      "42ea59d9ecad4a",
+      "c3cfda637c359f",
+      "e682fd0a82ecfd",
+      "6a5dba2e90bd4a",
+      "9c76efcad27d6a",
+      "a3b0b630d2a4d2",
+      "8f4c51911c6ca5"
+    ],
+    "hasReport": true,
+    "hasEvaluation": true,
+    "report": {
+      "title": "SMTOY 住友电工 Sumitomo Electric Industries 公司调研（2026-06-22）",
+      "reportDate": "2026-06-22",
+      "sourcePath": "基本面/公司调研/半导体材料_化学品_基板/SMTOY_住友电工SumitomoElectricIndustries_公司调研_2026-06-22.md",
+      "dataFile": "reports/company/SMTOY.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：住友电工 Sumitomo Electric Industries",
+      "reportDate": "2026-06-22",
+      "sourcePath": "基本面/分析报告/公司评估/SMTOY_住友电工_Sumitomo_Electric_Industries_收入传导估值评估_2026-06-22.md",
+      "dataFile": "reports/company-evaluation/SMTOY.json"
     }
   },
   {

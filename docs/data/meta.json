@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-06-21T13:00:53.260Z",
-  "generatedAtDisplay": "2026/6/21 06:00:53",
+  "generatedAt": "2026-06-22T13:02:12.886Z",
+  "generatedAtDisplay": "2026/6/22 06:02:12",
   "sourceRootName": "Investment",
   "siteRoot": "tools/site",
-  "companyCount": 180,
-  "companyReportCount": 180,
-  "companyEvaluationCount": 180,
+  "companyCount": 181,
+  "companyReportCount": 181,
+  "companyEvaluationCount": 181,
   "industryCount": 74,
   "industryReportCount": 68,
   "featureCount": 52,
@@ -13,7 +13,7 @@
   "effectiveFeatureAsOf": "2026-06-04",
   "latestRankingDate": "2026-06-11",
   "latestFinancialDate": "2026-06-19",
-  "latestDailyNewsDate": "2026-06-21",
+  "latestDailyNewsDate": "2026-06-22",
   "dailyNewsCount": 10,
   "qualityAlertCount": 54
 }
