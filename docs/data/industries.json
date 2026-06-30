@@ -3,7 +3,7 @@
     "name": "数据中心电力接入与高压变电",
     "category": "AI园区电力_机电_冷却",
     "slug": "5cafa4056e0614",
-    "companyCount": 62,
+    "companyCount": 63,
     "topCompanyTickers": [
       "ALLE",
       "GNRC",
@@ -33,7 +33,7 @@
     "name": "数据中心自备发电与微电网",
     "category": "AI园区电力_机电_冷却",
     "slug": "36a358f0481551",
-    "companyCount": 62,
+    "companyCount": 63,
     "topCompanyTickers": [
       "ALLE",
       "GNRC",
@@ -84,7 +84,7 @@
     "name": "动态UPS、飞轮与超级电容",
     "category": "AI园区电力_机电_冷却",
     "slug": "f112dfe1c5d069",
-    "companyCount": 62,
+    "companyCount": 63,
     "topCompanyTickers": [
       "ALLE",
       "GNRC",
@@ -114,7 +114,7 @@
     "name": "数据中心开关设备与变压器",
     "category": "AI园区电力_机电_冷却",
     "slug": "521fe672520d00",
-    "companyCount": 62,
+    "companyCount": 63,
     "topCompanyTickers": [
       "ALLE",
       "GNRC",
@@ -144,7 +144,7 @@
     "name": "中压直流、800VDC与固态变压器",
     "category": "AI园区电力_机电_冷却",
     "slug": "0d56399a2b31a9",
-    "companyCount": 62,
+    "companyCount": 63,
     "topCompanyTickers": [
       "ALLE",
       "GNRC",
@@ -174,7 +174,7 @@
     "name": "数据中心低压配电、PDU与母线槽",
     "category": "AI园区电力_机电_冷却",
     "slug": "3209d12d31a374",
-    "companyCount": 62,
+    "companyCount": 63,
     "topCompanyTickers": [
       "ALLE",
       "GNRC",
@@ -204,7 +204,7 @@
     "name": "机柜级供电与服务器电源架构",
     "category": "AI园区电力_机电_冷却",
     "slug": "a160466ae1c20d",
-    "companyCount": 62,
+    "companyCount": 63,
     "topCompanyTickers": [
       "ALLE",
       "GNRC",
@@ -234,7 +234,7 @@
     "name": "功率半导体与高压保护器件",
     "category": "AI园区电力_机电_冷却",
     "slug": "4c8a62f9c2fc66",
-    "companyCount": 62,
+    "companyCount": 63,
     "topCompanyTickers": [
       "ALLE",
       "GNRC",
@@ -285,7 +285,7 @@
     "name": "导管、桥架与线缆管理",
     "category": "AI园区电力_机电_冷却",
     "slug": "a80f5981fe1bca",
-    "companyCount": 62,
+    "companyCount": 63,
     "topCompanyTickers": [
       "ALLE",
       "GNRC",
@@ -336,7 +336,7 @@
     "name": "数据中心直液冷系统",
     "category": "AI园区电力_机电_冷却",
     "slug": "2c9fd236a99b4d",
-    "companyCount": 62,
+    "companyCount": 63,
     "topCompanyTickers": [
       "ALLE",
       "GNRC",
@@ -366,7 +366,7 @@
     "name": "液冷小组件与流体控制",
     "category": "AI园区电力_机电_冷却",
     "slug": "12545fd24b58dc",
-    "companyCount": 62,
+    "companyCount": 63,
     "topCompanyTickers": [
       "ALLE",
       "GNRC",
@@ -396,7 +396,7 @@
     "name": "冷却液、水处理、过滤与制冷剂",
     "category": "AI园区电力_机电_冷却",
     "slug": "c22bcf0abbe73c",
-    "companyCount": 62,
+    "companyCount": 63,
     "topCompanyTickers": [
       "ALLE",
       "GNRC",
@@ -426,7 +426,7 @@
     "name": "机柜、围护结构与物理安防",
     "category": "AI园区电力_机电_冷却",
     "slug": "de2f40f9c6a104",
-    "companyCount": 62,
+    "companyCount": 63,
     "topCompanyTickers": [
       "ALLE",
       "GNRC",
@@ -456,7 +456,7 @@
     "name": "DCIM、能控与AI工厂数字孪生",
     "category": "AI园区电力_机电_冷却",
     "slug": "45b65359204b8d",
-    "companyCount": 62,
+    "companyCount": 63,
     "topCompanyTickers": [
       "ALLE",
       "GNRC",
@@ -486,7 +486,7 @@
     "name": "商用AI加速芯片",
     "category": "AI服务器_存储_芯片",
     "slug": "28e606b87fe24a",
-    "companyCount": 50,
+    "companyCount": 51,
     "topCompanyTickers": [
       "SANM",
       "ADBE",
@@ -516,7 +516,7 @@
     "name": "云厂自研AI ASIC",
     "category": "AI服务器_存储_芯片",
     "slug": "5275621bff96ae",
-    "companyCount": 50,
+    "companyCount": 51,
     "topCompanyTickers": [
       "SANM",
       "ADBE",
@@ -546,7 +546,7 @@
     "name": "AI服务器CPU与控制平面芯片",
     "category": "AI服务器_存储_芯片",
     "slug": "29a8338a1c53f3",
-    "companyCount": 50,
+    "companyCount": 51,
     "topCompanyTickers": [
       "SANM",
       "ADBE",
@@ -576,7 +576,7 @@
     "name": "AI边缘推理芯片",
     "category": "AI服务器_存储_芯片",
     "slug": "0cf276aef5bf91",
-    "companyCount": 50,
+    "companyCount": 51,
     "topCompanyTickers": [
       "SANM",
       "ADBE",
@@ -606,7 +606,7 @@
     "name": "AI服务器整机与机架集成",
     "category": "AI服务器_存储_芯片",
     "slug": "8cd9a5421b550e",
-    "companyCount": 50,
+    "companyCount": 51,
     "topCompanyTickers": [
       "SANM",
       "ADBE",
@@ -636,7 +636,7 @@
     "name": "HBM与高带宽内存",
     "category": "AI服务器_存储_芯片",
     "slug": "6e6c626711eae5",
-    "companyCount": 50,
+    "companyCount": 51,
     "topCompanyTickers": [
       "SANM",
       "ADBE",
@@ -666,7 +666,7 @@
     "name": "系统内存、SOCAMM与内存模组",
     "category": "AI服务器_存储_芯片",
     "slug": "4f9cf4610ad1dc",
-    "companyCount": 50,
+    "companyCount": 51,
     "topCompanyTickers": [
       "SANM",
       "ADBE",
@@ -696,7 +696,7 @@
     "name": "企业级SSD与高速存储控制器",
     "category": "AI服务器_存储_芯片",
     "slug": "9498f9d13a22b0",
-    "companyCount": 50,
+    "companyCount": 51,
     "topCompanyTickers": [
       "SANM",
       "ADBE",
@@ -726,7 +726,7 @@
     "name": "HDD、对象存储与冷温数据存储",
     "category": "AI服务器_存储_芯片",
     "slug": "4d45642146e7c3",
-    "companyCount": 50,
+    "companyCount": 51,
     "topCompanyTickers": [
       "SANM",
       "ADBE",
@@ -756,7 +756,7 @@
     "name": "AI-native存储与KV Cache基础设施",
     "category": "AI服务器_存储_芯片",
     "slug": "dbba762707f9b6",
-    "companyCount": 50,
+    "companyCount": 51,
     "topCompanyTickers": [
       "SANM",
       "ADBE",
@@ -786,7 +786,7 @@
     "name": "CXL内存扩展与内存池化",
     "category": "AI服务器_存储_芯片",
     "slug": "ec06f9c2aa5381",
-    "companyCount": 50,
+    "companyCount": 51,
     "topCompanyTickers": [
       "SANM",
       "ADBE",
@@ -816,7 +816,7 @@
     "name": "片上SRAM、MRAM与近存计算",
     "category": "AI服务器_存储_芯片",
     "slug": "7a9f231c9466e6",
-    "companyCount": 50,
+    "companyCount": 51,
     "topCompanyTickers": [
       "SANM",
       "ADBE",
@@ -846,7 +846,7 @@
     "name": "AI芯片先进封装",
     "category": "AI服务器_存储_芯片",
     "slug": "6132398d9b8096",
-    "companyCount": 50,
+    "companyCount": 51,
     "topCompanyTickers": [
       "SANM",
       "ADBE",
@@ -876,7 +876,7 @@
     "name": "封装基板、中介层与RDL",
     "category": "AI服务器_存储_芯片",
     "slug": "f7ca3e4d4f0c9a",
-    "companyCount": 50,
+    "companyCount": 51,
     "topCompanyTickers": [
       "SANM",
       "ADBE",
@@ -906,7 +906,7 @@
     "name": "先进封装材料与热界面材料",
     "category": "AI服务器_存储_芯片",
     "slug": "88da5251572116",
-    "companyCount": 50,
+    "companyCount": 51,
     "topCompanyTickers": [
       "SANM",
       "ADBE",
@@ -936,7 +936,7 @@
     "name": "服务器BMC、MCU与嵌入式控制",
     "category": "AI服务器_存储_芯片",
     "slug": "72bce2ebd6a361",
-    "companyCount": 50,
+    "companyCount": 51,
     "topCompanyTickers": [
       "SANM",
       "ADBE",
@@ -966,7 +966,7 @@
     "name": "精密时钟与同步芯片",
     "category": "AI服务器_存储_芯片",
     "slug": "8d4824ca25b049",
-    "companyCount": 50,
+    "companyCount": 51,
     "topCompanyTickers": [
       "SANM",
       "ADBE",
@@ -996,7 +996,7 @@
     "name": "EDA工具、接口IP与Chiplet IP",
     "category": "AI服务器_存储_芯片",
     "slug": "ab8cd799486a34",
-    "companyCount": 50,
+    "companyCount": 51,
     "topCompanyTickers": [
       "SANM",
       "ADBE",
@@ -1026,7 +1026,7 @@
     "name": "AI集群调度与推理运行时",
     "category": "AI服务器_存储_芯片",
     "slug": "414bd9ba13e077",
-    "companyCount": 50,
+    "companyCount": 51,
     "topCompanyTickers": [
       "SANM",
       "ADBE",
@@ -1056,7 +1056,7 @@
     "name": "AI云算力外包和NeoCloud与AI数据中心运营商",
     "category": "AI服务器_存储_芯片",
     "slug": "d681d89d8663ce",
-    "companyCount": 50,
+    "companyCount": 51,
     "topCompanyTickers": [
       "SANM",
       "ADBE",
@@ -1086,7 +1086,7 @@
     "name": "MLCC与高端陶瓷电容",
     "category": "AI服务器_存储_芯片",
     "slug": "cd096ea4005cda",
-    "companyCount": 50,
+    "companyCount": 51,
     "topCompanyTickers": [
       "SANM",
       "ADBE",

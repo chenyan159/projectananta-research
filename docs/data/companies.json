@@ -1428,6 +1428,48 @@
     }
   },
   {
+    "ticker": "CBRS",
+    "name": "Cerebras Systems Inc",
+    "category": "AI计算芯片_EDA_IP_custom_ASIC",
+    "relatedIndustrySlugs": [
+      "dbba762707f9b6",
+      "d681d89d8663ce",
+      "29a8338a1c53f3",
+      "8cd9a5421b550e",
+      "6132398d9b8096",
+      "0cf276aef5bf91",
+      "414bd9ba13e077",
+      "ec06f9c2aa5381",
+      "ab8cd799486a34",
+      "6e6c626711eae5",
+      "4d45642146e7c3",
+      "cd096ea4005cda",
+      "5275621bff96ae",
+      "9498f9d13a22b0",
+      "88da5251572116",
+      "28e606b87fe24a",
+      "f7ca3e4d4f0c9a",
+      "72bce2ebd6a361",
+      "7a9f231c9466e6",
+      "8d4824ca25b049",
+      "4f9cf4610ad1dc"
+    ],
+    "hasReport": true,
+    "hasEvaluation": true,
+    "report": {
+      "title": "公司：CBRS Cerebras Systems Inc",
+      "reportDate": "2026-06-30",
+      "sourcePath": "基本面/公司调研/AI计算芯片_EDA_IP_custom_ASIC/CBRS_Cerebras Systems Inc_公司调研_2026-06-30.md",
+      "dataFile": "reports/company/CBRS.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：Cerebras Systems Inc",
+      "reportDate": "2026-06-30",
+      "sourcePath": "基本面/分析报告/公司评估/CBRS_Cerebras_Systems_Inc_收入传导估值评估_2026-06-30.md",
+      "dataFile": "reports/company-evaluation/CBRS.json"
+    }
+  },
+  {
     "ticker": "ANET",
     "name": "Arista Networks",
     "category": "AI网络_光互联_连接器",
@@ -3715,6 +3757,41 @@
       "reportDate": "2026-06-23",
       "sourcePath": "基本面/分析报告/公司评估/HTHIY_Hitachi_Ltd_收入传导估值评估_2026-06-23.md",
       "dataFile": "reports/company-evaluation/HTHIY.json"
+    }
+  },
+  {
+    "ticker": "TE",
+    "name": "T1 Energy Inc",
+    "category": "电力_发电_能源_储能",
+    "relatedIndustrySlugs": [
+      "45b65359204b8d",
+      "0d56399a2b31a9",
+      "c22bcf0abbe73c",
+      "4c8a62f9c2fc66",
+      "f112dfe1c5d069",
+      "a80f5981fe1bca",
+      "3209d12d31a374",
+      "521fe672520d00",
+      "5cafa4056e0614",
+      "2c9fd236a99b4d",
+      "36a358f0481551",
+      "de2f40f9c6a104",
+      "a160466ae1c20d",
+      "12545fd24b58dc"
+    ],
+    "hasReport": true,
+    "hasEvaluation": true,
+    "report": {
+      "title": "T1 Energy Inc（TE）公司调研：美国硅基太阳能制造平台、BESS/数据中心入口与 AI 电力侧可选性",
+      "reportDate": "2026-06-30",
+      "sourcePath": "基本面/公司调研/电力_发电_能源_储能/TE_T1 Energy Inc_公司调研_2026-06-30.md",
+      "dataFile": "reports/company/TE.json"
+    },
+    "evaluation": {
+      "title": "公司收入传导与价值传导评估：T1 Energy Inc",
+      "reportDate": "2026-06-30",
+      "sourcePath": "基本面/分析报告/公司评估/TE_T1_Energy_Inc_收入传导估值评估_2026-06-30.md",
+      "dataFile": "reports/company-evaluation/TE.json"
     }
   },
   {

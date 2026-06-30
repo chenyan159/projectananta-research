@@ -1,16 +1,16 @@
 {
   "summary": {
-    "companyIndexCount": 189,
-    "companyReportUnique": 189,
-    "companyEvaluationUnique": 189,
+    "companyIndexCount": 191,
+    "companyReportUnique": 191,
+    "companyEvaluationUnique": 191,
     "industryIndexCount": 75,
     "industryReportUnique": 75,
     "featureFileCount": 52,
     "effectiveFeatureCount": 22,
     "effectiveFeatureAsOf": "2026-06-04",
-    "companyComparisonCount": 189,
-    "companyComparisonRowCount": 35532,
-    "companyComparisonDate": "2026-06-23",
+    "companyComparisonCount": 191,
+    "companyComparisonRowCount": 35912,
+    "companyComparisonDate": "2026-06-30",
     "dailyNewsCount": 10,
     "rankingRuns": {
       "dualEventRightTail": 180,
@@ -44,7 +44,7 @@
       "severity": "warn",
       "type": "ranking-missing-default",
       "title": "十二句话 S04 反证惩罚排名未覆盖全部公司",
-      "message": "缺失 9 家：SMTOY, DHR, DD, DKILY, HTHIY, TOELY, AEIS, MRAAY, TTDKY"
+      "message": "缺失 11 家：CBRS, SMTOY, DHR, DD, DKILY, HTHIY, TE, TOELY, AEIS, MRAAY, TTDKY"
     }
   ]
 }
