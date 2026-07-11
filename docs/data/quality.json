@@ -1,10 +1,10 @@
 {
   "summary": {
-    "companyIndexCount": 191,
-    "companyReportUnique": 191,
+    "companyIndexCount": 192,
+    "companyReportUnique": 189,
     "companyEvaluationUnique": 191,
     "industryIndexCount": 75,
-    "industryReportUnique": 75,
+    "industryReportUnique": 74,
     "featureFileCount": 52,
     "effectiveFeatureCount": 22,
     "effectiveFeatureAsOf": "2026-06-04",
@@ -42,9 +42,33 @@
   "alerts": [
     {
       "severity": "warn",
+      "type": "company-report-missing",
+      "title": "公司索引中存在未匹配正式报告",
+      "message": "NVDA, ON, QCOM"
+    },
+    {
+      "severity": "warn",
+      "type": "company-evaluation-missing",
+      "title": "公司索引中存在未匹配公司评估",
+      "message": "SKHY"
+    },
+    {
+      "severity": "warn",
       "type": "ranking-missing-default",
       "title": "十二句话 S04 反证惩罚排名未覆盖全部公司",
-      "message": "缺失 11 家：CBRS, SMTOY, DHR, DD, DKILY, HTHIY, TE, TOELY, AEIS, MRAAY, TTDKY"
+      "message": "缺失 12 家：SKHY, CBRS, SMTOY, DHR, DD, DKILY, HTHIY, TE, TOELY, AEIS, MRAAY, TTDKY"
+    },
+    {
+      "severity": "info",
+      "type": "industry-report-missing",
+      "title": "行业索引中存在未匹配正式报告",
+      "message": "AI服务器CPU与控制平面芯片"
+    },
+    {
+      "severity": "warn",
+      "type": "company-comparison-missing",
+      "title": "公司对比结果未覆盖全部公司",
+      "message": "缺失 1 家：SKHY"
     }
   ]
 }

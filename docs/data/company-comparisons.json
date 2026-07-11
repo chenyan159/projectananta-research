@@ -1,11 +1,13 @@
 {
-  "generatedAt": "2026-07-10T13:03:11.866Z",
+  "generatedAt": "2026-07-11T13:03:33.779Z",
   "sourceRoot": "基本面/分析报告/公司对比",
   "resultRoot": "基本面/分析报告/公司对比/结果",
   "reportDate": "2026-06-30",
   "companyCount": 191,
   "rowCount": 35912,
-  "missing": [],
+  "missing": [
+    "SKHY"
+  ],
   "finalRanking": [
     {
       "rank": 1,
