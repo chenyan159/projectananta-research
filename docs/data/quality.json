@@ -44,7 +44,7 @@
       "severity": "warn",
       "type": "company-report-missing",
       "title": "公司索引中存在未匹配正式报告",
-      "message": "NVDA, ON, QCOM"
+      "message": "CARR, CAT, DCI"
     },
     {
       "severity": "warn",
