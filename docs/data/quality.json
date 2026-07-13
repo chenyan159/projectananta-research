@@ -1,63 +1,24 @@
 {
   "summary": {
     "companyIndexCount": 192,
-    "companyReportUnique": 189,
-    "companyEvaluationUnique": 191,
+    "companyReportUnique": 192,
+    "companyEvaluationUnique": 192,
     "industryIndexCount": 75,
     "industryReportUnique": 74,
-    "featureFileCount": 52,
-    "effectiveFeatureCount": 22,
-    "effectiveFeatureAsOf": "2026-06-04",
-    "companyComparisonCount": 191,
-    "companyComparisonRowCount": 35912,
-    "companyComparisonDate": "2026-06-30",
+    "featureDefinitionCount": 19,
+    "featureFileCount": 0,
+    "alphaFeatureCount": 16,
+    "gateCount": 3,
+    "effectiveFeatureCount": 0,
+    "effectiveFeatureAsOf": "",
+    "companyComparisonCount": 185,
+    "companyComparisonRowCount": 752,
+    "companyComparisonDate": "2026-07-13",
     "dailyNewsCount": 10,
-    "rankingRuns": {
-      "dualEventRightTail": 180,
-      "eightS08Antifragile": 180,
-      "eightS10RiskMomentum": 180,
-      "veryAggressive": 180,
-      "dualAggressiveGrowth": 180,
-      "minimalR22": 180,
-      "simple01RevenueStep": 180,
-      "twelveS04CounterEvidence": 180,
-      "twelveS02Realization": 180,
-      "twelveS03RiskReward": 180,
-      "balanced9m": 0,
-      "eightS06InfoGate": 180,
-      "oneYear5x": 181,
-      "counterEvidenceShortConfirm": 180,
-      "counterEvidencePressureDefense": 180,
-      "realizationBalanced": 180,
-      "oneYear5xBalancedRightTail": 181,
-      "riskMomentumOffense": 180,
-      "minimalRightTailFast": 180,
-      "infoGateFilter": 180,
-      "counterEvidenceExpandedSearch": 180,
-      "riskMomentumExpandedSearch": 180,
-      "oneYear5xExpandedSearch": 181
-    },
+    "rankingRuns": {},
     "rawIndustryReportCount": 76
   },
   "alerts": [
-    {
-      "severity": "warn",
-      "type": "company-report-missing",
-      "title": "公司索引中存在未匹配正式报告",
-      "message": "CARR, CAT, DCI"
-    },
-    {
-      "severity": "warn",
-      "type": "company-evaluation-missing",
-      "title": "公司索引中存在未匹配公司评估",
-      "message": "SKHY"
-    },
-    {
-      "severity": "warn",
-      "type": "ranking-missing-default",
-      "title": "十二句话 S04 反证惩罚排名未覆盖全部公司",
-      "message": "缺失 12 家：SKHY, CBRS, SMTOY, DHR, DD, DKILY, HTHIY, TE, TOELY, AEIS, MRAAY, TTDKY"
-    },
     {
       "severity": "info",
       "type": "industry-report-missing",
@@ -68,7 +29,7 @@
       "severity": "warn",
       "type": "company-comparison-missing",
       "title": "公司对比结果未覆盖全部公司",
-      "message": "缺失 1 家：SKHY"
+      "message": "缺失 7 家：CRWV, GOOGL, IBM, IREN, META, MSFT, NTNX"
     }
   ]
 }

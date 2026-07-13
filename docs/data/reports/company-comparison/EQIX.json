@@ -4681,8 +4681,8 @@
       "reason": "PSIX 的高增长右尾和市值弹性明显强于 EQIX。"
     },
     {
-      "bTicker": "PSTG",
-      "bName": "PSTG / Everpure PureStorage",
+      "bTicker": "P",
+      "bName": "P / Everpure",
       "bCategory": "AI服务器/存储/EMS",
       "relation": "相邻替代",
       "tierDiff": "A强：下行保护；B强：右尾弹性、价格确认动量、激进短线；接近：NTM兑现、风险调整收益、估值消化等",

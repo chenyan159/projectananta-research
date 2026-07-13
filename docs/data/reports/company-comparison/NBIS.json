@@ -521,8 +521,8 @@
       "reason": "MU的NTM订单/收入兑现更确定，NBIS右尾不足以完全抵消执行风险"
     },
     {
-      "bTicker": "PSTG",
-      "bName": "PSTG / Everpure PureStorage",
+      "bTicker": "P",
+      "bName": "P / Everpure",
       "bCategory": "AI服务器_存储_EMS",
       "relation": "上下游",
       "tierDiff": "A强：NTM、右尾、动量、短线；B强：下行、估值；接近：风险、催化",

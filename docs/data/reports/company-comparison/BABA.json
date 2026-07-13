@@ -4681,8 +4681,8 @@
       "reason": "BABA 以低估值叠加AI云期权，风险调整后赔率略好。"
     },
     {
-      "bTicker": "PSTG",
-      "bName": "PSTG / Everpure PureStorage",
+      "bTicker": "P",
+      "bName": "P / Everpure",
       "bCategory": "AI服务器/存储/EMS",
       "relation": "上下游",
       "tierDiff": "A强：估值消化；B强：右尾弹性、价格确认动量、激进短线；接近：NTM兑现、风险调整收益、下行保护等",
