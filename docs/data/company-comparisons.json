@@ -1,11 +1,21 @@
 {
-  "generatedAt": "2026-07-14T00:36:46.887Z",
+  "generatedAt": "2026-07-14T13:02:18.729Z",
   "sourceRoot": "基本面/分析报告/公司对比",
   "resultRoot": "基本面/分析报告/公司对比/结果",
-  "reportDate": "2026-07-13",
-  "companyCount": 192,
+  "reportDate": "2026-07-14",
+  "companyCount": 183,
   "rowCount": 0,
-  "missing": [],
+  "missing": [
+    "CEG",
+    "SMR",
+    "HTHIY",
+    "TE",
+    "AEHR",
+    "ASX",
+    "COHU",
+    "IMOS",
+    "KEYS"
+  ],
   "finalRanking": [
     {
       "rank": 1,
@@ -79,16 +89,6 @@
     },
     {
       "rank": 8,
-      "ticker": "AEHR",
-      "name": "Aehr Test Systems",
-      "category": "封测_检测_计量_光罩",
-      "wins": 0,
-      "losses": 0,
-      "net": 0,
-      "dataFile": "reports/company-comparison/AEHR.json"
-    },
-    {
-      "rank": 9,
       "ticker": "AEIS",
       "name": "Advanced Energy Industries",
       "category": "晶圆制造_前道设备",
@@ -98,7 +98,7 @@
       "dataFile": "reports/company-comparison/AEIS.json"
     },
     {
-      "rank": 10,
+      "rank": 9,
       "ticker": "AEP",
       "name": "American Electric Power",
       "category": "电力_发电_能源_储能",
@@ -108,7 +108,7 @@
       "dataFile": "reports/company-comparison/AEP.json"
     },
     {
-      "rank": 11,
+      "rank": 10,
       "ticker": "AJNMY",
       "name": "味之素 Ajinomoto",
       "category": "半导体材料_化学品_基板",
@@ -118,7 +118,7 @@
       "dataFile": "reports/company-comparison/AJNMY.json"
     },
     {
-      "rank": 12,
+      "rank": 11,
       "ticker": "ALAB",
       "name": "AsteraLabs",
       "category": "AI计算芯片_EDA_IP_custom_ASIC",
@@ -128,7 +128,7 @@
       "dataFile": "reports/company-comparison/ALAB.json"
     },
     {
-      "rank": 13,
+      "rank": 12,
       "ticker": "ALLE",
       "name": "Allegion plc",
       "category": "机电_冷却_工程_水处理_边缘工业AI",
@@ -138,7 +138,7 @@
       "dataFile": "reports/company-comparison/ALLE.json"
     },
     {
-      "rank": 14,
+      "rank": 13,
       "ticker": "AMAT",
       "name": "Applied Materials",
       "category": "晶圆制造_前道设备",
@@ -148,7 +148,7 @@
       "dataFile": "reports/company-comparison/AMAT.json"
     },
     {
-      "rank": 15,
+      "rank": 14,
       "ticker": "AMD",
       "name": "Advanced Micro Devices",
       "category": "AI计算芯片_EDA_IP_custom_ASIC",
@@ -158,7 +158,7 @@
       "dataFile": "reports/company-comparison/AMD.json"
     },
     {
-      "rank": 16,
+      "rank": 15,
       "ticker": "AMKR",
       "name": "Amkor Technology",
       "category": "封测_检测_计量_光罩",
@@ -168,7 +168,7 @@
       "dataFile": "reports/company-comparison/AMKR.json"
     },
     {
-      "rank": 17,
+      "rank": 16,
       "ticker": "AMPX",
       "name": "Amprius Technologies",
       "category": "电力_发电_能源_储能",
@@ -178,7 +178,7 @@
       "dataFile": "reports/company-comparison/AMPX.json"
     },
     {
-      "rank": 18,
+      "rank": 17,
       "ticker": "AMZN",
       "name": "Amazon",
       "category": "云算力_IDC_AI软件平台",
@@ -188,7 +188,7 @@
       "dataFile": "reports/company-comparison/AMZN.json"
     },
     {
-      "rank": 19,
+      "rank": 18,
       "ticker": "ANET",
       "name": "Arista Networks",
       "category": "AI网络_光互联_连接器",
@@ -198,7 +198,7 @@
       "dataFile": "reports/company-comparison/ANET.json"
     },
     {
-      "rank": 20,
+      "rank": 19,
       "ticker": "AOSL",
       "name": "Alpha and Omega Semiconductor",
       "category": "配电_电源_功率器件",
@@ -208,7 +208,7 @@
       "dataFile": "reports/company-comparison/AOSL.json"
     },
     {
-      "rank": 21,
+      "rank": 20,
       "ticker": "APD",
       "name": "Air Products and Chemicals",
       "category": "半导体材料_化学品_基板",
@@ -218,7 +218,7 @@
       "dataFile": "reports/company-comparison/APD.json"
     },
     {
-      "rank": 22,
+      "rank": 21,
       "ticker": "APH",
       "name": "Amphenol 安费诺",
       "category": "AI网络_光互联_连接器",
@@ -228,7 +228,7 @@
       "dataFile": "reports/company-comparison/APH.json"
     },
     {
-      "rank": 23,
+      "rank": 22,
       "ticker": "APLD",
       "name": "Applied Digital",
       "category": "云算力_IDC_AI软件平台",
@@ -238,7 +238,7 @@
       "dataFile": "reports/company-comparison/APLD.json"
     },
     {
-      "rank": 24,
+      "rank": 23,
       "ticker": "ARM",
       "name": "Arm Holdings",
       "category": "AI计算芯片_EDA_IP_custom_ASIC",
@@ -248,7 +248,7 @@
       "dataFile": "reports/company-comparison/ARM.json"
     },
     {
-      "rank": 25,
+      "rank": 24,
       "ticker": "ASGLY",
       "name": "AGC Inc",
       "category": "半导体材料_化学品_基板",
@@ -258,7 +258,7 @@
       "dataFile": "reports/company-comparison/ASGLY.json"
     },
     {
-      "rank": 26,
+      "rank": 25,
       "ticker": "ASMIY",
       "name": "ASM International",
       "category": "晶圆制造_前道设备",
@@ -268,7 +268,7 @@
       "dataFile": "reports/company-comparison/ASMIY.json"
     },
     {
-      "rank": 27,
+      "rank": 26,
       "ticker": "ASML",
       "name": "ASML Holding NV",
       "category": "晶圆制造_前道设备",
@@ -278,7 +278,7 @@
       "dataFile": "reports/company-comparison/ASML.json"
     },
     {
-      "rank": 28,
+      "rank": 27,
       "ticker": "ASMVY",
       "name": "ASMPT",
       "category": "封测_检测_计量_光罩",
@@ -288,17 +288,7 @@
       "dataFile": "reports/company-comparison/ASMVY.json"
     },
     {
-      "rank": 29,
-      "ticker": "ASX",
-      "name": "ASE Technology Holding",
-      "category": "封测_检测_计量_光罩",
-      "wins": 0,
-      "losses": 0,
-      "net": 0,
-      "dataFile": "reports/company-comparison/ASX.json"
-    },
-    {
-      "rank": 30,
+      "rank": 28,
       "ticker": "ATEYY",
       "name": "Advantest",
       "category": "封测_检测_计量_光罩",
@@ -308,7 +298,7 @@
       "dataFile": "reports/company-comparison/ATEYY.json"
     },
     {
-      "rank": 31,
+      "rank": 29,
       "ticker": "ATKR",
       "name": "Atkore",
       "category": "配电_电源_功率器件",
@@ -318,7 +308,7 @@
       "dataFile": "reports/company-comparison/ATKR.json"
     },
     {
-      "rank": 32,
+      "rank": 30,
       "ticker": "AVGO",
       "name": "Broadcom",
       "category": "AI计算芯片_EDA_IP_custom_ASIC",
@@ -328,7 +318,7 @@
       "dataFile": "reports/company-comparison/AVGO.json"
     },
     {
-      "rank": 33,
+      "rank": 31,
       "ticker": "AXTI",
       "name": "AXT Inc",
       "category": "半导体材料_化学品_基板",
@@ -338,7 +328,7 @@
       "dataFile": "reports/company-comparison/AXTI.json"
     },
     {
-      "rank": 34,
+      "rank": 32,
       "ticker": "BABA",
       "name": "Alibaba 阿里巴巴",
       "category": "云算力_IDC_AI软件平台",
@@ -348,7 +338,7 @@
       "dataFile": "reports/company-comparison/BABA.json"
     },
     {
-      "rank": 35,
+      "rank": 33,
       "ticker": "BDC",
       "name": "Belden",
       "category": "AI网络_光互联_连接器",
@@ -358,7 +348,7 @@
       "dataFile": "reports/company-comparison/BDC.json"
     },
     {
-      "rank": 36,
+      "rank": 34,
       "ticker": "BE",
       "name": "Bloom Energy",
       "category": "电力_发电_能源_储能",
@@ -368,7 +358,7 @@
       "dataFile": "reports/company-comparison/BE.json"
     },
     {
-      "rank": 37,
+      "rank": 35,
       "ticker": "BELFB",
       "name": "Bel Fuse Inc",
       "category": "AI网络_光互联_连接器",
@@ -378,7 +368,7 @@
       "dataFile": "reports/company-comparison/BELFB.json"
     },
     {
-      "rank": 38,
+      "rank": 36,
       "ticker": "BESIY",
       "name": "BE Semiconductor",
       "category": "封测_检测_计量_光罩",
@@ -388,7 +378,7 @@
       "dataFile": "reports/company-comparison/BESIY.json"
     },
     {
-      "rank": 39,
+      "rank": 37,
       "ticker": "BWXT",
       "name": "BWX Technologies",
       "category": "电力_发电_能源_储能",
@@ -398,7 +388,7 @@
       "dataFile": "reports/company-comparison/BWXT.json"
     },
     {
-      "rank": 40,
+      "rank": 38,
       "ticker": "CAMT",
       "name": "Camtek",
       "category": "封测_检测_计量_光罩",
@@ -408,7 +398,7 @@
       "dataFile": "reports/company-comparison/CAMT.json"
     },
     {
-      "rank": 41,
+      "rank": 39,
       "ticker": "CARR",
       "name": "Carrier Global",
       "category": "机电_冷却_工程_水处理_边缘工业AI",
@@ -418,7 +408,7 @@
       "dataFile": "reports/company-comparison/CARR.json"
     },
     {
-      "rank": 42,
+      "rank": 40,
       "ticker": "CAT",
       "name": "Caterpillar Inc",
       "category": "机电_冷却_工程_水处理_边缘工业AI",
@@ -428,7 +418,7 @@
       "dataFile": "reports/company-comparison/CAT.json"
     },
     {
-      "rank": 43,
+      "rank": 41,
       "ticker": "CBRS",
       "name": "Cerebras Systems Inc",
       "category": "AI计算芯片_EDA_IP_custom_ASIC",
@@ -438,7 +428,7 @@
       "dataFile": "reports/company-comparison/CBRS.json"
     },
     {
-      "rank": 44,
+      "rank": 42,
       "ticker": "CC",
       "name": "The Chemours Company",
       "category": "半导体材料_化学品_基板",
@@ -448,7 +438,7 @@
       "dataFile": "reports/company-comparison/CC.json"
     },
     {
-      "rank": 45,
+      "rank": 43,
       "ticker": "CDNS",
       "name": "Cadence Design Systems",
       "category": "AI计算芯片_EDA_IP_custom_ASIC",
@@ -458,17 +448,7 @@
       "dataFile": "reports/company-comparison/CDNS.json"
     },
     {
-      "rank": 46,
-      "ticker": "CEG",
-      "name": "Constellation Energy",
-      "category": "电力_发电_能源_储能",
-      "wins": 0,
-      "losses": 0,
-      "net": 0,
-      "dataFile": "reports/company-comparison/CEG.json"
-    },
-    {
-      "rank": 47,
+      "rank": 44,
       "ticker": "CIEN",
       "name": "Ciena Corporation",
       "category": "AI网络_光互联_连接器",
@@ -478,7 +458,7 @@
       "dataFile": "reports/company-comparison/CIEN.json"
     },
     {
-      "rank": 48,
+      "rank": 45,
       "ticker": "CLS",
       "name": "Celestica Inc",
       "category": "AI服务器_存储_EMS",
@@ -488,7 +468,7 @@
       "dataFile": "reports/company-comparison/CLS.json"
     },
     {
-      "rank": 49,
+      "rank": 46,
       "ticker": "CMI",
       "name": "Cummins Inc",
       "category": "电力_发电_能源_储能",
@@ -498,7 +478,7 @@
       "dataFile": "reports/company-comparison/CMI.json"
     },
     {
-      "rank": 50,
+      "rank": 47,
       "ticker": "COHR",
       "name": "Coherent",
       "category": "AI网络_光互联_连接器",
@@ -508,17 +488,7 @@
       "dataFile": "reports/company-comparison/COHR.json"
     },
     {
-      "rank": 51,
-      "ticker": "COHU",
-      "name": "Cohu Inc",
-      "category": "封测_检测_计量_光罩",
-      "wins": 0,
-      "losses": 0,
-      "net": 0,
-      "dataFile": "reports/company-comparison/COHU.json"
-    },
-    {
-      "rank": 52,
+      "rank": 48,
       "ticker": "CRDO",
       "name": "Credo Technology Group",
       "category": "AI网络_光互联_连接器",
@@ -528,7 +498,7 @@
       "dataFile": "reports/company-comparison/CRDO.json"
     },
     {
-      "rank": 53,
+      "rank": 49,
       "ticker": "CRWD",
       "name": "CrowdStrike",
       "category": "云算力_IDC_AI软件平台",
@@ -538,7 +508,7 @@
       "dataFile": "reports/company-comparison/CRWD.json"
     },
     {
-      "rank": 54,
+      "rank": 50,
       "ticker": "CRWV",
       "name": "CoreWeave",
       "category": "云算力_IDC_AI软件平台",
@@ -548,7 +518,7 @@
       "dataFile": "reports/company-comparison/CRWV.json"
     },
     {
-      "rank": 55,
+      "rank": 51,
       "ticker": "CSCO",
       "name": "Cisco Systems",
       "category": "AI网络_光互联_连接器",
@@ -558,7 +528,7 @@
       "dataFile": "reports/company-comparison/CSCO.json"
     },
     {
-      "rank": 56,
+      "rank": 52,
       "ticker": "DCI",
       "name": "Donaldson Company",
       "category": "机电_冷却_工程_水处理_边缘工业AI",
@@ -568,7 +538,7 @@
       "dataFile": "reports/company-comparison/DCI.json"
     },
     {
-      "rank": 57,
+      "rank": 53,
       "ticker": "DD",
       "name": "DuPont de Nemours",
       "category": "半导体材料_化学品_基板",
@@ -578,7 +548,7 @@
       "dataFile": "reports/company-comparison/DD.json"
     },
     {
-      "rank": 58,
+      "rank": 54,
       "ticker": "DELL",
       "name": "Dell Technologies",
       "category": "AI服务器_存储_EMS",
@@ -588,7 +558,7 @@
       "dataFile": "reports/company-comparison/DELL.json"
     },
     {
-      "rank": 59,
+      "rank": 55,
       "ticker": "DHR",
       "name": "Danaher Corporation",
       "category": "半导体材料_化学品_基板",
@@ -598,7 +568,7 @@
       "dataFile": "reports/company-comparison/DHR.json"
     },
     {
-      "rank": 60,
+      "rank": 56,
       "ticker": "DIOD",
       "name": "Diodes Incorporated",
       "category": "配电_电源_功率器件",
@@ -608,7 +578,7 @@
       "dataFile": "reports/company-comparison/DIOD.json"
     },
     {
-      "rank": 61,
+      "rank": 57,
       "ticker": "DKILY",
       "name": "Daikin Industries",
       "category": "半导体材料_化学品_基板",
@@ -618,7 +588,7 @@
       "dataFile": "reports/company-comparison/DKILY.json"
     },
     {
-      "rank": 62,
+      "rank": 58,
       "ticker": "DLR",
       "name": "Digital Realty",
       "category": "云算力_IDC_AI软件平台",
@@ -628,7 +598,7 @@
       "dataFile": "reports/company-comparison/DLR.json"
     },
     {
-      "rank": 63,
+      "rank": 59,
       "ticker": "DOV",
       "name": "Dover Corporation",
       "category": "机电_冷却_工程_水处理_边缘工业AI",
@@ -638,7 +608,7 @@
       "dataFile": "reports/company-comparison/DOV.json"
     },
     {
-      "rank": 64,
+      "rank": 60,
       "ticker": "DSCSY",
       "name": "DISCO",
       "category": "晶圆制造_前道设备",
@@ -648,7 +618,7 @@
       "dataFile": "reports/company-comparison/DSCSY.json"
     },
     {
-      "rank": 65,
+      "rank": 61,
       "ticker": "DTE",
       "name": "DTE Energy Company",
       "category": "电力_发电_能源_储能",
@@ -658,7 +628,7 @@
       "dataFile": "reports/company-comparison/DTE.json"
     },
     {
-      "rank": 66,
+      "rank": 62,
       "ticker": "ECL",
       "name": "Ecolab",
       "category": "半导体材料_化学品_基板",
@@ -668,7 +638,7 @@
       "dataFile": "reports/company-comparison/ECL.json"
     },
     {
-      "rank": 67,
+      "rank": 63,
       "ticker": "EME",
       "name": "EMCOR Group",
       "category": "机电_冷却_工程_水处理_边缘工业AI",
@@ -678,7 +648,7 @@
       "dataFile": "reports/company-comparison/EME.json"
     },
     {
-      "rank": 68,
+      "rank": 64,
       "ticker": "ENPH",
       "name": "Enphase Energy",
       "category": "电力_发电_能源_储能",
@@ -688,7 +658,7 @@
       "dataFile": "reports/company-comparison/ENPH.json"
     },
     {
-      "rank": 69,
+      "rank": 65,
       "ticker": "ENS",
       "name": "EnerSys",
       "category": "电力_发电_能源_储能",
@@ -698,7 +668,7 @@
       "dataFile": "reports/company-comparison/ENS.json"
     },
     {
-      "rank": 70,
+      "rank": 66,
       "ticker": "ENTG",
       "name": "Entegris",
       "category": "半导体材料_化学品_基板",
@@ -708,7 +678,7 @@
       "dataFile": "reports/company-comparison/ENTG.json"
     },
     {
-      "rank": 71,
+      "rank": 67,
       "ticker": "EQIX",
       "name": "Equinix",
       "category": "云算力_IDC_AI软件平台",
@@ -718,7 +688,7 @@
       "dataFile": "reports/company-comparison/EQIX.json"
     },
     {
-      "rank": 72,
+      "rank": 68,
       "ticker": "ET",
       "name": "Energy Transfer LP",
       "category": "电力_发电_能源_储能",
@@ -728,7 +698,7 @@
       "dataFile": "reports/company-comparison/ET.json"
     },
     {
-      "rank": 73,
+      "rank": 69,
       "ticker": "ETN",
       "name": "Eaton Corporation",
       "category": "配电_电源_功率器件",
@@ -738,7 +708,7 @@
       "dataFile": "reports/company-comparison/ETN.json"
     },
     {
-      "rank": 74,
+      "rank": 70,
       "ticker": "ETR",
       "name": "Entergy Corporation",
       "category": "电力_发电_能源_储能",
@@ -748,7 +718,7 @@
       "dataFile": "reports/company-comparison/ETR.json"
     },
     {
-      "rank": 75,
+      "rank": 71,
       "ticker": "FCEL",
       "name": "FuelCell Energy",
       "category": "电力_发电_能源_储能",
@@ -758,7 +728,7 @@
       "dataFile": "reports/company-comparison/FCEL.json"
     },
     {
-      "rank": 76,
+      "rank": 72,
       "ticker": "FIX",
       "name": "Comfort Systems USA",
       "category": "机电_冷却_工程_水处理_边缘工业AI",
@@ -768,7 +738,7 @@
       "dataFile": "reports/company-comparison/FIX.json"
     },
     {
-      "rank": 77,
+      "rank": 73,
       "ticker": "FLEX",
       "name": "Flex Ltd",
       "category": "AI服务器_存储_EMS",
@@ -778,7 +748,7 @@
       "dataFile": "reports/company-comparison/FLEX.json"
     },
     {
-      "rank": 78,
+      "rank": 74,
       "ticker": "FLNC",
       "name": "Fluence Energy",
       "category": "电力_发电_能源_储能",
@@ -788,7 +758,7 @@
       "dataFile": "reports/company-comparison/FLNC.json"
     },
     {
-      "rank": 79,
+      "rank": 75,
       "ticker": "FN",
       "name": "Fabrinet",
       "category": "AI服务器_存储_EMS",
@@ -798,7 +768,7 @@
       "dataFile": "reports/company-comparison/FN.json"
     },
     {
-      "rank": 80,
+      "rank": 76,
       "ticker": "FORM",
       "name": "FormFactor",
       "category": "封测_检测_计量_光罩",
@@ -808,7 +778,7 @@
       "dataFile": "reports/company-comparison/FORM.json"
     },
     {
-      "rank": 81,
+      "rank": 77,
       "ticker": "FTV",
       "name": "Fortive Corporation",
       "category": "机电_冷却_工程_水处理_边缘工业AI",
@@ -818,7 +788,7 @@
       "dataFile": "reports/company-comparison/FTV.json"
     },
     {
-      "rank": 82,
+      "rank": 78,
       "ticker": "GEV",
       "name": "GE Vernova",
       "category": "电力_发电_能源_储能",
@@ -828,7 +798,7 @@
       "dataFile": "reports/company-comparison/GEV.json"
     },
     {
-      "rank": 83,
+      "rank": 79,
       "ticker": "GFS",
       "name": "GlobalFoundries",
       "category": "晶圆制造_前道设备",
@@ -838,7 +808,7 @@
       "dataFile": "reports/company-comparison/GFS.json"
     },
     {
-      "rank": 84,
+      "rank": 80,
       "ticker": "GLW",
       "name": "Corning",
       "category": "AI网络_光互联_连接器",
@@ -848,7 +818,7 @@
       "dataFile": "reports/company-comparison/GLW.json"
     },
     {
-      "rank": 85,
+      "rank": 81,
       "ticker": "GNRC",
       "name": "Generac Holdings",
       "category": "电力_发电_能源_储能",
@@ -858,7 +828,7 @@
       "dataFile": "reports/company-comparison/GNRC.json"
     },
     {
-      "rank": 86,
+      "rank": 82,
       "ticker": "GOOGL",
       "name": "Alphabet Inc",
       "category": "云算力_IDC_AI软件平台",
@@ -868,7 +838,7 @@
       "dataFile": "reports/company-comparison/GOOGL.json"
     },
     {
-      "rank": 87,
+      "rank": 83,
       "ticker": "HOCPY",
       "name": "HOYA Corporation",
       "category": "半导体材料_化学品_基板",
@@ -878,7 +848,7 @@
       "dataFile": "reports/company-comparison/HOCPY.json"
     },
     {
-      "rank": 88,
+      "rank": 84,
       "ticker": "HPE",
       "name": "惠普企业",
       "category": "AI服务器_存储_EMS",
@@ -888,17 +858,7 @@
       "dataFile": "reports/company-comparison/HPE.json"
     },
     {
-      "rank": 89,
-      "ticker": "HTHIY",
-      "name": "Hitachi Ltd",
-      "category": "电力_发电_能源_储能",
-      "wins": 0,
-      "losses": 0,
-      "net": 0,
-      "dataFile": "reports/company-comparison/HTHIY.json"
-    },
-    {
-      "rank": 90,
+      "rank": 85,
       "ticker": "HUBB",
       "name": "Hubbell",
       "category": "配电_电源_功率器件",
@@ -908,7 +868,7 @@
       "dataFile": "reports/company-comparison/HUBB.json"
     },
     {
-      "rank": 91,
+      "rank": 86,
       "ticker": "IBM",
       "name": "International Business Machines",
       "category": "云算力_IDC_AI软件平台",
@@ -918,7 +878,7 @@
       "dataFile": "reports/company-comparison/IBM.json"
     },
     {
-      "rank": 92,
+      "rank": 87,
       "ticker": "ICHR",
       "name": "Ichor Holdings",
       "category": "晶圆制造_前道设备",
@@ -928,7 +888,7 @@
       "dataFile": "reports/company-comparison/ICHR.json"
     },
     {
-      "rank": 93,
+      "rank": 88,
       "ticker": "IESC",
       "name": "IES Holdings",
       "category": "机电_冷却_工程_水处理_边缘工业AI",
@@ -938,7 +898,7 @@
       "dataFile": "reports/company-comparison/IESC.json"
     },
     {
-      "rank": 94,
+      "rank": 89,
       "ticker": "IFNNY",
       "name": "Infineon Technologies AG 英飞凌科技",
       "category": "配电_电源_功率器件",
@@ -948,17 +908,7 @@
       "dataFile": "reports/company-comparison/IFNNY.json"
     },
     {
-      "rank": 95,
-      "ticker": "IMOS",
-      "name": "ChipMOS Technologies 南茂科技",
-      "category": "封测_检测_计量_光罩",
-      "wins": 0,
-      "losses": 0,
-      "net": 0,
-      "dataFile": "reports/company-comparison/IMOS.json"
-    },
-    {
-      "rank": 96,
+      "rank": 90,
       "ticker": "INTC",
       "name": "Intel Corporation 英特尔",
       "category": "AI计算芯片_EDA_IP_custom_ASIC",
@@ -968,7 +918,7 @@
       "dataFile": "reports/company-comparison/INTC.json"
     },
     {
-      "rank": 97,
+      "rank": 91,
       "ticker": "IREN",
       "name": "IREN Limited",
       "category": "云算力_IDC_AI软件平台",
@@ -978,7 +928,7 @@
       "dataFile": "reports/company-comparison/IREN.json"
     },
     {
-      "rank": 98,
+      "rank": 92,
       "ticker": "JBL",
       "name": "Jabil Inc",
       "category": "AI服务器_存储_EMS",
@@ -988,7 +938,7 @@
       "dataFile": "reports/company-comparison/JBL.json"
     },
     {
-      "rank": 99,
+      "rank": 93,
       "ticker": "JCI",
       "name": "Johnson Controls",
       "category": "机电_冷却_工程_水处理_边缘工业AI",
@@ -998,17 +948,7 @@
       "dataFile": "reports/company-comparison/JCI.json"
     },
     {
-      "rank": 100,
-      "ticker": "KEYS",
-      "name": "Keysight Technologies",
-      "category": "封测_检测_计量_光罩",
-      "wins": 0,
-      "losses": 0,
-      "net": 0,
-      "dataFile": "reports/company-comparison/KEYS.json"
-    },
-    {
-      "rank": 101,
+      "rank": 94,
       "ticker": "KLAC",
       "name": "KLA Corporation",
       "category": "晶圆制造_前道设备",
@@ -1018,7 +958,7 @@
       "dataFile": "reports/company-comparison/KLAC.json"
     },
     {
-      "rank": 102,
+      "rank": 95,
       "ticker": "KLIC",
       "name": "Kulicke Soffa",
       "category": "封测_检测_计量_光罩",
@@ -1028,7 +968,7 @@
       "dataFile": "reports/company-comparison/KLIC.json"
     },
     {
-      "rank": 103,
+      "rank": 96,
       "ticker": "LFUS",
       "name": "Littelfuse",
       "category": "配电_电源_功率器件",
@@ -1038,7 +978,7 @@
       "dataFile": "reports/company-comparison/LFUS.json"
     },
     {
-      "rank": 104,
+      "rank": 97,
       "ticker": "LIN",
       "name": "Linde plc",
       "category": "半导体材料_化学品_基板",
@@ -1048,7 +988,7 @@
       "dataFile": "reports/company-comparison/LIN.json"
     },
     {
-      "rank": 105,
+      "rank": 98,
       "ticker": "LITE",
       "name": "Lumentum",
       "category": "AI网络_光互联_连接器",
@@ -1058,7 +998,7 @@
       "dataFile": "reports/company-comparison/LITE.json"
     },
     {
-      "rank": 106,
+      "rank": 99,
       "ticker": "LRCX",
       "name": "Lam Research",
       "category": "晶圆制造_前道设备",
@@ -1068,7 +1008,7 @@
       "dataFile": "reports/company-comparison/LRCX.json"
     },
     {
-      "rank": 107,
+      "rank": 100,
       "ticker": "LWLG",
       "name": "Lightwave Logic",
       "category": "AI网络_光互联_连接器",
@@ -1078,7 +1018,7 @@
       "dataFile": "reports/company-comparison/LWLG.json"
     },
     {
-      "rank": 108,
+      "rank": 101,
       "ticker": "MCHP",
       "name": "Microchip Technology",
       "category": "AI计算芯片_EDA_IP_custom_ASIC",
@@ -1088,7 +1028,7 @@
       "dataFile": "reports/company-comparison/MCHP.json"
     },
     {
-      "rank": 109,
+      "rank": 102,
       "ticker": "META",
       "name": "Meta Platforms",
       "category": "云算力_IDC_AI软件平台",
@@ -1098,7 +1038,7 @@
       "dataFile": "reports/company-comparison/META.json"
     },
     {
-      "rank": 110,
+      "rank": 103,
       "ticker": "MICLF",
       "name": "Mycronic AB",
       "category": "封测_检测_计量_光罩",
@@ -1108,7 +1048,7 @@
       "dataFile": "reports/company-comparison/MICLF.json"
     },
     {
-      "rank": 111,
+      "rank": 104,
       "ticker": "MIELY",
       "name": "三菱电机 Mitsubishi Electric",
       "category": "配电_电源_功率器件",
@@ -1118,7 +1058,7 @@
       "dataFile": "reports/company-comparison/MIELY.json"
     },
     {
-      "rank": 112,
+      "rank": 105,
       "ticker": "MKSI",
       "name": "MKS Inc",
       "category": "晶圆制造_前道设备",
@@ -1128,7 +1068,7 @@
       "dataFile": "reports/company-comparison/MKSI.json"
     },
     {
-      "rank": 113,
+      "rank": 106,
       "ticker": "MMM",
       "name": "3M",
       "category": "半导体材料_化学品_基板",
@@ -1138,7 +1078,7 @@
       "dataFile": "reports/company-comparison/MMM.json"
     },
     {
-      "rank": 114,
+      "rank": 107,
       "ticker": "MOD",
       "name": "Modine Manufacturing",
       "category": "机电_冷却_工程_水处理_边缘工业AI",
@@ -1148,7 +1088,7 @@
       "dataFile": "reports/company-comparison/MOD.json"
     },
     {
-      "rank": 115,
+      "rank": 108,
       "ticker": "MPWR",
       "name": "Monolithic Power Systems",
       "category": "配电_电源_功率器件",
@@ -1158,7 +1098,7 @@
       "dataFile": "reports/company-comparison/MPWR.json"
     },
     {
-      "rank": 116,
+      "rank": 109,
       "ticker": "MRAAY",
       "name": "Murata Manufacturing",
       "category": "配电_电源_功率器件",
@@ -1168,7 +1108,7 @@
       "dataFile": "reports/company-comparison/MRAAY.json"
     },
     {
-      "rank": 117,
+      "rank": 110,
       "ticker": "MRAM",
       "name": "Everspin Technologies",
       "category": "AI服务器_存储_EMS",
@@ -1178,7 +1118,7 @@
       "dataFile": "reports/company-comparison/MRAM.json"
     },
     {
-      "rank": 118,
+      "rank": 111,
       "ticker": "MRVL",
       "name": "Marvell Technology",
       "category": "AI计算芯片_EDA_IP_custom_ASIC",
@@ -1188,7 +1128,7 @@
       "dataFile": "reports/company-comparison/MRVL.json"
     },
     {
-      "rank": 119,
+      "rank": 112,
       "ticker": "MSFT",
       "name": "微软",
       "category": "云算力_IDC_AI软件平台",
@@ -1198,7 +1138,7 @@
       "dataFile": "reports/company-comparison/MSFT.json"
     },
     {
-      "rank": 120,
+      "rank": 113,
       "ticker": "MSI",
       "name": "Motorola Solutions",
       "category": "机电_冷却_工程_水处理_边缘工业AI",
@@ -1208,7 +1148,7 @@
       "dataFile": "reports/company-comparison/MSI.json"
     },
     {
-      "rank": 121,
+      "rank": 114,
       "ticker": "MTRN",
       "name": "Materion",
       "category": "半导体材料_化学品_基板",
@@ -1218,7 +1158,7 @@
       "dataFile": "reports/company-comparison/MTRN.json"
     },
     {
-      "rank": 122,
+      "rank": 115,
       "ticker": "MTSI",
       "name": "MACOM Technology Solutions",
       "category": "AI网络_光互联_连接器",
@@ -1228,7 +1168,7 @@
       "dataFile": "reports/company-comparison/MTSI.json"
     },
     {
-      "rank": 123,
+      "rank": 116,
       "ticker": "MU",
       "name": "Micron Technology 美光科技",
       "category": "AI服务器_存储_EMS",
@@ -1238,7 +1178,7 @@
       "dataFile": "reports/company-comparison/MU.json"
     },
     {
-      "rank": 124,
+      "rank": 117,
       "ticker": "MXL",
       "name": "MaxLinear",
       "category": "AI计算芯片_EDA_IP_custom_ASIC",
@@ -1248,7 +1188,7 @@
       "dataFile": "reports/company-comparison/MXL.json"
     },
     {
-      "rank": 125,
+      "rank": 118,
       "ticker": "MYRG",
       "name": "MYR Group",
       "category": "机电_冷却_工程_水处理_边缘工业AI",
@@ -1258,7 +1198,7 @@
       "dataFile": "reports/company-comparison/MYRG.json"
     },
     {
-      "rank": 126,
+      "rank": 119,
       "ticker": "NBIS",
       "name": "Nebius Group",
       "category": "云算力_IDC_AI软件平台",
@@ -1268,7 +1208,7 @@
       "dataFile": "reports/company-comparison/NBIS.json"
     },
     {
-      "rank": 127,
+      "rank": 120,
       "ticker": "NDSN",
       "name": "Nordson",
       "category": "半导体材料_化学品_基板",
@@ -1278,7 +1218,7 @@
       "dataFile": "reports/company-comparison/NDSN.json"
     },
     {
-      "rank": 128,
+      "rank": 121,
       "ticker": "NOK",
       "name": "诺基亚",
       "category": "AI网络_光互联_连接器",
@@ -1288,7 +1228,7 @@
       "dataFile": "reports/company-comparison/NOK.json"
     },
     {
-      "rank": 129,
+      "rank": 122,
       "ticker": "NTAP",
       "name": "NetApp",
       "category": "AI服务器_存储_EMS",
@@ -1298,7 +1238,7 @@
       "dataFile": "reports/company-comparison/NTAP.json"
     },
     {
-      "rank": 130,
+      "rank": 123,
       "ticker": "NTNX",
       "name": "Nutanix",
       "category": "云算力_IDC_AI软件平台",
@@ -1308,7 +1248,7 @@
       "dataFile": "reports/company-comparison/NTNX.json"
     },
     {
-      "rank": 131,
+      "rank": 124,
       "ticker": "NVDA",
       "name": "NVIDIA",
       "category": "AI计算芯片_EDA_IP_custom_ASIC",
@@ -1318,7 +1258,7 @@
       "dataFile": "reports/company-comparison/NVDA.json"
     },
     {
-      "rank": 132,
+      "rank": 125,
       "ticker": "NVMI",
       "name": "Nova Ltd",
       "category": "晶圆制造_前道设备",
@@ -1328,7 +1268,7 @@
       "dataFile": "reports/company-comparison/NVMI.json"
     },
     {
-      "rank": 133,
+      "rank": 126,
       "ticker": "NVT",
       "name": "nVent Electric",
       "category": "配电_电源_功率器件",
@@ -1338,7 +1278,7 @@
       "dataFile": "reports/company-comparison/NVT.json"
     },
     {
-      "rank": 134,
+      "rank": 127,
       "ticker": "NVTS",
       "name": "Navitas Semiconductor",
       "category": "配电_电源_功率器件",
@@ -1348,7 +1288,7 @@
       "dataFile": "reports/company-comparison/NVTS.json"
     },
     {
-      "rank": 135,
+      "rank": 128,
       "ticker": "OKLO",
       "name": "Oklo Inc",
       "category": "电力_发电_能源_储能",
@@ -1358,7 +1298,7 @@
       "dataFile": "reports/company-comparison/OKLO.json"
     },
     {
-      "rank": 136,
+      "rank": 129,
       "ticker": "ON",
       "name": "onsemi",
       "category": "AI计算芯片_EDA_IP_custom_ASIC",
@@ -1368,7 +1308,7 @@
       "dataFile": "reports/company-comparison/ON.json"
     },
     {
-      "rank": 137,
+      "rank": 130,
       "ticker": "ONTO",
       "name": "Onto Innovation",
       "category": "封测_检测_计量_光罩",
@@ -1378,7 +1318,7 @@
       "dataFile": "reports/company-comparison/ONTO.json"
     },
     {
-      "rank": 138,
+      "rank": 131,
       "ticker": "ORCL",
       "name": "Oracle Corporation",
       "category": "云算力_IDC_AI软件平台",
@@ -1388,7 +1328,7 @@
       "dataFile": "reports/company-comparison/ORCL.json"
     },
     {
-      "rank": 139,
+      "rank": 132,
       "ticker": "P",
       "name": "Everpure",
       "category": "AI服务器_存储_EMS",
@@ -1398,7 +1338,7 @@
       "dataFile": "reports/company-comparison/P.json"
     },
     {
-      "rank": 140,
+      "rank": 133,
       "ticker": "PENG",
       "name": "Penguin Solutions",
       "category": "AI服务器_存储_EMS",
@@ -1408,7 +1348,7 @@
       "dataFile": "reports/company-comparison/PENG.json"
     },
     {
-      "rank": 141,
+      "rank": 134,
       "ticker": "PH",
       "name": "Parker-Hannifin",
       "category": "机电_冷却_工程_水处理_边缘工业AI",
@@ -1418,7 +1358,7 @@
       "dataFile": "reports/company-comparison/PH.json"
     },
     {
-      "rank": 142,
+      "rank": 135,
       "ticker": "PLAB",
       "name": "Photronics",
       "category": "封测_检测_计量_光罩",
@@ -1428,7 +1368,7 @@
       "dataFile": "reports/company-comparison/PLAB.json"
     },
     {
-      "rank": 143,
+      "rank": 136,
       "ticker": "PNR",
       "name": "Pentair plc",
       "category": "机电_冷却_工程_水处理_边缘工业AI",
@@ -1438,7 +1378,7 @@
       "dataFile": "reports/company-comparison/PNR.json"
     },
     {
-      "rank": 144,
+      "rank": 137,
       "ticker": "POET",
       "name": "POET Technologies",
       "category": "AI网络_光互联_连接器",
@@ -1448,7 +1388,7 @@
       "dataFile": "reports/company-comparison/POET.json"
     },
     {
-      "rank": 145,
+      "rank": 138,
       "ticker": "POWI",
       "name": "Power Integrations",
       "category": "配电_电源_功率器件",
@@ -1458,7 +1398,7 @@
       "dataFile": "reports/company-comparison/POWI.json"
     },
     {
-      "rank": 146,
+      "rank": 139,
       "ticker": "POWL",
       "name": "Powell Industries",
       "category": "配电_电源_功率器件",
@@ -1468,7 +1408,7 @@
       "dataFile": "reports/company-comparison/POWL.json"
     },
     {
-      "rank": 147,
+      "rank": 140,
       "ticker": "PSIX",
       "name": "Power Solutions International",
       "category": "电力_发电_能源_储能",
@@ -1478,7 +1418,7 @@
       "dataFile": "reports/company-comparison/PSIX.json"
     },
     {
-      "rank": 148,
+      "rank": 141,
       "ticker": "PWR",
       "name": "Quanta Services",
       "category": "电力_发电_能源_储能",
@@ -1488,7 +1428,7 @@
       "dataFile": "reports/company-comparison/PWR.json"
     },
     {
-      "rank": 149,
+      "rank": 142,
       "ticker": "Q",
       "name": "Qnity Electronics",
       "category": "半导体材料_化学品_基板",
@@ -1498,7 +1438,7 @@
       "dataFile": "reports/company-comparison/Q.json"
     },
     {
-      "rank": 150,
+      "rank": 143,
       "ticker": "QCOM",
       "name": "Qualcomm",
       "category": "AI计算芯片_EDA_IP_custom_ASIC",
@@ -1508,7 +1448,7 @@
       "dataFile": "reports/company-comparison/QCOM.json"
     },
     {
-      "rank": 151,
+      "rank": 144,
       "ticker": "RKLB",
       "name": "Rocket Lab",
       "category": "机电_冷却_工程_水处理_边缘工业AI",
@@ -1518,7 +1458,7 @@
       "dataFile": "reports/company-comparison/RKLB.json"
     },
     {
-      "rank": 152,
+      "rank": 145,
       "ticker": "RMBS",
       "name": "Rambus",
       "category": "AI服务器_存储_EMS",
@@ -1528,7 +1468,7 @@
       "dataFile": "reports/company-comparison/RMBS.json"
     },
     {
-      "rank": 153,
+      "rank": 146,
       "ticker": "ROG",
       "name": "Rogers Corporation",
       "category": "半导体材料_化学品_基板",
@@ -1538,7 +1478,7 @@
       "dataFile": "reports/company-comparison/ROG.json"
     },
     {
-      "rank": 154,
+      "rank": 147,
       "ticker": "RYCEY",
       "name": "Rolls-Royce Holdings",
       "category": "电力_发电_能源_储能",
@@ -1548,7 +1488,7 @@
       "dataFile": "reports/company-comparison/RYCEY.json"
     },
     {
-      "rank": 155,
+      "rank": 148,
       "ticker": "SANM",
       "name": "Sanmina Corporation",
       "category": "AI服务器_存储_EMS",
@@ -1558,7 +1498,7 @@
       "dataFile": "reports/company-comparison/SANM.json"
     },
     {
-      "rank": 156,
+      "rank": 149,
       "ticker": "SHECY",
       "name": "Shin-Etsu Chemical 信越化学",
       "category": "半导体材料_化学品_基板",
@@ -1568,7 +1508,7 @@
       "dataFile": "reports/company-comparison/SHECY.json"
     },
     {
-      "rank": 157,
+      "rank": 150,
       "ticker": "SIMO",
       "name": "Silicon Motion Technology",
       "category": "AI服务器_存储_EMS",
@@ -1578,7 +1518,7 @@
       "dataFile": "reports/company-comparison/SIMO.json"
     },
     {
-      "rank": 158,
+      "rank": 151,
       "ticker": "SITM",
       "name": "SiTime Corporation",
       "category": "AI网络_光互联_连接器",
@@ -1588,7 +1528,7 @@
       "dataFile": "reports/company-comparison/SITM.json"
     },
     {
-      "rank": 159,
+      "rank": 152,
       "ticker": "SKHY",
       "name": "SK hynix Inc",
       "category": "AI服务器_存储_EMS",
@@ -1598,7 +1538,7 @@
       "dataFile": "reports/company-comparison/SKHY.json"
     },
     {
-      "rank": 160,
+      "rank": 153,
       "ticker": "SMCI",
       "name": "Super Micro Computer Inc",
       "category": "AI服务器_存储_EMS",
@@ -1608,17 +1548,7 @@
       "dataFile": "reports/company-comparison/SMCI.json"
     },
     {
-      "rank": 161,
-      "ticker": "SMR",
-      "name": "NuScale Power",
-      "category": "电力_发电_能源_储能",
-      "wins": 0,
-      "losses": 0,
-      "net": 0,
-      "dataFile": "reports/company-comparison/SMR.json"
-    },
-    {
-      "rank": 162,
+      "rank": 154,
       "ticker": "SMTC",
       "name": "Semtech Corporation",
       "category": "AI网络_光互联_连接器",
@@ -1628,7 +1558,7 @@
       "dataFile": "reports/company-comparison/SMTC.json"
     },
     {
-      "rank": 163,
+      "rank": 155,
       "ticker": "SMTOY",
       "name": "住友电工 Sumitomo Electric Industries",
       "category": "半导体材料_化学品_基板",
@@ -1638,7 +1568,7 @@
       "dataFile": "reports/company-comparison/SMTOY.json"
     },
     {
-      "rank": 164,
+      "rank": 156,
       "ticker": "SNDK",
       "name": "SanDisk",
       "category": "AI服务器_存储_EMS",
@@ -1648,7 +1578,7 @@
       "dataFile": "reports/company-comparison/SNDK.json"
     },
     {
-      "rank": 165,
+      "rank": 157,
       "ticker": "SNPS",
       "name": "Synopsys",
       "category": "AI计算芯片_EDA_IP_custom_ASIC",
@@ -1658,7 +1588,7 @@
       "dataFile": "reports/company-comparison/SNPS.json"
     },
     {
-      "rank": 166,
+      "rank": 158,
       "ticker": "SOMMY",
       "name": "住友化学 Sumitomo Chemical",
       "category": "半导体材料_化学品_基板",
@@ -1668,7 +1598,7 @@
       "dataFile": "reports/company-comparison/SOMMY.json"
     },
     {
-      "rank": 167,
+      "rank": 159,
       "ticker": "ST",
       "name": "Sensata Technologies",
       "category": "配电_电源_功率器件",
@@ -1678,7 +1608,7 @@
       "dataFile": "reports/company-comparison/ST.json"
     },
     {
-      "rank": 168,
+      "rank": 160,
       "ticker": "STM",
       "name": "STMicroelectronics",
       "category": "AI计算芯片_EDA_IP_custom_ASIC",
@@ -1688,7 +1618,7 @@
       "dataFile": "reports/company-comparison/STM.json"
     },
     {
-      "rank": 169,
+      "rank": 161,
       "ticker": "STX",
       "name": "Seagate Technology",
       "category": "AI服务器_存储_EMS",
@@ -1698,7 +1628,7 @@
       "dataFile": "reports/company-comparison/STX.json"
     },
     {
-      "rank": 170,
+      "rank": 162,
       "ticker": "TDY",
       "name": "Teledyne Technologies",
       "category": "封测_检测_计量_光罩",
@@ -1708,17 +1638,7 @@
       "dataFile": "reports/company-comparison/TDY.json"
     },
     {
-      "rank": 171,
-      "ticker": "TE",
-      "name": "T1 Energy Inc",
-      "category": "电力_发电_能源_储能",
-      "wins": 0,
-      "losses": 0,
-      "net": 0,
-      "dataFile": "reports/company-comparison/TE.json"
-    },
-    {
-      "rank": 172,
+      "rank": 163,
       "ticker": "TEL",
       "name": "TE Connectivity",
       "category": "AI网络_光互联_连接器",
@@ -1728,7 +1648,7 @@
       "dataFile": "reports/company-comparison/TEL.json"
     },
     {
-      "rank": 173,
+      "rank": 164,
       "ticker": "TER",
       "name": "Teradyne",
       "category": "封测_检测_计量_光罩",
@@ -1738,7 +1658,7 @@
       "dataFile": "reports/company-comparison/TER.json"
     },
     {
-      "rank": 174,
+      "rank": 165,
       "ticker": "TMO",
       "name": "Thermo Fisher Scientific",
       "category": "封测_检测_计量_光罩",
@@ -1748,7 +1668,7 @@
       "dataFile": "reports/company-comparison/TMO.json"
     },
     {
-      "rank": 175,
+      "rank": 166,
       "ticker": "TOELY",
       "name": "Tokyo Electron",
       "category": "晶圆制造_前道设备",
@@ -1758,7 +1678,7 @@
       "dataFile": "reports/company-comparison/TOELY.json"
     },
     {
-      "rank": 176,
+      "rank": 167,
       "ticker": "TSEM",
       "name": "Tower Semiconductor",
       "category": "晶圆制造_前道设备",
@@ -1768,7 +1688,7 @@
       "dataFile": "reports/company-comparison/TSEM.json"
     },
     {
-      "rank": 177,
+      "rank": 168,
       "ticker": "TSLA",
       "name": "Tesla",
       "category": "机电_冷却_工程_水处理_边缘工业AI",
@@ -1778,7 +1698,7 @@
       "dataFile": "reports/company-comparison/TSLA.json"
     },
     {
-      "rank": 178,
+      "rank": 169,
       "ticker": "TSM",
       "name": "台积电",
       "category": "晶圆制造_前道设备",
@@ -1788,7 +1708,7 @@
       "dataFile": "reports/company-comparison/TSM.json"
     },
     {
-      "rank": 179,
+      "rank": 170,
       "ticker": "TT",
       "name": "Trane Technologies",
       "category": "机电_冷却_工程_水处理_边缘工业AI",
@@ -1798,7 +1718,7 @@
       "dataFile": "reports/company-comparison/TT.json"
     },
     {
-      "rank": 180,
+      "rank": 171,
       "ticker": "TTDKY",
       "name": "TDK Corporation",
       "category": "配电_电源_功率器件",
@@ -1808,7 +1728,7 @@
       "dataFile": "reports/company-comparison/TTDKY.json"
     },
     {
-      "rank": 181,
+      "rank": 172,
       "ticker": "TXN",
       "name": "德州仪器",
       "category": "AI计算芯片_EDA_IP_custom_ASIC",
@@ -1818,7 +1738,7 @@
       "dataFile": "reports/company-comparison/TXN.json"
     },
     {
-      "rank": 182,
+      "rank": 173,
       "ticker": "UCTT",
       "name": "Ultra Clean Holdings",
       "category": "晶圆制造_前道设备",
@@ -1828,7 +1748,7 @@
       "dataFile": "reports/company-comparison/UCTT.json"
     },
     {
-      "rank": 183,
+      "rank": 174,
       "ticker": "UMC",
       "name": "United Microelectronics 联华电子",
       "category": "晶圆制造_前道设备",
@@ -1838,7 +1758,7 @@
       "dataFile": "reports/company-comparison/UMC.json"
     },
     {
-      "rank": 184,
+      "rank": 175,
       "ticker": "VECO",
       "name": "Veeco Instruments",
       "category": "晶圆制造_前道设备",
@@ -1848,7 +1768,7 @@
       "dataFile": "reports/company-comparison/VECO.json"
     },
     {
-      "rank": 185,
+      "rank": 176,
       "ticker": "VIAV",
       "name": "VIAVI Solutions",
       "category": "AI网络_光互联_连接器",
@@ -1858,7 +1778,7 @@
       "dataFile": "reports/company-comparison/VIAV.json"
     },
     {
-      "rank": 186,
+      "rank": 177,
       "ticker": "VICR",
       "name": "Vicor Corporation",
       "category": "配电_电源_功率器件",
@@ -1868,7 +1788,7 @@
       "dataFile": "reports/company-comparison/VICR.json"
     },
     {
-      "rank": 187,
+      "rank": 178,
       "ticker": "VISN",
       "name": "Vistance Networks",
       "category": "AI网络_光互联_连接器",
@@ -1878,7 +1798,7 @@
       "dataFile": "reports/company-comparison/VISN.json"
     },
     {
-      "rank": 188,
+      "rank": 179,
       "ticker": "VRT",
       "name": "Vertiv",
       "category": "机电_冷却_工程_水处理_边缘工业AI",
@@ -1888,7 +1808,7 @@
       "dataFile": "reports/company-comparison/VRT.json"
     },
     {
-      "rank": 189,
+      "rank": 180,
       "ticker": "VSH",
       "name": "Vishay Intertechnology",
       "category": "配电_电源_功率器件",
@@ -1898,7 +1818,7 @@
       "dataFile": "reports/company-comparison/VSH.json"
     },
     {
-      "rank": 190,
+      "rank": 181,
       "ticker": "VST",
       "name": "Vistra Corp",
       "category": "电力_发电_能源_储能",
@@ -1908,7 +1828,7 @@
       "dataFile": "reports/company-comparison/VST.json"
     },
     {
-      "rank": 191,
+      "rank": 182,
       "ticker": "WDC",
       "name": "WesternDigital",
       "category": "AI服务器_存储_EMS",
@@ -1918,7 +1838,7 @@
       "dataFile": "reports/company-comparison/WDC.json"
     },
     {
-      "rank": 192,
+      "rank": 183,
       "ticker": "WOLF",
       "name": "Wolfspeed",
       "category": "配电_电源_功率器件",
@@ -2001,16 +1921,6 @@
     },
     {
       "rank": 8,
-      "ticker": "AEHR",
-      "name": "Aehr Test Systems",
-      "category": "封测_检测_计量_光罩",
-      "wins": 0,
-      "losses": 0,
-      "net": 0,
-      "dataFile": "reports/company-comparison/AEHR.json"
-    },
-    {
-      "rank": 9,
       "ticker": "AEIS",
       "name": "Advanced Energy Industries",
       "category": "晶圆制造_前道设备",
@@ -2020,7 +1930,7 @@
       "dataFile": "reports/company-comparison/AEIS.json"
     },
     {
-      "rank": 10,
+      "rank": 9,
       "ticker": "AEP",
       "name": "American Electric Power",
       "category": "电力_发电_能源_储能",
@@ -2030,7 +1940,7 @@
       "dataFile": "reports/company-comparison/AEP.json"
     },
     {
-      "rank": 11,
+      "rank": 10,
       "ticker": "AJNMY",
       "name": "味之素 Ajinomoto",
       "category": "半导体材料_化学品_基板",
@@ -2040,7 +1950,7 @@
       "dataFile": "reports/company-comparison/AJNMY.json"
     },
     {
-      "rank": 12,
+      "rank": 11,
       "ticker": "ALAB",
       "name": "AsteraLabs",
       "category": "AI计算芯片_EDA_IP_custom_ASIC",
@@ -2050,7 +1960,7 @@
       "dataFile": "reports/company-comparison/ALAB.json"
     },
     {
-      "rank": 13,
+      "rank": 12,
       "ticker": "ALLE",
       "name": "Allegion plc",
       "category": "机电_冷却_工程_水处理_边缘工业AI",
@@ -2060,7 +1970,7 @@
       "dataFile": "reports/company-comparison/ALLE.json"
     },
     {
-      "rank": 14,
+      "rank": 13,
       "ticker": "AMAT",
       "name": "Applied Materials",
       "category": "晶圆制造_前道设备",
@@ -2070,7 +1980,7 @@
       "dataFile": "reports/company-comparison/AMAT.json"
     },
     {
-      "rank": 15,
+      "rank": 14,
       "ticker": "AMD",
       "name": "Advanced Micro Devices",
       "category": "AI计算芯片_EDA_IP_custom_ASIC",
@@ -2080,7 +1990,7 @@
       "dataFile": "reports/company-comparison/AMD.json"
     },
     {
-      "rank": 16,
+      "rank": 15,
       "ticker": "AMKR",
       "name": "Amkor Technology",
       "category": "封测_检测_计量_光罩",
@@ -2090,7 +2000,7 @@
       "dataFile": "reports/company-comparison/AMKR.json"
     },
     {
-      "rank": 17,
+      "rank": 16,
       "ticker": "AMPX",
       "name": "Amprius Technologies",
       "category": "电力_发电_能源_储能",
@@ -2100,7 +2010,7 @@
       "dataFile": "reports/company-comparison/AMPX.json"
     },
     {
-      "rank": 18,
+      "rank": 17,
       "ticker": "AMZN",
       "name": "Amazon",
       "category": "云算力_IDC_AI软件平台",
@@ -2110,7 +2020,7 @@
       "dataFile": "reports/company-comparison/AMZN.json"
     },
     {
-      "rank": 19,
+      "rank": 18,
       "ticker": "ANET",
       "name": "Arista Networks",
       "category": "AI网络_光互联_连接器",
@@ -2120,7 +2030,7 @@
       "dataFile": "reports/company-comparison/ANET.json"
     },
     {
-      "rank": 20,
+      "rank": 19,
       "ticker": "AOSL",
       "name": "Alpha and Omega Semiconductor",
       "category": "配电_电源_功率器件",
@@ -2128,6 +2038,16 @@
       "losses": 0,
       "net": 0,
       "dataFile": "reports/company-comparison/AOSL.json"
+    },
+    {
+      "rank": 20,
+      "ticker": "APD",
+      "name": "Air Products and Chemicals",
+      "category": "半导体材料_化学品_基板",
+      "wins": 0,
+      "losses": 0,
+      "net": 0,
+      "dataFile": "reports/company-comparison/APD.json"
     }
   ],
   "companies": [
@@ -2135,8 +2055,8 @@
       "ticker": "AAOI",
       "name": "Applied Optoelectronics",
       "category": "AI网络_光互联_连接器",
-      "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司对比/结果/AAOI_逐家公司投资思路对比_2026-07-12.md",
+      "reportDate": "2026-07-14",
+      "sourcePath": "基本面/分析报告/公司对比/结果/AAOI_逐家公司投资思路对比_2026-07-14.md",
       "dataFile": "reports/company-comparison/AAOI.json",
       "comparedCount": 0,
       "selfWins": 0,
@@ -2885,8 +2805,8 @@
       "ticker": "ADI",
       "name": "Analog Devices",
       "category": "AI计算芯片_EDA_IP_custom_ASIC",
-      "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司对比/结果/ADI_逐家公司投资思路对比_2026-07-12.md",
+      "reportDate": "2026-07-14",
+      "sourcePath": "基本面/分析报告/公司对比/结果/ADI_逐家公司投资思路对比_2026-07-14.md",
       "dataFile": "reports/company-comparison/ADI.json",
       "comparedCount": 0,
       "selfWins": 0,
@@ -2894,131 +2814,6 @@
       "selfUnknown": 0,
       "selfNet": 0,
       "finalRank": 7,
-      "finalWins": 0,
-      "finalLosses": 0,
-      "finalNet": 0,
-      "strongestStyles": [
-        {
-          "thought": "NTM兑现优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "右尾弹性优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "风险调整收益",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        }
-      ],
-      "weakestStyles": [
-        {
-          "thought": "NTM兑现优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "右尾弹性优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "风险调整收益",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        }
-      ],
-      "relationStats": [],
-      "styleStats": [
-        {
-          "thought": "NTM兑现优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "右尾弹性优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "风险调整收益",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "下行保护优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "估值消化优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "近端催化优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "价格确认/动量",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "激进短线",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        }
-      ],
-      "directPeers": [],
-      "losses": [],
-      "onePage": []
-    },
-    {
-      "ticker": "AEHR",
-      "name": "Aehr Test Systems",
-      "category": "封测_检测_计量_光罩",
-      "reportDate": "2026-07-13",
-      "sourcePath": "基本面/分析报告/公司对比/结果/AEHR_逐家公司投资思路对比_2026-07-13.md",
-      "dataFile": "reports/company-comparison/AEHR.json",
-      "comparedCount": 0,
-      "selfWins": 0,
-      "selfLosses": 0,
-      "selfUnknown": 0,
-      "selfNet": 0,
-      "finalRank": 8,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -3143,7 +2938,7 @@
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 9,
+      "finalRank": 8,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -3260,9 +3055,134 @@
       "ticker": "AEP",
       "name": "American Electric Power",
       "category": "电力_发电_能源_储能",
-      "reportDate": "2026-07-13",
-      "sourcePath": "基本面/分析报告/公司对比/结果/AEP_逐家公司投资思路对比_2026-07-13.md",
+      "reportDate": "2026-07-14",
+      "sourcePath": "基本面/分析报告/公司对比/结果/AEP_逐家公司投资思路对比_2026-07-14.md",
       "dataFile": "reports/company-comparison/AEP.json",
+      "comparedCount": 0,
+      "selfWins": 0,
+      "selfLosses": 0,
+      "selfUnknown": 0,
+      "selfNet": 0,
+      "finalRank": 9,
+      "finalWins": 0,
+      "finalLosses": 0,
+      "finalNet": 0,
+      "strongestStyles": [
+        {
+          "thought": "NTM兑现优先",
+          "score": 0,
+          "a": 0,
+          "b": 0,
+          "neutral": 0
+        },
+        {
+          "thought": "右尾弹性优先",
+          "score": 0,
+          "a": 0,
+          "b": 0,
+          "neutral": 0
+        },
+        {
+          "thought": "风险调整收益",
+          "score": 0,
+          "a": 0,
+          "b": 0,
+          "neutral": 0
+        }
+      ],
+      "weakestStyles": [
+        {
+          "thought": "NTM兑现优先",
+          "score": 0,
+          "a": 0,
+          "b": 0,
+          "neutral": 0
+        },
+        {
+          "thought": "右尾弹性优先",
+          "score": 0,
+          "a": 0,
+          "b": 0,
+          "neutral": 0
+        },
+        {
+          "thought": "风险调整收益",
+          "score": 0,
+          "a": 0,
+          "b": 0,
+          "neutral": 0
+        }
+      ],
+      "relationStats": [],
+      "styleStats": [
+        {
+          "thought": "NTM兑现优先",
+          "score": 0,
+          "a": 0,
+          "b": 0,
+          "neutral": 0
+        },
+        {
+          "thought": "右尾弹性优先",
+          "score": 0,
+          "a": 0,
+          "b": 0,
+          "neutral": 0
+        },
+        {
+          "thought": "风险调整收益",
+          "score": 0,
+          "a": 0,
+          "b": 0,
+          "neutral": 0
+        },
+        {
+          "thought": "下行保护优先",
+          "score": 0,
+          "a": 0,
+          "b": 0,
+          "neutral": 0
+        },
+        {
+          "thought": "估值消化优先",
+          "score": 0,
+          "a": 0,
+          "b": 0,
+          "neutral": 0
+        },
+        {
+          "thought": "近端催化优先",
+          "score": 0,
+          "a": 0,
+          "b": 0,
+          "neutral": 0
+        },
+        {
+          "thought": "价格确认/动量",
+          "score": 0,
+          "a": 0,
+          "b": 0,
+          "neutral": 0
+        },
+        {
+          "thought": "激进短线",
+          "score": 0,
+          "a": 0,
+          "b": 0,
+          "neutral": 0
+        }
+      ],
+      "directPeers": [],
+      "losses": [],
+      "onePage": []
+    },
+    {
+      "ticker": "AJNMY",
+      "name": "味之素 Ajinomoto",
+      "category": "半导体材料_化学品_基板",
+      "reportDate": "2026-07-14",
+      "sourcePath": "基本面/分析报告/公司对比/结果/AJNMY_逐家公司投资思路对比_2026-07-14.md",
+      "dataFile": "reports/company-comparison/AJNMY.json",
       "comparedCount": 0,
       "selfWins": 0,
       "selfLosses": 0,
@@ -3382,143 +3302,18 @@
       "onePage": []
     },
     {
-      "ticker": "AJNMY",
-      "name": "味之素 Ajinomoto",
-      "category": "半导体材料_化学品_基板",
-      "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司对比/结果/AJNMY_逐家公司投资思路对比_2026-07-12.md",
-      "dataFile": "reports/company-comparison/AJNMY.json",
-      "comparedCount": 0,
-      "selfWins": 0,
-      "selfLosses": 0,
-      "selfUnknown": 0,
-      "selfNet": 0,
-      "finalRank": 11,
-      "finalWins": 0,
-      "finalLosses": 0,
-      "finalNet": 0,
-      "strongestStyles": [
-        {
-          "thought": "NTM兑现优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "右尾弹性优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "风险调整收益",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        }
-      ],
-      "weakestStyles": [
-        {
-          "thought": "NTM兑现优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "右尾弹性优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "风险调整收益",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        }
-      ],
-      "relationStats": [],
-      "styleStats": [
-        {
-          "thought": "NTM兑现优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "右尾弹性优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "风险调整收益",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "下行保护优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "估值消化优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "近端催化优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "价格确认/动量",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "激进短线",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        }
-      ],
-      "directPeers": [],
-      "losses": [],
-      "onePage": []
-    },
-    {
       "ticker": "ALAB",
       "name": "AsteraLabs",
       "category": "AI计算芯片_EDA_IP_custom_ASIC",
-      "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司对比/结果/ALAB_逐家公司投资思路对比_2026-07-12.md",
+      "reportDate": "2026-07-14",
+      "sourcePath": "基本面/分析报告/公司对比/结果/ALAB_逐家公司投资思路对比_2026-07-14.md",
       "dataFile": "reports/company-comparison/ALAB.json",
       "comparedCount": 0,
       "selfWins": 0,
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 12,
+      "finalRank": 11,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -3643,7 +3438,7 @@
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 13,
+      "finalRank": 12,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -3768,7 +3563,7 @@
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 14,
+      "finalRank": 13,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -3885,15 +3680,15 @@
       "ticker": "AMD",
       "name": "Advanced Micro Devices",
       "category": "AI计算芯片_EDA_IP_custom_ASIC",
-      "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司对比/结果/AMD_逐家公司投资思路对比_2026-07-12.md",
+      "reportDate": "2026-07-14",
+      "sourcePath": "基本面/分析报告/公司对比/结果/AMD_逐家公司投资思路对比_2026-07-14.md",
       "dataFile": "reports/company-comparison/AMD.json",
       "comparedCount": 0,
       "selfWins": 0,
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 15,
+      "finalRank": 14,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -4018,7 +3813,7 @@
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 16,
+      "finalRank": 15,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -4135,15 +3930,15 @@
       "ticker": "AMPX",
       "name": "Amprius Technologies",
       "category": "电力_发电_能源_储能",
-      "reportDate": "2026-07-13",
-      "sourcePath": "基本面/分析报告/公司对比/结果/AMPX_逐家公司投资思路对比_2026-07-13.md",
+      "reportDate": "2026-07-14",
+      "sourcePath": "基本面/分析报告/公司对比/结果/AMPX_逐家公司投资思路对比_2026-07-14.md",
       "dataFile": "reports/company-comparison/AMPX.json",
       "comparedCount": 0,
       "selfWins": 0,
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 17,
+      "finalRank": 16,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -4268,7 +4063,7 @@
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 18,
+      "finalRank": 17,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -4385,15 +4180,15 @@
       "ticker": "ANET",
       "name": "Arista Networks",
       "category": "AI网络_光互联_连接器",
-      "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司对比/结果/ANET_逐家公司投资思路对比_2026-07-12.md",
+      "reportDate": "2026-07-14",
+      "sourcePath": "基本面/分析报告/公司对比/结果/ANET_逐家公司投资思路对比_2026-07-14.md",
       "dataFile": "reports/company-comparison/ANET.json",
       "comparedCount": 0,
       "selfWins": 0,
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 19,
+      "finalRank": 18,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -4518,7 +4313,7 @@
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 20,
+      "finalRank": 19,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -4635,15 +4430,15 @@
       "ticker": "APD",
       "name": "Air Products and Chemicals",
       "category": "半导体材料_化学品_基板",
-      "reportDate": "2026-07-13",
-      "sourcePath": "基本面/分析报告/公司对比/结果/APD_逐家公司投资思路对比_2026-07-13.md",
+      "reportDate": "2026-07-14",
+      "sourcePath": "基本面/分析报告/公司对比/结果/APD_逐家公司投资思路对比_2026-07-14.md",
       "dataFile": "reports/company-comparison/APD.json",
       "comparedCount": 0,
       "selfWins": 0,
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 21,
+      "finalRank": 20,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -4760,15 +4555,15 @@
       "ticker": "APH",
       "name": "Amphenol 安费诺",
       "category": "AI网络_光互联_连接器",
-      "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司对比/结果/APH_逐家公司投资思路对比_2026-07-12.md",
+      "reportDate": "2026-07-14",
+      "sourcePath": "基本面/分析报告/公司对比/结果/APH_逐家公司投资思路对比_2026-07-14.md",
       "dataFile": "reports/company-comparison/APH.json",
       "comparedCount": 0,
       "selfWins": 0,
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 22,
+      "finalRank": 21,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -4893,7 +4688,7 @@
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 23,
+      "finalRank": 22,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -5010,15 +4805,15 @@
       "ticker": "ARM",
       "name": "Arm Holdings",
       "category": "AI计算芯片_EDA_IP_custom_ASIC",
-      "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司对比/结果/ARM_逐家公司投资思路对比_2026-07-12.md",
+      "reportDate": "2026-07-14",
+      "sourcePath": "基本面/分析报告/公司对比/结果/ARM_逐家公司投资思路对比_2026-07-14.md",
       "dataFile": "reports/company-comparison/ARM.json",
       "comparedCount": 0,
       "selfWins": 0,
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 24,
+      "finalRank": 23,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -5135,15 +4930,15 @@
       "ticker": "ASGLY",
       "name": "AGC Inc",
       "category": "半导体材料_化学品_基板",
-      "reportDate": "2026-07-13",
-      "sourcePath": "基本面/分析报告/公司对比/结果/ASGLY_逐家公司投资思路对比_2026-07-13.md",
+      "reportDate": "2026-07-14",
+      "sourcePath": "基本面/分析报告/公司对比/结果/ASGLY_逐家公司投资思路对比_2026-07-14.md",
       "dataFile": "reports/company-comparison/ASGLY.json",
       "comparedCount": 0,
       "selfWins": 0,
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 25,
+      "finalRank": 24,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -5268,7 +5063,7 @@
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 26,
+      "finalRank": 25,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -5393,7 +5188,7 @@
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 27,
+      "finalRank": 26,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -5518,132 +5313,7 @@
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 28,
-      "finalWins": 0,
-      "finalLosses": 0,
-      "finalNet": 0,
-      "strongestStyles": [
-        {
-          "thought": "NTM兑现优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "右尾弹性优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "风险调整收益",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        }
-      ],
-      "weakestStyles": [
-        {
-          "thought": "NTM兑现优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "右尾弹性优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "风险调整收益",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        }
-      ],
-      "relationStats": [],
-      "styleStats": [
-        {
-          "thought": "NTM兑现优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "右尾弹性优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "风险调整收益",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "下行保护优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "估值消化优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "近端催化优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "价格确认/动量",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "激进短线",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        }
-      ],
-      "directPeers": [],
-      "losses": [],
-      "onePage": []
-    },
-    {
-      "ticker": "ASX",
-      "name": "ASE Technology Holding",
-      "category": "封测_检测_计量_光罩",
-      "reportDate": "2026-07-13",
-      "sourcePath": "基本面/分析报告/公司对比/结果/ASX_逐家公司投资思路对比_2026-07-13.md",
-      "dataFile": "reports/company-comparison/ASX.json",
-      "comparedCount": 0,
-      "selfWins": 0,
-      "selfLosses": 0,
-      "selfUnknown": 0,
-      "selfNet": 0,
-      "finalRank": 29,
+      "finalRank": 27,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -5768,7 +5438,7 @@
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 30,
+      "finalRank": 28,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -5893,7 +5563,7 @@
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 31,
+      "finalRank": 29,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -6010,15 +5680,15 @@
       "ticker": "AVGO",
       "name": "Broadcom",
       "category": "AI计算芯片_EDA_IP_custom_ASIC",
-      "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司对比/结果/AVGO_逐家公司投资思路对比_2026-07-12.md",
+      "reportDate": "2026-07-14",
+      "sourcePath": "基本面/分析报告/公司对比/结果/AVGO_逐家公司投资思路对比_2026-07-14.md",
       "dataFile": "reports/company-comparison/AVGO.json",
       "comparedCount": 0,
       "selfWins": 0,
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 32,
+      "finalRank": 30,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -6135,15 +5805,15 @@
       "ticker": "AXTI",
       "name": "AXT Inc",
       "category": "半导体材料_化学品_基板",
-      "reportDate": "2026-07-13",
-      "sourcePath": "基本面/分析报告/公司对比/结果/AXTI_逐家公司投资思路对比_2026-07-13.md",
+      "reportDate": "2026-07-14",
+      "sourcePath": "基本面/分析报告/公司对比/结果/AXTI_逐家公司投资思路对比_2026-07-14.md",
       "dataFile": "reports/company-comparison/AXTI.json",
       "comparedCount": 0,
       "selfWins": 0,
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 33,
+      "finalRank": 31,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -6268,7 +5938,7 @@
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 34,
+      "finalRank": 32,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -6385,15 +6055,15 @@
       "ticker": "BDC",
       "name": "Belden",
       "category": "AI网络_光互联_连接器",
-      "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司对比/结果/BDC_逐家公司投资思路对比_2026-07-12.md",
+      "reportDate": "2026-07-14",
+      "sourcePath": "基本面/分析报告/公司对比/结果/BDC_逐家公司投资思路对比_2026-07-14.md",
       "dataFile": "reports/company-comparison/BDC.json",
       "comparedCount": 0,
       "selfWins": 0,
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 35,
+      "finalRank": 33,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -6510,15 +6180,15 @@
       "ticker": "BE",
       "name": "Bloom Energy",
       "category": "电力_发电_能源_储能",
-      "reportDate": "2026-07-13",
-      "sourcePath": "基本面/分析报告/公司对比/结果/BE_逐家公司投资思路对比_2026-07-13.md",
+      "reportDate": "2026-07-14",
+      "sourcePath": "基本面/分析报告/公司对比/结果/BE_逐家公司投资思路对比_2026-07-14.md",
       "dataFile": "reports/company-comparison/BE.json",
       "comparedCount": 0,
       "selfWins": 0,
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 36,
+      "finalRank": 34,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -6635,15 +6305,15 @@
       "ticker": "BELFB",
       "name": "Bel Fuse Inc",
       "category": "AI网络_光互联_连接器",
-      "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司对比/结果/BELFB_逐家公司投资思路对比_2026-07-12.md",
+      "reportDate": "2026-07-14",
+      "sourcePath": "基本面/分析报告/公司对比/结果/BELFB_逐家公司投资思路对比_2026-07-14.md",
       "dataFile": "reports/company-comparison/BELFB.json",
       "comparedCount": 0,
       "selfWins": 0,
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 37,
+      "finalRank": 35,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -6768,7 +6438,7 @@
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 38,
+      "finalRank": 36,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -6885,15 +6555,15 @@
       "ticker": "BWXT",
       "name": "BWX Technologies",
       "category": "电力_发电_能源_储能",
-      "reportDate": "2026-07-13",
-      "sourcePath": "基本面/分析报告/公司对比/结果/BWXT_逐家公司投资思路对比_2026-07-13.md",
+      "reportDate": "2026-07-14",
+      "sourcePath": "基本面/分析报告/公司对比/结果/BWXT_逐家公司投资思路对比_2026-07-14.md",
       "dataFile": "reports/company-comparison/BWXT.json",
       "comparedCount": 0,
       "selfWins": 0,
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 39,
+      "finalRank": 37,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -7018,7 +6688,7 @@
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 40,
+      "finalRank": 38,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -7143,7 +6813,7 @@
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 41,
+      "finalRank": 39,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -7268,7 +6938,7 @@
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 42,
+      "finalRank": 40,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -7385,9 +7055,259 @@
       "ticker": "CBRS",
       "name": "Cerebras Systems Inc",
       "category": "AI计算芯片_EDA_IP_custom_ASIC",
-      "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司对比/结果/CBRS_逐家公司投资思路对比_2026-07-12.md",
+      "reportDate": "2026-07-14",
+      "sourcePath": "基本面/分析报告/公司对比/结果/CBRS_逐家公司投资思路对比_2026-07-14.md",
       "dataFile": "reports/company-comparison/CBRS.json",
+      "comparedCount": 0,
+      "selfWins": 0,
+      "selfLosses": 0,
+      "selfUnknown": 0,
+      "selfNet": 0,
+      "finalRank": 41,
+      "finalWins": 0,
+      "finalLosses": 0,
+      "finalNet": 0,
+      "strongestStyles": [
+        {
+          "thought": "NTM兑现优先",
+          "score": 0,
+          "a": 0,
+          "b": 0,
+          "neutral": 0
+        },
+        {
+          "thought": "右尾弹性优先",
+          "score": 0,
+          "a": 0,
+          "b": 0,
+          "neutral": 0
+        },
+        {
+          "thought": "风险调整收益",
+          "score": 0,
+          "a": 0,
+          "b": 0,
+          "neutral": 0
+        }
+      ],
+      "weakestStyles": [
+        {
+          "thought": "NTM兑现优先",
+          "score": 0,
+          "a": 0,
+          "b": 0,
+          "neutral": 0
+        },
+        {
+          "thought": "右尾弹性优先",
+          "score": 0,
+          "a": 0,
+          "b": 0,
+          "neutral": 0
+        },
+        {
+          "thought": "风险调整收益",
+          "score": 0,
+          "a": 0,
+          "b": 0,
+          "neutral": 0
+        }
+      ],
+      "relationStats": [],
+      "styleStats": [
+        {
+          "thought": "NTM兑现优先",
+          "score": 0,
+          "a": 0,
+          "b": 0,
+          "neutral": 0
+        },
+        {
+          "thought": "右尾弹性优先",
+          "score": 0,
+          "a": 0,
+          "b": 0,
+          "neutral": 0
+        },
+        {
+          "thought": "风险调整收益",
+          "score": 0,
+          "a": 0,
+          "b": 0,
+          "neutral": 0
+        },
+        {
+          "thought": "下行保护优先",
+          "score": 0,
+          "a": 0,
+          "b": 0,
+          "neutral": 0
+        },
+        {
+          "thought": "估值消化优先",
+          "score": 0,
+          "a": 0,
+          "b": 0,
+          "neutral": 0
+        },
+        {
+          "thought": "近端催化优先",
+          "score": 0,
+          "a": 0,
+          "b": 0,
+          "neutral": 0
+        },
+        {
+          "thought": "价格确认/动量",
+          "score": 0,
+          "a": 0,
+          "b": 0,
+          "neutral": 0
+        },
+        {
+          "thought": "激进短线",
+          "score": 0,
+          "a": 0,
+          "b": 0,
+          "neutral": 0
+        }
+      ],
+      "directPeers": [],
+      "losses": [],
+      "onePage": []
+    },
+    {
+      "ticker": "CC",
+      "name": "The Chemours Company",
+      "category": "半导体材料_化学品_基板",
+      "reportDate": "2026-07-14",
+      "sourcePath": "基本面/分析报告/公司对比/结果/CC_逐家公司投资思路对比_2026-07-14.md",
+      "dataFile": "reports/company-comparison/CC.json",
+      "comparedCount": 0,
+      "selfWins": 0,
+      "selfLosses": 0,
+      "selfUnknown": 0,
+      "selfNet": 0,
+      "finalRank": 42,
+      "finalWins": 0,
+      "finalLosses": 0,
+      "finalNet": 0,
+      "strongestStyles": [
+        {
+          "thought": "NTM兑现优先",
+          "score": 0,
+          "a": 0,
+          "b": 0,
+          "neutral": 0
+        },
+        {
+          "thought": "右尾弹性优先",
+          "score": 0,
+          "a": 0,
+          "b": 0,
+          "neutral": 0
+        },
+        {
+          "thought": "风险调整收益",
+          "score": 0,
+          "a": 0,
+          "b": 0,
+          "neutral": 0
+        }
+      ],
+      "weakestStyles": [
+        {
+          "thought": "NTM兑现优先",
+          "score": 0,
+          "a": 0,
+          "b": 0,
+          "neutral": 0
+        },
+        {
+          "thought": "右尾弹性优先",
+          "score": 0,
+          "a": 0,
+          "b": 0,
+          "neutral": 0
+        },
+        {
+          "thought": "风险调整收益",
+          "score": 0,
+          "a": 0,
+          "b": 0,
+          "neutral": 0
+        }
+      ],
+      "relationStats": [],
+      "styleStats": [
+        {
+          "thought": "NTM兑现优先",
+          "score": 0,
+          "a": 0,
+          "b": 0,
+          "neutral": 0
+        },
+        {
+          "thought": "右尾弹性优先",
+          "score": 0,
+          "a": 0,
+          "b": 0,
+          "neutral": 0
+        },
+        {
+          "thought": "风险调整收益",
+          "score": 0,
+          "a": 0,
+          "b": 0,
+          "neutral": 0
+        },
+        {
+          "thought": "下行保护优先",
+          "score": 0,
+          "a": 0,
+          "b": 0,
+          "neutral": 0
+        },
+        {
+          "thought": "估值消化优先",
+          "score": 0,
+          "a": 0,
+          "b": 0,
+          "neutral": 0
+        },
+        {
+          "thought": "近端催化优先",
+          "score": 0,
+          "a": 0,
+          "b": 0,
+          "neutral": 0
+        },
+        {
+          "thought": "价格确认/动量",
+          "score": 0,
+          "a": 0,
+          "b": 0,
+          "neutral": 0
+        },
+        {
+          "thought": "激进短线",
+          "score": 0,
+          "a": 0,
+          "b": 0,
+          "neutral": 0
+        }
+      ],
+      "directPeers": [],
+      "losses": [],
+      "onePage": []
+    },
+    {
+      "ticker": "CDNS",
+      "name": "Cadence Design Systems",
+      "category": "AI计算芯片_EDA_IP_custom_ASIC",
+      "reportDate": "2026-07-14",
+      "sourcePath": "基本面/分析报告/公司对比/结果/CDNS_逐家公司投资思路对比_2026-07-14.md",
+      "dataFile": "reports/company-comparison/CDNS.json",
       "comparedCount": 0,
       "selfWins": 0,
       "selfLosses": 0,
@@ -7507,12 +7427,12 @@
       "onePage": []
     },
     {
-      "ticker": "CC",
-      "name": "The Chemours Company",
-      "category": "半导体材料_化学品_基板",
-      "reportDate": "2026-07-13",
-      "sourcePath": "基本面/分析报告/公司对比/结果/CC_逐家公司投资思路对比_2026-07-13.md",
-      "dataFile": "reports/company-comparison/CC.json",
+      "ticker": "CIEN",
+      "name": "Ciena Corporation",
+      "category": "AI网络_光互联_连接器",
+      "reportDate": "2026-07-14",
+      "sourcePath": "基本面/分析报告/公司对比/结果/CIEN_逐家公司投资思路对比_2026-07-14.md",
+      "dataFile": "reports/company-comparison/CIEN.json",
       "comparedCount": 0,
       "selfWins": 0,
       "selfLosses": 0,
@@ -7632,12 +7552,12 @@
       "onePage": []
     },
     {
-      "ticker": "CDNS",
-      "name": "Cadence Design Systems",
-      "category": "AI计算芯片_EDA_IP_custom_ASIC",
-      "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司对比/结果/CDNS_逐家公司投资思路对比_2026-07-12.md",
-      "dataFile": "reports/company-comparison/CDNS.json",
+      "ticker": "CLS",
+      "name": "Celestica Inc",
+      "category": "AI服务器_存储_EMS",
+      "reportDate": "2026-07-14",
+      "sourcePath": "基本面/分析报告/公司对比/结果/CLS_逐家公司投资思路对比_2026-07-14.md",
+      "dataFile": "reports/company-comparison/CLS.json",
       "comparedCount": 0,
       "selfWins": 0,
       "selfLosses": 0,
@@ -7757,12 +7677,12 @@
       "onePage": []
     },
     {
-      "ticker": "CEG",
-      "name": "Constellation Energy",
+      "ticker": "CMI",
+      "name": "Cummins Inc",
       "category": "电力_发电_能源_储能",
-      "reportDate": "2026-07-13",
-      "sourcePath": "基本面/分析报告/公司对比/结果/CEG_逐家公司投资思路对比_2026-07-13.md",
-      "dataFile": "reports/company-comparison/CEG.json",
+      "reportDate": "2026-07-14",
+      "sourcePath": "基本面/分析报告/公司对比/结果/CMI_逐家公司投资思路对比_2026-07-14.md",
+      "dataFile": "reports/company-comparison/CMI.json",
       "comparedCount": 0,
       "selfWins": 0,
       "selfLosses": 0,
@@ -7882,12 +7802,12 @@
       "onePage": []
     },
     {
-      "ticker": "CIEN",
-      "name": "Ciena Corporation",
+      "ticker": "COHR",
+      "name": "Coherent",
       "category": "AI网络_光互联_连接器",
-      "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司对比/结果/CIEN_逐家公司投资思路对比_2026-07-12.md",
-      "dataFile": "reports/company-comparison/CIEN.json",
+      "reportDate": "2026-07-14",
+      "sourcePath": "基本面/分析报告/公司对比/结果/COHR_逐家公司投资思路对比_2026-07-14.md",
+      "dataFile": "reports/company-comparison/COHR.json",
       "comparedCount": 0,
       "selfWins": 0,
       "selfLosses": 0,
@@ -8007,518 +7927,18 @@
       "onePage": []
     },
     {
-      "ticker": "CLS",
-      "name": "Celestica Inc",
-      "category": "AI服务器_存储_EMS",
-      "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司对比/结果/CLS_逐家公司投资思路对比_2026-07-12.md",
-      "dataFile": "reports/company-comparison/CLS.json",
-      "comparedCount": 0,
-      "selfWins": 0,
-      "selfLosses": 0,
-      "selfUnknown": 0,
-      "selfNet": 0,
-      "finalRank": 48,
-      "finalWins": 0,
-      "finalLosses": 0,
-      "finalNet": 0,
-      "strongestStyles": [
-        {
-          "thought": "NTM兑现优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "右尾弹性优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "风险调整收益",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        }
-      ],
-      "weakestStyles": [
-        {
-          "thought": "NTM兑现优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "右尾弹性优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "风险调整收益",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        }
-      ],
-      "relationStats": [],
-      "styleStats": [
-        {
-          "thought": "NTM兑现优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "右尾弹性优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "风险调整收益",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "下行保护优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "估值消化优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "近端催化优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "价格确认/动量",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "激进短线",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        }
-      ],
-      "directPeers": [],
-      "losses": [],
-      "onePage": []
-    },
-    {
-      "ticker": "CMI",
-      "name": "Cummins Inc",
-      "category": "电力_发电_能源_储能",
-      "reportDate": "2026-07-13",
-      "sourcePath": "基本面/分析报告/公司对比/结果/CMI_逐家公司投资思路对比_2026-07-13.md",
-      "dataFile": "reports/company-comparison/CMI.json",
-      "comparedCount": 0,
-      "selfWins": 0,
-      "selfLosses": 0,
-      "selfUnknown": 0,
-      "selfNet": 0,
-      "finalRank": 49,
-      "finalWins": 0,
-      "finalLosses": 0,
-      "finalNet": 0,
-      "strongestStyles": [
-        {
-          "thought": "NTM兑现优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "右尾弹性优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "风险调整收益",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        }
-      ],
-      "weakestStyles": [
-        {
-          "thought": "NTM兑现优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "右尾弹性优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "风险调整收益",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        }
-      ],
-      "relationStats": [],
-      "styleStats": [
-        {
-          "thought": "NTM兑现优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "右尾弹性优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "风险调整收益",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "下行保护优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "估值消化优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "近端催化优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "价格确认/动量",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "激进短线",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        }
-      ],
-      "directPeers": [],
-      "losses": [],
-      "onePage": []
-    },
-    {
-      "ticker": "COHR",
-      "name": "Coherent",
-      "category": "AI网络_光互联_连接器",
-      "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司对比/结果/COHR_逐家公司投资思路对比_2026-07-12.md",
-      "dataFile": "reports/company-comparison/COHR.json",
-      "comparedCount": 0,
-      "selfWins": 0,
-      "selfLosses": 0,
-      "selfUnknown": 0,
-      "selfNet": 0,
-      "finalRank": 50,
-      "finalWins": 0,
-      "finalLosses": 0,
-      "finalNet": 0,
-      "strongestStyles": [
-        {
-          "thought": "NTM兑现优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "右尾弹性优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "风险调整收益",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        }
-      ],
-      "weakestStyles": [
-        {
-          "thought": "NTM兑现优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "右尾弹性优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "风险调整收益",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        }
-      ],
-      "relationStats": [],
-      "styleStats": [
-        {
-          "thought": "NTM兑现优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "右尾弹性优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "风险调整收益",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "下行保护优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "估值消化优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "近端催化优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "价格确认/动量",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "激进短线",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        }
-      ],
-      "directPeers": [],
-      "losses": [],
-      "onePage": []
-    },
-    {
-      "ticker": "COHU",
-      "name": "Cohu Inc",
-      "category": "封测_检测_计量_光罩",
-      "reportDate": "2026-07-13",
-      "sourcePath": "基本面/分析报告/公司对比/结果/COHU_逐家公司投资思路对比_2026-07-13.md",
-      "dataFile": "reports/company-comparison/COHU.json",
-      "comparedCount": 0,
-      "selfWins": 0,
-      "selfLosses": 0,
-      "selfUnknown": 0,
-      "selfNet": 0,
-      "finalRank": 51,
-      "finalWins": 0,
-      "finalLosses": 0,
-      "finalNet": 0,
-      "strongestStyles": [
-        {
-          "thought": "NTM兑现优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "右尾弹性优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "风险调整收益",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        }
-      ],
-      "weakestStyles": [
-        {
-          "thought": "NTM兑现优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "右尾弹性优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "风险调整收益",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        }
-      ],
-      "relationStats": [],
-      "styleStats": [
-        {
-          "thought": "NTM兑现优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "右尾弹性优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "风险调整收益",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "下行保护优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "估值消化优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "近端催化优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "价格确认/动量",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "激进短线",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        }
-      ],
-      "directPeers": [],
-      "losses": [],
-      "onePage": []
-    },
-    {
       "ticker": "CRDO",
       "name": "Credo Technology Group",
       "category": "AI网络_光互联_连接器",
-      "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司对比/结果/CRDO_逐家公司投资思路对比_2026-07-12.md",
+      "reportDate": "2026-07-14",
+      "sourcePath": "基本面/分析报告/公司对比/结果/CRDO_逐家公司投资思路对比_2026-07-14.md",
       "dataFile": "reports/company-comparison/CRDO.json",
       "comparedCount": 0,
       "selfWins": 0,
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 52,
+      "finalRank": 48,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -8643,7 +8063,7 @@
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 53,
+      "finalRank": 49,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -8768,7 +8188,7 @@
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 54,
+      "finalRank": 50,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -8885,15 +8305,15 @@
       "ticker": "CSCO",
       "name": "Cisco Systems",
       "category": "AI网络_光互联_连接器",
-      "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司对比/结果/CSCO_逐家公司投资思路对比_2026-07-12.md",
+      "reportDate": "2026-07-14",
+      "sourcePath": "基本面/分析报告/公司对比/结果/CSCO_逐家公司投资思路对比_2026-07-14.md",
       "dataFile": "reports/company-comparison/CSCO.json",
       "comparedCount": 0,
       "selfWins": 0,
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 55,
+      "finalRank": 51,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -9018,7 +8438,7 @@
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 56,
+      "finalRank": 52,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -9135,15 +8555,15 @@
       "ticker": "DD",
       "name": "DuPont de Nemours",
       "category": "半导体材料_化学品_基板",
-      "reportDate": "2026-07-13",
-      "sourcePath": "基本面/分析报告/公司对比/结果/DD_逐家公司投资思路对比_2026-07-13.md",
+      "reportDate": "2026-07-14",
+      "sourcePath": "基本面/分析报告/公司对比/结果/DD_逐家公司投资思路对比_2026-07-14.md",
       "dataFile": "reports/company-comparison/DD.json",
       "comparedCount": 0,
       "selfWins": 0,
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 57,
+      "finalRank": 53,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -9260,15 +8680,15 @@
       "ticker": "DELL",
       "name": "Dell Technologies",
       "category": "AI服务器_存储_EMS",
-      "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司对比/结果/DELL_逐家公司投资思路对比_2026-07-12.md",
+      "reportDate": "2026-07-14",
+      "sourcePath": "基本面/分析报告/公司对比/结果/DELL_逐家公司投资思路对比_2026-07-14.md",
       "dataFile": "reports/company-comparison/DELL.json",
       "comparedCount": 0,
       "selfWins": 0,
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 58,
+      "finalRank": 54,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -9385,15 +8805,15 @@
       "ticker": "DHR",
       "name": "Danaher Corporation",
       "category": "半导体材料_化学品_基板",
-      "reportDate": "2026-07-13",
-      "sourcePath": "基本面/分析报告/公司对比/结果/DHR_逐家公司投资思路对比_2026-07-13.md",
+      "reportDate": "2026-07-14",
+      "sourcePath": "基本面/分析报告/公司对比/结果/DHR_逐家公司投资思路对比_2026-07-14.md",
       "dataFile": "reports/company-comparison/DHR.json",
       "comparedCount": 0,
       "selfWins": 0,
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 59,
+      "finalRank": 55,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -9518,7 +8938,7 @@
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 60,
+      "finalRank": 56,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -9635,15 +9055,15 @@
       "ticker": "DKILY",
       "name": "Daikin Industries",
       "category": "半导体材料_化学品_基板",
-      "reportDate": "2026-07-13",
-      "sourcePath": "基本面/分析报告/公司对比/结果/DKILY_逐家公司投资思路对比_2026-07-13.md",
+      "reportDate": "2026-07-14",
+      "sourcePath": "基本面/分析报告/公司对比/结果/DKILY_逐家公司投资思路对比_2026-07-14.md",
       "dataFile": "reports/company-comparison/DKILY.json",
       "comparedCount": 0,
       "selfWins": 0,
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 61,
+      "finalRank": 57,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -9768,7 +9188,7 @@
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 62,
+      "finalRank": 58,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -9893,7 +9313,7 @@
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 63,
+      "finalRank": 59,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -10018,7 +9438,7 @@
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 64,
+      "finalRank": 60,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -10135,15 +9555,15 @@
       "ticker": "DTE",
       "name": "DTE Energy Company",
       "category": "电力_发电_能源_储能",
-      "reportDate": "2026-07-13",
-      "sourcePath": "基本面/分析报告/公司对比/结果/DTE_逐家公司投资思路对比_2026-07-13.md",
+      "reportDate": "2026-07-14",
+      "sourcePath": "基本面/分析报告/公司对比/结果/DTE_逐家公司投资思路对比_2026-07-14.md",
       "dataFile": "reports/company-comparison/DTE.json",
       "comparedCount": 0,
       "selfWins": 0,
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 65,
+      "finalRank": 61,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -10260,15 +9680,15 @@
       "ticker": "ECL",
       "name": "Ecolab",
       "category": "半导体材料_化学品_基板",
-      "reportDate": "2026-07-13",
-      "sourcePath": "基本面/分析报告/公司对比/结果/ECL_逐家公司投资思路对比_2026-07-13.md",
+      "reportDate": "2026-07-14",
+      "sourcePath": "基本面/分析报告/公司对比/结果/ECL_逐家公司投资思路对比_2026-07-14.md",
       "dataFile": "reports/company-comparison/ECL.json",
       "comparedCount": 0,
       "selfWins": 0,
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 66,
+      "finalRank": 62,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -10393,7 +9813,7 @@
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 67,
+      "finalRank": 63,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -10510,15 +9930,15 @@
       "ticker": "ENPH",
       "name": "Enphase Energy",
       "category": "电力_发电_能源_储能",
-      "reportDate": "2026-07-13",
-      "sourcePath": "基本面/分析报告/公司对比/结果/ENPH_逐家公司投资思路对比_2026-07-13.md",
+      "reportDate": "2026-07-14",
+      "sourcePath": "基本面/分析报告/公司对比/结果/ENPH_逐家公司投资思路对比_2026-07-14.md",
       "dataFile": "reports/company-comparison/ENPH.json",
       "comparedCount": 0,
       "selfWins": 0,
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 68,
+      "finalRank": 64,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -10635,15 +10055,15 @@
       "ticker": "ENS",
       "name": "EnerSys",
       "category": "电力_发电_能源_储能",
-      "reportDate": "2026-07-13",
-      "sourcePath": "基本面/分析报告/公司对比/结果/ENS_逐家公司投资思路对比_2026-07-13.md",
+      "reportDate": "2026-07-14",
+      "sourcePath": "基本面/分析报告/公司对比/结果/ENS_逐家公司投资思路对比_2026-07-14.md",
       "dataFile": "reports/company-comparison/ENS.json",
       "comparedCount": 0,
       "selfWins": 0,
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 69,
+      "finalRank": 65,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -10760,15 +10180,15 @@
       "ticker": "ENTG",
       "name": "Entegris",
       "category": "半导体材料_化学品_基板",
-      "reportDate": "2026-07-13",
-      "sourcePath": "基本面/分析报告/公司对比/结果/ENTG_逐家公司投资思路对比_2026-07-13.md",
+      "reportDate": "2026-07-14",
+      "sourcePath": "基本面/分析报告/公司对比/结果/ENTG_逐家公司投资思路对比_2026-07-14.md",
       "dataFile": "reports/company-comparison/ENTG.json",
       "comparedCount": 0,
       "selfWins": 0,
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 70,
+      "finalRank": 66,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -10893,7 +10313,7 @@
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 71,
+      "finalRank": 67,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -11010,15 +10430,15 @@
       "ticker": "ET",
       "name": "Energy Transfer LP",
       "category": "电力_发电_能源_储能",
-      "reportDate": "2026-07-13",
-      "sourcePath": "基本面/分析报告/公司对比/结果/ET_逐家公司投资思路对比_2026-07-13.md",
+      "reportDate": "2026-07-14",
+      "sourcePath": "基本面/分析报告/公司对比/结果/ET_逐家公司投资思路对比_2026-07-14.md",
       "dataFile": "reports/company-comparison/ET.json",
       "comparedCount": 0,
       "selfWins": 0,
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 72,
+      "finalRank": 68,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -11143,7 +10563,7 @@
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 73,
+      "finalRank": 69,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -11260,15 +10680,15 @@
       "ticker": "ETR",
       "name": "Entergy Corporation",
       "category": "电力_发电_能源_储能",
-      "reportDate": "2026-07-13",
-      "sourcePath": "基本面/分析报告/公司对比/结果/ETR_逐家公司投资思路对比_2026-07-13.md",
+      "reportDate": "2026-07-14",
+      "sourcePath": "基本面/分析报告/公司对比/结果/ETR_逐家公司投资思路对比_2026-07-14.md",
       "dataFile": "reports/company-comparison/ETR.json",
       "comparedCount": 0,
       "selfWins": 0,
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 74,
+      "finalRank": 70,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -11385,15 +10805,15 @@
       "ticker": "FCEL",
       "name": "FuelCell Energy",
       "category": "电力_发电_能源_储能",
-      "reportDate": "2026-07-13",
-      "sourcePath": "基本面/分析报告/公司对比/结果/FCEL_逐家公司投资思路对比_2026-07-13.md",
+      "reportDate": "2026-07-14",
+      "sourcePath": "基本面/分析报告/公司对比/结果/FCEL_逐家公司投资思路对比_2026-07-14.md",
       "dataFile": "reports/company-comparison/FCEL.json",
       "comparedCount": 0,
       "selfWins": 0,
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 75,
+      "finalRank": 71,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -11518,7 +10938,7 @@
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 76,
+      "finalRank": 72,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -11635,15 +11055,15 @@
       "ticker": "FLEX",
       "name": "Flex Ltd",
       "category": "AI服务器_存储_EMS",
-      "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司对比/结果/FLEX_逐家公司投资思路对比_2026-07-12.md",
+      "reportDate": "2026-07-14",
+      "sourcePath": "基本面/分析报告/公司对比/结果/FLEX_逐家公司投资思路对比_2026-07-14.md",
       "dataFile": "reports/company-comparison/FLEX.json",
       "comparedCount": 0,
       "selfWins": 0,
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 77,
+      "finalRank": 73,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -11760,15 +11180,15 @@
       "ticker": "FLNC",
       "name": "Fluence Energy",
       "category": "电力_发电_能源_储能",
-      "reportDate": "2026-07-13",
-      "sourcePath": "基本面/分析报告/公司对比/结果/FLNC_逐家公司投资思路对比_2026-07-13.md",
+      "reportDate": "2026-07-14",
+      "sourcePath": "基本面/分析报告/公司对比/结果/FLNC_逐家公司投资思路对比_2026-07-14.md",
       "dataFile": "reports/company-comparison/FLNC.json",
       "comparedCount": 0,
       "selfWins": 0,
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 78,
+      "finalRank": 74,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -11885,15 +11305,15 @@
       "ticker": "FN",
       "name": "Fabrinet",
       "category": "AI服务器_存储_EMS",
-      "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司对比/结果/FN_逐家公司投资思路对比_2026-07-12.md",
+      "reportDate": "2026-07-14",
+      "sourcePath": "基本面/分析报告/公司对比/结果/FN_逐家公司投资思路对比_2026-07-14.md",
       "dataFile": "reports/company-comparison/FN.json",
       "comparedCount": 0,
       "selfWins": 0,
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 79,
+      "finalRank": 75,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -12018,7 +11438,7 @@
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 80,
+      "finalRank": 76,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -12143,7 +11563,7 @@
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 81,
+      "finalRank": 77,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -12260,15 +11680,15 @@
       "ticker": "GEV",
       "name": "GE Vernova",
       "category": "电力_发电_能源_储能",
-      "reportDate": "2026-07-13",
-      "sourcePath": "基本面/分析报告/公司对比/结果/GEV_逐家公司投资思路对比_2026-07-13.md",
+      "reportDate": "2026-07-14",
+      "sourcePath": "基本面/分析报告/公司对比/结果/GEV_逐家公司投资思路对比_2026-07-14.md",
       "dataFile": "reports/company-comparison/GEV.json",
       "comparedCount": 0,
       "selfWins": 0,
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 82,
+      "finalRank": 78,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -12393,7 +11813,7 @@
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 83,
+      "finalRank": 79,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -12510,15 +11930,15 @@
       "ticker": "GLW",
       "name": "Corning",
       "category": "AI网络_光互联_连接器",
-      "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司对比/结果/GLW_逐家公司投资思路对比_2026-07-12.md",
+      "reportDate": "2026-07-14",
+      "sourcePath": "基本面/分析报告/公司对比/结果/GLW_逐家公司投资思路对比_2026-07-14.md",
       "dataFile": "reports/company-comparison/GLW.json",
       "comparedCount": 0,
       "selfWins": 0,
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 84,
+      "finalRank": 80,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -12635,15 +12055,15 @@
       "ticker": "GNRC",
       "name": "Generac Holdings",
       "category": "电力_发电_能源_储能",
-      "reportDate": "2026-07-13",
-      "sourcePath": "基本面/分析报告/公司对比/结果/GNRC_逐家公司投资思路对比_2026-07-13.md",
+      "reportDate": "2026-07-14",
+      "sourcePath": "基本面/分析报告/公司对比/结果/GNRC_逐家公司投资思路对比_2026-07-14.md",
       "dataFile": "reports/company-comparison/GNRC.json",
       "comparedCount": 0,
       "selfWins": 0,
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 85,
+      "finalRank": 81,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -12768,7 +12188,7 @@
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 86,
+      "finalRank": 82,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -12885,15 +12305,15 @@
       "ticker": "HOCPY",
       "name": "HOYA Corporation",
       "category": "半导体材料_化学品_基板",
-      "reportDate": "2026-07-13",
-      "sourcePath": "基本面/分析报告/公司对比/结果/HOCPY_逐家公司投资思路对比_2026-07-13.md",
+      "reportDate": "2026-07-14",
+      "sourcePath": "基本面/分析报告/公司对比/结果/HOCPY_逐家公司投资思路对比_2026-07-14.md",
       "dataFile": "reports/company-comparison/HOCPY.json",
       "comparedCount": 0,
       "selfWins": 0,
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 87,
+      "finalRank": 83,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -13010,140 +12430,15 @@
       "ticker": "HPE",
       "name": "惠普企业",
       "category": "AI服务器_存储_EMS",
-      "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司对比/结果/HPE_逐家公司投资思路对比_2026-07-12.md",
+      "reportDate": "2026-07-14",
+      "sourcePath": "基本面/分析报告/公司对比/结果/HPE_逐家公司投资思路对比_2026-07-14.md",
       "dataFile": "reports/company-comparison/HPE.json",
       "comparedCount": 0,
       "selfWins": 0,
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 88,
-      "finalWins": 0,
-      "finalLosses": 0,
-      "finalNet": 0,
-      "strongestStyles": [
-        {
-          "thought": "NTM兑现优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "右尾弹性优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "风险调整收益",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        }
-      ],
-      "weakestStyles": [
-        {
-          "thought": "NTM兑现优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "右尾弹性优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "风险调整收益",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        }
-      ],
-      "relationStats": [],
-      "styleStats": [
-        {
-          "thought": "NTM兑现优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "右尾弹性优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "风险调整收益",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "下行保护优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "估值消化优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "近端催化优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "价格确认/动量",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "激进短线",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        }
-      ],
-      "directPeers": [],
-      "losses": [],
-      "onePage": []
-    },
-    {
-      "ticker": "HTHIY",
-      "name": "Hitachi Ltd",
-      "category": "电力_发电_能源_储能",
-      "reportDate": "2026-07-13",
-      "sourcePath": "基本面/分析报告/公司对比/结果/HTHIY_逐家公司投资思路对比_2026-07-13.md",
-      "dataFile": "reports/company-comparison/HTHIY.json",
-      "comparedCount": 0,
-      "selfWins": 0,
-      "selfLosses": 0,
-      "selfUnknown": 0,
-      "selfNet": 0,
-      "finalRank": 89,
+      "finalRank": 84,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -13268,7 +12563,7 @@
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 90,
+      "finalRank": 85,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -13393,7 +12688,7 @@
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 91,
+      "finalRank": 86,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -13518,7 +12813,7 @@
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 92,
+      "finalRank": 87,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -13643,7 +12938,7 @@
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 93,
+      "finalRank": 88,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -13768,132 +13063,7 @@
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 94,
-      "finalWins": 0,
-      "finalLosses": 0,
-      "finalNet": 0,
-      "strongestStyles": [
-        {
-          "thought": "NTM兑现优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "右尾弹性优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "风险调整收益",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        }
-      ],
-      "weakestStyles": [
-        {
-          "thought": "NTM兑现优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "右尾弹性优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "风险调整收益",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        }
-      ],
-      "relationStats": [],
-      "styleStats": [
-        {
-          "thought": "NTM兑现优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "右尾弹性优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "风险调整收益",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "下行保护优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "估值消化优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "近端催化优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "价格确认/动量",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "激进短线",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        }
-      ],
-      "directPeers": [],
-      "losses": [],
-      "onePage": []
-    },
-    {
-      "ticker": "IMOS",
-      "name": "ChipMOS Technologies 南茂科技",
-      "category": "封测_检测_计量_光罩",
-      "reportDate": "2026-07-13",
-      "sourcePath": "基本面/分析报告/公司对比/结果/IMOS_逐家公司投资思路对比_2026-07-13.md",
-      "dataFile": "reports/company-comparison/IMOS.json",
-      "comparedCount": 0,
-      "selfWins": 0,
-      "selfLosses": 0,
-      "selfUnknown": 0,
-      "selfNet": 0,
-      "finalRank": 95,
+      "finalRank": 89,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -14010,15 +13180,15 @@
       "ticker": "INTC",
       "name": "Intel Corporation 英特尔",
       "category": "AI计算芯片_EDA_IP_custom_ASIC",
-      "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司对比/结果/INTC_逐家公司投资思路对比_2026-07-12.md",
+      "reportDate": "2026-07-14",
+      "sourcePath": "基本面/分析报告/公司对比/结果/INTC_逐家公司投资思路对比_2026-07-14.md",
       "dataFile": "reports/company-comparison/INTC.json",
       "comparedCount": 0,
       "selfWins": 0,
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 96,
+      "finalRank": 90,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -14143,7 +13313,7 @@
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 97,
+      "finalRank": 91,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -14260,15 +13430,15 @@
       "ticker": "JBL",
       "name": "Jabil Inc",
       "category": "AI服务器_存储_EMS",
-      "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司对比/结果/JBL_逐家公司投资思路对比_2026-07-12.md",
+      "reportDate": "2026-07-14",
+      "sourcePath": "基本面/分析报告/公司对比/结果/JBL_逐家公司投资思路对比_2026-07-14.md",
       "dataFile": "reports/company-comparison/JBL.json",
       "comparedCount": 0,
       "selfWins": 0,
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 98,
+      "finalRank": 92,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -14393,132 +13563,7 @@
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 99,
-      "finalWins": 0,
-      "finalLosses": 0,
-      "finalNet": 0,
-      "strongestStyles": [
-        {
-          "thought": "NTM兑现优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "右尾弹性优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "风险调整收益",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        }
-      ],
-      "weakestStyles": [
-        {
-          "thought": "NTM兑现优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "右尾弹性优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "风险调整收益",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        }
-      ],
-      "relationStats": [],
-      "styleStats": [
-        {
-          "thought": "NTM兑现优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "右尾弹性优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "风险调整收益",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "下行保护优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "估值消化优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "近端催化优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "价格确认/动量",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "激进短线",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        }
-      ],
-      "directPeers": [],
-      "losses": [],
-      "onePage": []
-    },
-    {
-      "ticker": "KEYS",
-      "name": "Keysight Technologies",
-      "category": "封测_检测_计量_光罩",
-      "reportDate": "2026-07-13",
-      "sourcePath": "基本面/分析报告/公司对比/结果/KEYS_逐家公司投资思路对比_2026-07-13.md",
-      "dataFile": "reports/company-comparison/KEYS.json",
-      "comparedCount": 0,
-      "selfWins": 0,
-      "selfLosses": 0,
-      "selfUnknown": 0,
-      "selfNet": 0,
-      "finalRank": 100,
+      "finalRank": 93,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -14643,7 +13688,7 @@
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 101,
+      "finalRank": 94,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -14768,7 +13813,7 @@
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 102,
+      "finalRank": 95,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -14893,7 +13938,7 @@
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 103,
+      "finalRank": 96,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -15010,15 +14055,15 @@
       "ticker": "LIN",
       "name": "Linde plc",
       "category": "半导体材料_化学品_基板",
-      "reportDate": "2026-07-13",
-      "sourcePath": "基本面/分析报告/公司对比/结果/LIN_逐家公司投资思路对比_2026-07-13.md",
+      "reportDate": "2026-07-14",
+      "sourcePath": "基本面/分析报告/公司对比/结果/LIN_逐家公司投资思路对比_2026-07-14.md",
       "dataFile": "reports/company-comparison/LIN.json",
       "comparedCount": 0,
       "selfWins": 0,
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 104,
+      "finalRank": 97,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -15135,15 +14180,15 @@
       "ticker": "LITE",
       "name": "Lumentum",
       "category": "AI网络_光互联_连接器",
-      "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司对比/结果/LITE_逐家公司投资思路对比_2026-07-12.md",
+      "reportDate": "2026-07-14",
+      "sourcePath": "基本面/分析报告/公司对比/结果/LITE_逐家公司投资思路对比_2026-07-14.md",
       "dataFile": "reports/company-comparison/LITE.json",
       "comparedCount": 0,
       "selfWins": 0,
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 105,
+      "finalRank": 98,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -15268,7 +14313,7 @@
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 106,
+      "finalRank": 99,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -15385,15 +14430,15 @@
       "ticker": "LWLG",
       "name": "Lightwave Logic",
       "category": "AI网络_光互联_连接器",
-      "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司对比/结果/LWLG_逐家公司投资思路对比_2026-07-12.md",
+      "reportDate": "2026-07-14",
+      "sourcePath": "基本面/分析报告/公司对比/结果/LWLG_逐家公司投资思路对比_2026-07-14.md",
       "dataFile": "reports/company-comparison/LWLG.json",
       "comparedCount": 0,
       "selfWins": 0,
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 107,
+      "finalRank": 100,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -15510,15 +14555,15 @@
       "ticker": "MCHP",
       "name": "Microchip Technology",
       "category": "AI计算芯片_EDA_IP_custom_ASIC",
-      "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司对比/结果/MCHP_逐家公司投资思路对比_2026-07-12.md",
+      "reportDate": "2026-07-14",
+      "sourcePath": "基本面/分析报告/公司对比/结果/MCHP_逐家公司投资思路对比_2026-07-14.md",
       "dataFile": "reports/company-comparison/MCHP.json",
       "comparedCount": 0,
       "selfWins": 0,
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 108,
+      "finalRank": 101,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -15643,7 +14688,7 @@
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 109,
+      "finalRank": 102,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -15768,7 +14813,7 @@
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 110,
+      "finalRank": 103,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -15893,7 +14938,7 @@
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 111,
+      "finalRank": 104,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -16018,7 +15063,7 @@
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 112,
+      "finalRank": 105,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -16135,15 +15180,15 @@
       "ticker": "MMM",
       "name": "3M",
       "category": "半导体材料_化学品_基板",
-      "reportDate": "2026-07-13",
-      "sourcePath": "基本面/分析报告/公司对比/结果/MMM_逐家公司投资思路对比_2026-07-13.md",
+      "reportDate": "2026-07-14",
+      "sourcePath": "基本面/分析报告/公司对比/结果/MMM_逐家公司投资思路对比_2026-07-14.md",
       "dataFile": "reports/company-comparison/MMM.json",
       "comparedCount": 0,
       "selfWins": 0,
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 113,
+      "finalRank": 106,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -16268,7 +15313,7 @@
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 114,
+      "finalRank": 107,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -16393,7 +15438,7 @@
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 115,
+      "finalRank": 108,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -16518,7 +15563,7 @@
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 116,
+      "finalRank": 109,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -16635,15 +15680,15 @@
       "ticker": "MRAM",
       "name": "Everspin Technologies",
       "category": "AI服务器_存储_EMS",
-      "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司对比/结果/MRAM_逐家公司投资思路对比_2026-07-12.md",
+      "reportDate": "2026-07-14",
+      "sourcePath": "基本面/分析报告/公司对比/结果/MRAM_逐家公司投资思路对比_2026-07-14.md",
       "dataFile": "reports/company-comparison/MRAM.json",
       "comparedCount": 0,
       "selfWins": 0,
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 117,
+      "finalRank": 110,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -16760,15 +15805,15 @@
       "ticker": "MRVL",
       "name": "Marvell Technology",
       "category": "AI计算芯片_EDA_IP_custom_ASIC",
-      "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司对比/结果/MRVL_逐家公司投资思路对比_2026-07-12.md",
+      "reportDate": "2026-07-14",
+      "sourcePath": "基本面/分析报告/公司对比/结果/MRVL_逐家公司投资思路对比_2026-07-14.md",
       "dataFile": "reports/company-comparison/MRVL.json",
       "comparedCount": 0,
       "selfWins": 0,
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 118,
+      "finalRank": 111,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -16893,7 +15938,7 @@
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 119,
+      "finalRank": 112,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -17018,7 +16063,7 @@
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 120,
+      "finalRank": 113,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -17135,15 +16180,15 @@
       "ticker": "MTRN",
       "name": "Materion",
       "category": "半导体材料_化学品_基板",
-      "reportDate": "2026-07-13",
-      "sourcePath": "基本面/分析报告/公司对比/结果/MTRN_逐家公司投资思路对比_2026-07-13.md",
+      "reportDate": "2026-07-14",
+      "sourcePath": "基本面/分析报告/公司对比/结果/MTRN_逐家公司投资思路对比_2026-07-14.md",
       "dataFile": "reports/company-comparison/MTRN.json",
       "comparedCount": 0,
       "selfWins": 0,
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 121,
+      "finalRank": 114,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -17260,15 +16305,15 @@
       "ticker": "MTSI",
       "name": "MACOM Technology Solutions",
       "category": "AI网络_光互联_连接器",
-      "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司对比/结果/MTSI_逐家公司投资思路对比_2026-07-12.md",
+      "reportDate": "2026-07-14",
+      "sourcePath": "基本面/分析报告/公司对比/结果/MTSI_逐家公司投资思路对比_2026-07-14.md",
       "dataFile": "reports/company-comparison/MTSI.json",
       "comparedCount": 0,
       "selfWins": 0,
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 122,
+      "finalRank": 115,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -17385,15 +16430,15 @@
       "ticker": "MU",
       "name": "Micron Technology 美光科技",
       "category": "AI服务器_存储_EMS",
-      "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司对比/结果/MU_逐家公司投资思路对比_2026-07-12.md",
+      "reportDate": "2026-07-14",
+      "sourcePath": "基本面/分析报告/公司对比/结果/MU_逐家公司投资思路对比_2026-07-14.md",
       "dataFile": "reports/company-comparison/MU.json",
       "comparedCount": 0,
       "selfWins": 0,
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 123,
+      "finalRank": 116,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -17510,15 +16555,15 @@
       "ticker": "MXL",
       "name": "MaxLinear",
       "category": "AI计算芯片_EDA_IP_custom_ASIC",
-      "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司对比/结果/MXL_逐家公司投资思路对比_2026-07-12.md",
+      "reportDate": "2026-07-14",
+      "sourcePath": "基本面/分析报告/公司对比/结果/MXL_逐家公司投资思路对比_2026-07-14.md",
       "dataFile": "reports/company-comparison/MXL.json",
       "comparedCount": 0,
       "selfWins": 0,
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 124,
+      "finalRank": 117,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -17643,7 +16688,7 @@
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 125,
+      "finalRank": 118,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -17768,7 +16813,7 @@
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 126,
+      "finalRank": 119,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -17885,15 +16930,15 @@
       "ticker": "NDSN",
       "name": "Nordson",
       "category": "半导体材料_化学品_基板",
-      "reportDate": "2026-07-13",
-      "sourcePath": "基本面/分析报告/公司对比/结果/NDSN_逐家公司投资思路对比_2026-07-13.md",
+      "reportDate": "2026-07-14",
+      "sourcePath": "基本面/分析报告/公司对比/结果/NDSN_逐家公司投资思路对比_2026-07-14.md",
       "dataFile": "reports/company-comparison/NDSN.json",
       "comparedCount": 0,
       "selfWins": 0,
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 127,
+      "finalRank": 120,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -18010,15 +17055,15 @@
       "ticker": "NOK",
       "name": "诺基亚",
       "category": "AI网络_光互联_连接器",
-      "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司对比/结果/NOK_逐家公司投资思路对比_2026-07-12.md",
+      "reportDate": "2026-07-14",
+      "sourcePath": "基本面/分析报告/公司对比/结果/NOK_逐家公司投资思路对比_2026-07-14.md",
       "dataFile": "reports/company-comparison/NOK.json",
       "comparedCount": 0,
       "selfWins": 0,
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 128,
+      "finalRank": 121,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -18135,15 +17180,15 @@
       "ticker": "NTAP",
       "name": "NetApp",
       "category": "AI服务器_存储_EMS",
-      "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司对比/结果/NTAP_逐家公司投资思路对比_2026-07-12.md",
+      "reportDate": "2026-07-14",
+      "sourcePath": "基本面/分析报告/公司对比/结果/NTAP_逐家公司投资思路对比_2026-07-14.md",
       "dataFile": "reports/company-comparison/NTAP.json",
       "comparedCount": 0,
       "selfWins": 0,
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 129,
+      "finalRank": 122,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -18268,7 +17313,7 @@
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 130,
+      "finalRank": 123,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -18385,15 +17430,15 @@
       "ticker": "NVDA",
       "name": "NVIDIA",
       "category": "AI计算芯片_EDA_IP_custom_ASIC",
-      "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司对比/结果/NVDA_逐家公司投资思路对比_2026-07-12.md",
+      "reportDate": "2026-07-14",
+      "sourcePath": "基本面/分析报告/公司对比/结果/NVDA_逐家公司投资思路对比_2026-07-14.md",
       "dataFile": "reports/company-comparison/NVDA.json",
       "comparedCount": 0,
       "selfWins": 0,
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 131,
+      "finalRank": 124,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -18518,7 +17563,7 @@
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 132,
+      "finalRank": 125,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -18643,7 +17688,7 @@
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 133,
+      "finalRank": 126,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -18768,7 +17813,7 @@
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 134,
+      "finalRank": 127,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -18885,15 +17930,15 @@
       "ticker": "OKLO",
       "name": "Oklo Inc",
       "category": "电力_发电_能源_储能",
-      "reportDate": "2026-07-13",
-      "sourcePath": "基本面/分析报告/公司对比/结果/OKLO_逐家公司投资思路对比_2026-07-13.md",
+      "reportDate": "2026-07-14",
+      "sourcePath": "基本面/分析报告/公司对比/结果/OKLO_逐家公司投资思路对比_2026-07-14.md",
       "dataFile": "reports/company-comparison/OKLO.json",
       "comparedCount": 0,
       "selfWins": 0,
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 135,
+      "finalRank": 128,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -19010,15 +18055,15 @@
       "ticker": "ON",
       "name": "onsemi",
       "category": "AI计算芯片_EDA_IP_custom_ASIC",
-      "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司对比/结果/ON_逐家公司投资思路对比_2026-07-12.md",
+      "reportDate": "2026-07-14",
+      "sourcePath": "基本面/分析报告/公司对比/结果/ON_逐家公司投资思路对比_2026-07-14.md",
       "dataFile": "reports/company-comparison/ON.json",
       "comparedCount": 0,
       "selfWins": 0,
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 136,
+      "finalRank": 129,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -19143,7 +18188,7 @@
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 137,
+      "finalRank": 130,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -19268,7 +18313,7 @@
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 138,
+      "finalRank": 131,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -19385,15 +18430,15 @@
       "ticker": "P",
       "name": "Everpure",
       "category": "AI服务器_存储_EMS",
-      "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司对比/结果/P_逐家公司投资思路对比_2026-07-12.md",
+      "reportDate": "2026-07-14",
+      "sourcePath": "基本面/分析报告/公司对比/结果/P_逐家公司投资思路对比_2026-07-14.md",
       "dataFile": "reports/company-comparison/P.json",
       "comparedCount": 0,
       "selfWins": 0,
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 139,
+      "finalRank": 132,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -19510,15 +18555,15 @@
       "ticker": "PENG",
       "name": "Penguin Solutions",
       "category": "AI服务器_存储_EMS",
-      "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司对比/结果/PENG_逐家公司投资思路对比_2026-07-12.md",
+      "reportDate": "2026-07-14",
+      "sourcePath": "基本面/分析报告/公司对比/结果/PENG_逐家公司投资思路对比_2026-07-14.md",
       "dataFile": "reports/company-comparison/PENG.json",
       "comparedCount": 0,
       "selfWins": 0,
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 140,
+      "finalRank": 133,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -19643,7 +18688,7 @@
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 141,
+      "finalRank": 134,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -19768,7 +18813,7 @@
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 142,
+      "finalRank": 135,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -19893,7 +18938,7 @@
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 143,
+      "finalRank": 136,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -20010,15 +19055,15 @@
       "ticker": "POET",
       "name": "POET Technologies",
       "category": "AI网络_光互联_连接器",
-      "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司对比/结果/POET_逐家公司投资思路对比_2026-07-12.md",
+      "reportDate": "2026-07-14",
+      "sourcePath": "基本面/分析报告/公司对比/结果/POET_逐家公司投资思路对比_2026-07-14.md",
       "dataFile": "reports/company-comparison/POET.json",
       "comparedCount": 0,
       "selfWins": 0,
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 144,
+      "finalRank": 137,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -20143,7 +19188,7 @@
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 145,
+      "finalRank": 138,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -20268,7 +19313,7 @@
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 146,
+      "finalRank": 139,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -20385,15 +19430,15 @@
       "ticker": "PSIX",
       "name": "Power Solutions International",
       "category": "电力_发电_能源_储能",
-      "reportDate": "2026-07-13",
-      "sourcePath": "基本面/分析报告/公司对比/结果/PSIX_逐家公司投资思路对比_2026-07-13.md",
+      "reportDate": "2026-07-14",
+      "sourcePath": "基本面/分析报告/公司对比/结果/PSIX_逐家公司投资思路对比_2026-07-14.md",
       "dataFile": "reports/company-comparison/PSIX.json",
       "comparedCount": 0,
       "selfWins": 0,
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 147,
+      "finalRank": 140,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -20510,15 +19555,15 @@
       "ticker": "PWR",
       "name": "Quanta Services",
       "category": "电力_发电_能源_储能",
-      "reportDate": "2026-07-13",
-      "sourcePath": "基本面/分析报告/公司对比/结果/PWR_逐家公司投资思路对比_2026-07-13.md",
+      "reportDate": "2026-07-14",
+      "sourcePath": "基本面/分析报告/公司对比/结果/PWR_逐家公司投资思路对比_2026-07-14.md",
       "dataFile": "reports/company-comparison/PWR.json",
       "comparedCount": 0,
       "selfWins": 0,
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 148,
+      "finalRank": 141,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -20635,15 +19680,15 @@
       "ticker": "Q",
       "name": "Qnity Electronics",
       "category": "半导体材料_化学品_基板",
-      "reportDate": "2026-07-13",
-      "sourcePath": "基本面/分析报告/公司对比/结果/Q_逐家公司投资思路对比_2026-07-13.md",
+      "reportDate": "2026-07-14",
+      "sourcePath": "基本面/分析报告/公司对比/结果/Q_逐家公司投资思路对比_2026-07-14.md",
       "dataFile": "reports/company-comparison/Q.json",
       "comparedCount": 0,
       "selfWins": 0,
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 149,
+      "finalRank": 142,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -20760,15 +19805,15 @@
       "ticker": "QCOM",
       "name": "Qualcomm",
       "category": "AI计算芯片_EDA_IP_custom_ASIC",
-      "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司对比/结果/QCOM_逐家公司投资思路对比_2026-07-12.md",
+      "reportDate": "2026-07-14",
+      "sourcePath": "基本面/分析报告/公司对比/结果/QCOM_逐家公司投资思路对比_2026-07-14.md",
       "dataFile": "reports/company-comparison/QCOM.json",
       "comparedCount": 0,
       "selfWins": 0,
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 150,
+      "finalRank": 143,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -20893,7 +19938,7 @@
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 151,
+      "finalRank": 144,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -21010,9 +20055,884 @@
       "ticker": "RMBS",
       "name": "Rambus",
       "category": "AI服务器_存储_EMS",
-      "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司对比/结果/RMBS_逐家公司投资思路对比_2026-07-12.md",
+      "reportDate": "2026-07-14",
+      "sourcePath": "基本面/分析报告/公司对比/结果/RMBS_逐家公司投资思路对比_2026-07-14.md",
       "dataFile": "reports/company-comparison/RMBS.json",
+      "comparedCount": 0,
+      "selfWins": 0,
+      "selfLosses": 0,
+      "selfUnknown": 0,
+      "selfNet": 0,
+      "finalRank": 145,
+      "finalWins": 0,
+      "finalLosses": 0,
+      "finalNet": 0,
+      "strongestStyles": [
+        {
+          "thought": "NTM兑现优先",
+          "score": 0,
+          "a": 0,
+          "b": 0,
+          "neutral": 0
+        },
+        {
+          "thought": "右尾弹性优先",
+          "score": 0,
+          "a": 0,
+          "b": 0,
+          "neutral": 0
+        },
+        {
+          "thought": "风险调整收益",
+          "score": 0,
+          "a": 0,
+          "b": 0,
+          "neutral": 0
+        }
+      ],
+      "weakestStyles": [
+        {
+          "thought": "NTM兑现优先",
+          "score": 0,
+          "a": 0,
+          "b": 0,
+          "neutral": 0
+        },
+        {
+          "thought": "右尾弹性优先",
+          "score": 0,
+          "a": 0,
+          "b": 0,
+          "neutral": 0
+        },
+        {
+          "thought": "风险调整收益",
+          "score": 0,
+          "a": 0,
+          "b": 0,
+          "neutral": 0
+        }
+      ],
+      "relationStats": [],
+      "styleStats": [
+        {
+          "thought": "NTM兑现优先",
+          "score": 0,
+          "a": 0,
+          "b": 0,
+          "neutral": 0
+        },
+        {
+          "thought": "右尾弹性优先",
+          "score": 0,
+          "a": 0,
+          "b": 0,
+          "neutral": 0
+        },
+        {
+          "thought": "风险调整收益",
+          "score": 0,
+          "a": 0,
+          "b": 0,
+          "neutral": 0
+        },
+        {
+          "thought": "下行保护优先",
+          "score": 0,
+          "a": 0,
+          "b": 0,
+          "neutral": 0
+        },
+        {
+          "thought": "估值消化优先",
+          "score": 0,
+          "a": 0,
+          "b": 0,
+          "neutral": 0
+        },
+        {
+          "thought": "近端催化优先",
+          "score": 0,
+          "a": 0,
+          "b": 0,
+          "neutral": 0
+        },
+        {
+          "thought": "价格确认/动量",
+          "score": 0,
+          "a": 0,
+          "b": 0,
+          "neutral": 0
+        },
+        {
+          "thought": "激进短线",
+          "score": 0,
+          "a": 0,
+          "b": 0,
+          "neutral": 0
+        }
+      ],
+      "directPeers": [],
+      "losses": [],
+      "onePage": []
+    },
+    {
+      "ticker": "ROG",
+      "name": "Rogers Corporation",
+      "category": "半导体材料_化学品_基板",
+      "reportDate": "2026-07-14",
+      "sourcePath": "基本面/分析报告/公司对比/结果/ROG_逐家公司投资思路对比_2026-07-14.md",
+      "dataFile": "reports/company-comparison/ROG.json",
+      "comparedCount": 0,
+      "selfWins": 0,
+      "selfLosses": 0,
+      "selfUnknown": 0,
+      "selfNet": 0,
+      "finalRank": 146,
+      "finalWins": 0,
+      "finalLosses": 0,
+      "finalNet": 0,
+      "strongestStyles": [
+        {
+          "thought": "NTM兑现优先",
+          "score": 0,
+          "a": 0,
+          "b": 0,
+          "neutral": 0
+        },
+        {
+          "thought": "右尾弹性优先",
+          "score": 0,
+          "a": 0,
+          "b": 0,
+          "neutral": 0
+        },
+        {
+          "thought": "风险调整收益",
+          "score": 0,
+          "a": 0,
+          "b": 0,
+          "neutral": 0
+        }
+      ],
+      "weakestStyles": [
+        {
+          "thought": "NTM兑现优先",
+          "score": 0,
+          "a": 0,
+          "b": 0,
+          "neutral": 0
+        },
+        {
+          "thought": "右尾弹性优先",
+          "score": 0,
+          "a": 0,
+          "b": 0,
+          "neutral": 0
+        },
+        {
+          "thought": "风险调整收益",
+          "score": 0,
+          "a": 0,
+          "b": 0,
+          "neutral": 0
+        }
+      ],
+      "relationStats": [],
+      "styleStats": [
+        {
+          "thought": "NTM兑现优先",
+          "score": 0,
+          "a": 0,
+          "b": 0,
+          "neutral": 0
+        },
+        {
+          "thought": "右尾弹性优先",
+          "score": 0,
+          "a": 0,
+          "b": 0,
+          "neutral": 0
+        },
+        {
+          "thought": "风险调整收益",
+          "score": 0,
+          "a": 0,
+          "b": 0,
+          "neutral": 0
+        },
+        {
+          "thought": "下行保护优先",
+          "score": 0,
+          "a": 0,
+          "b": 0,
+          "neutral": 0
+        },
+        {
+          "thought": "估值消化优先",
+          "score": 0,
+          "a": 0,
+          "b": 0,
+          "neutral": 0
+        },
+        {
+          "thought": "近端催化优先",
+          "score": 0,
+          "a": 0,
+          "b": 0,
+          "neutral": 0
+        },
+        {
+          "thought": "价格确认/动量",
+          "score": 0,
+          "a": 0,
+          "b": 0,
+          "neutral": 0
+        },
+        {
+          "thought": "激进短线",
+          "score": 0,
+          "a": 0,
+          "b": 0,
+          "neutral": 0
+        }
+      ],
+      "directPeers": [],
+      "losses": [],
+      "onePage": []
+    },
+    {
+      "ticker": "RYCEY",
+      "name": "Rolls-Royce Holdings",
+      "category": "电力_发电_能源_储能",
+      "reportDate": "2026-07-14",
+      "sourcePath": "基本面/分析报告/公司对比/结果/RYCEY_逐家公司投资思路对比_2026-07-14.md",
+      "dataFile": "reports/company-comparison/RYCEY.json",
+      "comparedCount": 0,
+      "selfWins": 0,
+      "selfLosses": 0,
+      "selfUnknown": 0,
+      "selfNet": 0,
+      "finalRank": 147,
+      "finalWins": 0,
+      "finalLosses": 0,
+      "finalNet": 0,
+      "strongestStyles": [
+        {
+          "thought": "NTM兑现优先",
+          "score": 0,
+          "a": 0,
+          "b": 0,
+          "neutral": 0
+        },
+        {
+          "thought": "右尾弹性优先",
+          "score": 0,
+          "a": 0,
+          "b": 0,
+          "neutral": 0
+        },
+        {
+          "thought": "风险调整收益",
+          "score": 0,
+          "a": 0,
+          "b": 0,
+          "neutral": 0
+        }
+      ],
+      "weakestStyles": [
+        {
+          "thought": "NTM兑现优先",
+          "score": 0,
+          "a": 0,
+          "b": 0,
+          "neutral": 0
+        },
+        {
+          "thought": "右尾弹性优先",
+          "score": 0,
+          "a": 0,
+          "b": 0,
+          "neutral": 0
+        },
+        {
+          "thought": "风险调整收益",
+          "score": 0,
+          "a": 0,
+          "b": 0,
+          "neutral": 0
+        }
+      ],
+      "relationStats": [],
+      "styleStats": [
+        {
+          "thought": "NTM兑现优先",
+          "score": 0,
+          "a": 0,
+          "b": 0,
+          "neutral": 0
+        },
+        {
+          "thought": "右尾弹性优先",
+          "score": 0,
+          "a": 0,
+          "b": 0,
+          "neutral": 0
+        },
+        {
+          "thought": "风险调整收益",
+          "score": 0,
+          "a": 0,
+          "b": 0,
+          "neutral": 0
+        },
+        {
+          "thought": "下行保护优先",
+          "score": 0,
+          "a": 0,
+          "b": 0,
+          "neutral": 0
+        },
+        {
+          "thought": "估值消化优先",
+          "score": 0,
+          "a": 0,
+          "b": 0,
+          "neutral": 0
+        },
+        {
+          "thought": "近端催化优先",
+          "score": 0,
+          "a": 0,
+          "b": 0,
+          "neutral": 0
+        },
+        {
+          "thought": "价格确认/动量",
+          "score": 0,
+          "a": 0,
+          "b": 0,
+          "neutral": 0
+        },
+        {
+          "thought": "激进短线",
+          "score": 0,
+          "a": 0,
+          "b": 0,
+          "neutral": 0
+        }
+      ],
+      "directPeers": [],
+      "losses": [],
+      "onePage": []
+    },
+    {
+      "ticker": "SANM",
+      "name": "Sanmina Corporation",
+      "category": "AI服务器_存储_EMS",
+      "reportDate": "2026-07-14",
+      "sourcePath": "基本面/分析报告/公司对比/结果/SANM_逐家公司投资思路对比_2026-07-14.md",
+      "dataFile": "reports/company-comparison/SANM.json",
+      "comparedCount": 0,
+      "selfWins": 0,
+      "selfLosses": 0,
+      "selfUnknown": 0,
+      "selfNet": 0,
+      "finalRank": 148,
+      "finalWins": 0,
+      "finalLosses": 0,
+      "finalNet": 0,
+      "strongestStyles": [
+        {
+          "thought": "NTM兑现优先",
+          "score": 0,
+          "a": 0,
+          "b": 0,
+          "neutral": 0
+        },
+        {
+          "thought": "右尾弹性优先",
+          "score": 0,
+          "a": 0,
+          "b": 0,
+          "neutral": 0
+        },
+        {
+          "thought": "风险调整收益",
+          "score": 0,
+          "a": 0,
+          "b": 0,
+          "neutral": 0
+        }
+      ],
+      "weakestStyles": [
+        {
+          "thought": "NTM兑现优先",
+          "score": 0,
+          "a": 0,
+          "b": 0,
+          "neutral": 0
+        },
+        {
+          "thought": "右尾弹性优先",
+          "score": 0,
+          "a": 0,
+          "b": 0,
+          "neutral": 0
+        },
+        {
+          "thought": "风险调整收益",
+          "score": 0,
+          "a": 0,
+          "b": 0,
+          "neutral": 0
+        }
+      ],
+      "relationStats": [],
+      "styleStats": [
+        {
+          "thought": "NTM兑现优先",
+          "score": 0,
+          "a": 0,
+          "b": 0,
+          "neutral": 0
+        },
+        {
+          "thought": "右尾弹性优先",
+          "score": 0,
+          "a": 0,
+          "b": 0,
+          "neutral": 0
+        },
+        {
+          "thought": "风险调整收益",
+          "score": 0,
+          "a": 0,
+          "b": 0,
+          "neutral": 0
+        },
+        {
+          "thought": "下行保护优先",
+          "score": 0,
+          "a": 0,
+          "b": 0,
+          "neutral": 0
+        },
+        {
+          "thought": "估值消化优先",
+          "score": 0,
+          "a": 0,
+          "b": 0,
+          "neutral": 0
+        },
+        {
+          "thought": "近端催化优先",
+          "score": 0,
+          "a": 0,
+          "b": 0,
+          "neutral": 0
+        },
+        {
+          "thought": "价格确认/动量",
+          "score": 0,
+          "a": 0,
+          "b": 0,
+          "neutral": 0
+        },
+        {
+          "thought": "激进短线",
+          "score": 0,
+          "a": 0,
+          "b": 0,
+          "neutral": 0
+        }
+      ],
+      "directPeers": [],
+      "losses": [],
+      "onePage": []
+    },
+    {
+      "ticker": "SHECY",
+      "name": "Shin-Etsu Chemical 信越化学",
+      "category": "半导体材料_化学品_基板",
+      "reportDate": "2026-07-14",
+      "sourcePath": "基本面/分析报告/公司对比/结果/SHECY_逐家公司投资思路对比_2026-07-14.md",
+      "dataFile": "reports/company-comparison/SHECY.json",
+      "comparedCount": 0,
+      "selfWins": 0,
+      "selfLosses": 0,
+      "selfUnknown": 0,
+      "selfNet": 0,
+      "finalRank": 149,
+      "finalWins": 0,
+      "finalLosses": 0,
+      "finalNet": 0,
+      "strongestStyles": [
+        {
+          "thought": "NTM兑现优先",
+          "score": 0,
+          "a": 0,
+          "b": 0,
+          "neutral": 0
+        },
+        {
+          "thought": "右尾弹性优先",
+          "score": 0,
+          "a": 0,
+          "b": 0,
+          "neutral": 0
+        },
+        {
+          "thought": "风险调整收益",
+          "score": 0,
+          "a": 0,
+          "b": 0,
+          "neutral": 0
+        }
+      ],
+      "weakestStyles": [
+        {
+          "thought": "NTM兑现优先",
+          "score": 0,
+          "a": 0,
+          "b": 0,
+          "neutral": 0
+        },
+        {
+          "thought": "右尾弹性优先",
+          "score": 0,
+          "a": 0,
+          "b": 0,
+          "neutral": 0
+        },
+        {
+          "thought": "风险调整收益",
+          "score": 0,
+          "a": 0,
+          "b": 0,
+          "neutral": 0
+        }
+      ],
+      "relationStats": [],
+      "styleStats": [
+        {
+          "thought": "NTM兑现优先",
+          "score": 0,
+          "a": 0,
+          "b": 0,
+          "neutral": 0
+        },
+        {
+          "thought": "右尾弹性优先",
+          "score": 0,
+          "a": 0,
+          "b": 0,
+          "neutral": 0
+        },
+        {
+          "thought": "风险调整收益",
+          "score": 0,
+          "a": 0,
+          "b": 0,
+          "neutral": 0
+        },
+        {
+          "thought": "下行保护优先",
+          "score": 0,
+          "a": 0,
+          "b": 0,
+          "neutral": 0
+        },
+        {
+          "thought": "估值消化优先",
+          "score": 0,
+          "a": 0,
+          "b": 0,
+          "neutral": 0
+        },
+        {
+          "thought": "近端催化优先",
+          "score": 0,
+          "a": 0,
+          "b": 0,
+          "neutral": 0
+        },
+        {
+          "thought": "价格确认/动量",
+          "score": 0,
+          "a": 0,
+          "b": 0,
+          "neutral": 0
+        },
+        {
+          "thought": "激进短线",
+          "score": 0,
+          "a": 0,
+          "b": 0,
+          "neutral": 0
+        }
+      ],
+      "directPeers": [],
+      "losses": [],
+      "onePage": []
+    },
+    {
+      "ticker": "SIMO",
+      "name": "Silicon Motion Technology",
+      "category": "AI服务器_存储_EMS",
+      "reportDate": "2026-07-14",
+      "sourcePath": "基本面/分析报告/公司对比/结果/SIMO_逐家公司投资思路对比_2026-07-14.md",
+      "dataFile": "reports/company-comparison/SIMO.json",
+      "comparedCount": 0,
+      "selfWins": 0,
+      "selfLosses": 0,
+      "selfUnknown": 0,
+      "selfNet": 0,
+      "finalRank": 150,
+      "finalWins": 0,
+      "finalLosses": 0,
+      "finalNet": 0,
+      "strongestStyles": [
+        {
+          "thought": "NTM兑现优先",
+          "score": 0,
+          "a": 0,
+          "b": 0,
+          "neutral": 0
+        },
+        {
+          "thought": "右尾弹性优先",
+          "score": 0,
+          "a": 0,
+          "b": 0,
+          "neutral": 0
+        },
+        {
+          "thought": "风险调整收益",
+          "score": 0,
+          "a": 0,
+          "b": 0,
+          "neutral": 0
+        }
+      ],
+      "weakestStyles": [
+        {
+          "thought": "NTM兑现优先",
+          "score": 0,
+          "a": 0,
+          "b": 0,
+          "neutral": 0
+        },
+        {
+          "thought": "右尾弹性优先",
+          "score": 0,
+          "a": 0,
+          "b": 0,
+          "neutral": 0
+        },
+        {
+          "thought": "风险调整收益",
+          "score": 0,
+          "a": 0,
+          "b": 0,
+          "neutral": 0
+        }
+      ],
+      "relationStats": [],
+      "styleStats": [
+        {
+          "thought": "NTM兑现优先",
+          "score": 0,
+          "a": 0,
+          "b": 0,
+          "neutral": 0
+        },
+        {
+          "thought": "右尾弹性优先",
+          "score": 0,
+          "a": 0,
+          "b": 0,
+          "neutral": 0
+        },
+        {
+          "thought": "风险调整收益",
+          "score": 0,
+          "a": 0,
+          "b": 0,
+          "neutral": 0
+        },
+        {
+          "thought": "下行保护优先",
+          "score": 0,
+          "a": 0,
+          "b": 0,
+          "neutral": 0
+        },
+        {
+          "thought": "估值消化优先",
+          "score": 0,
+          "a": 0,
+          "b": 0,
+          "neutral": 0
+        },
+        {
+          "thought": "近端催化优先",
+          "score": 0,
+          "a": 0,
+          "b": 0,
+          "neutral": 0
+        },
+        {
+          "thought": "价格确认/动量",
+          "score": 0,
+          "a": 0,
+          "b": 0,
+          "neutral": 0
+        },
+        {
+          "thought": "激进短线",
+          "score": 0,
+          "a": 0,
+          "b": 0,
+          "neutral": 0
+        }
+      ],
+      "directPeers": [],
+      "losses": [],
+      "onePage": []
+    },
+    {
+      "ticker": "SITM",
+      "name": "SiTime Corporation",
+      "category": "AI网络_光互联_连接器",
+      "reportDate": "2026-07-14",
+      "sourcePath": "基本面/分析报告/公司对比/结果/SITM_逐家公司投资思路对比_2026-07-14.md",
+      "dataFile": "reports/company-comparison/SITM.json",
+      "comparedCount": 0,
+      "selfWins": 0,
+      "selfLosses": 0,
+      "selfUnknown": 0,
+      "selfNet": 0,
+      "finalRank": 151,
+      "finalWins": 0,
+      "finalLosses": 0,
+      "finalNet": 0,
+      "strongestStyles": [
+        {
+          "thought": "NTM兑现优先",
+          "score": 0,
+          "a": 0,
+          "b": 0,
+          "neutral": 0
+        },
+        {
+          "thought": "右尾弹性优先",
+          "score": 0,
+          "a": 0,
+          "b": 0,
+          "neutral": 0
+        },
+        {
+          "thought": "风险调整收益",
+          "score": 0,
+          "a": 0,
+          "b": 0,
+          "neutral": 0
+        }
+      ],
+      "weakestStyles": [
+        {
+          "thought": "NTM兑现优先",
+          "score": 0,
+          "a": 0,
+          "b": 0,
+          "neutral": 0
+        },
+        {
+          "thought": "右尾弹性优先",
+          "score": 0,
+          "a": 0,
+          "b": 0,
+          "neutral": 0
+        },
+        {
+          "thought": "风险调整收益",
+          "score": 0,
+          "a": 0,
+          "b": 0,
+          "neutral": 0
+        }
+      ],
+      "relationStats": [],
+      "styleStats": [
+        {
+          "thought": "NTM兑现优先",
+          "score": 0,
+          "a": 0,
+          "b": 0,
+          "neutral": 0
+        },
+        {
+          "thought": "右尾弹性优先",
+          "score": 0,
+          "a": 0,
+          "b": 0,
+          "neutral": 0
+        },
+        {
+          "thought": "风险调整收益",
+          "score": 0,
+          "a": 0,
+          "b": 0,
+          "neutral": 0
+        },
+        {
+          "thought": "下行保护优先",
+          "score": 0,
+          "a": 0,
+          "b": 0,
+          "neutral": 0
+        },
+        {
+          "thought": "估值消化优先",
+          "score": 0,
+          "a": 0,
+          "b": 0,
+          "neutral": 0
+        },
+        {
+          "thought": "近端催化优先",
+          "score": 0,
+          "a": 0,
+          "b": 0,
+          "neutral": 0
+        },
+        {
+          "thought": "价格确认/动量",
+          "score": 0,
+          "a": 0,
+          "b": 0,
+          "neutral": 0
+        },
+        {
+          "thought": "激进短线",
+          "score": 0,
+          "a": 0,
+          "b": 0,
+          "neutral": 0
+        }
+      ],
+      "directPeers": [],
+      "losses": [],
+      "onePage": []
+    },
+    {
+      "ticker": "SKHY",
+      "name": "SK hynix Inc",
+      "category": "AI服务器_存储_EMS",
+      "reportDate": "2026-07-14",
+      "sourcePath": "基本面/分析报告/公司对比/结果/SKHY_逐家公司投资思路对比_2026-07-14.md",
+      "dataFile": "reports/company-comparison/SKHY.json",
       "comparedCount": 0,
       "selfWins": 0,
       "selfLosses": 0,
@@ -21132,12 +21052,12 @@
       "onePage": []
     },
     {
-      "ticker": "ROG",
-      "name": "Rogers Corporation",
-      "category": "半导体材料_化学品_基板",
-      "reportDate": "2026-07-13",
-      "sourcePath": "基本面/分析报告/公司对比/结果/ROG_逐家公司投资思路对比_2026-07-13.md",
-      "dataFile": "reports/company-comparison/ROG.json",
+      "ticker": "SMCI",
+      "name": "Super Micro Computer Inc",
+      "category": "AI服务器_存储_EMS",
+      "reportDate": "2026-07-14",
+      "sourcePath": "基本面/分析报告/公司对比/结果/SMCI_逐家公司投资思路对比_2026-07-14.md",
+      "dataFile": "reports/company-comparison/SMCI.json",
       "comparedCount": 0,
       "selfWins": 0,
       "selfLosses": 0,
@@ -21257,12 +21177,12 @@
       "onePage": []
     },
     {
-      "ticker": "RYCEY",
-      "name": "Rolls-Royce Holdings",
-      "category": "电力_发电_能源_储能",
-      "reportDate": "2026-07-13",
-      "sourcePath": "基本面/分析报告/公司对比/结果/RYCEY_逐家公司投资思路对比_2026-07-13.md",
-      "dataFile": "reports/company-comparison/RYCEY.json",
+      "ticker": "SMTC",
+      "name": "Semtech Corporation",
+      "category": "AI网络_光互联_连接器",
+      "reportDate": "2026-07-14",
+      "sourcePath": "基本面/分析报告/公司对比/结果/SMTC_逐家公司投资思路对比_2026-07-14.md",
+      "dataFile": "reports/company-comparison/SMTC.json",
       "comparedCount": 0,
       "selfWins": 0,
       "selfLosses": 0,
@@ -21382,12 +21302,12 @@
       "onePage": []
     },
     {
-      "ticker": "SANM",
-      "name": "Sanmina Corporation",
-      "category": "AI服务器_存储_EMS",
-      "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司对比/结果/SANM_逐家公司投资思路对比_2026-07-12.md",
-      "dataFile": "reports/company-comparison/SANM.json",
+      "ticker": "SMTOY",
+      "name": "住友电工 Sumitomo Electric Industries",
+      "category": "半导体材料_化学品_基板",
+      "reportDate": "2026-07-14",
+      "sourcePath": "基本面/分析报告/公司对比/结果/SMTOY_逐家公司投资思路对比_2026-07-14.md",
+      "dataFile": "reports/company-comparison/SMTOY.json",
       "comparedCount": 0,
       "selfWins": 0,
       "selfLosses": 0,
@@ -21507,12 +21427,12 @@
       "onePage": []
     },
     {
-      "ticker": "SHECY",
-      "name": "Shin-Etsu Chemical 信越化学",
-      "category": "半导体材料_化学品_基板",
-      "reportDate": "2026-07-13",
-      "sourcePath": "基本面/分析报告/公司对比/结果/SHECY_逐家公司投资思路对比_2026-07-13.md",
-      "dataFile": "reports/company-comparison/SHECY.json",
+      "ticker": "SNDK",
+      "name": "SanDisk",
+      "category": "AI服务器_存储_EMS",
+      "reportDate": "2026-07-14",
+      "sourcePath": "基本面/分析报告/公司对比/结果/SNDK_逐家公司投资思路对比_2026-07-14.md",
+      "dataFile": "reports/company-comparison/SNDK.json",
       "comparedCount": 0,
       "selfWins": 0,
       "selfLosses": 0,
@@ -21632,12 +21552,12 @@
       "onePage": []
     },
     {
-      "ticker": "SIMO",
-      "name": "Silicon Motion Technology",
-      "category": "AI服务器_存储_EMS",
-      "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司对比/结果/SIMO_逐家公司投资思路对比_2026-07-12.md",
-      "dataFile": "reports/company-comparison/SIMO.json",
+      "ticker": "SNPS",
+      "name": "Synopsys",
+      "category": "AI计算芯片_EDA_IP_custom_ASIC",
+      "reportDate": "2026-07-14",
+      "sourcePath": "基本面/分析报告/公司对比/结果/SNPS_逐家公司投资思路对比_2026-07-14.md",
+      "dataFile": "reports/company-comparison/SNPS.json",
       "comparedCount": 0,
       "selfWins": 0,
       "selfLosses": 0,
@@ -21757,1018 +21677,18 @@
       "onePage": []
     },
     {
-      "ticker": "SITM",
-      "name": "SiTime Corporation",
-      "category": "AI网络_光互联_连接器",
-      "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司对比/结果/SITM_逐家公司投资思路对比_2026-07-12.md",
-      "dataFile": "reports/company-comparison/SITM.json",
-      "comparedCount": 0,
-      "selfWins": 0,
-      "selfLosses": 0,
-      "selfUnknown": 0,
-      "selfNet": 0,
-      "finalRank": 158,
-      "finalWins": 0,
-      "finalLosses": 0,
-      "finalNet": 0,
-      "strongestStyles": [
-        {
-          "thought": "NTM兑现优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "右尾弹性优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "风险调整收益",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        }
-      ],
-      "weakestStyles": [
-        {
-          "thought": "NTM兑现优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "右尾弹性优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "风险调整收益",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        }
-      ],
-      "relationStats": [],
-      "styleStats": [
-        {
-          "thought": "NTM兑现优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "右尾弹性优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "风险调整收益",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "下行保护优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "估值消化优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "近端催化优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "价格确认/动量",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "激进短线",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        }
-      ],
-      "directPeers": [],
-      "losses": [],
-      "onePage": []
-    },
-    {
-      "ticker": "SKHY",
-      "name": "SK hynix Inc",
-      "category": "AI服务器_存储_EMS",
-      "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司对比/结果/SKHY_逐家公司投资思路对比_2026-07-12.md",
-      "dataFile": "reports/company-comparison/SKHY.json",
-      "comparedCount": 0,
-      "selfWins": 0,
-      "selfLosses": 0,
-      "selfUnknown": 0,
-      "selfNet": 0,
-      "finalRank": 159,
-      "finalWins": 0,
-      "finalLosses": 0,
-      "finalNet": 0,
-      "strongestStyles": [
-        {
-          "thought": "NTM兑现优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "右尾弹性优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "风险调整收益",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        }
-      ],
-      "weakestStyles": [
-        {
-          "thought": "NTM兑现优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "右尾弹性优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "风险调整收益",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        }
-      ],
-      "relationStats": [],
-      "styleStats": [
-        {
-          "thought": "NTM兑现优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "右尾弹性优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "风险调整收益",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "下行保护优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "估值消化优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "近端催化优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "价格确认/动量",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "激进短线",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        }
-      ],
-      "directPeers": [],
-      "losses": [],
-      "onePage": []
-    },
-    {
-      "ticker": "SMCI",
-      "name": "Super Micro Computer Inc",
-      "category": "AI服务器_存储_EMS",
-      "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司对比/结果/SMCI_逐家公司投资思路对比_2026-07-12.md",
-      "dataFile": "reports/company-comparison/SMCI.json",
-      "comparedCount": 0,
-      "selfWins": 0,
-      "selfLosses": 0,
-      "selfUnknown": 0,
-      "selfNet": 0,
-      "finalRank": 160,
-      "finalWins": 0,
-      "finalLosses": 0,
-      "finalNet": 0,
-      "strongestStyles": [
-        {
-          "thought": "NTM兑现优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "右尾弹性优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "风险调整收益",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        }
-      ],
-      "weakestStyles": [
-        {
-          "thought": "NTM兑现优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "右尾弹性优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "风险调整收益",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        }
-      ],
-      "relationStats": [],
-      "styleStats": [
-        {
-          "thought": "NTM兑现优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "右尾弹性优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "风险调整收益",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "下行保护优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "估值消化优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "近端催化优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "价格确认/动量",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "激进短线",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        }
-      ],
-      "directPeers": [],
-      "losses": [],
-      "onePage": []
-    },
-    {
-      "ticker": "SMR",
-      "name": "NuScale Power",
-      "category": "电力_发电_能源_储能",
-      "reportDate": "2026-07-13",
-      "sourcePath": "基本面/分析报告/公司对比/结果/SMR_逐家公司投资思路对比_2026-07-13.md",
-      "dataFile": "reports/company-comparison/SMR.json",
-      "comparedCount": 0,
-      "selfWins": 0,
-      "selfLosses": 0,
-      "selfUnknown": 0,
-      "selfNet": 0,
-      "finalRank": 161,
-      "finalWins": 0,
-      "finalLosses": 0,
-      "finalNet": 0,
-      "strongestStyles": [
-        {
-          "thought": "NTM兑现优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "右尾弹性优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "风险调整收益",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        }
-      ],
-      "weakestStyles": [
-        {
-          "thought": "NTM兑现优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "右尾弹性优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "风险调整收益",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        }
-      ],
-      "relationStats": [],
-      "styleStats": [
-        {
-          "thought": "NTM兑现优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "右尾弹性优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "风险调整收益",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "下行保护优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "估值消化优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "近端催化优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "价格确认/动量",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "激进短线",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        }
-      ],
-      "directPeers": [],
-      "losses": [],
-      "onePage": []
-    },
-    {
-      "ticker": "SMTC",
-      "name": "Semtech Corporation",
-      "category": "AI网络_光互联_连接器",
-      "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司对比/结果/SMTC_逐家公司投资思路对比_2026-07-12.md",
-      "dataFile": "reports/company-comparison/SMTC.json",
-      "comparedCount": 0,
-      "selfWins": 0,
-      "selfLosses": 0,
-      "selfUnknown": 0,
-      "selfNet": 0,
-      "finalRank": 162,
-      "finalWins": 0,
-      "finalLosses": 0,
-      "finalNet": 0,
-      "strongestStyles": [
-        {
-          "thought": "NTM兑现优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "右尾弹性优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "风险调整收益",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        }
-      ],
-      "weakestStyles": [
-        {
-          "thought": "NTM兑现优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "右尾弹性优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "风险调整收益",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        }
-      ],
-      "relationStats": [],
-      "styleStats": [
-        {
-          "thought": "NTM兑现优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "右尾弹性优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "风险调整收益",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "下行保护优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "估值消化优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "近端催化优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "价格确认/动量",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "激进短线",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        }
-      ],
-      "directPeers": [],
-      "losses": [],
-      "onePage": []
-    },
-    {
-      "ticker": "SMTOY",
-      "name": "住友电工 Sumitomo Electric Industries",
-      "category": "半导体材料_化学品_基板",
-      "reportDate": "2026-07-13",
-      "sourcePath": "基本面/分析报告/公司对比/结果/SMTOY_逐家公司投资思路对比_2026-07-13.md",
-      "dataFile": "reports/company-comparison/SMTOY.json",
-      "comparedCount": 0,
-      "selfWins": 0,
-      "selfLosses": 0,
-      "selfUnknown": 0,
-      "selfNet": 0,
-      "finalRank": 163,
-      "finalWins": 0,
-      "finalLosses": 0,
-      "finalNet": 0,
-      "strongestStyles": [
-        {
-          "thought": "NTM兑现优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "右尾弹性优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "风险调整收益",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        }
-      ],
-      "weakestStyles": [
-        {
-          "thought": "NTM兑现优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "右尾弹性优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "风险调整收益",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        }
-      ],
-      "relationStats": [],
-      "styleStats": [
-        {
-          "thought": "NTM兑现优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "右尾弹性优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "风险调整收益",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "下行保护优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "估值消化优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "近端催化优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "价格确认/动量",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "激进短线",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        }
-      ],
-      "directPeers": [],
-      "losses": [],
-      "onePage": []
-    },
-    {
-      "ticker": "SNDK",
-      "name": "SanDisk",
-      "category": "AI服务器_存储_EMS",
-      "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司对比/结果/SNDK_逐家公司投资思路对比_2026-07-12.md",
-      "dataFile": "reports/company-comparison/SNDK.json",
-      "comparedCount": 0,
-      "selfWins": 0,
-      "selfLosses": 0,
-      "selfUnknown": 0,
-      "selfNet": 0,
-      "finalRank": 164,
-      "finalWins": 0,
-      "finalLosses": 0,
-      "finalNet": 0,
-      "strongestStyles": [
-        {
-          "thought": "NTM兑现优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "右尾弹性优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "风险调整收益",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        }
-      ],
-      "weakestStyles": [
-        {
-          "thought": "NTM兑现优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "右尾弹性优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "风险调整收益",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        }
-      ],
-      "relationStats": [],
-      "styleStats": [
-        {
-          "thought": "NTM兑现优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "右尾弹性优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "风险调整收益",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "下行保护优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "估值消化优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "近端催化优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "价格确认/动量",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "激进短线",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        }
-      ],
-      "directPeers": [],
-      "losses": [],
-      "onePage": []
-    },
-    {
-      "ticker": "SNPS",
-      "name": "Synopsys",
-      "category": "AI计算芯片_EDA_IP_custom_ASIC",
-      "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司对比/结果/SNPS_逐家公司投资思路对比_2026-07-12.md",
-      "dataFile": "reports/company-comparison/SNPS.json",
-      "comparedCount": 0,
-      "selfWins": 0,
-      "selfLosses": 0,
-      "selfUnknown": 0,
-      "selfNet": 0,
-      "finalRank": 165,
-      "finalWins": 0,
-      "finalLosses": 0,
-      "finalNet": 0,
-      "strongestStyles": [
-        {
-          "thought": "NTM兑现优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "右尾弹性优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "风险调整收益",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        }
-      ],
-      "weakestStyles": [
-        {
-          "thought": "NTM兑现优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "右尾弹性优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "风险调整收益",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        }
-      ],
-      "relationStats": [],
-      "styleStats": [
-        {
-          "thought": "NTM兑现优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "右尾弹性优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "风险调整收益",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "下行保护优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "估值消化优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "近端催化优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "价格确认/动量",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "激进短线",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        }
-      ],
-      "directPeers": [],
-      "losses": [],
-      "onePage": []
-    },
-    {
       "ticker": "SOMMY",
       "name": "住友化学 Sumitomo Chemical",
       "category": "半导体材料_化学品_基板",
-      "reportDate": "2026-07-13",
-      "sourcePath": "基本面/分析报告/公司对比/结果/SOMMY_逐家公司投资思路对比_2026-07-13.md",
+      "reportDate": "2026-07-14",
+      "sourcePath": "基本面/分析报告/公司对比/结果/SOMMY_逐家公司投资思路对比_2026-07-14.md",
       "dataFile": "reports/company-comparison/SOMMY.json",
       "comparedCount": 0,
       "selfWins": 0,
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 166,
+      "finalRank": 158,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -22893,7 +21813,7 @@
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 167,
+      "finalRank": 159,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -23010,15 +21930,15 @@
       "ticker": "STM",
       "name": "STMicroelectronics",
       "category": "AI计算芯片_EDA_IP_custom_ASIC",
-      "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司对比/结果/STM_逐家公司投资思路对比_2026-07-12.md",
+      "reportDate": "2026-07-14",
+      "sourcePath": "基本面/分析报告/公司对比/结果/STM_逐家公司投资思路对比_2026-07-14.md",
       "dataFile": "reports/company-comparison/STM.json",
       "comparedCount": 0,
       "selfWins": 0,
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 168,
+      "finalRank": 160,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -23135,15 +22055,15 @@
       "ticker": "STX",
       "name": "Seagate Technology",
       "category": "AI服务器_存储_EMS",
-      "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司对比/结果/STX_逐家公司投资思路对比_2026-07-12.md",
+      "reportDate": "2026-07-14",
+      "sourcePath": "基本面/分析报告/公司对比/结果/STX_逐家公司投资思路对比_2026-07-14.md",
       "dataFile": "reports/company-comparison/STX.json",
       "comparedCount": 0,
       "selfWins": 0,
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 169,
+      "finalRank": 161,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -23268,132 +22188,7 @@
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 170,
-      "finalWins": 0,
-      "finalLosses": 0,
-      "finalNet": 0,
-      "strongestStyles": [
-        {
-          "thought": "NTM兑现优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "右尾弹性优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "风险调整收益",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        }
-      ],
-      "weakestStyles": [
-        {
-          "thought": "NTM兑现优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "右尾弹性优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "风险调整收益",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        }
-      ],
-      "relationStats": [],
-      "styleStats": [
-        {
-          "thought": "NTM兑现优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "右尾弹性优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "风险调整收益",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "下行保护优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "估值消化优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "近端催化优先",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "价格确认/动量",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        },
-        {
-          "thought": "激进短线",
-          "score": 0,
-          "a": 0,
-          "b": 0,
-          "neutral": 0
-        }
-      ],
-      "directPeers": [],
-      "losses": [],
-      "onePage": []
-    },
-    {
-      "ticker": "TE",
-      "name": "T1 Energy Inc",
-      "category": "电力_发电_能源_储能",
-      "reportDate": "2026-07-13",
-      "sourcePath": "基本面/分析报告/公司对比/结果/TE_逐家公司投资思路对比_2026-07-13.md",
-      "dataFile": "reports/company-comparison/TE.json",
-      "comparedCount": 0,
-      "selfWins": 0,
-      "selfLosses": 0,
-      "selfUnknown": 0,
-      "selfNet": 0,
-      "finalRank": 171,
+      "finalRank": 162,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -23510,15 +22305,15 @@
       "ticker": "TEL",
       "name": "TE Connectivity",
       "category": "AI网络_光互联_连接器",
-      "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司对比/结果/TEL_逐家公司投资思路对比_2026-07-12.md",
+      "reportDate": "2026-07-14",
+      "sourcePath": "基本面/分析报告/公司对比/结果/TEL_逐家公司投资思路对比_2026-07-14.md",
       "dataFile": "reports/company-comparison/TEL.json",
       "comparedCount": 0,
       "selfWins": 0,
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 172,
+      "finalRank": 163,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -23643,7 +22438,7 @@
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 173,
+      "finalRank": 164,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -23768,7 +22563,7 @@
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 174,
+      "finalRank": 165,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -23893,7 +22688,7 @@
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 175,
+      "finalRank": 166,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -24018,7 +22813,7 @@
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 176,
+      "finalRank": 167,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -24143,7 +22938,7 @@
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 177,
+      "finalRank": 168,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -24268,7 +23063,7 @@
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 178,
+      "finalRank": 169,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -24393,7 +23188,7 @@
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 179,
+      "finalRank": 170,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -24518,7 +23313,7 @@
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 180,
+      "finalRank": 171,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -24635,15 +23430,15 @@
       "ticker": "TXN",
       "name": "德州仪器",
       "category": "AI计算芯片_EDA_IP_custom_ASIC",
-      "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司对比/结果/TXN_逐家公司投资思路对比_2026-07-12.md",
+      "reportDate": "2026-07-14",
+      "sourcePath": "基本面/分析报告/公司对比/结果/TXN_逐家公司投资思路对比_2026-07-14.md",
       "dataFile": "reports/company-comparison/TXN.json",
       "comparedCount": 0,
       "selfWins": 0,
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 181,
+      "finalRank": 172,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -24768,7 +23563,7 @@
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 182,
+      "finalRank": 173,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -24893,7 +23688,7 @@
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 183,
+      "finalRank": 174,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -25018,7 +23813,7 @@
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 184,
+      "finalRank": 175,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -25135,15 +23930,15 @@
       "ticker": "VIAV",
       "name": "VIAVI Solutions",
       "category": "AI网络_光互联_连接器",
-      "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司对比/结果/VIAV_逐家公司投资思路对比_2026-07-12.md",
+      "reportDate": "2026-07-14",
+      "sourcePath": "基本面/分析报告/公司对比/结果/VIAV_逐家公司投资思路对比_2026-07-14.md",
       "dataFile": "reports/company-comparison/VIAV.json",
       "comparedCount": 0,
       "selfWins": 0,
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 185,
+      "finalRank": 176,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -25268,7 +24063,7 @@
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 186,
+      "finalRank": 177,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -25385,15 +24180,15 @@
       "ticker": "VISN",
       "name": "Vistance Networks",
       "category": "AI网络_光互联_连接器",
-      "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司对比/结果/VISN_逐家公司投资思路对比_2026-07-12.md",
+      "reportDate": "2026-07-14",
+      "sourcePath": "基本面/分析报告/公司对比/结果/VISN_逐家公司投资思路对比_2026-07-14.md",
       "dataFile": "reports/company-comparison/VISN.json",
       "comparedCount": 0,
       "selfWins": 0,
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 187,
+      "finalRank": 178,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -25518,7 +24313,7 @@
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 188,
+      "finalRank": 179,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -25643,7 +24438,7 @@
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 189,
+      "finalRank": 180,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -25760,15 +24555,15 @@
       "ticker": "VST",
       "name": "Vistra Corp",
       "category": "电力_发电_能源_储能",
-      "reportDate": "2026-07-13",
-      "sourcePath": "基本面/分析报告/公司对比/结果/VST_逐家公司投资思路对比_2026-07-13.md",
+      "reportDate": "2026-07-14",
+      "sourcePath": "基本面/分析报告/公司对比/结果/VST_逐家公司投资思路对比_2026-07-14.md",
       "dataFile": "reports/company-comparison/VST.json",
       "comparedCount": 0,
       "selfWins": 0,
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 190,
+      "finalRank": 181,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -25885,15 +24680,15 @@
       "ticker": "WDC",
       "name": "WesternDigital",
       "category": "AI服务器_存储_EMS",
-      "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司对比/结果/WDC_逐家公司投资思路对比_2026-07-12.md",
+      "reportDate": "2026-07-14",
+      "sourcePath": "基本面/分析报告/公司对比/结果/WDC_逐家公司投资思路对比_2026-07-14.md",
       "dataFile": "reports/company-comparison/WDC.json",
       "comparedCount": 0,
       "selfWins": 0,
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 191,
+      "finalRank": 182,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
@@ -26018,7 +24813,7 @@
       "selfLosses": 0,
       "selfUnknown": 0,
       "selfNet": 0,
-      "finalRank": 192,
+      "finalRank": 183,
       "finalWins": 0,
       "finalLosses": 0,
       "finalNet": 0,
