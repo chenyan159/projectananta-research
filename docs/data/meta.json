@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-13T13:01:38.747Z",
-  "generatedAtDisplay": "2026/7/13 06:01:38",
+  "generatedAt": "2026-07-14T00:36:47.002Z",
+  "generatedAtDisplay": "2026/7/13 17:36:47",
   "sourceRootName": "Investment",
   "siteRoot": "tools/site",
   "companyCount": 192,
@@ -14,12 +14,17 @@
   "gateCount": 3,
   "effectiveFeatureCount": 0,
   "effectiveFeatureAsOf": "",
-  "latestRankingDate": "",
+  "latestRankingDate": "2026-07-13",
+  "rankingMethodCount": 26,
+  "rankingListCount": 28,
+  "currentRankingEvaluationId": "2026-07-13_26方案3月6月生成前历史回看",
+  "currentRankingEvidenceType": "生成前历史回看（非样本外）",
+  "currentRankingPriceAsOf": "2026-07-10",
   "latestCompanyComparisonDate": "2026-07-13",
-  "companyComparisonCount": 185,
-  "companyComparisonRowCount": 752,
-  "latestFinancialDate": "2026-07-12",
+  "companyComparisonCount": 192,
+  "companyComparisonRowCount": 0,
+  "latestFinancialDate": "2026-07-13",
   "latestDailyNewsDate": "2026-07-13",
   "dailyNewsCount": 10,
-  "qualityAlertCount": 2
+  "qualityAlertCount": 21
 }

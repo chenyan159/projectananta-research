@@ -11,14 +11,53 @@
     "gateCount": 3,
     "effectiveFeatureCount": 0,
     "effectiveFeatureAsOf": "",
-    "companyComparisonCount": 185,
-    "companyComparisonRowCount": 752,
+    "companyComparisonCount": 192,
+    "companyComparisonRowCount": 0,
     "companyComparisonDate": "2026-07-13",
     "dailyNewsCount": 10,
-    "rankingRuns": {},
+    "rankingMethodCount": 26,
+    "rankingListCount": 28,
+    "rankingExpectedListCount": 28,
+    "rankingEvaluationId": "2026-07-13_26方案3月6月生成前历史回看",
+    "rankingRuns": {
+      "10": 192,
+      "11": 192,
+      "12": 192,
+      "13": 192,
+      "14": 192,
+      "15": 192,
+      "16": 192,
+      "17": 192,
+      "01": 192,
+      "02": 192,
+      "03": 192,
+      "04": 192,
+      "05": 192,
+      "06F": 192,
+      "06G": 192,
+      "06E": 192,
+      "07": 192,
+      "08": 192,
+      "09": 192,
+      "N01": 192,
+      "N02": 192,
+      "N03": 192,
+      "N04": 192,
+      "N05": 192,
+      "N06": 192,
+      "E01": 192,
+      "E02": 192,
+      "E03": 192
+    },
     "rawIndustryReportCount": 76
   },
   "alerts": [
+    {
+      "severity": "info",
+      "type": "ranking-price-history-partial",
+      "title": "部分排名公司缺少完整历史价格",
+      "message": "190/192 家有当前评估所需的完整价格历史。"
+    },
     {
       "severity": "info",
       "type": "industry-report-missing",
@@ -26,10 +65,118 @@
       "message": "AI服务器CPU与控制平面芯片"
     },
     {
-      "severity": "warn",
-      "type": "company-comparison-missing",
-      "title": "公司对比结果未覆盖全部公司",
-      "message": "缺失 7 家：CRWV, GOOGL, IBM, IREN, META, MSFT, NTNX"
+      "severity": "info",
+      "type": "feature-coverage-N01",
+      "title": "N01 覆盖数与默认公司排序不同",
+      "message": "AI可归因盈利暴露: 0 行，默认公司排序 192 行"
+    },
+    {
+      "severity": "info",
+      "type": "feature-coverage-N02",
+      "title": "N02 覆盖数与默认公司排序不同",
+      "message": "系统瓶颈不可替代性: 0 行，默认公司排序 192 行"
+    },
+    {
+      "severity": "info",
+      "type": "feature-coverage-N03",
+      "title": "N03 覆盖数与默认公司排序不同",
+      "message": "AI需求传导与价值量弹性: 0 行，默认公司排序 192 行"
+    },
+    {
+      "severity": "info",
+      "type": "feature-coverage-N04",
+      "title": "N04 覆盖数与默认公司排序不同",
+      "message": "已披露基本面动量: 0 行，默认公司排序 192 行"
+    },
+    {
+      "severity": "info",
+      "type": "feature-coverage-N05",
+      "title": "N05 覆盖数与默认公司排序不同",
+      "message": "风险调整估值赔率: 0 行，默认公司排序 192 行"
+    },
+    {
+      "severity": "info",
+      "type": "feature-coverage-N06",
+      "title": "N06 覆盖数与默认公司排序不同",
+      "message": "财务质量与融资韧性: 0 行，默认公司排序 192 行"
+    },
+    {
+      "severity": "info",
+      "type": "feature-coverage-N07",
+      "title": "N07 覆盖数与默认公司排序不同",
+      "message": "前瞻基本面修正期限结构: 0 行，默认公司排序 192 行"
+    },
+    {
+      "severity": "info",
+      "type": "feature-coverage-N08",
+      "title": "N08 覆盖数与默认公司排序不同",
+      "message": "产能交付执行兑现: 0 行，默认公司排序 192 行"
+    },
+    {
+      "severity": "info",
+      "type": "feature-coverage-N09",
+      "title": "N09 覆盖数与默认公司排序不同",
+      "message": "商业化与平台路线适配: 0 行，默认公司排序 192 行"
+    },
+    {
+      "severity": "info",
+      "type": "feature-coverage-N10",
+      "title": "N10 覆盖数与默认公司排序不同",
+      "message": "持久护城河与替代风险: 0 行，默认公司排序 192 行"
+    },
+    {
+      "severity": "info",
+      "type": "feature-coverage-N11",
+      "title": "N11 覆盖数与默认公司排序不同",
+      "message": "客户与订单质量: 0 行，默认公司排序 192 行"
+    },
+    {
+      "severity": "info",
+      "type": "feature-coverage-N12",
+      "title": "N12 覆盖数与默认公司排序不同",
+      "message": "供需景气与定价捕获: 0 行，默认公司排序 192 行"
+    },
+    {
+      "severity": "info",
+      "type": "feature-coverage-N13",
+      "title": "N13 覆盖数与默认公司排序不同",
+      "message": "催化剂事件期限结构: 0 行，默认公司排序 192 行"
+    },
+    {
+      "severity": "info",
+      "type": "feature-coverage-N14",
+      "title": "N14 覆盖数与默认公司排序不同",
+      "message": "有符号预期差: 0 行，默认公司排序 192 行"
+    },
+    {
+      "severity": "info",
+      "type": "feature-coverage-N15",
+      "title": "N15 覆盖数与默认公司排序不同",
+      "message": "情景收益不对称性: 0 行，默认公司排序 192 行"
+    },
+    {
+      "severity": "info",
+      "type": "feature-coverage-N16",
+      "title": "N16 覆盖数与默认公司排序不同",
+      "message": "行业中性相对强度: 0 行，默认公司排序 192 行"
+    },
+    {
+      "severity": "info",
+      "type": "feature-coverage-G01",
+      "title": "G01 覆盖数与默认公司排序不同",
+      "message": "PIT证据与数据质量门槛: 0 行，默认公司排序 192 行"
+    },
+    {
+      "severity": "info",
+      "type": "feature-coverage-G02",
+      "title": "G02 覆盖数与默认公司排序不同",
+      "message": "流动性与可投资性门槛: 0 行，默认公司排序 192 行"
+    },
+    {
+      "severity": "info",
+      "type": "feature-coverage-G03",
+      "title": "G03 覆盖数与默认公司排序不同",
+      "message": "监管地缘风险覆盖层: 0 行，默认公司排序 192 行"
     }
   ]
 }
