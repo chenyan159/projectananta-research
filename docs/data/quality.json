@@ -11,8 +11,8 @@
     "gateCount": 3,
     "effectiveFeatureCount": 0,
     "effectiveFeatureAsOf": "",
-    "companyComparisonCount": 183,
-    "companyComparisonRowCount": 0,
+    "companyComparisonCount": 192,
+    "companyComparisonRowCount": 36672,
     "companyComparisonDate": "2026-07-14",
     "dailyNewsCount": 10,
     "rankingMethodCount": 26,
@@ -177,12 +177,6 @@
       "type": "feature-coverage-G03",
       "title": "G03 覆盖数与默认公司排序不同",
       "message": "监管地缘风险覆盖层: 0 行，默认公司排序 192 行"
-    },
-    {
-      "severity": "warn",
-      "type": "company-comparison-missing",
-      "title": "公司对比结果未覆盖全部公司",
-      "message": "缺失 9 家：CEG, SMR, HTHIY, TE, AEHR, ASX, COHU, IMOS, KEYS"
     }
   ]
 }
