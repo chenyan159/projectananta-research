@@ -6,7 +6,7 @@
     "industryIndexCount": 75,
     "industryReportUnique": 74,
     "featureDefinitionCount": 19,
-    "featureFileCount": 0,
+    "featureFileCount": 9,
     "alphaFeatureCount": 16,
     "gateCount": 3,
     "companyComparisonCount": 192,
@@ -161,6 +161,12 @@
       "type": "feature-coverage-G03",
       "title": "G03 覆盖数与默认公司排序不同",
       "message": "监管地缘风险覆盖层: 0 行，默认公司排序 192 行"
+    },
+    {
+      "severity": "warn",
+      "type": "feature-parse",
+      "title": "部分特征评分表解析不完整",
+      "message": "N01_AI可归因盈利暴露_量化评分_2026-07-15.md: no rows parsed；N03_AI需求传导与价值量弹性_量化评分_2026-07-15.md: no rows parsed；N05_风险调整估值赔率_量化评分_2026-07-15.md: no rows parsed；N06_财务质量与融资韧性_量化评分_2026-07-15.md: no rows parsed；N07_前瞻基本面修正期限结构_量化评分_2026-07-15.md: no rows parsed；N08_产能交付执行兑现_量化评分_2026-07-15.md: no rows parsed；N10_持久护城河与替代风险_量化评分_2026-07-15.md: no rows parsed；G02_流动性与可投资性门槛_量化评分_2026-07-15.md: no rows parsed；G03_监管地缘风险覆盖层_量化评分_2026-07-15.md: no rows parsed"
     }
   ]
 }
