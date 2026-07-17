@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-16T13:02:02.289Z",
-  "generatedAtDisplay": "2026/7/16 06:02:02",
+  "generatedAt": "2026-07-17T07:51:33.310Z",
+  "generatedAtDisplay": "2026/7/17 00:51:33",
   "sourceRootName": "Investment",
   "siteRoot": "tools/site",
   "companyCount": 192,
@@ -23,12 +23,16 @@
   "latestCompanyComparisonDate": "2026-07-14",
   "companyComparisonCount": 192,
   "companyComparisonRowCount": 36672,
+  "latestScenarioDecisionDate": "2026-07-15",
+  "scenarioDecisionCount": 192,
+  "scenarioDecisionCellCount": 3840,
+  "scenarioDecisionEstimableCellCount": 3835,
   "latestTechnicalResearchDate": "2026-07-15",
   "technicalFactorCount": 18,
   "technicalMarketCount": 5,
   "technicalHorizonCount": 5,
-  "latestFinancialDate": "2026-07-15",
+  "latestFinancialDate": "2026-07-16",
   "latestDailyNewsDate": "2026-07-16",
   "dailyNewsCount": 10,
-  "qualityAlertCount": 22
+  "qualityAlertCount": 23
 }

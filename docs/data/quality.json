@@ -12,6 +12,10 @@
     "companyComparisonCount": 192,
     "companyComparisonRowCount": 36672,
     "companyComparisonDate": "2026-07-14",
+    "scenarioDecisionCount": 192,
+    "scenarioDecisionCellCount": 3840,
+    "scenarioDecisionEstimableCellCount": 3835,
+    "scenarioDecisionDate": "2026-07-15",
     "technicalFactorCount": 18,
     "technicalMarketCount": 5,
     "technicalHorizonCount": 5,
@@ -171,6 +175,12 @@
       "type": "feature-parse",
       "title": "部分特征评分表解析不完整",
       "message": "N01_AI可归因盈利暴露_量化评分_2026-07-15.md: no rows parsed；N02_系统瓶颈不可替代性_量化评分_2026-07-15.md: no rows parsed；N03_AI需求传导与价值量弹性_量化评分_2026-07-15.md: no rows parsed；N04_已披露基本面动量_量化评分_2026-07-15.md: no rows parsed；N05_风险调整估值赔率_量化评分_2026-07-15.md: no rows parsed；N06_财务质量与融资韧性_量化评分_2026-07-15.md: no rows parsed；N07_前瞻基本面修正期限结构_量化评分_2026-07-15.md: no rows parsed；N08_产能交付执行兑现_量化评分_2026-07-15.md: no rows parsed；N09_商业化与平台路线适配_量化评分_2026-07-15.md: no rows parsed；N10_持久护城河与替代风险_量化评分_2026-07-15.md: no rows parsed；N11_客户与订单质量_量化评分_2026-07-15.md: no rows parsed；N12_供需景气与定价捕获_量化评分_2026-07-16.md: no rows parsed；N13_催化剂事件期限结构_量化评分_2026-07-15.md: no rows parsed；N14_有符号预期差_量化评分_2026-07-15.md: no rows parsed；N15_情景收益不对称性_量化评分_2026-07-15.md: no rows parsed；N16_行业中性相对强度_量化评分_2026-07-15.md: no rows parsed；G01_PIT证据与数据质量门槛_量化评分_2026-07-15.md: no rows parsed；G02_流动性与可投资性门槛_量化评分_2026-07-15.md: no rows parsed；G03_监管地缘风险覆盖层_量化评分_2026-07-15.md: no rows parsed"
+    },
+    {
+      "severity": "info",
+      "type": "scenario-decision-na-cells",
+      "title": "部分公司情景格子无法可靠估值",
+      "message": "SMR 有 5 个 NA 格子"
     }
   ]
 }
