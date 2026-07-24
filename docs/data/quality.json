@@ -41,7 +41,14 @@
       "N06": 192,
       "E03": 192
     },
-    "rawIndustryReportCount": 76
+    "rawIndustryReportCount": 76,
+    "moduleBuilds": {
+      "companyComparisons": "fresh",
+      "scenarioDecisions": "fresh",
+      "rankings": "fresh",
+      "technicalResearch": "fresh",
+      "dailyNews": "fresh"
+    }
   },
   "alerts": [
     {
