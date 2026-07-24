@@ -38,7 +38,7 @@
     "evaluation": {
       "title": "DELL：Dell Technologies 收入传导与经营价值评估（2026-07-12）",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/DELL_Dell_Technologies_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/DELL_Dell_Technologies_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/DELL.json"
     }
   },
@@ -81,7 +81,7 @@
     "evaluation": {
       "title": "FN Fabrinet 公司收入传导与经营价值评估（2026-07-12）",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/FN_Fabrinet_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/FN_Fabrinet_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/FN.json"
     }
   },
@@ -124,7 +124,7 @@
     "evaluation": {
       "title": "HPE（惠普企业）NTM 收入、利润与经营价值传导四情景评估",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/HPE_惠普企业_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/HPE_惠普企业_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/HPE.json"
     }
   },
@@ -167,7 +167,7 @@
     "evaluation": {
       "title": "JBL（Jabil Inc.）收入传导与经营价值评估",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/JBL_Jabil_Inc_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/JBL_Jabil_Inc_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/JBL.json"
     }
   },
@@ -210,7 +210,7 @@
     "evaluation": {
       "title": "MRAM Everspin Technologies：NTM 收入、利润与经营价值传导评估",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/MRAM_Everspin_Technologies_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/MRAM_Everspin_Technologies_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/MRAM.json"
     }
   },
@@ -245,15 +245,15 @@
     "hasReport": true,
     "hasEvaluation": true,
     "report": {
-      "title": "公司：NTAP NetApp（NetApp, Inc.）全面尽调——AI 数据基础设施与混合云存储（2026-07-11）",
-      "reportDate": "2026-07-11",
-      "sourcePath": "基本面/公司调研/AI服务器_存储_EMS/NTAP_NetApp_公司调研_2026-07-11.md",
+      "title": "公司：NTAP NetApp, Inc.（NetApp）",
+      "reportDate": "2026-07-18",
+      "sourcePath": "基本面/公司调研/AI服务器_存储_EMS/NTAP_NetApp_公司调研_2026-07-18.md",
       "dataFile": "reports/company/NTAP.json"
     },
     "evaluation": {
-      "title": "NTAP NetApp 收入传导与经营价值传导评估（2026-07-12）",
-      "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/NTAP_NetApp_收入传导估值评估_2026-07-12.md",
+      "title": "NTAP NetApp 收入传导与经营价值评估（2026-07-18）",
+      "reportDate": "2026-07-18",
+      "sourcePath": "分析报告/公司评估/结果/NTAP_NetApp_收入传导估值评估_2026-07-18.md",
       "dataFile": "reports/company-evaluation/NTAP.json"
     }
   },
@@ -296,7 +296,7 @@
     "evaluation": {
       "title": "PENG：Penguin Solutions 收入传导与经营价值传导评估（2026-07-12）",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/PENG_Penguin_Solutions_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/PENG_Penguin_Solutions_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/PENG.json"
     }
   },
@@ -339,7 +339,7 @@
     "evaluation": {
       "title": "SANM Sanmina Corporation：NTM 收入传导与经营价值评估（2026-07-12）",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/SANM_Sanmina_Corporation_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/SANM_Sanmina_Corporation_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/SANM.json"
     }
   },
@@ -382,7 +382,7 @@
     "evaluation": {
       "title": "SMCI：收入传导与经营价值传导评估（2026-07-12）",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/SMCI_Super_Micro_Computer_Inc_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/SMCI_Super_Micro_Computer_Inc_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/SMCI.json"
     }
   },
@@ -425,7 +425,7 @@
     "evaluation": {
       "title": "STX Seagate Technology：NTM 收入、利润与经营价值传导评估",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/STX_Seagate_Technology_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/STX_Seagate_Technology_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/STX.json"
     }
   },
@@ -468,7 +468,7 @@
     "evaluation": {
       "title": "WDC Western Digital：NTM 收入、利润与经营价值传导四情景评估",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/WDC_WesternDigital_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/WDC_WesternDigital_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/WDC.json"
     }
   },
@@ -511,7 +511,7 @@
     "evaluation": {
       "title": "CLS Celestica Inc. 收入传导与经营价值传导评估（2026-07-12）",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/CLS_Celestica_Inc_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/CLS_Celestica_Inc_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/CLS.json"
     }
   },
@@ -554,7 +554,7 @@
     "evaluation": {
       "title": "FLEX Flex Ltd：NTM 收入、利润与经营价值传导评估（2026-07-12）",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/FLEX_Flex_Ltd_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/FLEX_Flex_Ltd_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/FLEX.json"
     }
   },
@@ -597,7 +597,7 @@
     "evaluation": {
       "title": "MU Micron Technology 美光科技：NTM 收入传导与经营价值评估",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/MU_Micron_Technology_美光科技_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/MU_Micron_Technology_美光科技_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/MU.json"
     }
   },
@@ -640,7 +640,7 @@
     "evaluation": {
       "title": "P / Everpure（原 Pure Storage）NTM 收入与经营价值传导评估",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/P_Everpure_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/P_Everpure_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/P.json"
     }
   },
@@ -683,7 +683,7 @@
     "evaluation": {
       "title": "RMBS Rambus 收入传导与经营价值评估（NTM 四情景；不含证券估值）",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/RMBS_Rambus_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/RMBS_Rambus_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/RMBS.json"
     }
   },
@@ -726,7 +726,7 @@
     "evaluation": {
       "title": "SIMO Silicon Motion Technology：NTM 收入传导与经营价值传导评估",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/SIMO_Silicon_Motion_Technology_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/SIMO_Silicon_Motion_Technology_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/SIMO.json"
     }
   },
@@ -769,7 +769,7 @@
     "evaluation": {
       "title": "SNDK SanDisk 收入传导与经营价值评估（NTM）",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/SNDK_SanDisk_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/SNDK_SanDisk_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/SNDK.json"
     }
   },
@@ -812,7 +812,7 @@
     "evaluation": {
       "title": "SKHY｜SK hynix Inc 收入传导与经营价值评估（NTM 四情景）",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/SKHY_SK_hynix_Inc_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/SKHY_SK_hynix_Inc_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/SKHY.json"
     }
   },
@@ -855,7 +855,7 @@
     "evaluation": {
       "title": "ADI Analog Devices：NTM 收入传导、利润兑现与经营价值评估",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/ADI_Analog_Devices_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/ADI_Analog_Devices_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/ADI.json"
     }
   },
@@ -898,7 +898,7 @@
     "evaluation": {
       "title": "AMD｜Advanced Micro Devices 收入传导与经营价值评估（2026-07-12）",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/AMD_Advanced_Micro_Devices_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/AMD_Advanced_Micro_Devices_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/AMD.json"
     }
   },
@@ -933,15 +933,15 @@
     "hasReport": true,
     "hasEvaluation": true,
     "report": {
-      "title": "公司：AVGO Broadcom（博通）公司调研",
-      "reportDate": "2026-07-11",
-      "sourcePath": "基本面/公司调研/AI计算芯片_EDA_IP_custom_ASIC/AVGO_Broadcom_公司调研_2026-07-11.md",
+      "title": "公司：AVGO Broadcom（博通）全面尽调",
+      "reportDate": "2026-07-18",
+      "sourcePath": "基本面/公司调研/AI计算芯片_EDA_IP_custom_ASIC/AVGO_Broadcom_公司调研_2026-07-18.md",
       "dataFile": "reports/company/AVGO.json"
     },
     "evaluation": {
-      "title": "AVGO Broadcom：NTM 收入传导与经营价值评估（不含市场估值）",
-      "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/AVGO_Broadcom_收入传导估值评估_2026-07-12.md",
+      "title": "AVGO Broadcom 收入传导与经营价值传导评估",
+      "reportDate": "2026-07-18",
+      "sourcePath": "分析报告/公司评估/结果/AVGO_Broadcom_收入传导估值评估_2026-07-18.md",
       "dataFile": "reports/company-evaluation/AVGO.json"
     }
   },
@@ -976,15 +976,15 @@
     "hasReport": true,
     "hasEvaluation": true,
     "report": {
-      "title": "公司：CDNS Cadence Design Systems｜全面尽调（2026-07-11）",
-      "reportDate": "2026-07-11",
-      "sourcePath": "基本面/公司调研/AI计算芯片_EDA_IP_custom_ASIC/CDNS_Cadence_Design_Systems_公司调研_2026-07-11.md",
+      "title": "公司：CDNS Cadence Design Systems（楷登电子）全面尽调",
+      "reportDate": "2026-07-18",
+      "sourcePath": "基本面/公司调研/AI计算芯片_EDA_IP_custom_ASIC/CDNS_Cadence_Design_Systems_公司调研_2026-07-18.md",
       "dataFile": "reports/company/CDNS.json"
     },
     "evaluation": {
-      "title": "CDNS Cadence Design Systems：NTM 收入、利润与经营价值传导评估（2026-07-12）",
-      "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/CDNS_Cadence_Design_Systems_收入传导估值评估_2026-07-12.md",
+      "title": "CDNS Cadence Design Systems 收入传导与经营价值传导评估",
+      "reportDate": "2026-07-18",
+      "sourcePath": "分析报告/公司评估/结果/CDNS_Cadence_Design_Systems_收入传导估值评估_2026-07-18.md",
       "dataFile": "reports/company-evaluation/CDNS.json"
     }
   },
@@ -1019,15 +1019,15 @@
     "hasReport": true,
     "hasEvaluation": true,
     "report": {
-      "title": "公司：INTC — Intel Corporation（英特尔）全面尽调",
-      "reportDate": "2026-07-11",
-      "sourcePath": "基本面/公司调研/AI计算芯片_EDA_IP_custom_ASIC/INTC_Intel_Corporation_英特尔_公司调研_2026-07-11.md",
+      "title": "公司：INTC Intel Corporation（英特尔）",
+      "reportDate": "2026-07-18",
+      "sourcePath": "基本面/公司调研/AI计算芯片_EDA_IP_custom_ASIC/INTC_Intel_Corporation_英特尔_公司调研_2026-07-18.md",
       "dataFile": "reports/company/INTC.json"
     },
     "evaluation": {
-      "title": "INTC — Intel Corporation（英特尔）收入传导与经营价值传导评估",
-      "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/INTC_Intel_Corporation_英特尔_收入传导估值评估_2026-07-12.md",
+      "title": "INTC Intel Corporation（英特尔）：NTM 收入传导与经营价值传导评估",
+      "reportDate": "2026-07-18",
+      "sourcePath": "分析报告/公司评估/结果/INTC_Intel_Corporation_英特尔_收入传导估值评估_2026-07-18.md",
       "dataFile": "reports/company-evaluation/INTC.json"
     }
   },
@@ -1070,7 +1070,7 @@
     "evaluation": {
       "title": "MCHP｜Microchip Technology 收入、利润与经营价值传导评估",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/MCHP_Microchip_Technology_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/MCHP_Microchip_Technology_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/MCHP.json"
     }
   },
@@ -1113,7 +1113,7 @@
     "evaluation": {
       "title": "MRVL Marvell Technology 收入传导与经营价值评估",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/MRVL_Marvell_Technology_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/MRVL_Marvell_Technology_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/MRVL.json"
     }
   },
@@ -1148,15 +1148,15 @@
     "hasReport": true,
     "hasEvaluation": true,
     "report": {
-      "title": "公司：NVDA NVIDIA（英伟达）全面尽调",
-      "reportDate": "2026-07-11",
-      "sourcePath": "基本面/公司调研/AI计算芯片_EDA_IP_custom_ASIC/NVDA_NVIDIA_公司调研_2026-07-11.md",
+      "title": "公司：NVDA NVIDIA（英伟达）",
+      "reportDate": "2026-07-18",
+      "sourcePath": "基本面/公司调研/AI计算芯片_EDA_IP_custom_ASIC/NVDA_NVIDIA_公司调研_2026-07-18.md",
       "dataFile": "reports/company/NVDA.json"
     },
     "evaluation": {
-      "title": "NVDA NVIDIA 收入传导与经营价值评估",
-      "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/NVDA_NVIDIA_收入传导估值评估_2026-07-12.md",
+      "title": "NVDA / NVIDIA：NTM 收入传导与经营价值传导评估",
+      "reportDate": "2026-07-18",
+      "sourcePath": "分析报告/公司评估/结果/NVDA_NVIDIA_收入传导估值评估_2026-07-18.md",
       "dataFile": "reports/company-evaluation/NVDA.json"
     }
   },
@@ -1199,7 +1199,7 @@
     "evaluation": {
       "title": "ON（onsemi／安森美）NTM 收入、利润与经营价值传导评估",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/ON_onsemi_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/ON_onsemi_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/ON.json"
     }
   },
@@ -1242,7 +1242,7 @@
     "evaluation": {
       "title": "QCOM Qualcomm 收入传导与经营价值评估",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/QCOM_Qualcomm_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/QCOM_Qualcomm_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/QCOM.json"
     }
   },
@@ -1285,7 +1285,7 @@
     "evaluation": {
       "title": "STM（STMicroelectronics）收入传导与经营价值评估（NTM，2026-07-12）",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/STM_STMicroelectronics_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/STM_STMicroelectronics_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/STM.json"
     }
   },
@@ -1328,7 +1328,7 @@
     "evaluation": {
       "title": "TXN 德州仪器：NTM 收入、利润与经营价值传导评估",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/TXN_德州仪器_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/TXN_德州仪器_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/TXN.json"
     }
   },
@@ -1371,7 +1371,7 @@
     "evaluation": {
       "title": "ALAB Astera Labs 收入传导与经营价值评估（2026-07-12）",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/ALAB_AsteraLabs_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/ALAB_AsteraLabs_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/ALAB.json"
     }
   },
@@ -1414,7 +1414,7 @@
     "evaluation": {
       "title": "ARM Arm Holdings：NTM 收入、利润与经营价值传导评估（2026-07-12）",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/ARM_Arm_Holdings_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/ARM_Arm_Holdings_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/ARM.json"
     }
   },
@@ -1457,7 +1457,7 @@
     "evaluation": {
       "title": "SNPS Synopsys 收入传导与经营价值传导评估",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/SNPS_Synopsys_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/SNPS_Synopsys_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/SNPS.json"
     }
   },
@@ -1500,7 +1500,7 @@
     "evaluation": {
       "title": "MXL MaxLinear 收入传导与经营价值评估",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/MXL_MaxLinear_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/MXL_MaxLinear_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/MXL.json"
     }
   },
@@ -1543,7 +1543,7 @@
     "evaluation": {
       "title": "CBRS Cerebras Systems Inc. NTM 收入与经营价值传导评估（2026-07-12）",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/CBRS_Cerebras_Systems_Inc_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/CBRS_Cerebras_Systems_Inc_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/CBRS.json"
     }
   },
@@ -1582,7 +1582,7 @@
     "evaluation": {
       "title": "ANET Arista Networks NTM 收入传导与经营价值评估",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/ANET_Arista_Networks_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/ANET_Arista_Networks_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/ANET.json"
     }
   },
@@ -1621,7 +1621,7 @@
     "evaluation": {
       "title": "APH：Amphenol 安费诺 NTM 收入、利润与经营价值传导评估（2026-07-12）",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/APH_Amphenol_安费诺_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/APH_Amphenol_安费诺_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/APH.json"
     }
   },
@@ -1660,7 +1660,7 @@
     "evaluation": {
       "title": "BDC Belden NTM 收入、利润与经营价值传导评估",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/BDC_Belden_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/BDC_Belden_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/BDC.json"
     }
   },
@@ -1699,7 +1699,7 @@
     "evaluation": {
       "title": "COHR Coherent：NTM 收入、利润与经营价值传导四情景评估（2026-07-12）",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/COHR_Coherent_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/COHR_Coherent_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/COHR.json"
     }
   },
@@ -1738,7 +1738,7 @@
     "evaluation": {
       "title": "CRDO：Credo Technology Group 收入传导与经营价值评估（2026-07-12）",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/CRDO_Credo_Technology_Group_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/CRDO_Credo_Technology_Group_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/CRDO.json"
     }
   },
@@ -1777,7 +1777,7 @@
     "evaluation": {
       "title": "CSCO Cisco Systems 收入传导与经营价值传导评估",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/CSCO_Cisco_Systems_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/CSCO_Cisco_Systems_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/CSCO.json"
     }
   },
@@ -1816,7 +1816,7 @@
     "evaluation": {
       "title": "GLW Corning 收入传导与经营价值评估（2026-07-12）",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/GLW_Corning_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/GLW_Corning_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/GLW.json"
     }
   },
@@ -1855,7 +1855,7 @@
     "evaluation": {
       "title": "LITE（Lumentum）收入传导与经营价值评估：从 AI 光学需求到 NTM 收入、利润与现金流",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/LITE_Lumentum_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/LITE_Lumentum_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/LITE.json"
     }
   },
@@ -1894,7 +1894,7 @@
     "evaluation": {
       "title": "LWLG Lightwave Logic：NTM 收入传导与经营价值传导评估",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/LWLG_Lightwave_Logic_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/LWLG_Lightwave_Logic_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/LWLG.json"
     }
   },
@@ -1933,7 +1933,7 @@
     "evaluation": {
       "title": "NOK 诺基亚：NTM 收入传导与经营价值四情景评估",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/NOK_诺基亚_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/NOK_诺基亚_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/NOK.json"
     }
   },
@@ -1972,7 +1972,7 @@
     "evaluation": {
       "title": "TEL（TE Connectivity）收入传导与经营价值评估",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/TEL_TE_Connectivity_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/TEL_TE_Connectivity_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/TEL.json"
     }
   },
@@ -2011,7 +2011,7 @@
     "evaluation": {
       "title": "VIAV｜VIAVI Solutions NTM 收入传导与经营价值传导评估（2026-07-12）",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/VIAV_VIAVI_Solutions_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/VIAV_VIAVI_Solutions_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/VIAV.json"
     }
   },
@@ -2050,7 +2050,7 @@
     "evaluation": {
       "title": "VISN Vistance Networks 收入传导与经营价值评估",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/VISN_Vistance_Networks_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/VISN_Vistance_Networks_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/VISN.json"
     }
   },
@@ -2089,7 +2089,7 @@
     "evaluation": {
       "title": "AAOI Applied Optoelectronics：NTM 收入传导与经营价值评估",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/AAOI_Applied_Optoelectronics_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/AAOI_Applied_Optoelectronics_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/AAOI.json"
     }
   },
@@ -2128,7 +2128,7 @@
     "evaluation": {
       "title": "BELFB（Bel Fuse Inc.）收入传导与经营价值传导评估（2026-07-12）",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/BELFB_Bel_Fuse_Inc_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/BELFB_Bel_Fuse_Inc_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/BELFB.json"
     }
   },
@@ -2167,7 +2167,7 @@
     "evaluation": {
       "title": "CIEN：Ciena Corporation 收入传导与经营价值评估（2026-07-12）",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/CIEN_Ciena_Corporation_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/CIEN_Ciena_Corporation_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/CIEN.json"
     }
   },
@@ -2206,7 +2206,7 @@
     "evaluation": {
       "title": "MTSI / MACOM Technology Solutions：NTM 收入传导与经营价值评估",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/MTSI_MACOM_Technology_Solutions_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/MTSI_MACOM_Technology_Solutions_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/MTSI.json"
     }
   },
@@ -2245,7 +2245,7 @@
     "evaluation": {
       "title": "POET Technologies（POET）NTM 收入传导与经营价值评估",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/POET_POET_Technologies_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/POET_POET_Technologies_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/POET.json"
     }
   },
@@ -2284,7 +2284,7 @@
     "evaluation": {
       "title": "SITM：SiTime Corporation 收入传导与经营价值传导评估（2026-07-12）",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/SITM_SiTime_Corporation_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/SITM_SiTime_Corporation_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/SITM.json"
     }
   },
@@ -2323,7 +2323,7 @@
     "evaluation": {
       "title": "SMTC Semtech Corporation：NTM 收入传导与经营价值传导评估",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/SMTC_Semtech_Corporation_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/SMTC_Semtech_Corporation_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/SMTC.json"
     }
   },
@@ -2362,7 +2362,7 @@
     "evaluation": {
       "title": "AJNMY 味之素 Ajinomoto：NTM 收入、利润与经营价值传导评估",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/AJNMY_味之素_Ajinomoto_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/AJNMY_味之素_Ajinomoto_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/AJNMY.json"
     }
   },
@@ -2401,7 +2401,7 @@
     "evaluation": {
       "title": "APD Air Products and Chemicals：NTM 收入传导与经营价值传导评估",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/APD_Air_Products_and_Chemicals_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/APD_Air_Products_and_Chemicals_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/APD.json"
     }
   },
@@ -2440,7 +2440,7 @@
     "evaluation": {
       "title": "ASGLY / AGC Inc. 收入传导与经营价值评估",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/ASGLY_AGC_Inc_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/ASGLY_AGC_Inc_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/ASGLY.json"
     }
   },
@@ -2479,7 +2479,7 @@
     "evaluation": {
       "title": "AXTI（AXT Inc）收入传导与经营价值评估（2026-07-12）",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/AXTI_AXT_Inc_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/AXTI_AXT_Inc_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/AXTI.json"
     }
   },
@@ -2518,7 +2518,7 @@
     "evaluation": {
       "title": "HOCPY：HOYA Corporation NTM 收入传导与经营价值评估（2026-07-12）",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/HOCPY_HOYA_Corporation_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/HOCPY_HOYA_Corporation_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/HOCPY.json"
     }
   },
@@ -2557,7 +2557,7 @@
     "evaluation": {
       "title": "LIN Linde plc：NTM 收入、利润与经营价值传导评估（2026-07-12）",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/LIN_Linde_plc_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/LIN_Linde_plc_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/LIN.json"
     }
   },
@@ -2588,15 +2588,15 @@
     "hasReport": true,
     "hasEvaluation": true,
     "report": {
-      "title": "公司：MMM 3M（3M Company）全面尽调",
-      "reportDate": "2026-07-11",
-      "sourcePath": "基本面/公司调研/半导体材料_化学品_基板/MMM_3M_公司调研_2026-07-11.md",
+      "title": "公司：MMM 3M Company（3M 公司）",
+      "reportDate": "2026-07-18",
+      "sourcePath": "基本面/公司调研/半导体材料_化学品_基板/MMM_3M_公司调研_2026-07-18.md",
       "dataFile": "reports/company/MMM.json"
     },
     "evaluation": {
-      "title": "MMM 3M 收入传导与经营价值评估（NTM，2026-07-12）",
-      "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/MMM_3M_收入传导估值评估_2026-07-12.md",
+      "title": "MMM（3M）收入传导与经营价值评估",
+      "reportDate": "2026-07-18",
+      "sourcePath": "分析报告/公司评估/结果/MMM_3M_收入传导估值评估_2026-07-18.md",
       "dataFile": "reports/company-evaluation/MMM.json"
     }
   },
@@ -2635,7 +2635,7 @@
     "evaluation": {
       "title": "NDSN：Nordson 收入传导与经营价值评估（2026-07-12）",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/NDSN_Nordson_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/NDSN_Nordson_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/NDSN.json"
     }
   },
@@ -2674,7 +2674,7 @@
     "evaluation": {
       "title": "Q（Qnity Electronics）收入传导与经营价值评估（非市场估值）",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/Q_Qnity_Electronics_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/Q_Qnity_Electronics_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/Q.json"
     }
   },
@@ -2713,7 +2713,7 @@
     "evaluation": {
       "title": "SHECY / Shin-Etsu Chemical 信越化学：NTM 收入、利润与经营价值传导评估",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/SHECY_Shin-Etsu_Chemical_信越化学_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/SHECY_Shin-Etsu_Chemical_信越化学_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/SHECY.json"
     }
   },
@@ -2752,7 +2752,7 @@
     "evaluation": {
       "title": "SOMMY 住友化学（Sumitomo Chemical）收入传导与经营价值评估",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/SOMMY_住友化学_Sumitomo_Chemical_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/SOMMY_住友化学_Sumitomo_Chemical_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/SOMMY.json"
     }
   },
@@ -2791,7 +2791,7 @@
     "evaluation": {
       "title": "CC The Chemours Company（科慕）收入传导与经营价值评估",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/CC_The_Chemours_Company_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/CC_The_Chemours_Company_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/CC.json"
     }
   },
@@ -2830,7 +2830,7 @@
     "evaluation": {
       "title": "ECL Ecolab 收入传导与经营价值传导评估（NTM，2026-07-12）",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/ECL_Ecolab_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/ECL_Ecolab_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/ECL.json"
     }
   },
@@ -2869,7 +2869,7 @@
     "evaluation": {
       "title": "ENTG Entegris 收入传导与经营价值评估",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/ENTG_Entegris_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/ENTG_Entegris_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/ENTG.json"
     }
   },
@@ -2908,7 +2908,7 @@
     "evaluation": {
       "title": "MTRN（Materion）NTM 收入传导与经营价值传导评估",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/MTRN_Materion_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/MTRN_Materion_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/MTRN.json"
     }
   },
@@ -2947,7 +2947,7 @@
     "evaluation": {
       "title": "ROG Rogers Corporation：NTM 收入传导与经营价值传导评估",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/ROG_Rogers_Corporation_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/ROG_Rogers_Corporation_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/ROG.json"
     }
   },
@@ -2986,7 +2986,7 @@
     "evaluation": {
       "title": "SMTOY 住友电工：NTM 收入、利润与经营价值传导评估",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/SMTOY_住友电工_Sumitomo_Electric_Industries_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/SMTOY_住友电工_Sumitomo_Electric_Industries_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/SMTOY.json"
     }
   },
@@ -3025,7 +3025,7 @@
     "evaluation": {
       "title": "DHR Danaher Corporation：NTM 收入、利润与经营价值传导评估",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/DHR_Danaher_Corporation_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/DHR_Danaher_Corporation_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/DHR.json"
     }
   },
@@ -3064,7 +3064,7 @@
     "evaluation": {
       "title": "DD（DuPont de Nemours）NTM 收入传导与经营价值评估",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/DD_DuPont_de_Nemours_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/DD_DuPont_de_Nemours_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/DD.json"
     }
   },
@@ -3103,7 +3103,7 @@
     "evaluation": {
       "title": "DKILY Daikin Industries（大金工业）NTM 收入传导与经营价值评估",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/DKILY_Daikin_Industries_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/DKILY_Daikin_Industries_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/DKILY.json"
     }
   },
@@ -3141,7 +3141,7 @@
     "evaluation": {
       "title": "AEP American Electric Power：NTM 收入传导与经营价值传导评估",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/AEP_American_Electric_Power_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/AEP_American_Electric_Power_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/AEP.json"
     }
   },
@@ -3171,15 +3171,15 @@
     "hasReport": true,
     "hasEvaluation": true,
     "report": {
-      "title": "公司：BE Bloom Energy——全面尽调（2026-07-11）",
-      "reportDate": "2026-07-11",
-      "sourcePath": "基本面/公司调研/电力_发电_能源_储能/BE_Bloom Energy_公司调研_2026-07-11.md",
+      "title": "公司：BE Bloom Energy——AI 数据中心现场电力全面尽调（2026-07-18）",
+      "reportDate": "2026-07-18",
+      "sourcePath": "基本面/公司调研/电力_发电_能源_储能/BE_Bloom_Energy_公司调研_2026-07-18.md",
       "dataFile": "reports/company/BE.json"
     },
     "evaluation": {
-      "title": "BESIY：BE Semiconductor Industries NTM 收入传导与经营价值传导评估",
-      "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/BESIY_BE_Semiconductor_收入传导估值评估_2026-07-12.md",
+      "title": "Bloom Energy（BE）NTM 收入传导与经营价值传导评估",
+      "reportDate": "2026-07-18",
+      "sourcePath": "分析报告/公司评估/结果/BE_Bloom_Energy_收入传导估值评估_2026-07-18.md",
       "dataFile": "reports/company-evaluation/BE.json"
     }
   },
@@ -3217,7 +3217,7 @@
     "evaluation": {
       "title": "BWXT（BWX Technologies）收入传导与经营价值评估",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/BWXT_BWX_Technologies_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/BWXT_BWX_Technologies_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/BWXT.json"
     }
   },
@@ -3255,7 +3255,7 @@
     "evaluation": {
       "title": "CMI Cummins Inc. 收入传导与经营价值评估（2026-07-12）",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/CMI_Cummins_Inc_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/CMI_Cummins_Inc_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/CMI.json"
     }
   },
@@ -3293,7 +3293,7 @@
     "evaluation": {
       "title": "DTE Energy（DTE）收入传导与经营价值评估（NTM，2026-07-12）",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/DTE_DTE_Energy_Company_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/DTE_DTE_Energy_Company_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/DTE.json"
     }
   },
@@ -3331,7 +3331,7 @@
     "evaluation": {
       "title": "ENS EnerSys：NTM 收入传导、利润传导与经营价值评估",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/ENS_EnerSys_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/ENS_EnerSys_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/ENS.json"
     }
   },
@@ -3369,7 +3369,7 @@
     "evaluation": {
       "title": "ENPH Enphase Energy：NTM 收入传导与经营价值传导评估（2026-07-12）",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/ENPH_Enphase_Energy_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/ENPH_Enphase_Energy_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/ENPH.json"
     }
   },
@@ -3407,7 +3407,7 @@
     "evaluation": {
       "title": "ET Energy Transfer LP：NTM 收入传导与经营价值传导评估",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/ET_Energy_Transfer_LP_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/ET_Energy_Transfer_LP_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/ET.json"
     }
   },
@@ -3445,7 +3445,7 @@
     "evaluation": {
       "title": "ETR / Entergy Corporation：NTM 收入传导与经营价值评估",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/ETR_Entergy_Corporation_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/ETR_Entergy_Corporation_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/ETR.json"
     }
   },
@@ -3483,7 +3483,7 @@
     "evaluation": {
       "title": "FCEL / FuelCell Energy：NTM 收入、利润与经营价值传导评估",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/FCEL_FuelCell_Energy_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/FCEL_FuelCell_Energy_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/FCEL.json"
     }
   },
@@ -3521,7 +3521,7 @@
     "evaluation": {
       "title": "GEV（GE Vernova）NTM 收入传导与经营价值评估",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/GEV_GE_Vernova_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/GEV_GE_Vernova_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/GEV.json"
     }
   },
@@ -3559,7 +3559,7 @@
     "evaluation": {
       "title": "GNRC — Generac Holdings 收入传导与经营价值传导评估",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/GNRC_Generac_Holdings_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/GNRC_Generac_Holdings_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/GNRC.json"
     }
   },
@@ -3597,7 +3597,7 @@
     "evaluation": {
       "title": "OKLO — Oklo Inc. NTM 收入传导与经营价值评估",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/OKLO_Oklo_Inc_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/OKLO_Oklo_Inc_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/OKLO.json"
     }
   },
@@ -3635,7 +3635,7 @@
     "evaluation": {
       "title": "PSIX Power Solutions International：NTM 收入传导与经营价值传导评估",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/PSIX_Power_Solutions_International_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/PSIX_Power_Solutions_International_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/PSIX.json"
     }
   },
@@ -3673,7 +3673,7 @@
     "evaluation": {
       "title": "PWR（Quanta Services）NTM 收入、利润与经营价值传导评估",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/PWR_Quanta_Services_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/PWR_Quanta_Services_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/PWR.json"
     }
   },
@@ -3711,7 +3711,7 @@
     "evaluation": {
       "title": "RYCEY Rolls-Royce Holdings：NTM 收入传导与经营价值传导评估",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/RYCEY_Rolls-Royce_Holdings_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/RYCEY_Rolls-Royce_Holdings_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/RYCEY.json"
     }
   },
@@ -3749,7 +3749,7 @@
     "evaluation": {
       "title": "VST Vistra Corp. 收入传导与经营价值评估（NTM，2026-07-12）",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/VST_Vistra_Corp_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/VST_Vistra_Corp_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/VST.json"
     }
   },
@@ -3787,7 +3787,7 @@
     "evaluation": {
       "title": "CEG Constellation Energy：NTM 收入、利润与经营价值传导评估",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/CEG_Constellation_Energy_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/CEG_Constellation_Energy_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/CEG.json"
     }
   },
@@ -3825,7 +3825,7 @@
     "evaluation": {
       "title": "FLNC Fluence Energy 收入传导与经营价值传导评估",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/FLNC_Fluence_Energy_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/FLNC_Fluence_Energy_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/FLNC.json"
     }
   },
@@ -3863,7 +3863,7 @@
     "evaluation": {
       "title": "SMR NuScale Power：NTM 收入、利润与经营价值传导评估",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/SMR_NuScale_Power_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/SMR_NuScale_Power_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/SMR.json"
     }
   },
@@ -3901,7 +3901,7 @@
     "evaluation": {
       "title": "AMPX（Amprius Technologies）NTM 收入传导与经营价值评估",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/AMPX_Amprius_Technologies_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/AMPX_Amprius_Technologies_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/AMPX.json"
     }
   },
@@ -3939,7 +3939,7 @@
     "evaluation": {
       "title": "HTHIY Hitachi Ltd（日立制作所）收入传导与经营价值评估",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/HTHIY_Hitachi_Ltd_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/HTHIY_Hitachi_Ltd_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/HTHIY.json"
     }
   },
@@ -3977,7 +3977,7 @@
     "evaluation": {
       "title": "TEL（TE Connectivity）收入传导与经营价值评估",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/TEL_TE_Connectivity_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/TEL_TE_Connectivity_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/TE.json"
     }
   },
@@ -4008,15 +4008,15 @@
     "hasReport": true,
     "hasEvaluation": true,
     "report": {
-      "title": "公司：AEHR Aehr Test Systems 全面尽调（2026-07-12）",
-      "reportDate": "2026-07-12",
-      "sourcePath": "基本面/公司调研/封测_检测_计量_光罩/AEHR_Aehr_Test_Systems_公司调研_2026-07-12.md",
+      "title": "Aehr Test Systems（NASDAQ: AEHR）公司尽调：AI 芯片、硅光与功率器件老化测试",
+      "reportDate": "2026-07-18",
+      "sourcePath": "基本面/公司调研/封测_检测_计量_光罩/AEHR_Aehr_Test_Systems_公司调研_2026-07-18.md",
       "dataFile": "reports/company/AEHR.json"
     },
     "evaluation": {
-      "title": "AEHR Aehr Test Systems 收入传导与经营价值评估（2026-07-12）",
-      "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/AEHR_Aehr_Test_Systems_收入传导估值评估_2026-07-12.md",
+      "title": "AEHR 公司收入传导与经营价值传导评估（NTM；不含市场估值）",
+      "reportDate": "2026-07-18",
+      "sourcePath": "分析报告/公司评估/结果/AEHR_Aehr_Test_Systems_收入传导估值评估_2026-07-18.md",
       "dataFile": "reports/company-evaluation/AEHR.json"
     }
   },
@@ -4055,7 +4055,7 @@
     "evaluation": {
       "title": "ASX｜ASE Technology Holding（日月光投控）NTM 收入、利润与经营价值传导评估",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/ASX_ASE_Technology_Holding_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/ASX_ASE_Technology_Holding_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/ASX.json"
     }
   },
@@ -4094,7 +4094,7 @@
     "evaluation": {
       "title": "COHU Cohu Inc：NTM 收入传导与经营价值四情景评估（2026-07-12）",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/COHU_Cohu_Inc_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/COHU_Cohu_Inc_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/COHU.json"
     }
   },
@@ -4133,7 +4133,7 @@
     "evaluation": {
       "title": "IMOS ChipMOS Technologies（南茂科技）收入传导与价值传导评估",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/IMOS_ChipMOS_Technologies_南茂科技_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/IMOS_ChipMOS_Technologies_南茂科技_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/IMOS.json"
     }
   },
@@ -4172,7 +4172,7 @@
     "evaluation": {
       "title": "KEYS — Keysight Technologies 收入传导与经营价值评估（NTM，2026-07-12）",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/KEYS_Keysight_Technologies_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/KEYS_Keysight_Technologies_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/KEYS.json"
     }
   },
@@ -4211,7 +4211,7 @@
     "evaluation": {
       "title": "KLIC Kulicke & Soffa：NTM 收入、利润与经营价值传导评估",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/KLIC_Kulicke_Soffa_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/KLIC_Kulicke_Soffa_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/KLIC.json"
     }
   },
@@ -4250,7 +4250,7 @@
     "evaluation": {
       "title": "MICLF（Mycronic AB）收入传导与经营价值评估（NTM，2026-07-12）",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/MICLF_Mycronic_AB_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/MICLF_Mycronic_AB_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/MICLF.json"
     }
   },
@@ -4289,7 +4289,7 @@
     "evaluation": {
       "title": "ONTO Onto Innovation：NTM 收入传导与经营价值评估",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/ONTO_Onto_Innovation_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/ONTO_Onto_Innovation_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/ONTO.json"
     }
   },
@@ -4328,7 +4328,7 @@
     "evaluation": {
       "title": "PLAB Photronics：NTM 收入传导与经营价值传导评估（2026-07-12）",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/PLAB_Photronics_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/PLAB_Photronics_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/PLAB.json"
     }
   },
@@ -4367,7 +4367,7 @@
     "evaluation": {
       "title": "TDY / Teledyne Technologies：NTM 收入传导与经营价值评估",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/TDY_Teledyne_Technologies_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/TDY_Teledyne_Technologies_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/TDY.json"
     }
   },
@@ -4406,7 +4406,7 @@
     "evaluation": {
       "title": "TMO Thermo Fisher Scientific 收入传导与经营价值评估（2026-07-12）",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/TMO_Thermo_Fisher_Scientific_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/TMO_Thermo_Fisher_Scientific_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/TMO.json"
     }
   },
@@ -4445,7 +4445,7 @@
     "evaluation": {
       "title": "AMKR — Amkor Technology 收入传导与经营价值传导评估",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/AMKR_Amkor_Technology_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/AMKR_Amkor_Technology_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/AMKR.json"
     }
   },
@@ -4484,7 +4484,7 @@
     "evaluation": {
       "title": "CAMT Camtek 收入传导与经营价值评估（不含市场估值）",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/CAMT_Camtek_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/CAMT_Camtek_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/CAMT.json"
     }
   },
@@ -4523,7 +4523,7 @@
     "evaluation": {
       "title": "FORM FormFactor 收入传导与经营价值传导评估（NTM，非市场估值）",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/FORM_FormFactor_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/FORM_FormFactor_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/FORM.json"
     }
   },
@@ -4562,7 +4562,7 @@
     "evaluation": {
       "title": "TER（Teradyne）收入传导与经营价值评估：NTM 四情景（2026-07-12）",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/TER_Teradyne_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/TER_Teradyne_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/TER.json"
     }
   },
@@ -4601,7 +4601,7 @@
     "evaluation": {
       "title": "ATEYY Advantest 收入传导与经营价值评估（NTM，2026-07-12）",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/ATEYY_Advantest_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/ATEYY_Advantest_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/ATEYY.json"
     }
   },
@@ -4640,7 +4640,7 @@
     "evaluation": {
       "title": "ASMVY / ASMPT 收入传导与经营价值评估（2026-07-12）",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/ASMVY_ASMPT_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/ASMVY_ASMPT_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/ASMVY.json"
     }
   },
@@ -4679,7 +4679,7 @@
     "evaluation": {
       "title": "BESIY：BE Semiconductor Industries NTM 收入传导与经营价值传导评估",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/BESIY_BE_Semiconductor_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/BESIY_BE_Semiconductor_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/BESIY.json"
     }
   },
@@ -4717,7 +4717,7 @@
     "evaluation": {
       "title": "ALLE / Allegion plc：NTM 收入传导与经营价值传导评估（2026-07-12）",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/ALLE_Allegion_plc_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/ALLE_Allegion_plc_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/ALLE.json"
     }
   },
@@ -4755,7 +4755,7 @@
     "evaluation": {
       "title": "CARR Carrier Global 收入传导与价值传导评估",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/CARR_Carrier_Global_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/CARR_Carrier_Global_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/CARR.json"
     }
   },
@@ -4793,7 +4793,7 @@
     "evaluation": {
       "title": "CAT：Caterpillar Inc. 收入传导与价值传导评估",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/CAT_Caterpillar_Inc_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/CAT_Caterpillar_Inc_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/CAT.json"
     }
   },
@@ -4831,7 +4831,7 @@
     "evaluation": {
       "title": "DCI Donaldson Company 收入传导与经营价值评估（2026-07-12）",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/DCI_Donaldson_Company_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/DCI_Donaldson_Company_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/DCI.json"
     }
   },
@@ -4869,7 +4869,7 @@
     "evaluation": {
       "title": "FIX Comfort Systems USA 收入传导与经营价值传导评估（2026-07-12）",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/FIX_Comfort_Systems_USA_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/FIX_Comfort_Systems_USA_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/FIX.json"
     }
   },
@@ -4907,7 +4907,7 @@
     "evaluation": {
       "title": "FTV Fortive Corporation 收入传导与经营价值评估",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/FTV_Fortive_Corporation_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/FTV_Fortive_Corporation_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/FTV.json"
     }
   },
@@ -4945,7 +4945,7 @@
     "evaluation": {
       "title": "MSI Motorola Solutions 收入传导与经营价值评估（NTM，2026-07-12）",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/MSI_Motorola_Solutions_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/MSI_Motorola_Solutions_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/MSI.json"
     }
   },
@@ -4983,7 +4983,7 @@
     "evaluation": {
       "title": "PH Parker-Hannifin：NTM 收入传导与经营价值评估",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/PH_Parker-Hannifin_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/PH_Parker-Hannifin_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/PH.json"
     }
   },
@@ -5021,7 +5021,7 @@
     "evaluation": {
       "title": "PNR：Pentair plc NTM 收入传导与经营价值评估（2026-07-12）",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/PNR_Pentair_plc_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/PNR_Pentair_plc_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/PNR.json"
     }
   },
@@ -5059,7 +5059,7 @@
     "evaluation": {
       "title": "RKLB Rocket Lab：NTM 收入传导与经营价值传导评估",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/RKLB_Rocket_Lab_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/RKLB_Rocket_Lab_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/RKLB.json"
     }
   },
@@ -5097,7 +5097,7 @@
     "evaluation": {
       "title": "TSLA Tesla 收入传导与经营价值评估（NTM，2026-07-12）",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/TSLA_Tesla_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/TSLA_Tesla_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/TSLA.json"
     }
   },
@@ -5135,7 +5135,7 @@
     "evaluation": {
       "title": "TT Trane Technologies 收入传导与经营价值评估（2026-07-12）",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/TT_Trane_Technologies_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/TT_Trane_Technologies_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/TT.json"
     }
   },
@@ -5173,7 +5173,7 @@
     "evaluation": {
       "title": "VRT｜Vertiv：NTM 收入、利润与经营价值传导评估",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/VRT_Vertiv_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/VRT_Vertiv_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/VRT.json"
     }
   },
@@ -5211,7 +5211,7 @@
     "evaluation": {
       "title": "DOV Dover Corporation 收入传导与经营价值评估（NTM，2026-07-12）",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/DOV_Dover_Corporation_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/DOV_Dover_Corporation_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/DOV.json"
     }
   },
@@ -5249,7 +5249,7 @@
     "evaluation": {
       "title": "JCI Johnson Controls：NTM 收入传导、利润传导与经营价值评估",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/JCI_Johnson_Controls_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/JCI_Johnson_Controls_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/JCI.json"
     }
   },
@@ -5287,7 +5287,7 @@
     "evaluation": {
       "title": "MOD Modine Manufacturing：NTM 收入传导、利润传导与经营价值评估",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/MOD_Modine_Manufacturing_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/MOD_Modine_Manufacturing_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/MOD.json"
     }
   },
@@ -5325,7 +5325,7 @@
     "evaluation": {
       "title": "AAON（AAON）NTM 收入传导与经营价值评估（2026-07-12）",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/AAON_AAON_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/AAON_AAON_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/AAON.json"
     }
   },
@@ -5363,7 +5363,7 @@
     "evaluation": {
       "title": "IESC（IES Holdings）NTM 收入传导与经营价值传导评估",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/IESC_IES_Holdings_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/IESC_IES_Holdings_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/IESC.json"
     }
   },
@@ -5401,7 +5401,7 @@
     "evaluation": {
       "title": "EME EMCOR Group：NTM 收入传导与经营价值传导评估",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/EME_EMCOR_Group_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/EME_EMCOR_Group_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/EME.json"
     }
   },
@@ -5439,7 +5439,7 @@
     "evaluation": {
       "title": "MYRG｜MYR Group NTM 收入传导与经营价值评估（2026-07-12）",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/MYRG_MYR_Group_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/MYRG_MYR_Group_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/MYRG.json"
     }
   },
@@ -5478,7 +5478,7 @@
     "evaluation": {
       "title": "ACLS Axcelis Technologies：NTM 收入、利润与经营价值传导评估",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/ACLS_Axcelis_Technologies_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/ACLS_Axcelis_Technologies_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/ACLS.json"
     }
   },
@@ -5517,7 +5517,7 @@
     "evaluation": {
       "title": "ACMR / ACM Research 收入传导与经营价值传导评估",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/ACMR_ACM_Research_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/ACMR_ACM_Research_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/ACMR.json"
     }
   },
@@ -5556,7 +5556,7 @@
     "evaluation": {
       "title": "AMAT Applied Materials 收入传导与经营价值评估",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/AMAT_Applied_Materials_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/AMAT_Applied_Materials_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/AMAT.json"
     }
   },
@@ -5595,7 +5595,7 @@
     "evaluation": {
       "title": "ASMIY（ASM International）收入传导与经营价值评估（2026-07-12）",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/ASMIY_ASM_International_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/ASMIY_ASM_International_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/ASMIY.json"
     }
   },
@@ -5626,15 +5626,15 @@
     "hasReport": true,
     "hasEvaluation": true,
     "report": {
-      "title": "公司：ASML + ASML Holding NV｜全面公司尽调（2026-07-12）",
-      "reportDate": "2026-07-12",
-      "sourcePath": "基本面/公司调研/晶圆制造_前道设备/ASML_ASML_Holding_NV_公司调研_2026-07-12.md",
+      "title": "公司：ASML + ASML Holding N.V.（阿斯麦控股）全面尽调",
+      "reportDate": "2026-07-18",
+      "sourcePath": "基本面/公司调研/晶圆制造_前道设备/ASML_ASML_Holding_NV_公司调研_2026-07-18.md",
       "dataFile": "reports/company/ASML.json"
     },
     "evaluation": {
-      "title": "ASML Holding N.V.：NTM 收入、利润与经营价值传导评估（2026-07-12）",
-      "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/ASML_ASML_Holding_NV_收入传导估值评估_2026-07-12.md",
+      "title": "ASML Holding N.V.（ASML）收入传导与经营价值评估",
+      "reportDate": "2026-07-18",
+      "sourcePath": "分析报告/公司评估/结果/ASML_ASML_Holding_NV_收入传导估值评估_2026-07-18.md",
       "dataFile": "reports/company-evaluation/ASML.json"
     }
   },
@@ -5673,7 +5673,7 @@
     "evaluation": {
       "title": "DSCSY DISCO：NTM 收入传导与经营价值评估（2026-07-12）",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/DSCSY_DISCO_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/DSCSY_DISCO_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/DSCSY.json"
     }
   },
@@ -5712,7 +5712,7 @@
     "evaluation": {
       "title": "GFS GlobalFoundries：NTM 收入传导、利润传导与经营价值评估",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/GFS_GlobalFoundries_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/GFS_GlobalFoundries_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/GFS.json"
     }
   },
@@ -5751,7 +5751,7 @@
     "evaluation": {
       "title": "KLAC：KLA Corporation 收入传导与经营价值评估",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/KLAC_KLA_Corporation_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/KLAC_KLA_Corporation_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/KLAC.json"
     }
   },
@@ -5790,7 +5790,7 @@
     "evaluation": {
       "title": "LRCX Lam Research：NTM 收入、利润与经营价值传导评估（2026-07-12）",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/LRCX_Lam_Research_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/LRCX_Lam_Research_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/LRCX.json"
     }
   },
@@ -5829,7 +5829,7 @@
     "evaluation": {
       "title": "MKSI（MKS Inc.）收入传导与经营价值传导评估",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/MKSI_MKS_Inc_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/MKSI_MKS_Inc_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/MKSI.json"
     }
   },
@@ -5860,15 +5860,15 @@
     "hasReport": true,
     "hasEvaluation": true,
     "report": {
-      "title": "公司：TSEM Tower Semiconductor（高塔半导体）全面尽调",
-      "reportDate": "2026-07-12",
-      "sourcePath": "基本面/公司调研/晶圆制造_前道设备/TSEM_Tower_Semiconductor_公司调研_2026-07-12.md",
+      "title": "Tower Semiconductor（TSEM）：全面公司尽调",
+      "reportDate": "2026-07-18",
+      "sourcePath": "基本面/公司调研/晶圆制造_前道设备/TSEM_Tower_Semiconductor_公司调研_2026-07-18.md",
       "dataFile": "reports/company/TSEM.json"
     },
     "evaluation": {
-      "title": "TSEM Tower Semiconductor 收入传导与经营价值评估",
-      "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/TSEM_Tower_Semiconductor_收入传导估值评估_2026-07-12.md",
+      "title": "TSEM Tower Semiconductor：NTM 收入传导与经营价值评估",
+      "reportDate": "2026-07-18",
+      "sourcePath": "分析报告/公司评估/结果/TSEM_Tower_Semiconductor_收入传导估值评估_2026-07-18.md",
       "dataFile": "reports/company-evaluation/TSEM.json"
     }
   },
@@ -5899,15 +5899,15 @@
     "hasReport": true,
     "hasEvaluation": true,
     "report": {
-      "title": "公司：TSM 台积电（Taiwan Semiconductor Manufacturing Company Limited）全面尽调",
-      "reportDate": "2026-07-12",
-      "sourcePath": "基本面/公司调研/晶圆制造_前道设备/TSM_台积电_公司调研_2026-07-12.md",
+      "title": "公司：TSM 台积电（Taiwan Semiconductor Manufacturing Company）全面尽调",
+      "reportDate": "2026-07-18",
+      "sourcePath": "基本面/公司调研/晶圆制造_前道设备/TSM_台积电_公司调研_2026-07-18.md",
       "dataFile": "reports/company/TSM.json"
     },
     "evaluation": {
-      "title": "TSM 台积电收入传导与经营价值传导评估（2026-07-12）",
-      "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/TSM_台积电_收入传导估值评估_2026-07-12.md",
+      "title": "TSM 台积电：NTM 收入传导与经营价值评估",
+      "reportDate": "2026-07-18",
+      "sourcePath": "分析报告/公司评估/结果/TSM_台积电_收入传导估值评估_2026-07-18.md",
       "dataFile": "reports/company-evaluation/TSM.json"
     }
   },
@@ -5946,7 +5946,7 @@
     "evaluation": {
       "title": "UCTT Ultra Clean Holdings 收入传导与经营价值评估（NTM）",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/UCTT_Ultra_Clean_Holdings_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/UCTT_Ultra_Clean_Holdings_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/UCTT.json"
     }
   },
@@ -5985,7 +5985,7 @@
     "evaluation": {
       "title": "UMC（United Microelectronics / 联华电子）收入传导与经营价值传导评估",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/UMC_United_Microelectronics_联华电子_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/UMC_United_Microelectronics_联华电子_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/UMC.json"
     }
   },
@@ -6024,7 +6024,7 @@
     "evaluation": {
       "title": "VECO Veeco Instruments 收入传导与经营价值评估（2026-07-12）",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/VECO_Veeco_Instruments_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/VECO_Veeco_Instruments_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/VECO.json"
     }
   },
@@ -6063,7 +6063,7 @@
     "evaluation": {
       "title": "ICHR — Ichor Holdings 收入传导与经营价值评估（2026-07-12）",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/ICHR_Ichor_Holdings_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/ICHR_Ichor_Holdings_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/ICHR.json"
     }
   },
@@ -6102,7 +6102,7 @@
     "evaluation": {
       "title": "NVMI Nova Ltd. 收入传导与经营价值评估：NTM 四情景（2026-07-12）",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/NVMI_Nova_Ltd_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/NVMI_Nova_Ltd_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/NVMI.json"
     }
   },
@@ -6141,7 +6141,7 @@
     "evaluation": {
       "title": "TOELY Tokyo Electron 收入传导与经营价值评估（NTM）",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/TOELY_Tokyo_Electron_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/TOELY_Tokyo_Electron_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/TOELY.json"
     }
   },
@@ -6180,7 +6180,7 @@
     "evaluation": {
       "title": "AEIS：Advanced Energy Industries 收入传导与经营价值传导评估",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/AEIS_Advanced_Energy_Industries_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/AEIS_Advanced_Energy_Industries_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/AEIS.json"
     }
   },
@@ -6218,7 +6218,7 @@
     "evaluation": {
       "title": "ABBNY — ABB Ltd：NTM 收入传导与经营价值传导评估",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/ABBNY_ABB_Ltd_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/ABBNY_ABB_Ltd_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/ABBNY.json"
     }
   },
@@ -6256,7 +6256,7 @@
     "evaluation": {
       "title": "AOSL Alpha and Omega Semiconductor 收入传导与经营价值评估",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/AOSL_Alpha_and_Omega_Semiconductor_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/AOSL_Alpha_and_Omega_Semiconductor_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/AOSL.json"
     }
   },
@@ -6294,7 +6294,7 @@
     "evaluation": {
       "title": "ATKR Atkore 收入传导与经营价值评估",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/ATKR_Atkore_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/ATKR_Atkore_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/ATKR.json"
     }
   },
@@ -6332,7 +6332,7 @@
     "evaluation": {
       "title": "DIOD Diodes Incorporated：NTM 收入传导与经营价值评估",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/DIOD_Diodes_Incorporated_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/DIOD_Diodes_Incorporated_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/DIOD.json"
     }
   },
@@ -6370,7 +6370,7 @@
     "evaluation": {
       "title": "HUBB Hubbell 收入传导与经营价值评估（2026-07-12）",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/HUBB_Hubbell_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/HUBB_Hubbell_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/HUBB.json"
     }
   },
@@ -6408,7 +6408,7 @@
     "evaluation": {
       "title": "LFUS — Littelfuse 收入传导与经营价值评估（2026-07-12）",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/LFUS_Littelfuse_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/LFUS_Littelfuse_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/LFUS.json"
     }
   },
@@ -6446,7 +6446,7 @@
     "evaluation": {
       "title": "MIELY 三菱电机 Mitsubishi Electric：NTM 收入传导与经营价值评估",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/MIELY_三菱电机_Mitsubishi_Electric_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/MIELY_三菱电机_Mitsubishi_Electric_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/MIELY.json"
     }
   },
@@ -6484,7 +6484,7 @@
     "evaluation": {
       "title": "MPWR：Monolithic Power Systems 收入传导与经营价值评估",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/MPWR_Monolithic_Power_Systems_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/MPWR_Monolithic_Power_Systems_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/MPWR.json"
     }
   },
@@ -6522,7 +6522,7 @@
     "evaluation": {
       "title": "POWI Power Integrations：NTM 收入传导与经营价值四情景评估",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/POWI_Power_Integrations_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/POWI_Power_Integrations_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/POWI.json"
     }
   },
@@ -6560,7 +6560,7 @@
     "evaluation": {
       "title": "POWL（Powell Industries）NTM 收入传导与经营价值评估",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/POWL_Powell_Industries_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/POWL_Powell_Industries_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/POWL.json"
     }
   },
@@ -6598,7 +6598,7 @@
     "evaluation": {
       "title": "ST Sensata Technologies 收入传导与经营价值评估",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/ST_Sensata_Technologies_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/ST_Sensata_Technologies_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/ST.json"
     }
   },
@@ -6636,7 +6636,7 @@
     "evaluation": {
       "title": "VICR Vicor Corporation 收入传导与经营价值传导评估",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/VICR_Vicor_Corporation_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/VICR_Vicor_Corporation_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/VICR.json"
     }
   },
@@ -6674,7 +6674,7 @@
     "evaluation": {
       "title": "VSH Vishay Intertechnology 收入传导与经营价值传导评估",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/VSH_Vishay_Intertechnology_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/VSH_Vishay_Intertechnology_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/VSH.json"
     }
   },
@@ -6712,7 +6712,7 @@
     "evaluation": {
       "title": "WOLF Wolfspeed 收入传导与经营价值评估：NTM 四情景",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/WOLF_Wolfspeed_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/WOLF_Wolfspeed_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/WOLF.json"
     }
   },
@@ -6750,7 +6750,7 @@
     "evaluation": {
       "title": "ETN Eaton Corporation：NTM 收入、利润与经营价值传导评估",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/ETN_Eaton_Corporation_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/ETN_Eaton_Corporation_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/ETN.json"
     }
   },
@@ -6788,7 +6788,7 @@
     "evaluation": {
       "title": "IFNNY：Infineon Technologies AG（英飞凌科技）收入传导与经营价值评估（2026-07-12）",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/IFNNY_Infineon_Technologies_AG_英飞凌科技_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/IFNNY_Infineon_Technologies_AG_英飞凌科技_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/IFNNY.json"
     }
   },
@@ -6826,7 +6826,7 @@
     "evaluation": {
       "title": "NVT nVent Electric 收入传导与经营价值评估（2026-07-12）",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/NVT_nVent_Electric_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/NVT_nVent_Electric_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/NVT.json"
     }
   },
@@ -6864,7 +6864,7 @@
     "evaluation": {
       "title": "NVTS Navitas Semiconductor 收入传导与经营价值评估（2026-07-12）",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/NVTS_Navitas_Semiconductor_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/NVTS_Navitas_Semiconductor_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/NVTS.json"
     }
   },
@@ -6902,7 +6902,7 @@
     "evaluation": {
       "title": "MRAAY｜Murata Manufacturing 收入传导与经营价值评估",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/MRAAY_Murata_Manufacturing_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/MRAAY_Murata_Manufacturing_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/MRAAY.json"
     }
   },
@@ -6940,7 +6940,7 @@
     "evaluation": {
       "title": "TTDKY — TDK Corporation 收入传导与经营价值评估（NTM）",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/TTDKY_TDK_Corporation_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/TTDKY_TDK_Corporation_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/TTDKY.json"
     }
   },
@@ -6983,7 +6983,7 @@
     "evaluation": {
       "title": "ADBE Adobe 收入传导与经营价值评估",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/ADBE_Adobe_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/ADBE_Adobe_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/ADBE.json"
     }
   },
@@ -7026,7 +7026,7 @@
     "evaluation": {
       "title": "AMZN Amazon 收入传导与经营价值评估：从需求到 NTM 收入、利润与现金流",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/AMZN_Amazon_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/AMZN_Amazon_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/AMZN.json"
     }
   },
@@ -7069,7 +7069,7 @@
     "evaluation": {
       "title": "APLD Applied Digital：NTM 收入传导与经营价值评估",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/APLD_Applied_Digital_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/APLD_Applied_Digital_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/APLD.json"
     }
   },
@@ -7112,7 +7112,7 @@
     "evaluation": {
       "title": "CRWD CrowdStrike：NTM 收入、利润与经营价值传导评估",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/CRWD_CrowdStrike_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/CRWD_CrowdStrike_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/CRWD.json"
     }
   },
@@ -7155,7 +7155,7 @@
     "evaluation": {
       "title": "CRWV CoreWeave：NTM 收入、利润与经营价值传导评估（2026-07-12）",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/CRWV_CoreWeave_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/CRWV_CoreWeave_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/CRWV.json"
     }
   },
@@ -7198,7 +7198,7 @@
     "evaluation": {
       "title": "DLR Digital Realty 收入传导与经营价值评估：NTM 四情景（2026-07-12）",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/DLR_Digital_Realty_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/DLR_Digital_Realty_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/DLR.json"
     }
   },
@@ -7233,15 +7233,15 @@
     "hasReport": true,
     "hasEvaluation": true,
     "report": {
-      "title": "公司：GOOGL Alphabet Inc.（Alphabet/Google）全面公司尽调",
-      "reportDate": "2026-07-12",
-      "sourcePath": "基本面/公司调研/云算力_IDC_AI软件平台/GOOGL_Alphabet_Inc_公司调研_2026-07-12.md",
+      "title": "公司：GOOGL Alphabet Inc. 全面尽职调查——从搜索现金牛到全栈 AI 基础设施平台",
+      "reportDate": "2026-07-18",
+      "sourcePath": "基本面/公司调研/云算力_IDC_AI软件平台/GOOGL_Alphabet_Inc_公司调研_2026-07-18.md",
       "dataFile": "reports/company/GOOGL.json"
     },
     "evaluation": {
-      "title": "GOOGL Alphabet Inc. 收入传导与经营价值传导评估（NTM）",
-      "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/GOOGL_Alphabet_Inc_收入传导估值评估_2026-07-12.md",
+      "title": "GOOGL Alphabet Inc. 收入传导与价值传导评估",
+      "reportDate": "2026-07-18",
+      "sourcePath": "分析报告/公司评估/结果/GOOGL_Alphabet_Inc_收入传导估值评估_2026-07-18.md",
       "dataFile": "reports/company-evaluation/GOOGL.json"
     }
   },
@@ -7276,15 +7276,15 @@
     "hasReport": true,
     "hasEvaluation": true,
     "report": {
-      "title": "IBM（NYSE: IBM）International Business Machines 全面公司尽调：软件化转型、企业 AI 与主机周期",
-      "reportDate": "2026-07-12",
-      "sourcePath": "基本面/公司调研/云算力_IDC_AI软件平台/IBM_International_Business_Machines_公司调研_2026-07-12.md",
+      "title": "IBM（NYSE: IBM）国际商业机器公司全面尽调（截至 2026-07-18）",
+      "reportDate": "2026-07-18",
+      "sourcePath": "基本面/公司调研/云算力_IDC_AI软件平台/IBM_International_Business_Machines_公司调研_2026-07-18.md",
       "dataFile": "reports/company/IBM.json"
     },
     "evaluation": {
-      "title": "IBM（International Business Machines）NTM 收入传导与经营价值传导评估",
-      "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/IBM_International_Business_Machines_收入传导估值评估_2026-07-12.md",
+      "title": "IBM（International Business Machines）收入传导与经营价值评估",
+      "reportDate": "2026-07-18",
+      "sourcePath": "分析报告/公司评估/结果/IBM_International_Business_Machines_收入传导估值评估_2026-07-18.md",
       "dataFile": "reports/company-evaluation/IBM.json"
     }
   },
@@ -7327,7 +7327,7 @@
     "evaluation": {
       "title": "IREN Limited（IREN）收入传导与价值传导评估（2026-07-12）",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/IREN_IREN_Limited_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/IREN_IREN_Limited_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/IREN.json"
     }
   },
@@ -7362,15 +7362,15 @@
     "hasReport": true,
     "hasEvaluation": true,
     "report": {
-      "title": "META（Meta Platforms）：从广告现金牛到自建 AI 超级计算平台的全面尽调",
-      "reportDate": "2026-07-12",
-      "sourcePath": "基本面/公司调研/云算力_IDC_AI软件平台/META_Meta_Platforms_公司调研_2026-07-12.md",
+      "title": "公司：META Meta Platforms｜全面尽调：广告现金流向 AI 超级基础设施、智能体与 AI 眼镜的再投资",
+      "reportDate": "2026-07-18",
+      "sourcePath": "基本面/公司调研/云算力_IDC_AI软件平台/META_Meta_Platforms_公司调研_2026-07-18.md",
       "dataFile": "reports/company/META.json"
     },
     "evaluation": {
-      "title": "META（Meta Platforms）收入传导与价值传导评估（2026-07-12）",
-      "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/META_Meta_Platforms_收入传导估值评估_2026-07-12.md",
+      "title": "META Meta Platforms：公司收入传导与经营价值传导评估",
+      "reportDate": "2026-07-18",
+      "sourcePath": "分析报告/公司评估/结果/META_Meta_Platforms_收入传导估值评估_2026-07-18.md",
       "dataFile": "reports/company-evaluation/META.json"
     }
   },
@@ -7405,15 +7405,15 @@
     "hasReport": true,
     "hasEvaluation": true,
     "report": {
-      "title": "MSFT（Microsoft / 微软）全面公司尽调：云、AI 基础设施与 Agent 平台（2026-07-12）",
-      "reportDate": "2026-07-12",
-      "sourcePath": "基本面/公司调研/云算力_IDC_AI软件平台/MSFT_微软_公司调研_2026-07-12.md",
+      "title": "公司：MSFT 微软（Microsoft Corporation）",
+      "reportDate": "2026-07-18",
+      "sourcePath": "基本面/公司调研/云算力_IDC_AI软件平台/MSFT_微软_公司调研_2026-07-18.md",
       "dataFile": "reports/company/MSFT.json"
     },
     "evaluation": {
-      "title": "MSFT（微软）收入传导与经营价值评估：NTM 四情景（2026-07-12）",
-      "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/MSFT_微软_收入传导估值评估_2026-07-12.md",
+      "title": "MSFT 微软：NTM 收入传导与经营价值四情景评估",
+      "reportDate": "2026-07-18",
+      "sourcePath": "分析报告/公司评估/结果/MSFT_微软_收入传导估值评估_2026-07-18.md",
       "dataFile": "reports/company-evaluation/MSFT.json"
     }
   },
@@ -7456,7 +7456,7 @@
     "evaluation": {
       "title": "NTNX Nutanix 公司收入传导与经营价值传导评估（2026-07-12）",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/NTNX_Nutanix_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/NTNX_Nutanix_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/NTNX.json"
     }
   },
@@ -7499,7 +7499,7 @@
     "evaluation": {
       "title": "ORCL Oracle Corporation 收入传导与经营价值传导评估",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/ORCL_Oracle_Corporation_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/ORCL_Oracle_Corporation_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/ORCL.json"
     }
   },
@@ -7542,7 +7542,7 @@
     "evaluation": {
       "title": "BABA｜Alibaba 阿里巴巴：NTM 收入、利润与经营价值传导评估",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/BABA_Alibaba_阿里巴巴_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/BABA_Alibaba_阿里巴巴_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/BABA.json"
     }
   },
@@ -7585,7 +7585,7 @@
     "evaluation": {
       "title": "EQIX Equinix：NTM 收入传导、利润兑现与经营价值评估",
       "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/EQIX_Equinix_收入传导估值评估_2026-07-12.md",
+      "sourcePath": "分析报告/公司评估/结果/EQIX_Equinix_收入传导估值评估_2026-07-12.md",
       "dataFile": "reports/company-evaluation/EQIX.json"
     }
   },
@@ -7620,15 +7620,15 @@
     "hasReport": true,
     "hasEvaluation": true,
     "report": {
-      "title": "公司：NBIS Nebius Group N.V. 全面尽调",
-      "reportDate": "2026-07-12",
-      "sourcePath": "基本面/公司调研/云算力_IDC_AI软件平台/NBIS_Nebius_Group_公司调研_2026-07-12.md",
+      "title": "公司：NBIS Nebius Group（Nebius Group N.V.）全面尽调报告",
+      "reportDate": "2026-07-18",
+      "sourcePath": "基本面/公司调研/云算力_IDC_AI软件平台/NBIS_Nebius_Group_公司调研_2026-07-18.md",
       "dataFile": "reports/company/NBIS.json"
     },
     "evaluation": {
-      "title": "NBIS Nebius Group 收入传导与经营价值评估",
-      "reportDate": "2026-07-12",
-      "sourcePath": "基本面/分析报告/公司评估/结果/NBIS_Nebius_Group_收入传导估值评估_2026-07-12.md",
+      "title": "NBIS Nebius Group：NTM 公司收入传导与经营价值传导评估",
+      "reportDate": "2026-07-18",
+      "sourcePath": "分析报告/公司评估/结果/NBIS_Nebius_Group_收入传导估值评估_2026-07-18.md",
       "dataFile": "reports/company-evaluation/NBIS.json"
     }
   }
