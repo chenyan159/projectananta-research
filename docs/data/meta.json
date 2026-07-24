@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-24T06:14:27.771Z",
-  "generatedAtDisplay": "2026/7/23 23:14:27",
+  "generatedAt": "2026-07-24T06:44:55.135Z",
+  "generatedAtDisplay": "2026/7/23 23:44:55",
   "sourceRootName": "Investment",
   "siteRoot": "tools/site",
   "companyCount": 192,
@@ -39,36 +39,36 @@
     "companyComparisons": {
       "label": "公司对比",
       "status": "fresh",
-      "attemptedAt": "2026-07-24T06:14:20.295Z",
-      "generatedAt": "2026-07-24T06:14:23.251Z",
+      "attemptedAt": "2026-07-24T06:44:46.083Z",
+      "generatedAt": "2026-07-24T06:44:49.603Z",
       "dataDate": "2026-07-14 至 2026-07-18（2 个报告日）"
     },
     "scenarioDecisions": {
       "label": "情景决策",
       "status": "fresh",
-      "attemptedAt": "2026-07-24T06:14:24.361Z",
-      "generatedAt": "2026-07-24T06:14:25.083Z",
+      "attemptedAt": "2026-07-24T06:44:51.188Z",
+      "generatedAt": "2026-07-24T06:44:51.996Z",
       "dataDate": "2026-07-18"
     },
     "rankings": {
       "label": "公司排序",
       "status": "fresh",
-      "attemptedAt": "2026-07-24T06:14:25.540Z",
-      "generatedAt": "2026-07-24T06:14:25.668Z",
+      "attemptedAt": "2026-07-24T06:44:52.526Z",
+      "generatedAt": "2026-07-24T06:44:52.663Z",
       "dataDate": "2026-07-10"
     },
     "technicalResearch": {
       "label": "技术面",
       "status": "fresh",
-      "attemptedAt": "2026-07-24T06:14:25.705Z",
-      "generatedAt": "2026-07-24T06:14:25.799Z",
+      "attemptedAt": "2026-07-24T06:44:52.697Z",
+      "generatedAt": "2026-07-24T06:44:52.786Z",
       "dataDate": "2026-07-15"
     },
     "dailyNews": {
       "label": "每日新闻",
       "status": "fresh",
-      "attemptedAt": "2026-07-24T06:14:25.838Z",
-      "generatedAt": "2026-07-24T06:14:25.970Z",
+      "attemptedAt": "2026-07-24T06:44:52.827Z",
+      "generatedAt": "2026-07-24T06:44:52.992Z",
       "dataDate": "2026-07-23"
     }
   }
