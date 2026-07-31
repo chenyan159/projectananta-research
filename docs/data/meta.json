@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-30T13:04:02.109Z",
-  "generatedAtDisplay": "2026/7/30 06:04:02",
+  "generatedAt": "2026-07-31T13:03:48.105Z",
+  "generatedAtDisplay": "2026/7/31 06:03:48",
   "sourceRootName": "Investment",
   "siteRoot": "tools/site",
   "companyCount": 192,
@@ -31,45 +31,45 @@
   "technicalFactorCount": 18,
   "technicalMarketCount": 5,
   "technicalHorizonCount": 5,
-  "latestFinancialDate": "2026-07-29",
-  "latestDailyNewsDate": "2026-07-30",
+  "latestFinancialDate": "2026-07-30",
+  "latestDailyNewsDate": "2026-07-31",
   "dailyNewsCount": 10,
   "qualityAlertCount": 23,
   "moduleBuilds": {
     "companyComparisons": {
       "label": "公司对比",
       "status": "fresh",
-      "attemptedAt": "2026-07-30T13:03:55.039Z",
-      "generatedAt": "2026-07-30T13:03:57.677Z",
+      "attemptedAt": "2026-07-31T13:03:38.458Z",
+      "generatedAt": "2026-07-31T13:03:42.016Z",
       "dataDate": "2026-07-14 至 2026-07-18（2 个报告日）"
     },
     "scenarioDecisions": {
       "label": "情景决策",
       "status": "fresh",
-      "attemptedAt": "2026-07-30T13:03:58.634Z",
-      "generatedAt": "2026-07-30T13:03:59.285Z",
+      "attemptedAt": "2026-07-31T13:03:43.346Z",
+      "generatedAt": "2026-07-31T13:03:44.263Z",
       "dataDate": "2026-07-18"
     },
     "rankings": {
       "label": "公司排序",
       "status": "fresh",
-      "attemptedAt": "2026-07-30T13:03:59.711Z",
-      "generatedAt": "2026-07-30T13:03:59.835Z",
+      "attemptedAt": "2026-07-31T13:03:44.884Z",
+      "generatedAt": "2026-07-31T13:03:45.061Z",
       "dataDate": "2026-07-10"
     },
     "technicalResearch": {
       "label": "技术面",
       "status": "fresh",
-      "attemptedAt": "2026-07-30T13:03:59.861Z",
-      "generatedAt": "2026-07-30T13:03:59.952Z",
+      "attemptedAt": "2026-07-31T13:03:45.093Z",
+      "generatedAt": "2026-07-31T13:03:45.216Z",
       "dataDate": "2026-07-15"
     },
     "dailyNews": {
       "label": "每日新闻",
       "status": "fresh",
-      "attemptedAt": "2026-07-30T13:03:59.985Z",
-      "generatedAt": "2026-07-30T13:04:00.131Z",
-      "dataDate": "2026-07-30"
+      "attemptedAt": "2026-07-31T13:03:45.260Z",
+      "generatedAt": "2026-07-31T13:03:45.427Z",
+      "dataDate": "2026-07-31"
     }
   }
 }
