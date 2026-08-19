@@ -3,8 +3,8 @@
     "companyIndexCount": 192,
     "companyReportUnique": 192,
     "companyEvaluationUnique": 192,
-    "industryIndexCount": 75,
-    "industryReportUnique": 74,
+    "industryIndexCount": 77,
+    "industryReportUnique": 77,
     "featureDefinitionCount": 19,
     "featureFileCount": 19,
     "alphaFeatureCount": 16,
@@ -41,7 +41,7 @@
       "N06": 192,
       "E03": 192
     },
-    "rawIndustryReportCount": 76,
+    "rawIndustryReportCount": 77,
     "moduleBuilds": {
       "companyComparisons": "fresh",
       "scenarioDecisions": "fresh",
@@ -56,12 +56,6 @@
       "type": "ranking-price-history-partial",
       "title": "部分排名公司缺少完整历史价格",
       "message": "190/192 家有当前评估所需的完整价格历史。"
-    },
-    {
-      "severity": "info",
-      "type": "industry-report-missing",
-      "title": "行业索引中存在未匹配正式报告",
-      "message": "AI服务器CPU与控制平面芯片"
     },
     {
       "severity": "info",

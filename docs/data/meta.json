@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-18T13:03:05.681Z",
-  "generatedAtDisplay": "2026/8/18 06:03:05",
+  "generatedAt": "2026-08-19T13:01:51.889Z",
+  "generatedAtDisplay": "2026/8/19 06:01:51",
   "sourceRootName": "Investment",
   "siteRoot": "tools/site",
   "companyCount": 192,
   "companyReportCount": 192,
   "companyEvaluationCount": 192,
-  "industryCount": 75,
-  "industryReportCount": 74,
+  "industryCount": 77,
+  "industryReportCount": 77,
   "featureCount": 19,
   "featureScoreFileCount": 19,
   "alphaFeatureCount": 16,
@@ -31,45 +31,45 @@
   "technicalFactorCount": 18,
   "technicalMarketCount": 5,
   "technicalHorizonCount": 5,
-  "latestFinancialDate": "2026-08-17",
-  "latestDailyNewsDate": "2026-08-18",
+  "latestFinancialDate": "2026-08-18",
+  "latestDailyNewsDate": "2026-08-19",
   "dailyNewsCount": 10,
-  "qualityAlertCount": 23,
+  "qualityAlertCount": 22,
   "moduleBuilds": {
     "companyComparisons": {
       "label": "公司对比",
       "status": "fresh",
-      "attemptedAt": "2026-08-18T13:02:58.409Z",
-      "generatedAt": "2026-08-18T13:03:01.067Z",
+      "attemptedAt": "2026-08-19T13:01:44.973Z",
+      "generatedAt": "2026-08-19T13:01:47.591Z",
       "dataDate": "2026-07-14 至 2026-07-18（2 个报告日）"
     },
     "scenarioDecisions": {
       "label": "情景决策",
       "status": "fresh",
-      "attemptedAt": "2026-08-18T13:03:02.059Z",
-      "generatedAt": "2026-08-18T13:03:02.736Z",
+      "attemptedAt": "2026-08-19T13:01:48.544Z",
+      "generatedAt": "2026-08-19T13:01:49.204Z",
       "dataDate": "2026-07-18"
     },
     "rankings": {
       "label": "公司排序",
       "status": "fresh",
-      "attemptedAt": "2026-08-18T13:03:03.215Z",
-      "generatedAt": "2026-08-18T13:03:03.344Z",
+      "attemptedAt": "2026-08-19T13:01:49.616Z",
+      "generatedAt": "2026-08-19T13:01:49.741Z",
       "dataDate": "2026-07-10"
     },
     "technicalResearch": {
       "label": "技术面",
       "status": "fresh",
-      "attemptedAt": "2026-08-18T13:03:03.369Z",
-      "generatedAt": "2026-08-18T13:03:03.466Z",
+      "attemptedAt": "2026-08-19T13:01:49.766Z",
+      "generatedAt": "2026-08-19T13:01:49.865Z",
       "dataDate": "2026-07-15"
     },
     "dailyNews": {
       "label": "每日新闻",
       "status": "fresh",
-      "attemptedAt": "2026-08-18T13:03:03.497Z",
-      "generatedAt": "2026-08-18T13:03:03.649Z",
-      "dataDate": "2026-08-18"
+      "attemptedAt": "2026-08-19T13:01:49.898Z",
+      "generatedAt": "2026-08-19T13:01:50.031Z",
+      "dataDate": "2026-08-19"
     }
   }
 }
