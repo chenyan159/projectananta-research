@@ -1,16 +1,17 @@
 {
   "schemaVersion": 1,
   "source": "companyScenarioDecisionSiteData",
-  "generatedAt": "2026-08-19T13:01:49.204Z",
+  "generatedAt": "2026-08-20T13:01:55.680Z",
   "sourceRoot": "分析报告/公司情景投资决策",
   "resultRoot": "分析报告/公司情景投资决策/结果",
-  "reportDate": "2026-07-18",
+  "reportDate": "2026-08-19",
   "reportDates": [
     "2026-07-15",
-    "2026-07-18"
+    "2026-07-18",
+    "2026-08-19"
   ],
   "researchPlanHash": "98bdd9db23ddc6c5",
-  "sourceHash": "4a3a34d32e29938f",
+  "sourceHash": "429d7beb9a395d44",
   "companyCount": 192,
   "cellCount": 3840,
   "estimableCellCount": 3835,
@@ -112,34 +113,34 @@
     "warnings": [
       "SMR 有 5 个 NA 格子"
     ],
-    "snapshotIdentityCount": 157
+    "snapshotIdentityCount": 141
   },
   "metrics": {
     "companyCount": 192,
     "cellCount": 3840,
     "estimableCellCount": 3835,
     "current": {
-      "positive": 35,
-      "neutral": 54,
+      "positive": 33,
+      "neutral": 56,
       "negative": 103,
-      "positiveShare": 0.1823,
+      "positiveShare": 0.1719,
       "adviceCounts": {
-        "strongNo": 35,
-        "no": 68,
-        "neutral": 54,
-        "cautious": 29,
+        "strongNo": 34,
+        "no": 69,
+        "neutral": 56,
+        "cautious": 27,
         "yes": 5,
         "strongYes": 1
       },
       "pure": {
-        "positive": 40,
-        "neutral": 51,
-        "negative": 101,
+        "positive": 38,
+        "neutral": 54,
+        "negative": 100,
         "adviceCounts": {
-          "strongNo": 34,
+          "strongNo": 33,
           "no": 67,
-          "neutral": 51,
-          "cautious": 34,
+          "neutral": 54,
+          "cautious": 32,
           "yes": 5,
           "strongYes": 1
         }
@@ -149,25 +150,25 @@
         "pessimistic": 1
       },
       "marketCounts": {
-        "broad": 162,
-        "range": 18,
+        "broad": 165,
+        "range": 15,
         "theme": 12
       },
-      "compositeCount": 9,
+      "compositeCount": 10,
       "rotationAdjustedCount": 2
     },
     "matrix": {
-      "positive": 1445,
-      "neutral": 307,
-      "negative": 2083,
-      "positiveShare": 0.3768,
+      "positive": 1432,
+      "neutral": 313,
+      "negative": 2090,
+      "positiveShare": 0.3734,
       "adviceCounts": {
-        "strongNo": 1557,
-        "no": 526,
-        "neutral": 307,
-        "cautious": 463,
-        "yes": 388,
-        "strongYes": 594
+        "strongNo": 1558,
+        "no": 532,
+        "neutral": 313,
+        "cautious": 456,
+        "yes": 390,
+        "strongYes": 586
       },
       "scenarioStats": [
         {
@@ -185,30 +186,30 @@
           "label": "基准 / 正常兑现",
           "shortLabel": "基准",
           "estimableCount": 960,
-          "positiveCount": 100,
-          "neutralCount": 136,
-          "negativeCount": 724,
-          "positiveShare": 0.1042
+          "positiveCount": 92,
+          "neutralCount": 137,
+          "negativeCount": 731,
+          "positiveShare": 0.0958
         },
         {
           "key": "optimistic",
           "label": "乐观 / 超预期",
           "shortLabel": "乐观",
           "estimableCount": 960,
-          "positiveCount": 538,
-          "neutralCount": 110,
+          "positiveCount": 535,
+          "neutralCount": 113,
           "negativeCount": 312,
-          "positiveShare": 0.5604
+          "positiveShare": 0.5573
         },
         {
           "key": "breakthrough",
           "label": "突破 / 非线性",
           "shortLabel": "突破",
           "estimableCount": 955,
-          "positiveCount": 807,
-          "neutralCount": 61,
+          "positiveCount": 805,
+          "neutralCount": 63,
           "negativeCount": 87,
-          "positiveShare": 0.845
+          "positiveShare": 0.8429
         }
       ],
       "marketStats": [
@@ -227,43 +228,43 @@
           "label": "窄幅 / 主题主导上涨",
           "shortLabel": "主题上涨",
           "estimableCount": 767,
-          "positiveCount": 414,
+          "positiveCount": 409,
           "neutralCount": 62,
-          "negativeCount": 291,
-          "positiveShare": 0.5398
+          "negativeCount": 296,
+          "positiveShare": 0.5332
         },
         {
           "key": "range",
           "label": "震荡 / 均值回归",
           "shortLabel": "震荡",
           "estimableCount": 767,
-          "positiveCount": 314,
-          "neutralCount": 76,
-          "negativeCount": 377,
-          "positiveShare": 0.4094
+          "positiveCount": 312,
+          "neutralCount": 77,
+          "negativeCount": 378,
+          "positiveShare": 0.4068
         },
         {
           "key": "orderly",
           "label": "有序风险收缩",
           "shortLabel": "有序收缩",
           "estimableCount": 767,
-          "positiveCount": 221,
+          "positiveCount": 219,
           "neutralCount": 57,
-          "negativeCount": 489,
-          "positiveShare": 0.2881
+          "negativeCount": 491,
+          "positiveShare": 0.2855
         },
         {
           "key": "liquidity",
           "label": "流动性 / 信用压力",
           "shortLabel": "流动性压力",
           "estimableCount": 767,
-          "positiveCount": 95,
-          "neutralCount": 51,
-          "negativeCount": 621,
-          "positiveShare": 0.1239
+          "positiveCount": 91,
+          "neutralCount": 56,
+          "negativeCount": 620,
+          "positiveShare": 0.1186
         }
       ],
-      "noBasePositiveCount": 126,
+      "noBasePositiveCount": 132,
       "noPositiveCount": 2
     }
   },
@@ -279,8 +280,8 @@
       "neutralCount": 0,
       "negativeCount": 192,
       "positiveShare": 0,
-      "medianLowReturn": -68.5,
-      "medianHighReturn": -38
+      "medianLowReturn": -67.5,
+      "medianHighReturn": -39
     },
     {
       "operatingScenario": "pessimistic",
@@ -293,8 +294,8 @@
       "neutralCount": 0,
       "negativeCount": 192,
       "positiveShare": 0,
-      "medianLowReturn": -70,
-      "medianHighReturn": -41
+      "medianLowReturn": -69,
+      "medianHighReturn": -42
     },
     {
       "operatingScenario": "pessimistic",
@@ -322,7 +323,7 @@
       "negativeCount": 192,
       "positiveShare": 0,
       "medianLowReturn": -80,
-      "medianHighReturn": -57
+      "medianHighReturn": -58
     },
     {
       "operatingScenario": "pessimistic",
@@ -345,12 +346,12 @@
       "marketLabel": "宽基风险扩张",
       "companyCount": 192,
       "estimableCount": 192,
-      "positiveCount": 45,
-      "neutralCount": 51,
-      "negativeCount": 96,
-      "positiveShare": 0.2344,
-      "medianLowReturn": -25,
-      "medianHighReturn": 17.35
+      "positiveCount": 43,
+      "neutralCount": 52,
+      "negativeCount": 97,
+      "positiveShare": 0.224,
+      "medianLowReturn": -25.25,
+      "medianHighReturn": 16
     },
     {
       "operatingScenario": "base",
@@ -359,12 +360,12 @@
       "marketLabel": "窄幅 / 主题主导上涨",
       "companyCount": 192,
       "estimableCount": 192,
-      "positiveCount": 50,
-      "neutralCount": 50,
-      "negativeCount": 92,
-      "positiveShare": 0.2604,
+      "positiveCount": 44,
+      "neutralCount": 52,
+      "negativeCount": 96,
+      "positiveShare": 0.2292,
       "medianLowReturn": -24,
-      "medianHighReturn": 19
+      "medianHighReturn": 18.1
     },
     {
       "operatingScenario": "base",
@@ -374,11 +375,11 @@
       "companyCount": 192,
       "estimableCount": 192,
       "positiveCount": 4,
-      "neutralCount": 33,
-      "negativeCount": 155,
+      "neutralCount": 31,
+      "negativeCount": 157,
       "positiveShare": 0.0208,
       "medianLowReturn": -36,
-      "medianHighReturn": 1
+      "medianHighReturn": 0
     },
     {
       "operatingScenario": "base",
@@ -415,12 +416,12 @@
       "marketLabel": "宽基风险扩张",
       "companyCount": 192,
       "estimableCount": 192,
-      "positiveCount": 168,
-      "neutralCount": 8,
-      "negativeCount": 16,
-      "positiveShare": 0.875,
-      "medianLowReturn": 8,
-      "medianHighReturn": 62
+      "positiveCount": 170,
+      "neutralCount": 7,
+      "negativeCount": 15,
+      "positiveShare": 0.8854,
+      "medianLowReturn": 7.5,
+      "medianHighReturn": 61.5
     },
     {
       "operatingScenario": "optimistic",
@@ -429,12 +430,12 @@
       "marketLabel": "窄幅 / 主题主导上涨",
       "companyCount": 192,
       "estimableCount": 192,
-      "positiveCount": 175,
-      "neutralCount": 10,
-      "negativeCount": 7,
-      "positiveShare": 0.9115,
-      "medianLowReturn": 14,
-      "medianHighReturn": 73.75
+      "positiveCount": 176,
+      "neutralCount": 8,
+      "negativeCount": 8,
+      "positiveShare": 0.9167,
+      "medianLowReturn": 13,
+      "medianHighReturn": 72
     },
     {
       "operatingScenario": "optimistic",
@@ -443,11 +444,11 @@
       "marketLabel": "震荡 / 均值回归",
       "companyCount": 192,
       "estimableCount": 192,
-      "positiveCount": 129,
-      "neutralCount": 38,
-      "negativeCount": 25,
-      "positiveShare": 0.6719,
-      "medianLowReturn": -5,
+      "positiveCount": 127,
+      "neutralCount": 41,
+      "negativeCount": 24,
+      "positiveShare": 0.6615,
+      "medianLowReturn": -6,
       "medianHighReturn": 42
     },
     {
@@ -457,10 +458,10 @@
       "marketLabel": "有序风险收缩",
       "companyCount": 192,
       "estimableCount": 192,
-      "positiveCount": 59,
-      "neutralCount": 39,
-      "negativeCount": 94,
-      "positiveShare": 0.3073,
+      "positiveCount": 55,
+      "neutralCount": 41,
+      "negativeCount": 96,
+      "positiveShare": 0.2865,
       "medianLowReturn": -23,
       "medianHighReturn": 18.55
     },
@@ -472,11 +473,11 @@
       "companyCount": 192,
       "estimableCount": 192,
       "positiveCount": 7,
-      "neutralCount": 15,
-      "negativeCount": 170,
+      "neutralCount": 16,
+      "negativeCount": 169,
       "positiveShare": 0.0365,
-      "medianLowReturn": -44,
-      "medianHighReturn": -6
+      "medianLowReturn": -45,
+      "medianHighReturn": -7
     },
     {
       "operatingScenario": "breakthrough",
@@ -489,7 +490,7 @@
       "neutralCount": 2,
       "negativeCount": 1,
       "positiveShare": 0.9843,
-      "medianLowReturn": 48,
+      "medianLowReturn": 47,
       "medianHighReturn": 131
     },
     {
@@ -503,8 +504,8 @@
       "neutralCount": 2,
       "negativeCount": 0,
       "positiveShare": 0.9895,
-      "medianLowReturn": 59,
-      "medianHighReturn": 156
+      "medianLowReturn": 56,
+      "medianHighReturn": 153
     },
     {
       "operatingScenario": "breakthrough",
@@ -517,7 +518,7 @@
       "neutralCount": 5,
       "negativeCount": 5,
       "positiveShare": 0.9476,
-      "medianLowReturn": 27,
+      "medianLowReturn": 26,
       "medianHighReturn": 101
     },
     {
@@ -527,12 +528,12 @@
       "marketLabel": "有序风险收缩",
       "companyCount": 192,
       "estimableCount": 191,
-      "positiveCount": 161,
-      "neutralCount": 16,
+      "positiveCount": 163,
+      "neutralCount": 14,
       "negativeCount": 14,
-      "positiveShare": 0.8429,
-      "medianLowReturn": 6.8,
-      "medianHighReturn": 69
+      "positiveShare": 0.8534,
+      "medianLowReturn": 5,
+      "medianHighReturn": 68
     },
     {
       "operatingScenario": "breakthrough",
@@ -541,11 +542,11 @@
       "marketLabel": "流动性 / 信用压力",
       "companyCount": 192,
       "estimableCount": 191,
-      "positiveCount": 88,
-      "neutralCount": 36,
+      "positiveCount": 84,
+      "neutralCount": 40,
       "negativeCount": 67,
-      "positiveShare": 0.4607,
-      "medianLowReturn": -21,
+      "positiveShare": 0.4398,
+      "medianLowReturn": -22,
       "medianHighReturn": 33
     }
   ],
@@ -562,17 +563,17 @@
     {
       "category": "电力发电能源储能",
       "companyCount": 23,
-      "positive": 7,
-      "neutral": 3,
+      "positive": 6,
+      "neutral": 4,
       "negative": 13,
-      "baseAnyPositive": 11,
+      "baseAnyPositive": 10,
       "medianPositiveCells": 8
     },
     {
       "category": "封测检测计量光罩",
       "companyCount": 18,
-      "positive": 1,
-      "neutral": 7,
+      "positive": 2,
+      "neutral": 6,
       "negative": 10,
       "baseAnyPositive": 3,
       "medianPositiveCells": 7.5
@@ -581,8 +582,8 @@
       "category": "机电冷却工程水处理边缘工业AI",
       "companyCount": 20,
       "positive": 3,
-      "neutral": 7,
-      "negative": 10,
+      "neutral": 8,
+      "negative": 9,
       "baseAnyPositive": 7,
       "medianPositiveCells": 7
     },
@@ -590,55 +591,55 @@
       "category": "晶圆制造前道设备",
       "companyCount": 19,
       "positive": 1,
-      "neutral": 3,
-      "negative": 15,
-      "baseAnyPositive": 2,
+      "neutral": 4,
+      "negative": 14,
+      "baseAnyPositive": 1,
       "medianPositiveCells": 6
     },
     {
       "category": "配电电源功率器件",
       "companyCount": 20,
       "positive": 4,
-      "neutral": 4,
-      "negative": 12,
+      "neutral": 5,
+      "negative": 11,
       "baseAnyPositive": 6,
       "medianPositiveCells": 7
     },
     {
       "category": "云算力IDCAI软件平台",
       "companyCount": 16,
-      "positive": 7,
+      "positive": 6,
       "neutral": 5,
-      "negative": 4,
-      "baseAnyPositive": 11,
-      "medianPositiveCells": 10
+      "negative": 5,
+      "baseAnyPositive": 10,
+      "medianPositiveCells": 9
     },
     {
       "category": "AI服务器存储EMS",
       "companyCount": 19,
-      "positive": 3,
-      "neutral": 8,
+      "positive": 2,
+      "neutral": 9,
       "negative": 8,
-      "baseAnyPositive": 8,
+      "baseAnyPositive": 7,
       "medianPositiveCells": 8
     },
     {
       "category": "AI计算芯片EDAIPcustomASIC",
       "companyCount": 17,
       "positive": 1,
-      "neutral": 4,
-      "negative": 12,
-      "baseAnyPositive": 2,
+      "neutral": 3,
+      "negative": 13,
+      "baseAnyPositive": 1,
       "medianPositiveCells": 7
     },
     {
       "category": "AI网络光互联连接器",
       "companyCount": 20,
       "positive": 2,
-      "neutral": 3,
-      "negative": 15,
-      "baseAnyPositive": 6,
-      "medianPositiveCells": 7
+      "neutral": 2,
+      "negative": 16,
+      "baseAnyPositive": 5,
+      "medianPositiveCells": 6.5
     }
   ],
   "insights": {
@@ -1306,6 +1307,72 @@
         }
       },
       {
+        "ticker": "AMKR",
+        "name": "Amkor Technology",
+        "category": "封测检测计量光罩",
+        "title": "AMKR 经营情景 × 市场状态投资决策研究",
+        "reportDate": "2026-08-19",
+        "sourcePath": "分析报告/公司情景投资决策/结果/AMKR_经营情景市场状态投资决策_2026-08-19.md",
+        "dataFile": "reports/scenario-decision/AMKR.json",
+        "current": {
+          "operatingScenario": "base",
+          "operatingLabel": "基准 / 正常兑现",
+          "marketState": "broad",
+          "marketLabel": "宽基风险扩张",
+          "composite": false,
+          "rotationAdjusted": false,
+          "adjustmentType": "pure",
+          "adviceKey": "cautious",
+          "adviceLabel": "谨慎建议投资",
+          "adviceRank": 3,
+          "adviceGroup": "positive",
+          "pureAdviceKey": "cautious",
+          "pureAdviceLabel": "谨慎建议投资",
+          "pureAdviceRank": 3,
+          "pureReturnRange": {
+            "low": -16,
+            "high": 32
+          },
+          "pureReturnRangeText": "-16%～+32%",
+          "perShareValue": "$46–72",
+          "returnRange": {
+            "low": -16,
+            "high": 32
+          },
+          "returnRangeText": "-16%—+32%",
+          "currentPrice": 106.37,
+          "weakLink": "成长性投入 → 合格产能与增量 ROIC → 可分配自由现金流",
+          "priceBoundary": "$62.9",
+          "marketSnapshotIdentity": "cid-us-2026-08-19-24｜US-EQ-USD-20260818-CLOSE-5B-v1.0",
+          "summary": "当前条件定位： 当前证据最接近 基准 / 正常兑现，经营状态证据强度为 中；复合定位不需要。假设把需求/收入取基准高端、利润取乐观低端、资本桥仍留在基准，复合价值约为 $49–78/股，相对纯基准 $46–72/股 的中点差约 8%，建议仍为“谨慎建议投资”，未达到约 10% 中点差或一级建议差门槛。共享市场快照 cid-us-2026-08-19-24｜US-EQ-USD-20260818-CLOSE-5B-v1.0 锁定 宽基风险扩张，唯一相邻状态为 震荡 / 均值回归，市场状态证据强度为 中等偏强。当前纯格子为“基准 × 宽基风险扩张”：谨慎建议投资，稀释后股权市值 $11.6–18.1B、每股价值 $46–72、目标期总回报 -16%～+32%，估值置信度 中。相邻市场格子“基准 × 震荡”降为 中性 / 等待，每股 $37–61、回报 -32%～+12%。当前最弱传导环节是 成长性投入 → 合格产能与增量 ROIC → 可分配自由现金流：前端 AI/HPC 需求和 Q3 指引已有证据，$2.5–3.0B 年度 CapEx、Arizona 爬坡和新增折旧能否形成高回报现金流仍待证明。当前主状态下已位于第一个正面区域，正面建议可承受的最高价格约 $62.9（较 $54.84 余量约 14.7%）；经营证据距离为 0，市场无需切换。若市场先切到相邻震荡列，首次转正需价格不高于约 $53.3，或取得计算业务持续增长、毛利率突破与再投资回报的三项里程碑。相邻经营与市场邻域的建议范围为“中性 / 等待”至“强烈建议投资”；最小减弱条件是市场切至震荡而经营证据不升级。概率层为 NA，因为没有可辩护的公司经营行 × 市场列联合概率及相关性依据。"
+        },
+        "matrix": {
+          "cellCount": 20,
+          "estimableCellCount": 20,
+          "positiveCellCount": 11,
+          "neutralCellCount": 2,
+          "negativeCellCount": 7,
+          "positiveShare": 0.55,
+          "basePositiveCount": 2,
+          "stressPositiveCount": 1,
+          "rowPositive": {
+            "pessimistic": 0,
+            "base": 2,
+            "optimistic": 4,
+            "breakthrough": 5
+          },
+          "marketPositive": {
+            "broad": 3,
+            "theme": 3,
+            "range": 2,
+            "orderly": 2,
+            "liquidity": 1
+          },
+          "firstPositiveScenario": "base",
+          "breakthroughDependent": false
+        }
+      },
+      {
         "ticker": "ASX",
         "name": "ASE Technology Holding",
         "category": "封测检测计量光罩",
@@ -1432,138 +1499,6 @@
             "range": 2,
             "orderly": 2,
             "liquidity": 1
-          },
-          "firstPositiveScenario": "base",
-          "breakthroughDependent": false
-        }
-      },
-      {
-        "ticker": "CMI",
-        "name": "Cummins Inc",
-        "category": "电力发电能源储能",
-        "title": "CMI 经营情景 × 市场状态投资决策研究",
-        "reportDate": "2026-07-15",
-        "sourcePath": "分析报告/公司情景投资决策/结果/CMI_经营情景市场状态投资决策_2026-07-15.md",
-        "dataFile": "reports/scenario-decision/CMI.json",
-        "current": {
-          "operatingScenario": "base",
-          "operatingLabel": "基准 / 正常兑现",
-          "marketState": "broad",
-          "marketLabel": "宽基风险扩张",
-          "composite": false,
-          "rotationAdjusted": false,
-          "adjustmentType": "pure",
-          "adviceKey": "cautious",
-          "adviceLabel": "谨慎建议投资",
-          "adviceRank": 3,
-          "adviceGroup": "positive",
-          "pureAdviceKey": "cautious",
-          "pureAdviceLabel": "谨慎建议投资",
-          "pureAdviceRank": 3,
-          "pureReturnRange": {
-            "low": -8,
-            "high": 21
-          },
-          "pureReturnRangeText": "-8%～+21%",
-          "perShareValue": "$600～790",
-          "returnRange": {
-            "low": -8,
-            "high": 21
-          },
-          "returnRangeText": "-8%—+21%",
-          "currentPrice": 666.13,
-          "weakLink": "已见需求与排产能否按期通过关键零件、FAT/SAT、验收和营运资本转成外部收入与自由现金流",
-          "priceBoundary": "",
-          "marketSnapshotIdentity": "CM-US-20260715-v1.0",
-          "summary": "当前条件定位： 当前证据最接近 基准 / 正常兑现；复合定位不需要，因为 Power Systems 的需求与利润接近乐观端，但传统 Engine/Components、订单透明度和营运资本仍落在基准或偏弱端，按一套可勾稽复合假设重估后每股价值中点只比纯基准高约 2.5%，低于 10% 门槛，且建议不改变。共享市场快照 CM-US-20260715-v1.0 锁定 宽基风险扩张为主状态、窄幅/主题主导上涨为唯一相邻状态。主状态对应格为 谨慎建议投资｜$600～790/股｜-8%～+21%，稀释后股权市值 $83.4～108.2B；相邻状态对应格为 谨慎建议投资｜$640～840/股｜-2%～+28%，稀释后股权市值 $89.0～115.1B。经营与市场状态证据强度均为中，两格估值置信度均为中。当前最弱传导环节是 已见需求与排产能否按期通过关键零件、FAT/SAT、验收和营运资本转成外部收入与自由现金流。当前格已处于第一个正面区域；在经营和市场假设不变时，维持“谨慎建议投资”所容许的最高买价约 $681，现价低约 $14 / 2.2%；相邻主题列对应上限约 $723，现价低约 $57 / 8.5%。经营证据距离为 0，市场无需切换；若市场退至震荡、或订单兑现/现金转换低于基准，建议最先降至“中性 / 等待”。概率层为 NA，因为没有足以支持经营行与市场列联合概率及相关性的可辩护基础率。"
-        },
-        "matrix": {
-          "cellCount": 20,
-          "estimableCellCount": 20,
-          "positiveCellCount": 9,
-          "neutralCellCount": 2,
-          "negativeCellCount": 9,
-          "positiveShare": 0.45,
-          "basePositiveCount": 2,
-          "stressPositiveCount": 0,
-          "rowPositive": {
-            "pessimistic": 0,
-            "base": 2,
-            "optimistic": 3,
-            "breakthrough": 4
-          },
-          "marketPositive": {
-            "broad": 3,
-            "theme": 3,
-            "range": 2,
-            "orderly": 1,
-            "liquidity": 0
-          },
-          "firstPositiveScenario": "base",
-          "breakthroughDependent": false
-        }
-      },
-      {
-        "ticker": "CRWV",
-        "name": "CoreWeave",
-        "category": "云算力IDCAI软件平台",
-        "title": "CRWV CoreWeave：经营情景 × 市场状态投资决策研究（2026-07-15）",
-        "reportDate": "2026-07-15",
-        "sourcePath": "分析报告/公司情景投资决策/结果/CRWV_经营情景市场状态投资决策_2026-07-15.md",
-        "dataFile": "reports/scenario-decision/CRWV.json",
-        "current": {
-          "operatingScenario": "base",
-          "operatingLabel": "基准 / 正常兑现",
-          "marketState": "broad",
-          "marketLabel": "宽基风险扩张",
-          "composite": false,
-          "rotationAdjusted": false,
-          "adjustmentType": "pure",
-          "adviceKey": "cautious",
-          "adviceLabel": "谨慎建议投资",
-          "adviceRank": 3,
-          "adviceGroup": "positive",
-          "pureAdviceKey": "cautious",
-          "pureAdviceLabel": "谨慎建议投资",
-          "pureAdviceRank": 3,
-          "pureReturnRange": {
-            "low": -36,
-            "high": 87
-          },
-          "pureReturnRangeText": "-36%～+87%",
-          "perShareValue": "$49–144",
-          "returnRange": {
-            "low": -36,
-            "high": 87
-          },
-          "returnRangeText": "-36%—+87%",
-          "currentPrice": 77.12,
-          "weakLink": "已承诺成长投入 → 未来经营能力与股东可得价值",
-          "priceBoundary": "$77.4",
-          "marketSnapshotIdentity": "USPRIMARYNASDAQUSD｜2026-07-15 16:30 ET｜Yahoo/Cboe/FRED/FactSet｜MS-US-v1.0",
-          "summary": "当前条件定位：当前证据最接近 基准 / 正常兑现；复合定位 不需要。高强度订单与交付证据、当前较低营业利润和高资本需求之间确有张力，但压力资本桥相对纯基准行只降低当前两列价值中点约 8%–9%，未达到约 10% 门槛，也未改变建议级别。共享市场快照 USPRIMARYNASDAQUSD｜2026-07-15 16:30 ET｜Yahoo/Cboe/FRED/FactSet｜MS-US-v1.0 锁定主状态 宽基风险扩张、相邻状态 窄幅/主题主导上涨。主状态对应格子为 谨慎建议投资，稀释后市值 $31–89B、每股价值 $49–144、目标期总回报 -36%～+87%；相邻主题列为 建议投资，稀释后市值 $42–106B、每股价值 $67–172、总回报 -13%～+123%。经营状态证据强度 中高、市场状态证据强度 中，两格估值置信度均为 中。当前最弱传导环节是 已承诺成长投入 → 未来经营能力与股东可得价值：需求和 RPO 已经足够，但 NTM 全情景仍深度负 FCF，融资、租赁、经济折旧和稀释可能截留营业增长。当前格子已进入第一个正面区域；维持正面建议的最高价格约为主状态 $77.4（仅比当前高约 0.4%）、相邻主题状态 $95.5（高约 23.8%）；经营证据距离记为 0，但市场依赖很高，切换至震荡列即失去正面建议。最小减弱条件是 Q2/H2 调整后营业利润率未向 7%–9% 年度指引恢复、active MW 比计划少约 200MW，或市场转为震荡。概率层 NA：没有可辩护的经营—市场联合概率，不强行生成期望回报。"
-        },
-        "matrix": {
-          "cellCount": 20,
-          "estimableCellCount": 20,
-          "positiveCellCount": 10,
-          "neutralCellCount": 0,
-          "negativeCellCount": 10,
-          "positiveShare": 0.5,
-          "basePositiveCount": 2,
-          "stressPositiveCount": 0,
-          "rowPositive": {
-            "pessimistic": 0,
-            "base": 2,
-            "optimistic": 4,
-            "breakthrough": 4
-          },
-          "marketPositive": {
-            "broad": 3,
-            "theme": 3,
-            "range": 2,
-            "orderly": 2,
-            "liquidity": 0
           },
           "firstPositiveScenario": "base",
           "breakthroughDependent": false
@@ -1762,72 +1697,6 @@
             "range": 2,
             "orderly": 1,
             "liquidity": 0
-          },
-          "firstPositiveScenario": "base",
-          "breakthroughDependent": false
-        }
-      },
-      {
-        "ticker": "HPE",
-        "name": "惠普企业",
-        "category": "AI服务器存储EMS",
-        "title": "HPE 经营情景 × 市场状态投资决策研究",
-        "reportDate": "2026-07-15",
-        "sourcePath": "分析报告/公司情景投资决策/结果/HPE_经营情景市场状态投资决策_2026-07-15.md",
-        "dataFile": "reports/scenario-decision/HPE.json",
-        "current": {
-          "operatingScenario": "base",
-          "operatingLabel": "基准 / 正常兑现",
-          "marketState": "broad",
-          "marketLabel": "宽基风险扩张",
-          "composite": false,
-          "rotationAdjusted": false,
-          "adjustmentType": "pure",
-          "adviceKey": "cautious",
-          "adviceLabel": "谨慎建议投资",
-          "adviceRank": 3,
-          "adviceGroup": "positive",
-          "pureAdviceKey": "cautious",
-          "pureAdviceLabel": "谨慎建议投资",
-          "pureAdviceRank": 3,
-          "pureReturnRange": {
-            "low": -4,
-            "high": 30
-          },
-          "pureReturnRangeText": "-4%～+30%",
-          "perShareValue": "$45～$61",
-          "returnRange": {
-            "low": -4,
-            "high": 30
-          },
-          "returnRangeText": "-4%—+30%",
-          "currentPrice": 54.9,
-          "weakLink": "收入 → 单位经济与利润",
-          "priceBoundary": "$53.3",
-          "marketSnapshotIdentity": "MS-US-v1.0",
-          "summary": "当前条件定位： 当前证据最接近 基准 / 正常兑现；复合定位不需要。虽然 AI 需求、订单和网络产品进度局部接近乐观行，但收入到单位经济、库存到自由现金流以及 Juniper 协同仍停留在基准行；把这些冲突另建复合定位，只使当前主市场列每股价值中点提高约 3.8%，且不改变“谨慎建议投资”，未达到 10% 或一级建议差异门槛。共享市场快照 MS-US-v1.0 锁定主状态“宽基风险扩张”、相邻状态“窄幅/主题主导上涨”。基准 × 宽基格子的条件建议为 谨慎建议投资，稀释后市值 $61.2～$86.0bn、每股价值 $45～$61、目标期含息总回报 -4%～+30%；相邻主题列同为 谨慎建议投资，每股 $46～$63、回报 -1%～+35%。经营与市场状态证据强度均为中，两个格子的估值置信度均为中。当前最弱传导环节是 收入 → 单位经济与利润：GPU、HBM 和系统内存的高额转售可以迅速推高收入，却未必形成足够毛利；其后还要穿过库存和营运资本才能成为普通股股东现金。当前已经位于第一个正面条件区域，经营证据距离为 0；主状态下正面建议可承受的最高买入价约 $53.3，较现价有约 12.4% 余量，相邻主题列约 $54.9、余量约 15.9%。若要仅靠价格使主状态建议更稳健地升至“建议投资”，买入价约需降至 $45.7 或以下；经营上则需要 Networking 利润率、AI 交付毛利和 FCF 三者至少两项同步验证。最小减弱条件是市场转为震荡而经营仍只属基准，或 FY2027 FCF 路径降至 $4.0bn 以下。概率层为 NA，因为缺少可辩护的经营—市场联合概率与相关性。"
-        },
-        "matrix": {
-          "cellCount": 20,
-          "estimableCellCount": 20,
-          "positiveCellCount": 11,
-          "neutralCellCount": 1,
-          "negativeCellCount": 8,
-          "positiveShare": 0.55,
-          "basePositiveCount": 2,
-          "stressPositiveCount": 1,
-          "rowPositive": {
-            "pessimistic": 0,
-            "base": 2,
-            "optimistic": 4,
-            "breakthrough": 5
-          },
-          "marketPositive": {
-            "broad": 3,
-            "theme": 3,
-            "range": 2,
-            "orderly": 2,
-            "liquidity": 1
           },
           "firstPositiveScenario": "base",
           "breakthroughDependent": false
@@ -2224,6 +2093,138 @@
             "range": 2,
             "orderly": 2,
             "liquidity": 2
+          },
+          "firstPositiveScenario": "base",
+          "breakthroughDependent": false
+        }
+      },
+      {
+        "ticker": "SHECY",
+        "name": "Shin-Etsu Chemical 信越化学",
+        "category": "半导体材料化学品基板",
+        "title": "SHECY（Shin-Etsu Chemical / 信越化学）经营情景 × 市场状态投资决策",
+        "reportDate": "2026-07-15",
+        "sourcePath": "分析报告/公司情景投资决策/结果/SHECY_经营情景市场状态投资决策_2026-07-15.md",
+        "dataFile": "reports/scenario-decision/SHECY.json",
+        "current": {
+          "operatingScenario": "base",
+          "operatingLabel": "基准 / 正常兑现",
+          "marketState": "theme",
+          "marketLabel": "窄幅 / 主题主导上涨",
+          "composite": false,
+          "rotationAdjusted": false,
+          "adjustmentType": "pure",
+          "adviceKey": "cautious",
+          "adviceLabel": "谨慎建议投资",
+          "adviceRank": 3,
+          "adviceGroup": "positive",
+          "pureAdviceKey": "cautious",
+          "pureAdviceLabel": "谨慎建议投资",
+          "pureAdviceRank": 3,
+          "pureReturnRange": {
+            "low": 5,
+            "high": 36
+          },
+          "pureReturnRangeText": "+5%—+36%",
+          "perShareValue": "",
+          "returnRange": {
+            "low": 5,
+            "high": 36
+          },
+          "returnRangeText": "+5%—+36%",
+          "currentPrice": 18,
+          "weakLink": "公司捕获与量价 → 分部利润 → 自由现金流",
+          "priceBoundary": "$24.4",
+          "marketSnapshotIdentity": "JPN-MKT-5B-v1.0",
+          "summary": "当前条件定位： 当前证据最接近 基准 / 正常兑现；复合定位不需要，因为电子材料偏基准高端、PVC 偏基准低端的冲突已被基准区间完整保留，单独建立复合估值只使当前格子中点下降约 1%—2%，不达到 10% 或一级建议差异门槛。共享市场快照 JPN-MKT-5B-v1.0 锁定 窄幅 / 主题主导上涨 为主状态、宽基风险扩张 为唯一相邻状态。主状态对应条件格子为 谨慎建议投资，稀释后市值 ¥14.5—18.5tn（$89.3—114.0bn）、每 ADR $24.1—31.3、15 个月总回报 +5%—+36%；经营与市场状态证据强度均为 中，估值置信度为 中。当前最弱传导环节是 公司捕获与量价 → 分部利润 → 自由现金流：电子材料的高端组合和利用率能否持续快于 PVC 价格、普通硅片供给及新增折旧的拖累。当前格子已经属于第一个正面区域，按同一方法可承受的最高买入价约 $24.4—25.0，较 $23.31 尚有约 5%—7% 价格余量；经营证据距离为 0，市场状态无需切换。相邻宽基状态仍为 谨慎建议投资、每 ADR $22.9—29.4、回报 0%—+28%；最小减弱条件是市场转入震荡、或电子业务 NTM 增长低于约 8%—10%且 PVC 利润率仍低于 10%—12%。概率层为 NA，因为缺少可辩护的经营—市场联合概率与相关性。"
+        },
+        "matrix": {
+          "cellCount": 20,
+          "estimableCellCount": 20,
+          "positiveCellCount": 9,
+          "neutralCellCount": 1,
+          "negativeCellCount": 10,
+          "positiveShare": 0.45,
+          "basePositiveCount": 2,
+          "stressPositiveCount": 0,
+          "rowPositive": {
+            "pessimistic": 0,
+            "base": 2,
+            "optimistic": 3,
+            "breakthrough": 4
+          },
+          "marketPositive": {
+            "broad": 3,
+            "theme": 3,
+            "range": 2,
+            "orderly": 1,
+            "liquidity": 0
+          },
+          "firstPositiveScenario": "base",
+          "breakthroughDependent": false
+        }
+      },
+      {
+        "ticker": "SOMMY",
+        "name": "住友化学 Sumitomo Chemical",
+        "category": "半导体材料化学品基板",
+        "title": "SOMMY（住友化学）经营情景 × 市场状态投资决策研究",
+        "reportDate": "2026-07-15",
+        "sourcePath": "分析报告/公司情景投资决策/结果/SOMMY_经营情景市场状态投资决策_2026-07-15.md",
+        "dataFile": "reports/scenario-decision/SOMMY.json",
+        "current": {
+          "operatingScenario": "base",
+          "operatingLabel": "基准 / 正常兑现",
+          "marketState": "theme",
+          "marketLabel": "窄幅 / 主题主导上涨",
+          "composite": false,
+          "rotationAdjusted": false,
+          "adjustmentType": "pure",
+          "adviceKey": "cautious",
+          "adviceLabel": "谨慎建议投资",
+          "adviceRank": 3,
+          "adviceGroup": "positive",
+          "pureAdviceKey": "cautious",
+          "pureAdviceLabel": "谨慎建议投资",
+          "pureAdviceRank": 3,
+          "pureReturnRange": {
+            "low": -2.3,
+            "high": 30.5
+          },
+          "pureReturnRangeText": "−2.3%～+30.5%",
+          "perShareValue": "¥520–700",
+          "returnRange": {
+            "low": -2.3,
+            "high": 30.5
+          },
+          "returnRangeText": "-2.3%—+30.5%",
+          "currentPrice": null,
+          "weakLink": "收入 → 单位经济与利润 → 报告自由现金流和降债",
+          "priceBoundary": "",
+          "marketSnapshotIdentity": "日本股票｜2026-07-15 15:30 JST 收盘｜JPX、Nikkei、BOJ、IMF；价格与宽度截至 2026-07-15、信用/利率用最近可得公开数据｜MS-JP-5B-v1.0",
+          "summary": "当前条件定位： 当前证据最接近“基准 / 正常兑现”；复合定位不需要，因为半导体材料收入增长、ICT 利润率偏低与较高净债务之间的冲突，已经能由基准区间的上下端完整表达。复合敏感性中点只比纯基准低 1.6%，没有改变条件建议，也没有新增纯基准无法表达的非线性融资或永久损失风险。共享市场快照“日本股票｜2026-07-15 15:30 JST 收盘｜JPX、Nikkei、BOJ、IMF；价格与宽度截至 2026-07-15、信用/利率用最近可得公开数据｜MS-JP-5B-v1.0”锁定主状态为“窄幅 / 主题主导上涨”、唯一相邻状态为“震荡 / 均值回归”。基准 × 主题主导上涨的条件建议为“谨慎建议投资”，稀释后股权市值 ¥0.86–1.16 万亿、普通股每股价值 ¥520–700、按当前汇率折算 ADR 价值约 US$16.03–21.58、目标期总回报 −2.3% 至 +30.5%；基准 × 震荡的条件建议为“中性 / 等待”，普通股每股价值 ¥480–650、总回报 −9.6% 至 +21.4%。经营状态证据强度为中高，市场状态证据强度为中，两个格子的估值置信度均为中。当前最弱传导环节是“收入 → 单位经济与利润 → 报告自由现金流和降债”：FY2025 ICT 收入高于公司此前预测，但 ICT 核心营业利润仍低于预测，FY2026 集团自由现金流指引又从 FY2025 的 ¥159.9bn 降至 ¥60bn。主状态下正面条件建议的中央上限买价约 ¥554，当前价仅有约 1.0% 余量；若采用 12% 要求回报低端，上限约 ¥559、余量约 1.9%，若采用 15% 高端则上限约 ¥544、当前价已经略高。当前主状态的经营证据距离为 0，但相邻震荡状态下要转正，需股价降至约 ¥514，或通过 ICT 利润率、自由现金流和净债务三项里程碑上移至乐观经营行。最小减弱条件是共享市场状态由主题上涨切换为震荡而经营不变，或 FY2026 核心营业利润/自由现金流指引显著下修。概率层为 NA：没有足以辩护四种经营情景与五种市场状态联合概率及相关性的同口径基础率。"
+        },
+        "matrix": {
+          "cellCount": 20,
+          "estimableCellCount": 20,
+          "positiveCellCount": 11,
+          "neutralCellCount": 2,
+          "negativeCellCount": 7,
+          "positiveShare": 0.55,
+          "basePositiveCount": 2,
+          "stressPositiveCount": 1,
+          "rowPositive": {
+            "pessimistic": 0,
+            "base": 2,
+            "optimistic": 4,
+            "breakthrough": 5
+          },
+          "marketPositive": {
+            "broad": 3,
+            "theme": 3,
+            "range": 2,
+            "orderly": 2,
+            "liquidity": 1
           },
           "firstPositiveScenario": "base",
           "breakthroughDependent": false
@@ -2760,6 +2761,72 @@
         }
       },
       {
+        "ticker": "AMKR",
+        "name": "Amkor Technology",
+        "category": "封测检测计量光罩",
+        "title": "AMKR 经营情景 × 市场状态投资决策研究",
+        "reportDate": "2026-08-19",
+        "sourcePath": "分析报告/公司情景投资决策/结果/AMKR_经营情景市场状态投资决策_2026-08-19.md",
+        "dataFile": "reports/scenario-decision/AMKR.json",
+        "current": {
+          "operatingScenario": "base",
+          "operatingLabel": "基准 / 正常兑现",
+          "marketState": "broad",
+          "marketLabel": "宽基风险扩张",
+          "composite": false,
+          "rotationAdjusted": false,
+          "adjustmentType": "pure",
+          "adviceKey": "cautious",
+          "adviceLabel": "谨慎建议投资",
+          "adviceRank": 3,
+          "adviceGroup": "positive",
+          "pureAdviceKey": "cautious",
+          "pureAdviceLabel": "谨慎建议投资",
+          "pureAdviceRank": 3,
+          "pureReturnRange": {
+            "low": -16,
+            "high": 32
+          },
+          "pureReturnRangeText": "-16%～+32%",
+          "perShareValue": "$46–72",
+          "returnRange": {
+            "low": -16,
+            "high": 32
+          },
+          "returnRangeText": "-16%—+32%",
+          "currentPrice": 106.37,
+          "weakLink": "成长性投入 → 合格产能与增量 ROIC → 可分配自由现金流",
+          "priceBoundary": "$62.9",
+          "marketSnapshotIdentity": "cid-us-2026-08-19-24｜US-EQ-USD-20260818-CLOSE-5B-v1.0",
+          "summary": "当前条件定位： 当前证据最接近 基准 / 正常兑现，经营状态证据强度为 中；复合定位不需要。假设把需求/收入取基准高端、利润取乐观低端、资本桥仍留在基准，复合价值约为 $49–78/股，相对纯基准 $46–72/股 的中点差约 8%，建议仍为“谨慎建议投资”，未达到约 10% 中点差或一级建议差门槛。共享市场快照 cid-us-2026-08-19-24｜US-EQ-USD-20260818-CLOSE-5B-v1.0 锁定 宽基风险扩张，唯一相邻状态为 震荡 / 均值回归，市场状态证据强度为 中等偏强。当前纯格子为“基准 × 宽基风险扩张”：谨慎建议投资，稀释后股权市值 $11.6–18.1B、每股价值 $46–72、目标期总回报 -16%～+32%，估值置信度 中。相邻市场格子“基准 × 震荡”降为 中性 / 等待，每股 $37–61、回报 -32%～+12%。当前最弱传导环节是 成长性投入 → 合格产能与增量 ROIC → 可分配自由现金流：前端 AI/HPC 需求和 Q3 指引已有证据，$2.5–3.0B 年度 CapEx、Arizona 爬坡和新增折旧能否形成高回报现金流仍待证明。当前主状态下已位于第一个正面区域，正面建议可承受的最高价格约 $62.9（较 $54.84 余量约 14.7%）；经营证据距离为 0，市场无需切换。若市场先切到相邻震荡列，首次转正需价格不高于约 $53.3，或取得计算业务持续增长、毛利率突破与再投资回报的三项里程碑。相邻经营与市场邻域的建议范围为“中性 / 等待”至“强烈建议投资”；最小减弱条件是市场切至震荡而经营证据不升级。概率层为 NA，因为没有可辩护的公司经营行 × 市场列联合概率及相关性依据。"
+        },
+        "matrix": {
+          "cellCount": 20,
+          "estimableCellCount": 20,
+          "positiveCellCount": 11,
+          "neutralCellCount": 2,
+          "negativeCellCount": 7,
+          "positiveShare": 0.55,
+          "basePositiveCount": 2,
+          "stressPositiveCount": 1,
+          "rowPositive": {
+            "pessimistic": 0,
+            "base": 2,
+            "optimistic": 4,
+            "breakthrough": 5
+          },
+          "marketPositive": {
+            "broad": 3,
+            "theme": 3,
+            "range": 2,
+            "orderly": 2,
+            "liquidity": 1
+          },
+          "firstPositiveScenario": "base",
+          "breakthroughDependent": false
+        }
+      },
+      {
         "ticker": "ASX",
         "name": "ASE Technology Holding",
         "category": "封测检测计量光罩",
@@ -3222,72 +3289,6 @@
         }
       },
       {
-        "ticker": "HPE",
-        "name": "惠普企业",
-        "category": "AI服务器存储EMS",
-        "title": "HPE 经营情景 × 市场状态投资决策研究",
-        "reportDate": "2026-07-15",
-        "sourcePath": "分析报告/公司情景投资决策/结果/HPE_经营情景市场状态投资决策_2026-07-15.md",
-        "dataFile": "reports/scenario-decision/HPE.json",
-        "current": {
-          "operatingScenario": "base",
-          "operatingLabel": "基准 / 正常兑现",
-          "marketState": "broad",
-          "marketLabel": "宽基风险扩张",
-          "composite": false,
-          "rotationAdjusted": false,
-          "adjustmentType": "pure",
-          "adviceKey": "cautious",
-          "adviceLabel": "谨慎建议投资",
-          "adviceRank": 3,
-          "adviceGroup": "positive",
-          "pureAdviceKey": "cautious",
-          "pureAdviceLabel": "谨慎建议投资",
-          "pureAdviceRank": 3,
-          "pureReturnRange": {
-            "low": -4,
-            "high": 30
-          },
-          "pureReturnRangeText": "-4%～+30%",
-          "perShareValue": "$45～$61",
-          "returnRange": {
-            "low": -4,
-            "high": 30
-          },
-          "returnRangeText": "-4%—+30%",
-          "currentPrice": 54.9,
-          "weakLink": "收入 → 单位经济与利润",
-          "priceBoundary": "$53.3",
-          "marketSnapshotIdentity": "MS-US-v1.0",
-          "summary": "当前条件定位： 当前证据最接近 基准 / 正常兑现；复合定位不需要。虽然 AI 需求、订单和网络产品进度局部接近乐观行，但收入到单位经济、库存到自由现金流以及 Juniper 协同仍停留在基准行；把这些冲突另建复合定位，只使当前主市场列每股价值中点提高约 3.8%，且不改变“谨慎建议投资”，未达到 10% 或一级建议差异门槛。共享市场快照 MS-US-v1.0 锁定主状态“宽基风险扩张”、相邻状态“窄幅/主题主导上涨”。基准 × 宽基格子的条件建议为 谨慎建议投资，稀释后市值 $61.2～$86.0bn、每股价值 $45～$61、目标期含息总回报 -4%～+30%；相邻主题列同为 谨慎建议投资，每股 $46～$63、回报 -1%～+35%。经营与市场状态证据强度均为中，两个格子的估值置信度均为中。当前最弱传导环节是 收入 → 单位经济与利润：GPU、HBM 和系统内存的高额转售可以迅速推高收入，却未必形成足够毛利；其后还要穿过库存和营运资本才能成为普通股股东现金。当前已经位于第一个正面条件区域，经营证据距离为 0；主状态下正面建议可承受的最高买入价约 $53.3，较现价有约 12.4% 余量，相邻主题列约 $54.9、余量约 15.9%。若要仅靠价格使主状态建议更稳健地升至“建议投资”，买入价约需降至 $45.7 或以下；经营上则需要 Networking 利润率、AI 交付毛利和 FCF 三者至少两项同步验证。最小减弱条件是市场转为震荡而经营仍只属基准，或 FY2027 FCF 路径降至 $4.0bn 以下。概率层为 NA，因为缺少可辩护的经营—市场联合概率与相关性。"
-        },
-        "matrix": {
-          "cellCount": 20,
-          "estimableCellCount": 20,
-          "positiveCellCount": 11,
-          "neutralCellCount": 1,
-          "negativeCellCount": 8,
-          "positiveShare": 0.55,
-          "basePositiveCount": 2,
-          "stressPositiveCount": 1,
-          "rowPositive": {
-            "pessimistic": 0,
-            "base": 2,
-            "optimistic": 4,
-            "breakthrough": 5
-          },
-          "marketPositive": {
-            "broad": 3,
-            "theme": 3,
-            "range": 2,
-            "orderly": 2,
-            "liquidity": 1
-          },
-          "firstPositiveScenario": "base",
-          "breakthroughDependent": false
-        }
-      },
-      {
         "ticker": "HTHIY",
         "name": "Hitachi Ltd",
         "category": "电力发电能源储能",
@@ -3553,72 +3554,6 @@
       }
     ],
     "breakthroughDependent": [
-      {
-        "ticker": "BE",
-        "name": "Bloom Energy",
-        "category": "电力发电能源储能",
-        "title": "Bloom Energy（BE）经营情景 × 市场状态投资决策研究",
-        "reportDate": "2026-07-18",
-        "sourcePath": "分析报告/公司情景投资决策/结果/BE_经营情景市场状态投资决策_2026-07-18.md",
-        "dataFile": "reports/scenario-decision/BE.json",
-        "current": {
-          "operatingScenario": "base",
-          "operatingLabel": "基准 / 正常兑现",
-          "marketState": "broad",
-          "marketLabel": "宽基风险扩张",
-          "composite": false,
-          "rotationAdjusted": false,
-          "adjustmentType": "pure",
-          "adviceKey": "no",
-          "adviceLabel": "不建议投资",
-          "adviceRank": 1,
-          "adviceGroup": "negative",
-          "pureAdviceKey": "no",
-          "pureAdviceLabel": "不建议投资",
-          "pureAdviceRank": 1,
-          "pureReturnRange": {
-            "low": -82,
-            "high": -10
-          },
-          "pureReturnRangeText": "-82%～-10%",
-          "perShareValue": "$38—$193",
-          "returnRange": {
-            "low": -82,
-            "high": -10
-          },
-          "returnRangeText": "-82%—-10%",
-          "currentPrice": 2.6,
-          "weakLink": "收入 → 单位经济与利润 → 再投资和自由现金流",
-          "priceBoundary": "$92",
-          "marketSnapshotIdentity": "美国上市股票｜2026-07-17 收盘｜外部市场数据｜v1.0” 因项目内无正式共享文件而",
-          "summary": "当前条件定位：当前证据最接近 基准 / 正常兑现；复合定位 不需要，因为强劲 AI/SOFC 需求、Oracle 初始 1.2GW、Q1 产品收入与产品毛利，以及安装/服务/营运资本约束，已经能够在同一基准行的区间内完整表达，未出现两个必须落入不同经营行、且无法被该区间保留的决定性环节。共享市场快照 “美国上市股票｜2026-07-17 收盘｜外部市场数据｜v1.0” 因项目内无正式共享文件而锁定为 边界 / 未锁定：宽基风险扩张 + 震荡 / 均值回归。对应基准格分别为 不建议投资｜$11.6B—$61.8B 稀释后股权价值｜$38—$193/股｜-82%—-10%｜估值置信度低，以及 强烈不建议投资｜$9.9B—$51.5B｜$32—$161/股｜-85%—-25%｜低。经营状态证据强度 中高，市场状态证据强度 中。当前最弱传导环节是 收入 → 单位经济与利润 → 再投资和自由现金流：产品毛利已经证明，但安装仍负毛利、服务/保修质量及营运资本尚不足以支撑当前价格要求的长期现金回报。距离第一个正面区域，在经营和市场不变时，宽基列需最高买入价约 $92（-57%），震荡列约 $77（-64%）；若价格不变，则需进入突破经营行，并由额外 firm/NTP、多客户、3GW+ 可用产能、利润质量与自由现金流共同证明，市场无需必然切换，但不得恶化至有序收缩。相邻状态建议范围为 不建议至强烈不建议；最小减弱条件是 Q2/后续指引显示 NTM 收入低于约 $4.15B、产品毛利跌破 30%或安装毛利持续低于 -10%。概率层 NA，因为经营行与市场列的联合基础率和相关性没有可辩护证据。"
-        },
-        "matrix": {
-          "cellCount": 20,
-          "estimableCellCount": 20,
-          "positiveCellCount": 3,
-          "neutralCellCount": 2,
-          "negativeCellCount": 15,
-          "positiveShare": 0.15,
-          "basePositiveCount": 0,
-          "stressPositiveCount": 0,
-          "rowPositive": {
-            "pessimistic": 0,
-            "base": 0,
-            "optimistic": 0,
-            "breakthrough": 3
-          },
-          "marketPositive": {
-            "broad": 1,
-            "theme": 1,
-            "range": 1,
-            "orderly": 0,
-            "liquidity": 0
-          },
-          "firstPositiveScenario": "breakthrough",
-          "breakthroughDependent": true
-        }
-      },
       {
         "ticker": "BESIY",
         "name": "BE Semiconductor",
@@ -4349,9 +4284,9 @@
         "ticker": "WDC",
         "name": "WesternDigital",
         "category": "AI服务器存储EMS",
-        "title": "WDC Western Digital：经营情景 × 市场状态投资决策（2026-07-15）",
-        "reportDate": "2026-07-15",
-        "sourcePath": "分析报告/公司情景投资决策/结果/WDC_经营情景市场状态投资决策_2026-07-15.md",
+        "title": "WDC Western Digital 经营情景 × 市场状态投资决策",
+        "reportDate": "2026-08-19",
+        "sourcePath": "分析报告/公司情景投资决策/结果/WDC_经营情景市场状态投资决策_2026-08-19.md",
         "dataFile": "reports/scenario-decision/WDC.json",
         "current": {
           "operatingScenario": "base",
@@ -4361,36 +4296,36 @@
           "composite": false,
           "rotationAdjusted": false,
           "adjustmentType": "pure",
-          "adviceKey": "no",
-          "adviceLabel": "不建议投资",
-          "adviceRank": 1,
+          "adviceKey": "strongNo",
+          "adviceLabel": "强烈不建议投资",
+          "adviceRank": 0,
           "adviceGroup": "negative",
-          "pureAdviceKey": "no",
-          "pureAdviceLabel": "不建议投资",
-          "pureAdviceRank": 1,
+          "pureAdviceKey": "strongNo",
+          "pureAdviceLabel": "强烈不建议投资",
+          "pureAdviceRank": 0,
           "pureReturnRange": {
-            "low": -62,
-            "high": -13
+            "low": -69,
+            "high": -33
           },
-          "pureReturnRangeText": "-62%～-13%",
-          "perShareValue": "$195—448",
+          "pureReturnRangeText": "-69%—-33%",
+          "perShareValue": "$152—332",
           "returnRange": {
-            "low": -62,
-            "high": -13
+            "low": -69,
+            "high": -33
           },
-          "returnRangeText": "-62%—-13%",
-          "currentPrice": 353,
-          "weakLink": "40TB/HAMR 的合格交付与实现价格，能否把强需求延伸成 3—5 年可持续的单位经济和自由现金流",
-          "priceBoundary": "$313",
-          "marketSnapshotIdentity": "US-MKT-5B-v1.0-20260715-1600ET",
-          "summary": "当前条件定位： 当前证据最接近 基准 / 正常兑现；复合定位不需要：唯一偏弱项是换债后股本与 40TB 量产尚未最终核实，采用基准行的合理低端即可保留，假设复合后每股价值中点只下降约 2%，未达到 10% 或建议改变一级的门槛。共享市场快照 US-MKT-5B-v1.0-20260715-1600ET 锁定 宽基风险扩张为主状态、窄幅 / 主题主导上涨为唯一相邻状态。当前纯格子为 不建议投资｜$195—$448/股｜-62%—-13%｜估值置信度低；相邻市场列为 不建议投资｜$206—$503/股｜-60%—-2%｜估值置信度低。经营与市场状态证据强度均为中。当前最弱传导环节是 40TB/HAMR 的合格交付与实现价格，能否把强需求延伸成 3—5 年可持续的单位经济和自由现金流；短期退出倍数与五年 DCF 的巨大分歧正来自这里。仅靠价格，在主状态下首次进入正面区域的最高买入价约 $313（较现价低 39%）；在相邻主题状态下约 $353（低 31%）。经营证据要跨到最近正面行，至少需要 40TB 多客户量产、HAMR 生产资格及 NTM $20.5bn+ 收入 / $7.2bn+ FCF / ≤380m 稀释股三组里程碑。相邻邻域的建议范围为 不建议投资至中性 / 等待；最小减弱条件是 FY2026 Q4 毛利率低于约 49% 且价格/EB 不再为正，或市场转入震荡列。概率层为 NA，因为经营与市场状态高度相关且没有可辩护的联合概率。"
+          "returnRangeText": "-69%—-33%",
+          "currentPrice": 18,
+          "weakLink": "单位经济与利润能否在2027多供应商40—50TB竞争中持续转成完整投入后的股东自由现金流，而不是近端订单本身",
+          "priceBoundary": "$170",
+          "marketSnapshotIdentity": "US-EQ-USD-20260818-CLOSE-5B-v1.0",
+          "summary": "当前条件定位： 当前证据最接近 基准 / 正常兑现；复合定位 不需要，因为较强的近线需求与价格证据尚未与另一个独立、决定性的异行传导环节共同越过复合门槛。共享市场快照 US-EQ-USD-20260818-CLOSE-5B-v1.0 锁定 宽基风险扩张，唯一相邻状态为 震荡 / 均值回归。对应当前纯格子为 强烈不建议投资｜稀释后股权价值 $60.0B—$127.5B｜每股 $152—$332｜目标期总回报 -69%—-33%｜估值置信度中；当前经营状态证据强度为 中，共享市场状态证据强度为 中等偏强。当前最弱传导环节是 单位经济与利润能否在2027多供应商40—50TB竞争中持续转成完整投入后的股东自由现金流，而不是近端订单本身。仅靠价格变化，宽基主状态下首次进入正面区域的最高买入价约 $170，比当前低约 66%；相邻震荡列约 $153，低约 69%。经营证据必须上移两行至突破路径，证明可交付量至少约1.19ZB、价格/TB仍强、目标期FCFE达到$12B+且无异常稀释，主状态下才出现第一个正面格；相邻震荡列即使突破也只为 中性 / 等待。相邻状态下当前格子仍为 强烈不建议投资｜$137—$273｜-72%—-45%。当前已处最低建议档，进一步负面变化只扩大损失区间而不再降低标签。概率层为 NA，因为经营行与五种市场状态的联合概率及相关性没有可辩护基础率。"
         },
         "matrix": {
           "cellCount": 20,
           "estimableCellCount": 20,
           "positiveCellCount": 2,
-          "neutralCellCount": 2,
-          "negativeCellCount": 16,
+          "neutralCellCount": 1,
+          "negativeCellCount": 17,
           "positiveShare": 0.1,
           "basePositiveCount": 0,
           "stressPositiveCount": 0,
@@ -5344,9 +5279,9 @@
       "ticker": "ALAB",
       "name": "AsteraLabs",
       "category": "AI计算芯片EDAIPcustomASIC",
-      "title": "ALAB Astera Labs 经营情景 × 市场状态投资决策（2026-07-15）",
-      "reportDate": "2026-07-15",
-      "sourcePath": "分析报告/公司情景投资决策/结果/ALAB_经营情景市场状态投资决策_2026-07-15.md",
+      "title": "ALAB（Astera Labs）经营情景 × 市场状态投资决策",
+      "reportDate": "2026-08-19",
+      "sourcePath": "分析报告/公司情景投资决策/结果/ALAB_经营情景市场状态投资决策_2026-08-19.md",
       "dataFile": "reports/scenario-decision/ALAB.json",
       "current": {
         "operatingScenario": "base",
@@ -5356,50 +5291,50 @@
         "composite": false,
         "rotationAdjusted": false,
         "adjustmentType": "pure",
-        "adviceKey": "strongNo",
-        "adviceLabel": "强烈不建议投资",
-        "adviceRank": 0,
+        "adviceKey": "no",
+        "adviceLabel": "不建议投资",
+        "adviceRank": 1,
         "adviceGroup": "negative",
-        "pureAdviceKey": "strongNo",
-        "pureAdviceLabel": "强烈不建议投资",
-        "pureAdviceRank": 0,
+        "pureAdviceKey": "no",
+        "pureAdviceLabel": "不建议投资",
+        "pureAdviceRank": 1,
         "pureReturnRange": {
-          "low": -71,
-          "high": -30
+          "low": -72,
+          "high": 15
         },
-        "pureReturnRangeText": "-71%—-30%",
-        "perShareValue": "103—245",
+        "pureReturnRangeText": "-72%～+15%",
+        "perShareValue": "$85–350",
         "returnRange": {
-          "low": -71,
-          "high": -30
+          "low": -72,
+          "high": 15
         },
-        "returnRangeText": "-71%—-30%",
-        "currentPrice": null,
-        "weakLink": "开放 Scale-up 与 PCIe 6 行业需求能否穿过 Scorpio X/P 的第二、第三终端客户认证、量产、验收和回款，转成分散、可持续的收入和自由现金流",
-        "priceBoundary": "$140",
-        "marketSnapshotIdentity": "美国股票 / USD｜2026-07-15 16:00 ET｜US-USD-20260715-CLOSE-v1.0",
-        "summary": "当前条件定位： 当前证据最接近 基准 / 正常兑现；复合定位 不需要，因为净现金的正向作用与 SBC、客户权证的负向稀释已进入基准行的现金和完全稀释股数，采用复合假设只使当前格子价值中点下降约 4%，既未达到 10% 门槛，也不改变建议级别。共享市场快照 美国股票 / USD｜2026-07-15 16:00 ET｜US-USD-20260715-CLOSE-v1.0 锁定 宽基风险扩张 为主状态、窄幅 / 主题主导上涨 为唯一相邻状态。对应当前主格子的条件建议为 强烈不建议投资，目标期稀释后股权市值 206—474 亿美元、每股价值 103—245 美元、总回报 -71%—-30%；经营与市场状态证据强度均为 中，估值置信度为 中。当前最弱传导环节为 开放 Scale-up 与 PCIe 6 行业需求能否穿过 Scorpio X/P 的第二、第三终端客户认证、量产、验收和回款，转成分散、可持续的收入和自由现金流。在经营和市场假设不变时，第一个正面区域对应的最高买入价约 140 美元，较当前价低约 60%；经营证据需要至少看到 Q2/Q3 收入继续高于基准、Scorpio X 第二个大客户量产且 P 系列终端客户达到三家左右、底层毛利与现金回款不被良率和权证侵蚀；市场状态本身无需变得更强，但仅靠市场由宽基转向主题列仍不能使基准经营转正。相邻主题状态下建议仍为 强烈不建议投资，价值 116—269 美元；最小增强路径是经营证据上移至乐观行，最小减弱条件是 Q2 低于指引下沿、Q3 环比低于 5% 或 Scorpio X 推迟到 2027。概率层 NA，因为公开资料不足以为四种经营路径与五种市场状态建立可辩护的联合概率。"
+        "returnRangeText": "-72%—+15%",
+        "currentPrice": 392.4,
+        "weakLink": "Scorpio 从首个高量客户向第二、第三客户转量产，并形成可审计的收入确认桥",
+        "priceBoundary": "$164",
+        "marketSnapshotIdentity": "US-EQ-USD-20260818-CLOSE-5B-v1.0",
+        "summary": "当前条件定位： 当前证据最接近 基准 / 正常兑现纯经营行；复合定位不需要，因为近端 Q3 指引强、远端客户确认弱均可由基准区间两端表达，敏感性测试对价值中点的影响约 -3%，没有改变建议级别，也没有新增融资、控制权或永久损失风险。共享市场快照 US-EQ-USD-20260818-CLOSE-5B-v1.0 锁定 宽基风险扩张为主状态、震荡 / 均值回归为唯一相邻状态。当前纯格子为 基准 × 宽基风险扩张：不建议投资，稀释后股权价值 $16.6–66.8bn、每股价值 $85–350、目标期总回报 -72%～+15%；经营状态证据强度为 中（近端高、目标期中），市场状态证据强度为 中等偏强，估值置信度为 低。当前最弱传导环节是 Scorpio 从首个高量客户向第二、第三客户转量产，并形成可审计的收入确认桥；距离第一个正面区域，价格不变时需要经营证据上移至乐观行，经营不变时完整估值口径的最高正面买入边界约 $164（较现价 -46%），且不需要市场状态变得更有利。相邻市场状态下，基准格为 强烈不建议投资，$73–293，-76%～-3%。最小减弱条件是 Q3 低于 $540m、Q4 指引环比下降，或毛利/现金转换显示高增长不能穿透到股东价值。概率层为 NA，因为没有可辩护的经营—市场联合概率与相关性基础率。"
       },
       "matrix": {
         "cellCount": 20,
         "estimableCellCount": 20,
-        "positiveCellCount": 6,
-        "neutralCellCount": 1,
+        "positiveCellCount": 5,
+        "neutralCellCount": 2,
         "negativeCellCount": 13,
-        "positiveShare": 0.3,
+        "positiveShare": 0.25,
         "basePositiveCount": 0,
         "stressPositiveCount": 0,
         "rowPositive": {
           "pessimistic": 0,
           "base": 0,
           "optimistic": 2,
-          "breakthrough": 4
+          "breakthrough": 3
         },
         "marketPositive": {
           "broad": 2,
           "theme": 2,
           "range": 1,
-          "orderly": 1,
+          "orderly": 0,
           "liquidity": 0
         },
         "firstPositiveScenario": "optimistic",
@@ -5608,9 +5543,9 @@
       "ticker": "AMKR",
       "name": "Amkor Technology",
       "category": "封测检测计量光罩",
-      "title": "AMKR — Amkor Technology 经营情景 × 市场状态投资决策研究",
-      "reportDate": "2026-07-15",
-      "sourcePath": "分析报告/公司情景投资决策/结果/AMKR_经营情景市场状态投资决策_2026-07-15.md",
+      "title": "AMKR 经营情景 × 市场状态投资决策研究",
+      "reportDate": "2026-08-19",
+      "sourcePath": "分析报告/公司情景投资决策/结果/AMKR_经营情景市场状态投资决策_2026-08-19.md",
       "dataFile": "reports/scenario-decision/AMKR.json",
       "current": {
         "operatingScenario": "base",
@@ -5620,51 +5555,51 @@
         "composite": false,
         "rotationAdjusted": false,
         "adjustmentType": "pure",
-        "adviceKey": "neutral",
-        "adviceLabel": "中性 / 等待",
-        "adviceRank": 2,
-        "adviceGroup": "neutral",
-        "pureAdviceKey": "neutral",
-        "pureAdviceLabel": "中性 / 等待",
-        "pureAdviceRank": 2,
+        "adviceKey": "cautious",
+        "adviceLabel": "谨慎建议投资",
+        "adviceRank": 3,
+        "adviceGroup": "positive",
+        "pureAdviceKey": "cautious",
+        "pureAdviceLabel": "谨慎建议投资",
+        "pureAdviceRank": 3,
         "pureReturnRange": {
-          "low": -17,
-          "high": 22
+          "low": -16,
+          "high": 32
         },
-        "pureReturnRangeText": "−17%～+22%",
-        "perShareValue": "$55.5–82.3",
+        "pureReturnRangeText": "-16%～+32%",
+        "perShareValue": "$46–72",
         "returnRange": {
-          "low": -17,
-          "high": 22
+          "low": -16,
+          "high": 32
         },
-        "returnRangeText": "-17%—+22%",
-        "currentPrice": 67.64,
-        "weakLink": "行业需求与项目管线能否变成 AMKR 的正式份额和完整可交付套件",
-        "priceBoundary": "",
-        "marketSnapshotIdentity": "US-USD-20260715-CLOSE-MKT5-v1",
-        "summary": "当前条件定位：当前证据最接近 基准 / 正常兑现；复合定位 不需要，因为建设期负自由现金流、Arizona 启动成本和可转债已经完整写入基准资本桥，未形成第二条纯经营行才能表达的独立冲突。共享市场快照 US-USD-20260715-CLOSE-MKT5-v1 锁定 宽基风险扩张，相邻状态为 震荡 / 均值回归。对应当前条件格子的建议为 中性 / 等待，稀释后市值 $14.0–20.6bn、每股价值 $55.5–82.3、15 个月总回报 −17%～+22%；经营与市场状态证据强度均为 中，估值置信度为 中。当前最弱传导环节是 行业需求与项目管线能否变成 AMKR 的正式份额和完整可交付套件：公司没有重大 backlog，客户提供的先进逻辑、HBM/存储和基板曾使收入递延。距离第一个正面区域，价格需降至约 $64.2 或以下（−5.1%）；或经营证据由基准上移到乐观；或市场转为真实收入一致的窄幅主题状态。相邻市场状态下，基准格建议降为 不建议投资，价值 $43.2–68.3/股、回报 −36%～+2%。最小减弱条件是市场进入震荡列、当前价升至约 $70.1 以上而经营假设不变，或 HDFO Q3 放量/毛利率指引失守。概率层为 NA，原因是经营行与市场列高度相关且缺少可辩护的联合概率。"
+        "returnRangeText": "-16%—+32%",
+        "currentPrice": 106.37,
+        "weakLink": "成长性投入 → 合格产能与增量 ROIC → 可分配自由现金流",
+        "priceBoundary": "$62.9",
+        "marketSnapshotIdentity": "cid-us-2026-08-19-24｜US-EQ-USD-20260818-CLOSE-5B-v1.0",
+        "summary": "当前条件定位： 当前证据最接近 基准 / 正常兑现，经营状态证据强度为 中；复合定位不需要。假设把需求/收入取基准高端、利润取乐观低端、资本桥仍留在基准，复合价值约为 $49–78/股，相对纯基准 $46–72/股 的中点差约 8%，建议仍为“谨慎建议投资”，未达到约 10% 中点差或一级建议差门槛。共享市场快照 cid-us-2026-08-19-24｜US-EQ-USD-20260818-CLOSE-5B-v1.0 锁定 宽基风险扩张，唯一相邻状态为 震荡 / 均值回归，市场状态证据强度为 中等偏强。当前纯格子为“基准 × 宽基风险扩张”：谨慎建议投资，稀释后股权市值 $11.6–18.1B、每股价值 $46–72、目标期总回报 -16%～+32%，估值置信度 中。相邻市场格子“基准 × 震荡”降为 中性 / 等待，每股 $37–61、回报 -32%～+12%。当前最弱传导环节是 成长性投入 → 合格产能与增量 ROIC → 可分配自由现金流：前端 AI/HPC 需求和 Q3 指引已有证据，$2.5–3.0B 年度 CapEx、Arizona 爬坡和新增折旧能否形成高回报现金流仍待证明。当前主状态下已位于第一个正面区域，正面建议可承受的最高价格约 $62.9（较 $54.84 余量约 14.7%）；经营证据距离为 0，市场无需切换。若市场先切到相邻震荡列，首次转正需价格不高于约 $53.3，或取得计算业务持续增长、毛利率突破与再投资回报的三项里程碑。相邻经营与市场邻域的建议范围为“中性 / 等待”至“强烈建议投资”；最小减弱条件是市场切至震荡而经营证据不升级。概率层为 NA，因为没有可辩护的公司经营行 × 市场列联合概率及相关性依据。"
       },
       "matrix": {
         "cellCount": 20,
         "estimableCellCount": 20,
-        "positiveCellCount": 8,
-        "neutralCellCount": 1,
-        "negativeCellCount": 11,
-        "positiveShare": 0.4,
-        "basePositiveCount": 1,
-        "stressPositiveCount": 0,
+        "positiveCellCount": 11,
+        "neutralCellCount": 2,
+        "negativeCellCount": 7,
+        "positiveShare": 0.55,
+        "basePositiveCount": 2,
+        "stressPositiveCount": 1,
         "rowPositive": {
           "pessimistic": 0,
-          "base": 1,
-          "optimistic": 3,
-          "breakthrough": 4
+          "base": 2,
+          "optimistic": 4,
+          "breakthrough": 5
         },
         "marketPositive": {
-          "broad": 2,
+          "broad": 3,
           "theme": 3,
           "range": 2,
-          "orderly": 1,
-          "liquidity": 0
+          "orderly": 2,
+          "liquidity": 1
         },
         "firstPositiveScenario": "base",
         "breakthroughDependent": false
@@ -5806,9 +5741,9 @@
       "ticker": "ANET",
       "name": "Arista Networks",
       "category": "AI网络光互联连接器",
-      "title": "ANET Arista Networks 经营情景 × 市场状态投资决策",
-      "reportDate": "2026-07-15",
-      "sourcePath": "分析报告/公司情景投资决策/结果/ANET_经营情景市场状态投资决策_2026-07-15.md",
+      "title": "ANET Arista Networks：经营情景 × 市场状态投资决策",
+      "reportDate": "2026-08-19",
+      "sourcePath": "分析报告/公司情景投资决策/结果/ANET_经营情景市场状态投资决策_2026-08-19.md",
       "dataFile": "reports/scenario-decision/ANET.json",
       "current": {
         "operatingScenario": "base",
@@ -5818,53 +5753,53 @@
         "composite": false,
         "rotationAdjusted": false,
         "adjustmentType": "pure",
-        "adviceKey": "neutral",
-        "adviceLabel": "中性 / 等待",
-        "adviceRank": 2,
-        "adviceGroup": "neutral",
-        "pureAdviceKey": "neutral",
-        "pureAdviceLabel": "中性 / 等待",
-        "pureAdviceRank": 2,
+        "adviceKey": "no",
+        "adviceLabel": "不建议投资",
+        "adviceRank": 1,
+        "adviceGroup": "negative",
+        "pureAdviceKey": "no",
+        "pureAdviceLabel": "不建议投资",
+        "pureAdviceRank": 1,
         "pureReturnRange": {
-          "low": -6,
-          "high": 30
+          "low": -35.3,
+          "high": -1.6
         },
-        "pureReturnRangeText": "-6%～+30%",
-        "perShareValue": "$161—$224",
+        "pureReturnRangeText": "-35.3%～-1.6%",
+        "perShareValue": "$125–190",
         "returnRange": {
-          "low": -6,
-          "high": 30
+          "low": -35.3,
+          "high": -1.6
         },
-        "returnRangeText": "-6%—+30%",
-        "currentPrice": null,
-        "weakLink": "已锁定需求/供给到客户设施、光学、资格认证、验收和收入确认",
-        "priceBoundary": "",
-        "marketSnapshotIdentity": "美国主要定价市场｜2026-07-15 收盘｜MS5-v1.0",
-        "summary": "当前条件定位： 当前证据最接近 基准 / 正常兑现纯经营行；复合定位 不需要，因为需求与 RPO 偏强、利润与现金桥仍属基准的冲突只使纯行区间上移，复合估值中点相对纯行约 +4%，未达到 10%或建议变级门槛。共享市场快照 美国主要定价市场｜2026-07-15 收盘｜MS5-v1.0 锁定 宽基风险扩张，唯一相邻状态为 震荡 / 均值回归。主状态对应格子为 中性 / 等待，稀释后市值 206B—288B、每股价值 161—224 美元、目标期总回报 -6%—+30%；经营状态证据强度 高、市场状态证据强度 中、估值置信度 中。相邻状态对应 不建议投资，每股 135—186 美元、回报 -22%—+8%、估值置信度 中。当前最弱传导环节为 已锁定需求/供给到客户设施、光学、资格认证、验收和收入确认；它限制 1.6T、R4 和递延产品释放，并把库存与采购承诺风险传向毛利和自由现金流。仅靠价格，主状态下第一个正面边界约 167 美元（较当前 -2.6%），相邻状态约 140 美元（-18.8%）；在价格不变时，经营上移至乐观行，或市场切换到与真实 AI 收入传导一致的窄幅主题列，才进入首个正面区域。最小减弱条件是 2026 AI 目标下调、产品毛利率连续两季低于 57%，或宽度与信用同时转弱。概率层 NA，因为没有可辩护的经营—市场联合概率。"
+        "returnRangeText": "-35.3%—-1.6%",
+        "currentPrice": 233.15,
+        "weakLink": "公司捕获、交付与客户验收 → 可确认收入",
+        "priceBoundary": "$146",
+        "marketSnapshotIdentity": "cid-us-2026-08-19-24｜US-EQ-USD-20260818-CLOSE-5B-v1.0",
+        "summary": "当前条件定位：当前证据最接近 基准 / 正常兑现；复合定位 不需要，因为收入动能与净现金虽偏向基准高端，但 1.6T 验收、订单可见性和产品毛利率仍落在同一基准行可容纳的区间，测试性复合估值中点只比纯基准高约 4.8%，建议不改变。共享市场快照 cid-us-2026-08-19-24｜US-EQ-USD-20260818-CLOSE-5B-v1.0 锁定 宽基风险扩张，唯一相邻状态为 震荡 / 均值回归。对应当前纯格子的条件建议为 不建议投资，稀释后市值 $161–244bn、每股价值 $125–190、15 个月总回报 -35.3%～-1.6%，经营与市场状态证据强度分别为 高 与 中等偏强，估值置信度为 中。当前最弱传导环节是 公司捕获、交付与客户验收 → 可确认收入：$8.4bn RPO、$875.1mn 约束性产品交付义务和 $9.7bn 采购承诺不能互换，1.6T 的 5—7 个机会也尚非量产收入；即使该环节改善，产品毛利率仍是下一道截断点。距离第一个正面区域还需要价格降至约 $146（较 $193.18 低 24.4%）、或经营证据升级到乐观行所需的三项里程碑；市场状态 无需切换，因为乐观 × 当前宽基列已经是正面格子。相邻市场状态下，当前基准行变为 强烈不建议投资，价值 $95–160、回报 -50.8%～-17.2%；最小减弱条件是市场由宽基扩张转入震荡，或产品毛利率低于 58% 且不能传导成本。概率层为 NA，因为没有可辩护的公司经营 × 市场状态联合概率。"
       },
       "matrix": {
         "cellCount": 20,
         "estimableCellCount": 20,
-        "positiveCellCount": 9,
-        "neutralCellCount": 2,
-        "negativeCellCount": 9,
-        "positiveShare": 0.45,
-        "basePositiveCount": 1,
-        "stressPositiveCount": 1,
+        "positiveCellCount": 5,
+        "neutralCellCount": 0,
+        "negativeCellCount": 15,
+        "positiveShare": 0.25,
+        "basePositiveCount": 0,
+        "stressPositiveCount": 0,
         "rowPositive": {
           "pessimistic": 0,
-          "base": 1,
-          "optimistic": 3,
-          "breakthrough": 5
+          "base": 0,
+          "optimistic": 2,
+          "breakthrough": 3
         },
         "marketPositive": {
           "broad": 2,
-          "theme": 3,
-          "range": 2,
-          "orderly": 1,
-          "liquidity": 1
+          "theme": 2,
+          "range": 1,
+          "orderly": 0,
+          "liquidity": 0
         },
-        "firstPositiveScenario": "base",
+        "firstPositiveScenario": "optimistic",
         "breakthroughDependent": false
       }
     },
@@ -6664,9 +6599,9 @@
       "ticker": "AVGO",
       "name": "Broadcom",
       "category": "AI计算芯片EDAIPcustomASIC",
-      "title": "AVGO Broadcom 经营情景 × 市场状态投资决策",
-      "reportDate": "2026-07-18",
-      "sourcePath": "分析报告/公司情景投资决策/结果/AVGO_经营情景市场状态投资决策_2026-07-18.md",
+      "title": "AVGO Broadcom：经营情景 × 市场状态投资决策",
+      "reportDate": "2026-08-19",
+      "sourcePath": "分析报告/公司情景投资决策/结果/AVGO_经营情景市场状态投资决策_2026-08-19.md",
       "dataFile": "reports/scenario-decision/AVGO.json",
       "current": {
         "operatingScenario": "base",
@@ -6676,53 +6611,53 @@
         "composite": false,
         "rotationAdjusted": false,
         "adjustmentType": "pure",
-        "adviceKey": "neutral",
-        "adviceLabel": "中性 / 等待",
-        "adviceRank": 2,
-        "adviceGroup": "neutral",
-        "pureAdviceKey": "neutral",
-        "pureAdviceLabel": "中性 / 等待",
-        "pureAdviceRank": 2,
+        "adviceKey": "no",
+        "adviceLabel": "不建议投资",
+        "adviceRank": 1,
+        "adviceGroup": "negative",
+        "pureAdviceKey": "no",
+        "pureAdviceLabel": "不建议投资",
+        "pureAdviceRank": 1,
         "pureReturnRange": {
-          "low": -17,
-          "high": 20
+          "low": -45,
+          "high": 19
         },
-        "pureReturnRangeText": "-17%～+20%",
-        "perShareValue": "$307–444",
+        "pureReturnRangeText": "-45%～+19%",
+        "perShareValue": "$206—$451",
         "returnRange": {
-          "low": -17,
-          "high": 20
+          "low": -45,
+          "high": 19
         },
-        "returnRangeText": "-17%—+20%",
-        "currentPrice": 1.832,
-        "weakLink": "已锁定订单和上游供给能否按季度完成客户验收并转成现金",
-        "priceBoundary": "$350",
-        "marketSnapshotIdentity": "US-EQ-USD-20260717C-v1.0-28985826856F",
-        "summary": "当前条件定位： 当前证据最接近 基准 / 正常兑现；复合定位 不需要，因为采购承诺与库存风险已能由基准区间低端和现金流桥保留，压力测试相对纯基准估值中点仅低约 4.8%，未达到 10% 或一级建议差异门槛。共享市场快照 US-EQ-USD-20260717C-v1.0-28985826856F 锁定 宽基风险扩张，相邻状态为 震荡 / 均值回归。对应当前纯格子的建议为 中性 / 等待，稀释后股权市值 $1.56–2.18tn、每股价值 $307–444、目标期总回报 -17%～+20%，经营与市场状态证据强度均为 中，估值置信度为 中。当前最弱传导环节为 已锁定订单和上游供给能否按季度完成客户验收并转成现金；距离第一个正面区域还需要价格降至约 $350 或以下（约 -5.6%），或经营证据达到乐观里程碑——FY2026 Q4 AI 接近约 $25bn、FY2027 Q1/Q2接近约 $29/$34bn且 NTM FCF达到约 $73bn并保持库存周转稳定；不依赖市场切换，但若市场转成主题主导上涨，同一基准行会成为谨慎正面格。相邻状态下建议范围为 不建议投资至建议投资；最小减弱条件是基准经营不变而市场转入震荡，或 Q4 AI 明显低于 $20.8bn。概率层 NA，因为没有可辩护的经营—市场联合概率与依赖结构。"
+        "returnRangeText": "-45%—+19%",
+        "currentPrice": 265,
+        "weakLink": "公司份额、交付能力与实现价格 → 收入",
+        "priceBoundary": "$305",
+        "marketSnapshotIdentity": "US-EQ-USD-20260818-CLOSE-5B-v1.0",
+        "summary": "当前条件定位：当前证据最接近 基准 / 正常兑现；复合定位不需要，因为 Google 多源化与其余基准环节的冲突在门槛试算中只使纯行价值中点下降约 3%，条件建议不变，也没有新增非线性融资、控制权或永久损失风险。共享市场快照 US-EQ-USD-20260818-CLOSE-5B-v1.0 锁定 宽基风险扩张，唯一相邻状态为 震荡 / 均值回归。对应当前纯格子的条件建议为 不建议投资，稀释后股权市值 $1.03T—$2.20T、每股价值 $206—$451、目标期总回报 -45%—+19%；经营状态证据强度为 中，共享市场状态证据强度为 中等偏强，估值置信度为 中。当前最弱传导环节是 公司份额、交付能力与实现价格 → 收入：行业需求和订单强，但 Google 多源化、客户通电/验收、2nm/HBM/3.5D 供给及产品资格决定有多少能成为 AVGO 可确认收入。若经营和市场不变，第一个正面区域的诊断买入边界约 $305—$315，中点 $310 较 $380 低 18.4%；若价格不变，则需要进入乐观经营行，至少验证 Q3 指引、FY2026 Q4 AI 约 $20.8B 的桥、一个新增客户量产节点和 FCF 转换。该正面区域不要求市场状态切换。共享相邻市场列下，当前基准行仍为 不建议投资；当前邻域的建议范围为 不建议投资至谨慎建议投资。最小减弱条件是 Q3 AI/总收入或 74% 毛利率明显不达标，或 Google 多供开始侵蚀已纳入基准的 XPU 份额。概率层为 NA：没有可辩护的经营—市场联合概率及相关性。"
       },
       "matrix": {
         "cellCount": 20,
         "estimableCellCount": 20,
-        "positiveCellCount": 9,
-        "neutralCellCount": 1,
-        "negativeCellCount": 10,
-        "positiveShare": 0.45,
-        "basePositiveCount": 1,
-        "stressPositiveCount": 1,
+        "positiveCellCount": 5,
+        "neutralCellCount": 3,
+        "negativeCellCount": 12,
+        "positiveShare": 0.25,
+        "basePositiveCount": 0,
+        "stressPositiveCount": 0,
         "rowPositive": {
           "pessimistic": 0,
-          "base": 1,
-          "optimistic": 3,
-          "breakthrough": 5
+          "base": 0,
+          "optimistic": 2,
+          "breakthrough": 3
         },
         "marketPositive": {
           "broad": 2,
-          "theme": 3,
-          "range": 2,
-          "orderly": 1,
-          "liquidity": 1
+          "theme": 2,
+          "range": 1,
+          "orderly": 0,
+          "liquidity": 0
         },
-        "firstPositiveScenario": "base",
+        "firstPositiveScenario": "optimistic",
         "breakthroughDependent": false
       }
     },
@@ -6928,9 +6863,9 @@
       "ticker": "BE",
       "name": "Bloom Energy",
       "category": "电力发电能源储能",
-      "title": "Bloom Energy（BE）经营情景 × 市场状态投资决策研究",
-      "reportDate": "2026-07-18",
-      "sourcePath": "分析报告/公司情景投资决策/结果/BE_经营情景市场状态投资决策_2026-07-18.md",
+      "title": "BE（Bloom Energy）经营情景 × 市场状态投资决策研究",
+      "reportDate": "2026-08-19",
+      "sourcePath": "分析报告/公司情景投资决策/结果/BE_经营情景市场状态投资决策_2026-08-19.md",
       "dataFile": "reports/scenario-decision/BE.json",
       "current": {
         "operatingScenario": "base",
@@ -6948,46 +6883,46 @@
         "pureAdviceLabel": "不建议投资",
         "pureAdviceRank": 1,
         "pureReturnRange": {
-          "low": -82,
-          "high": -10
+          "low": -63,
+          "high": 27
         },
-        "pureReturnRangeText": "-82%～-10%",
-        "perShareValue": "$38—$193",
+        "pureReturnRangeText": "-63%～+27%",
+        "perShareValue": "$77–266",
         "returnRange": {
-          "low": -82,
-          "high": -10
+          "low": -63,
+          "high": 27
         },
-        "returnRangeText": "-82%—-10%",
-        "currentPrice": 2.6,
-        "weakLink": "收入 → 单位经济与利润 → 再投资和自由现金流",
-        "priceBoundary": "$92",
-        "marketSnapshotIdentity": "美国上市股票｜2026-07-17 收盘｜外部市场数据｜v1.0” 因项目内无正式共享文件而",
-        "summary": "当前条件定位：当前证据最接近 基准 / 正常兑现；复合定位 不需要，因为强劲 AI/SOFC 需求、Oracle 初始 1.2GW、Q1 产品收入与产品毛利，以及安装/服务/营运资本约束，已经能够在同一基准行的区间内完整表达，未出现两个必须落入不同经营行、且无法被该区间保留的决定性环节。共享市场快照 “美国上市股票｜2026-07-17 收盘｜外部市场数据｜v1.0” 因项目内无正式共享文件而锁定为 边界 / 未锁定：宽基风险扩张 + 震荡 / 均值回归。对应基准格分别为 不建议投资｜$11.6B—$61.8B 稀释后股权价值｜$38—$193/股｜-82%—-10%｜估值置信度低，以及 强烈不建议投资｜$9.9B—$51.5B｜$32—$161/股｜-85%—-25%｜低。经营状态证据强度 中高，市场状态证据强度 中。当前最弱传导环节是 收入 → 单位经济与利润 → 再投资和自由现金流：产品毛利已经证明，但安装仍负毛利、服务/保修质量及营运资本尚不足以支撑当前价格要求的长期现金回报。距离第一个正面区域，在经营和市场不变时，宽基列需最高买入价约 $92（-57%），震荡列约 $77（-64%）；若价格不变，则需进入突破经营行，并由额外 firm/NTP、多客户、3GW+ 可用产能、利润质量与自由现金流共同证明，市场无需必然切换，但不得恶化至有序收缩。相邻状态建议范围为 不建议至强烈不建议；最小减弱条件是 Q2/后续指引显示 NTM 收入低于约 $4.15B、产品毛利跌破 30%或安装毛利持续低于 -10%。概率层 NA，因为经营行与市场列的联合基础率和相关性没有可辩护证据。"
+        "returnRangeText": "-63%—+27%",
+        "currentPrice": 0.2,
+        "weakLink": "公司已捕获/规划容量经站点、许可、交付与验收转成可确认收入",
+        "priceBoundary": "$129",
+        "marketSnapshotIdentity": "US-EQ-USD-20260818-CLOSE-5B-v1.0",
+        "summary": "当前条件定位： 当前证据最接近 基准 / 正常兑现；复合定位 不需要。共享市场快照 US-EQ-USD-20260818-CLOSE-5B-v1.0 锁定 宽基风险扩张 为主状态、震荡 / 均值回归 为唯一相邻状态。当前纯格子的条件建议为 不建议投资，稀释后股权市值 $25.9–84.0bn、每股价值 $77–266、目标期总回报 -63%～+27%；经营与市场状态证据强度分别为 中 / 中等偏强，估值置信度为 低。当前最弱传导环节是 公司已捕获/规划容量经站点、许可、交付与验收转成可确认收入；即使修复，下一道约束仍是非预收驱动的自由现金流。在经营和主市场状态不变时，第一个正面条件建议的最高买入价约 $129，较当前低约 38%；若价格不变，则需进入乐观行，至少验证站点/订单转化、2027H1 收入与毛利、以及现金转换三项里程碑，无需市场列变化。相邻市场状态下，基准格为 强烈不建议投资、每股 $57–213、回报 -73%～+2%。最小减弱条件是高实际利率与短线降温使共享状态转入震荡，而公司经营证据仍停留基准。概率层为 NA，因为不存在可辩护的经营—市场联合概率和相关性基础率。"
       },
       "matrix": {
         "cellCount": 20,
         "estimableCellCount": 20,
-        "positiveCellCount": 3,
-        "neutralCellCount": 2,
-        "negativeCellCount": 15,
-        "positiveShare": 0.15,
+        "positiveCellCount": 7,
+        "neutralCellCount": 1,
+        "negativeCellCount": 12,
+        "positiveShare": 0.35,
         "basePositiveCount": 0,
-        "stressPositiveCount": 0,
+        "stressPositiveCount": 1,
         "rowPositive": {
           "pessimistic": 0,
           "base": 0,
-          "optimistic": 0,
-          "breakthrough": 3
+          "optimistic": 2,
+          "breakthrough": 5
         },
         "marketPositive": {
-          "broad": 1,
-          "theme": 1,
+          "broad": 2,
+          "theme": 2,
           "range": 1,
-          "orderly": 0,
-          "liquidity": 0
+          "orderly": 1,
+          "liquidity": 1
         },
-        "firstPositiveScenario": "breakthrough",
-        "breakthroughDependent": true
+        "firstPositiveScenario": "optimistic",
+        "breakthroughDependent": false
       }
     },
     {
@@ -7258,9 +7193,9 @@
       "ticker": "CARR",
       "name": "Carrier Global",
       "category": "机电冷却工程水处理边缘工业AI",
-      "title": "CARR Carrier Global 经营情景 × 市场状态投资决策（2026-07-15）",
-      "reportDate": "2026-07-15",
-      "sourcePath": "分析报告/公司情景投资决策/结果/CARR_经营情景市场状态投资决策_2026-07-15.md",
+      "title": "CARR：经营情景 × 市场状态投资决策研究",
+      "reportDate": "2026-08-19",
+      "sourcePath": "分析报告/公司情景投资决策/结果/CARR_经营情景市场状态投资决策_2026-08-19.md",
       "dataFile": "reports/scenario-decision/CARR.json",
       "current": {
         "operatingScenario": "base",
@@ -7278,28 +7213,28 @@
         "pureAdviceLabel": "中性 / 等待",
         "pureAdviceRank": 2,
         "pureReturnRange": {
-          "low": -36,
-          "high": 20
+          "low": -9.2,
+          "high": 11.7
         },
-        "pureReturnRangeText": "-36%～+20%",
-        "perShareValue": "US$43–82",
+        "pureReturnRangeText": "-9.2%至+11.7%",
+        "perShareValue": "$54.9—$67.7",
         "returnRange": {
-          "low": -36,
-          "high": 20
+          "low": -9.2,
+          "high": 11.7
         },
-        "returnRangeText": "-36%—+20%",
-        "currentPrice": 68.74,
-        "weakLink": "收入 → 单位经济与利润 → 现金",
+        "returnRangeText": "-9.2%—+11.7%",
+        "currentPrice": 61.42,
+        "weakLink": "收入 → 单位经济与利润 → FCF",
         "priceBoundary": "",
-        "marketSnapshotIdentity": "美国主板（USD）｜2026-07-15 16:00 ET｜MS-5B-v1.0",
-        "summary": "当前条件定位：当前证据最接近 基准 / 正常兑现；复合定位 不需要。数据中心需求、订单和公司捕获偏向乐观，但收入、利润、现金和资本桥尚未脱离基准；假设性复合估值相对纯基准中点只提高约 3%，建议仍为“中性 / 等待”，未达到约 10% 中点差异或一级建议差异门槛。共享市场快照 美国主板（USD）｜2026-07-15 16:00 ET｜MS-5B-v1.0 锁定主状态“宽基风险扩张”、相邻状态“震荡 / 均值回归”。对应当前纯格子为 中性 / 等待｜稀释后市值 US$35.8–66.5B｜每股 US$43–82｜12 个月总回报 -36%～+20%｜估值置信度中；相邻状态对应 不建议投资｜US$36–72 / 股｜-46%～+6%｜中。当前经营和市场状态证据强度分别为高、中。最弱传导环节为 收入 → 单位经济与利润 → 现金：Q1 调整后营业利润率仅 11.1%、同比下降 520bp，说明订单和收入尚不能自动越过欠吸收、价格成本、扩产爬坡和营运资本。主状态下，仅靠价格变化，约 US$65.10 或以下才首次形成“谨慎建议投资”，较当前低 5.3%；若市场转入相邻震荡状态，边界约为 US$55.50，较当前低 19.3%。经营上最近的正面区域是“乐观 × 宽基风险扩张”，需要验证 2027 数据中心交付、调整后营业利润约 US$4.1B 以上及 FCF 约 US$2.5B。概率层为 NA，原因是没有可辩护的经营—市场联合概率。"
+        "marketSnapshotIdentity": "cid-us-2026-08-19-24｜US-EQ-USD-20260818-CLOSE-5B-v1.0｜2026-08-18 16:15 ET｜US-MKT-5B-v1.0",
+        "summary": "当前条件定位：当前证据最接近 基准 / 正常兑现；复合定位 不需要，因为偏乐观的订单/公司捕获证据与偏弱的利润兑现可以由基准区间完整保留，诊断性复合估值相对纯基准中点仅低约 5%—6%，且建议仍为“中性 / 等待”，未达到 10% 或一级建议差异门槛。共享市场快照 cid-us-2026-08-19-24｜US-EQ-USD-20260818-CLOSE-5B-v1.0｜2026-08-18 16:15 ET｜US-MKT-5B-v1.0 锁定 宽基风险扩张，唯一相邻状态为 震荡 / 均值回归。对应当前条件格子的建议为 中性 / 等待，稀释后市值 $44.6B—$55.0B、每股价值 $54.9—$67.7、目标期总回报 -9.2%—+11.7%；经营状态证据强度为 中高，市场状态证据强度为 中等偏强，估值置信度为 中。当前最弱传导环节为 收入 → 单位经济与利润 → FCF：数据中心订单很强，但 2026Q2 收入增长同时调整后营业利润率同比下降 190bp，设备 mix、扩产、FAT/SAT/IST、CSE 低利润和营运资本仍可能截断每股价值。仅靠价格，第一正面边界约为 $55.5，较当前价低约 9.6%；若价格不变，则需确认 H2 数据中心交付、利润率/附着率和 FCF 三组经营里程碑，市场状态无需先改变。相邻状态下同一基准行变为 不建议投资｜-20.7%—-3.3%；最小减弱条件是共享市场转入相邻震荡状态，或 H2 数据中心收入低于 $1.4B 且 FCF 下修。概率层 NA，因为没有可辩护的公司经营行与五种市场状态联合概率。"
       },
       "matrix": {
         "cellCount": 20,
         "estimableCellCount": 20,
         "positiveCellCount": 7,
-        "neutralCellCount": 3,
-        "negativeCellCount": 10,
+        "neutralCellCount": 1,
+        "negativeCellCount": 12,
         "positiveShare": 0.35,
         "basePositiveCount": 0,
         "stressPositiveCount": 0,
@@ -7786,9 +7721,9 @@
       "ticker": "CMI",
       "name": "Cummins Inc",
       "category": "电力发电能源储能",
-      "title": "CMI 经营情景 × 市场状态投资决策研究",
-      "reportDate": "2026-07-15",
-      "sourcePath": "分析报告/公司情景投资决策/结果/CMI_经营情景市场状态投资决策_2026-07-15.md",
+      "title": "CMI（Cummins Inc.）经营情景 × 市场状态投资决策",
+      "reportDate": "2026-08-19",
+      "sourcePath": "分析报告/公司情景投资决策/结果/CMI_经营情景市场状态投资决策_2026-08-19.md",
       "dataFile": "reports/scenario-decision/CMI.json",
       "current": {
         "operatingScenario": "base",
@@ -7798,53 +7733,53 @@
         "composite": false,
         "rotationAdjusted": false,
         "adjustmentType": "pure",
-        "adviceKey": "cautious",
-        "adviceLabel": "谨慎建议投资",
-        "adviceRank": 3,
-        "adviceGroup": "positive",
-        "pureAdviceKey": "cautious",
-        "pureAdviceLabel": "谨慎建议投资",
-        "pureAdviceRank": 3,
+        "adviceKey": "neutral",
+        "adviceLabel": "中性 / 等待",
+        "adviceRank": 2,
+        "adviceGroup": "neutral",
+        "pureAdviceKey": "neutral",
+        "pureAdviceLabel": "中性 / 等待",
+        "pureAdviceRank": 2,
         "pureReturnRange": {
-          "low": -8,
-          "high": 21
+          "low": -15,
+          "high": 9
         },
-        "pureReturnRangeText": "-8%～+21%",
-        "perShareValue": "$600～790",
+        "pureReturnRangeText": "-15%～+9%",
+        "perShareValue": "$520～$670",
         "returnRange": {
-          "low": -8,
-          "high": 21
+          "low": -15,
+          "high": 9
         },
-        "returnRangeText": "-8%—+21%",
-        "currentPrice": 666.13,
-        "weakLink": "已见需求与排产能否按期通过关键零件、FAT/SAT、验收和营运资本转成外部收入与自由现金流",
-        "priceBoundary": "",
-        "marketSnapshotIdentity": "CM-US-20260715-v1.0",
-        "summary": "当前条件定位： 当前证据最接近 基准 / 正常兑现；复合定位不需要，因为 Power Systems 的需求与利润接近乐观端，但传统 Engine/Components、订单透明度和营运资本仍落在基准或偏弱端，按一套可勾稽复合假设重估后每股价值中点只比纯基准高约 2.5%，低于 10% 门槛，且建议不改变。共享市场快照 CM-US-20260715-v1.0 锁定 宽基风险扩张为主状态、窄幅/主题主导上涨为唯一相邻状态。主状态对应格为 谨慎建议投资｜$600～790/股｜-8%～+21%，稀释后股权市值 $83.4～108.2B；相邻状态对应格为 谨慎建议投资｜$640～840/股｜-2%～+28%，稀释后股权市值 $89.0～115.1B。经营与市场状态证据强度均为中，两格估值置信度均为中。当前最弱传导环节是 已见需求与排产能否按期通过关键零件、FAT/SAT、验收和营运资本转成外部收入与自由现金流。当前格已处于第一个正面区域；在经营和市场假设不变时，维持“谨慎建议投资”所容许的最高买价约 $681，现价低约 $14 / 2.2%；相邻主题列对应上限约 $723，现价低约 $57 / 8.5%。经营证据距离为 0，市场无需切换；若市场退至震荡、或订单兑现/现金转换低于基准，建议最先降至“中性 / 等待”。概率层为 NA，因为没有足以支持经营行与市场列联合概率及相关性的可辩护基础率。"
+        "returnRangeText": "-15%—+9%",
+        "currentPrice": 6.74,
+        "weakLink": "已获订单/排产与制造能力能否经过客户工地准备、FAT/SAT/IST、验收和营运资本，转为按期收入与现金",
+        "priceBoundary": "$534",
+        "marketSnapshotIdentity": "US-EQ-USD-20260818-CLOSE-5B-v1.0",
+        "summary": "当前条件定位： 当前证据最接近 基准 / 正常兑现；复合定位不需要，因为数据中心需求能见度偏强与营运资本/验收偏弱的冲突，只使纯基准估值中点下降约 2.1%，没有达到 10%、建议差一级或新增永久损失风险的门槛。共享市场快照 US-EQ-USD-20260818-CLOSE-5B-v1.0 锁定 宽基风险扩张，唯一相邻状态为 震荡 / 均值回归。当前纯格子的条件建议为 中性 / 等待，稀释后市值 $71.9～$92.6bn、每股价值 $520～$670、目标期总回报 -15%～+9%；经营状态证据强度为 中，市场状态证据强度为 中等偏强，估值置信度为 中。当前最弱传导环节是 已获订单/排产与制造能力能否经过客户工地准备、FAT/SAT/IST、验收和营运资本，转为按期收入与现金；它限制价值区间低端。仅靠价格变化，基准 × 宽基风险扩张首次达到正面条件建议的最高买入价约为 $534，较当前价低 13.9%；仅靠经营证据则至少需要数据中心 NTM 收入、分部利润率和现金转换三项跨入乐观门槛，市场状态无需改善。唯一相邻市场列的基准格为 不建议投资，每股价值 $450～$600、总回报 -26%～-2%。最小减弱条件是数据中心交付仍兑现但市场转为震荡，或经营仍处基准而 Power Systems 利润率/自由现金流落到基准低端。概率层为 NA：缺少四种经营情景与五种市场状态的可辩护联合概率。"
       },
       "matrix": {
         "cellCount": 20,
         "estimableCellCount": 20,
-        "positiveCellCount": 9,
+        "positiveCellCount": 6,
         "neutralCellCount": 2,
-        "negativeCellCount": 9,
-        "positiveShare": 0.45,
-        "basePositiveCount": 2,
+        "negativeCellCount": 12,
+        "positiveShare": 0.3,
+        "basePositiveCount": 0,
         "stressPositiveCount": 0,
         "rowPositive": {
           "pessimistic": 0,
-          "base": 2,
-          "optimistic": 3,
+          "base": 0,
+          "optimistic": 2,
           "breakthrough": 4
         },
         "marketPositive": {
-          "broad": 3,
-          "theme": 3,
-          "range": 2,
+          "broad": 2,
+          "theme": 2,
+          "range": 1,
           "orderly": 1,
           "liquidity": 0
         },
-        "firstPositiveScenario": "base",
+        "firstPositiveScenario": "optimistic",
         "breakthroughDependent": false
       }
     },
@@ -7984,9 +7919,9 @@
       "ticker": "CRDO",
       "name": "Credo Technology Group",
       "category": "AI网络光互联连接器",
-      "title": "CRDO 经营情景 × 市场状态投资决策研究",
-      "reportDate": "2026-07-15",
-      "sourcePath": "分析报告/公司情景投资决策/结果/CRDO_经营情景市场状态投资决策_2026-07-15.md",
+      "title": "CRDO 经营情景 × 市场状态投资决策（2026-08-19）",
+      "reportDate": "2026-08-19",
+      "sourcePath": "分析报告/公司情景投资决策/结果/CRDO_经营情景市场状态投资决策_2026-08-19.md",
       "dataFile": "reports/scenario-decision/CRDO.json",
       "current": {
         "operatingScenario": "base",
@@ -8004,21 +7939,21 @@
         "pureAdviceLabel": "中性 / 等待",
         "pureAdviceRank": 2,
         "pureReturnRange": {
-          "low": -28,
-          "high": 23
+          "low": -17,
+          "high": 19
         },
-        "pureReturnRangeText": "-28%～+23%",
-        "perShareValue": "164～280美元",
+        "pureReturnRangeText": "-17%～+19%",
+        "perShareValue": "$205–293",
         "returnRange": {
-          "low": -28,
-          "high": 23
+          "low": -17,
+          "high": 19
         },
-        "returnRangeText": "-28%—+23%",
-        "currentPrice": null,
-        "weakLink": "FY2027 下半年多个新品从客户资格、可交付数量和实现价格，穿过良率与模块成本，最终形成 FCF",
+        "returnRangeText": "-17%—+19%",
+        "currentPrice": 245.97,
+        "weakLink": "可取消的 hyperscaler forecast 与光学 qualification 能否转为按期出货、验收和保持毛利的收入",
         "priceBoundary": "",
-        "marketSnapshotIdentity": "US-USD-CLOSE-20260715-v1.0",
-        "summary": "当前条件定位： 当前证据最接近“基准 / 正常兑现”；复合定位不需要，候选复合估值中点仅比纯基准高约 5%，未达到约 10% 或建议变动一级的门槛。共享市场快照 US-USD-CLOSE-20260715-v1.0 锁定主状态“宽基风险扩张”、唯一相邻状态“震荡/均值回归”。基准 × 宽基风险扩张格子的条件建议为“中性 / 等待”，稀释后市值 335.5～565.5 亿美元、每股价值 164～280 美元、15 个月总回报 -28%～+23%；经营与市场状态证据强度分别为中高和中，估值置信度为低。当前最弱传导环节是 FY2027 下半年多个新品从客户资格、可交付数量和实现价格，穿过良率与模块成本，最终形成 FCF；需求强并不等于普通股价值已经兑现。经营和市场不变时，第一个正面价格边界约为 188 美元，较当前价低约 17%；同行已有一个正面格子，因此标准化经营证据距离为 0，但该格子要求市场转为窄幅/主题主导上涨。若市场不变，则需进入乐观经营行。相邻震荡状态下为“不建议投资”，每股 136～230 美元、回报 -40%～+2%。最小减弱条件是宽度转弱且实际利率继续上行，或公司把 FY2027 下半年收入桥下调至基准低端以下。概率层为 NA，原因是缺少可辩护的经营—市场联合概率。"
+        "marketSnapshotIdentity": "cid-us-2026-08-19-24｜US-EQ-USD-20260818-CLOSE-5B-v1.0",
+        "summary": "当前条件定位： 当前证据最接近基准 / 正常兑现；复合定位不需要，因为 AEC 偏强与光学资格、现金转换及稀释约束仍能由基准区间完整容纳，复合审计只使当前主状态估值中点变化约 3%，未达到 10% 或建议改变一级的门槛。共享市场快照 cid-us-2026-08-19-24｜US-EQ-USD-20260818-CLOSE-5B-v1.0 锁定宽基风险扩张为主状态、震荡 / 均值回归为唯一相邻状态。基准 × 宽基风险扩张的条件建议为中性 / 等待，稀释后市值 $40.4–57.6bn、每股价值 $205–293、目标期总回报 -17%～+19%；经营状态证据强度为中（偏强），市场状态证据强度为中等偏强，估值置信度为中。当前最弱传导环节是可取消的 hyperscaler forecast 与光学 qualification 能否转为按期出货、验收和保持毛利的收入；第一个正面区域可由价格约降至 $244（约 -0.8%，模型精度约 ±$5）触发“谨慎建议投资”，或由经营证据上移至乐观行触发；不强制要求市场状态改变。相邻的震荡 / 均值回归下，基准格为不建议投资，$172–255、-30%～+3%；最小减弱条件就是共享状态由主列滑向该相邻列，或 FY2027 Q1/H2 经营桥出现明确断点。概率层为 NA，原因是客户 forecast、产品资格与市场状态之间没有可辩护的联合概率。"
       },
       "matrix": {
         "cellCount": 20,
@@ -8116,65 +8051,65 @@
       "ticker": "CRWV",
       "name": "CoreWeave",
       "category": "云算力IDCAI软件平台",
-      "title": "CRWV CoreWeave：经营情景 × 市场状态投资决策研究（2026-07-15）",
-      "reportDate": "2026-07-15",
-      "sourcePath": "分析报告/公司情景投资决策/结果/CRWV_经营情景市场状态投资决策_2026-07-15.md",
+      "title": "CRWV / CoreWeave：经营情景 × 市场状态投资决策",
+      "reportDate": "2026-08-19",
+      "sourcePath": "分析报告/公司情景投资决策/结果/CRWV_经营情景市场状态投资决策_2026-08-19.md",
       "dataFile": "reports/scenario-decision/CRWV.json",
       "current": {
         "operatingScenario": "base",
         "operatingLabel": "基准 / 正常兑现",
         "marketState": "broad",
         "marketLabel": "宽基风险扩张",
-        "composite": false,
+        "composite": true,
         "rotationAdjusted": false,
-        "adjustmentType": "pure",
-        "adviceKey": "cautious",
-        "adviceLabel": "谨慎建议投资",
-        "adviceRank": 3,
-        "adviceGroup": "positive",
-        "pureAdviceKey": "cautious",
-        "pureAdviceLabel": "谨慎建议投资",
-        "pureAdviceRank": 3,
+        "adjustmentType": "composite",
+        "adviceKey": "no",
+        "adviceLabel": "不建议投资",
+        "adviceRank": 1,
+        "adviceGroup": "negative",
+        "pureAdviceKey": "neutral",
+        "pureAdviceLabel": "中性 / 等待",
+        "pureAdviceRank": 2,
         "pureReturnRange": {
-          "low": -36,
-          "high": 87
+          "low": -34,
+          "high": 27
         },
-        "pureReturnRangeText": "-36%～+87%",
-        "perShareValue": "$49–144",
+        "pureReturnRangeText": "-34%～+27%",
+        "perShareValue": "$47—$82",
         "returnRange": {
-          "low": -36,
-          "high": 87
+          "low": -50,
+          "high": -12
         },
-        "returnRangeText": "-36%—+87%",
-        "currentPrice": 77.12,
-        "weakLink": "已承诺成长投入 → 未来经营能力与股东可得价值",
-        "priceBoundary": "$77.4",
-        "marketSnapshotIdentity": "USPRIMARYNASDAQUSD｜2026-07-15 16:30 ET｜Yahoo/Cboe/FRED/FactSet｜MS-US-v1.0",
-        "summary": "当前条件定位：当前证据最接近 基准 / 正常兑现；复合定位 不需要。高强度订单与交付证据、当前较低营业利润和高资本需求之间确有张力，但压力资本桥相对纯基准行只降低当前两列价值中点约 8%–9%，未达到约 10% 门槛，也未改变建议级别。共享市场快照 USPRIMARYNASDAQUSD｜2026-07-15 16:30 ET｜Yahoo/Cboe/FRED/FactSet｜MS-US-v1.0 锁定主状态 宽基风险扩张、相邻状态 窄幅/主题主导上涨。主状态对应格子为 谨慎建议投资，稀释后市值 $31–89B、每股价值 $49–144、目标期总回报 -36%～+87%；相邻主题列为 建议投资，稀释后市值 $42–106B、每股价值 $67–172、总回报 -13%～+123%。经营状态证据强度 中高、市场状态证据强度 中，两格估值置信度均为 中。当前最弱传导环节是 已承诺成长投入 → 未来经营能力与股东可得价值：需求和 RPO 已经足够，但 NTM 全情景仍深度负 FCF，融资、租赁、经济折旧和稀释可能截留营业增长。当前格子已进入第一个正面区域；维持正面建议的最高价格约为主状态 $77.4（仅比当前高约 0.4%）、相邻主题状态 $95.5（高约 23.8%）；经营证据距离记为 0，但市场依赖很高，切换至震荡列即失去正面建议。最小减弱条件是 Q2/H2 调整后营业利润率未向 7%–9% 年度指引恢复、active MW 比计划少约 200MW，或市场转为震荡。概率层 NA：没有可辩护的经营—市场联合概率，不强行生成期望回报。"
+        "returnRangeText": "-50%—-12%",
+        "currentPrice": null,
+        "weakLink": "利润与成长性投入能否穿过债务、利息和稀释成为普通股自由现金流",
+        "priceBoundary": "",
+        "marketSnapshotIdentity": "US-EQ-USD-20260818-CLOSE-5B-v1.0",
+        "summary": "当前条件定位： 当前证据最接近 基准 / 正常兑现；复合定位 达到门槛：需求、合同与新签价格接近乐观，active/billable 交付接近基准，但再投资、自由现金流、债务与稀释落在悲观一侧。相对纯基准行，宽基状态的每股价值中点由约 90 美元降至约 64.5 美元，下降约 28%，条件建议由“中性 / 等待”降为“不建议投资”。共享市场快照 US-EQ-USD-20260818-CLOSE-5B-v1.0 锁定 宽基风险扩张，唯一相邻为 震荡 / 均值回归。复合定位 × 宽基风险扩张的条件建议为 不建议投资，稀释后市值约 33–57B、每股价值 47–82 美元、目标期总回报 -50%～-12%；经营状态证据强度为 中，市场状态证据强度为 中等偏强，估值置信度为 低。当前最弱传导环节是 利润与成长性投入能否穿过债务、利息和稀释成为普通股自由现金流。距离第一个正面区域，宽基状态下仅靠价格需降至约 52 美元（较 93.17 美元低约 44%），震荡状态下约 42 美元（低约 55%）；经营证据至少需要 active power / 收入密度、利息与项目融资、稀释三组里程碑共同改善；市场状态无需再转强，因为乐观经营行在当前宽基列已是正面。相邻震荡状态下仍为 不建议投资，价值约 39–65 美元、回报 -58%～-30%。概率层 NA：没有可辩护的经营—市场联合概率。"
       },
       "matrix": {
         "cellCount": 20,
         "estimableCellCount": 20,
-        "positiveCellCount": 10,
-        "neutralCellCount": 0,
-        "negativeCellCount": 10,
-        "positiveShare": 0.5,
-        "basePositiveCount": 2,
+        "positiveCellCount": 7,
+        "neutralCellCount": 4,
+        "negativeCellCount": 9,
+        "positiveShare": 0.35,
+        "basePositiveCount": 0,
         "stressPositiveCount": 0,
         "rowPositive": {
           "pessimistic": 0,
-          "base": 2,
-          "optimistic": 4,
+          "base": 0,
+          "optimistic": 3,
           "breakthrough": 4
         },
         "marketPositive": {
-          "broad": 3,
-          "theme": 3,
+          "broad": 2,
+          "theme": 2,
           "range": 2,
-          "orderly": 2,
+          "orderly": 1,
           "liquidity": 0
         },
-        "firstPositiveScenario": "base",
+        "firstPositiveScenario": "optimistic",
         "breakthroughDependent": false
       }
     },
@@ -8974,9 +8909,9 @@
       "ticker": "EME",
       "name": "EMCOR Group",
       "category": "机电冷却工程水处理边缘工业AI",
-      "title": "EME EMCOR Group：经营情景 × 市场状态投资决策研究",
-      "reportDate": "2026-07-15",
-      "sourcePath": "分析报告/公司情景投资决策/结果/EME_经营情景市场状态投资决策_2026-07-15.md",
+      "title": "EME EMCOR Group 经营情景 × 市场状态投资决策（2026-08-19）",
+      "reportDate": "2026-08-19",
+      "sourcePath": "分析报告/公司情景投资决策/结果/EME_经营情景市场状态投资决策_2026-08-19.md",
       "dataFile": "reports/scenario-decision/EME.json",
       "current": {
         "operatingScenario": "base",
@@ -8986,50 +8921,50 @@
         "composite": false,
         "rotationAdjusted": false,
         "adjustmentType": "pure",
-        "adviceKey": "no",
-        "adviceLabel": "不建议投资",
-        "adviceRank": 1,
-        "adviceGroup": "negative",
-        "pureAdviceKey": "no",
-        "pureAdviceLabel": "不建议投资",
-        "pureAdviceRank": 1,
+        "adviceKey": "neutral",
+        "adviceLabel": "中性 / 等待",
+        "adviceRank": 2,
+        "adviceGroup": "neutral",
+        "pureAdviceKey": "neutral",
+        "pureAdviceLabel": "中性 / 等待",
+        "pureAdviceRank": 2,
         "pureReturnRange": {
-          "low": -37,
-          "high": 13
+          "low": -8.2,
+          "high": 15
         },
-        "pureReturnRangeText": "-37%～+13%",
-        "perShareValue": "$481–864",
+        "pureReturnRangeText": "-8.2%～+15.0%",
+        "perShareValue": "$755–$946",
         "returnRange": {
-          "low": -37,
-          "high": 13
+          "low": -8.2,
+          "high": 15
         },
-        "returnRangeText": "-37%—+13%",
-        "currentPrice": 769.72,
-        "weakLink": "N&C 收入向可持续单位利润和现金的转化",
-        "priceBoundary": "$565",
-        "marketSnapshotIdentity": "未能正式",
-        "summary": "当前条件定位：当前证据最接近 基准 / 正常兑现；复合定位不需要，因为订单端与利润/现金端的冲突只令条件价值中点约变化 3.7%，既低于 10% 门槛，也不改变建议。共享市场快照未能正式锁定，降级身份 美国上市股票（USD）｜2026-07-15｜MS-5B-v1.0 并列 宽基风险扩张 / 窄幅主题上涨。对应两格的条件建议均为 不建议投资：宽基下稀释后市值 $21.3–38.2B、每股 $481–864、总回报 -37%～+13%；主题下稀释后市值 $19.9–39.8B、每股 $450–900、总回报 -41%～+17%。经营与市场状态证据强度分别为 高 / 低，估值置信度为 中 / 低。当前最弱传导环节是 N&C 收入向可持续单位利润和现金的转化：机械收入增长很快，但低费率 pass-through、新市场爬坡、应收占用可能截断每股价值。若经营与市场假设不变，第一个正面价格边界约为 宽基 $565（较现价 -26.6%）/主题 $535（-30.5%）；在当前价格下，最近正面区域需要经营证据进入乐观行，并保持当前两种有利市场列。相邻状态建议由 不建议投资（基准）至 谨慎建议投资（乐观）变化；最小减弱条件为 RPO 同比降至 10% 以下、机械营业率低于 9% 或滚动 CFO/净利润低于 0.6x 中任两项出现。概率层 NA，原因是没有可辩护的经营与市场联合概率。"
+        "returnRangeText": "-8.2%—+15%",
+        "currentPrice": 22.5,
+        "weakLink": "RPO/项目机会 → 合格项目领导、业主设备到场、现场动员与验收 → 收入确认和现金",
+        "priceBoundary": "$755",
+        "marketSnapshotIdentity": "US-EQ-USD-20260818-CLOSE-5B-v1.0",
+        "summary": "当前条件定位： 当前证据最接近 基准 / 正常兑现；复合定位不需要。需求与订单偏向乐观、H1 现金转换偏向悲观，但基准行的收入与 FCF 区间已经透明容纳二者；复合试算只令价值中点提高约 6.0%，建议仍为中性，未达到复合门槛。共享市场快照 US-EQ-USD-20260818-CLOSE-5B-v1.0 锁定主状态 宽基风险扩张、唯一相邻状态 震荡 / 均值回归。当前纯格子为 中性 / 等待，目标期稀释后市值 $33.5b–$41.5b、每股价值 $755–$946、含 $1.60 现金分红的总回报 -8.2%～+15.0%；经营状态证据强度为 高，共享市场状态证据强度为 中等偏强，估值置信度为 中。当前最弱传导环节是 RPO/项目机会 → 合格项目领导、业主设备到场、现场动员与验收 → 收入确认和现金。在经营与市场假设不变时，第一个正面区域的最高买入价约 $755，较当前低 8.4%；经营证据需至少证明 RPO 转换、施工利润率和现金转换三者同步；市场状态无需切换。相邻市场列下为 不建议投资，每股 $660–$842、回报 -19.8%～+2.3%。最小减弱条件是共享状态切至震荡，或一年内 RPO 比例跌破 70%、OCF/净利润持续低于 70%而无时点解释。概率层为 NA。"
       },
       "matrix": {
         "cellCount": 20,
         "estimableCellCount": 20,
-        "positiveCellCount": 5,
-        "neutralCellCount": 2,
-        "negativeCellCount": 13,
-        "positiveShare": 0.25,
+        "positiveCellCount": 7,
+        "neutralCellCount": 3,
+        "negativeCellCount": 10,
+        "positiveShare": 0.35,
         "basePositiveCount": 0,
         "stressPositiveCount": 0,
         "rowPositive": {
           "pessimistic": 0,
           "base": 0,
-          "optimistic": 2,
-          "breakthrough": 3
+          "optimistic": 3,
+          "breakthrough": 4
         },
         "marketPositive": {
           "broad": 2,
           "theme": 2,
-          "range": 1,
-          "orderly": 0,
+          "range": 2,
+          "orderly": 1,
           "liquidity": 0
         },
         "firstPositiveScenario": "optimistic",
@@ -9964,15 +9899,15 @@
       "ticker": "GEV",
       "name": "GE Vernova",
       "category": "电力发电能源储能",
-      "title": "GEV：经营情景 × 市场状态投资决策研究",
-      "reportDate": "2026-07-15",
-      "sourcePath": "分析报告/公司情景投资决策/结果/GEV_经营情景市场状态投资决策_2026-07-15.md",
+      "title": "GEV：经营情景 × 市场状态投资决策（2026-08-19）",
+      "reportDate": "2026-08-19",
+      "sourcePath": "分析报告/公司情景投资决策/结果/GEV_经营情景市场状态投资决策_2026-08-19.md",
       "dataFile": "reports/scenario-decision/GEV.json",
       "current": {
         "operatingScenario": "base",
         "operatingLabel": "基准 / 正常兑现",
-        "marketState": "range",
-        "marketLabel": "震荡 / 均值回归",
+        "marketState": "broad",
+        "marketLabel": "宽基风险扩张",
         "composite": false,
         "rotationAdjusted": false,
         "adjustmentType": "pure",
@@ -9984,42 +9919,42 @@
         "pureAdviceLabel": "不建议投资",
         "pureAdviceRank": 1,
         "pureReturnRange": {
-          "low": -34,
-          "high": 5
+          "low": -44,
+          "high": 27
         },
-        "pureReturnRangeText": "-34%～+5%",
-        "perShareValue": "695～1,103 美元",
+        "pureReturnRangeText": "-44%～+27%",
+        "perShareValue": "$556～$1,272",
         "returnRange": {
-          "low": -34,
-          "high": 5
+          "low": -44,
+          "high": 27
         },
-        "returnRangeText": "-34%—+5%",
-        "currentPrice": null,
-        "weakLink": "已确认利润与高订单能否在履约、成长投入和合同负债变化后转成高质量自由现金流",
-        "priceBoundary": "",
-        "marketSnapshotIdentity": "美国主要上市股票｜2026-07-15 16:00 ET｜MS-US-5B-v1.0",
-        "summary": "当前条件定位： 当前证据最接近 基准 / 正常兑现；复合定位 不需要，因为需求端偏乐观、现金质量偏弱的冲突相对纯基准行只使估值中点变化约 2%，建议不变，未达到 10%或一级建议差异门槛。共享市场快照 美国主要上市股票｜2026-07-15 16:00 ET｜MS-US-5B-v1.0 锁定 震荡 / 均值回归为主状态、宽基风险扩张为唯一相邻状态。主状态对应格子为 不建议投资｜-34%～+5%｜估值置信度中，稀释后股权市值 1,900～2,970 亿美元、每股价值 695～1,103 美元；相邻状态对应 中性 / 等待｜-23%～+18%｜中，股权市值 2,210～3,340 亿美元、每股价值 805～1,241 美元。经营状态证据强度为 中，市场状态证据强度为 中。当前最弱传导环节是 已确认利润与高订单能否在履约、成长投入和合同负债变化后转成高质量自由现金流。在主状态、经营假设不变时，第一个正面条件价格约 765 美元，较现价低约 28%；经营证据需至少证明气电与电气化交付能力、剔除新增客户预付款后的现金转换和 Wind 亏损收窄。若经营升级至乐观行，则无需市场状态改变也可进入正面区域。概率层为 NA，原因是没有足够证据为经营行与市场列建立可辩护的联合概率。"
+        "returnRangeText": "-44%—+27%",
+        "currentPrice": 1004.53,
+        "weakLink": "公司已捕获订单与实现价格能否按时转成合格交付、单位利润和可持续现金，而非仅形成预付款",
+        "priceBoundary": "$796.74",
+        "marketSnapshotIdentity": "US-EQ-USD-20260818-CLOSE-5B-v1.0",
+        "summary": "当前条件定位： 当前证据最接近 基准 / 正常兑现；复合定位 不需要，因为需求与订单虽位于基准上沿，但合格交付、单位经济和预付款现金质量仍能在一个完整的基准区间内表达，候选复合估值中点仅高约 3.7%，不改变建议级别。共享市场快照 US-EQ-USD-20260818-CLOSE-5B-v1.0 锁定 宽基风险扩张，唯一相邻状态为 震荡 / 均值回归。对应当前纯格子的条件建议为 不建议投资，稀释后股权市值约 $149.8B～$342.8B、每股价值 $556～$1,272、目标期总回报 -44%～+27%；经营状态证据强度 中高，市场状态证据强度 中等偏强，估值置信度 低。当前最弱传导环节是 公司已捕获订单与实现价格能否按时转成合格交付、单位利润和可持续现金，而非仅形成预付款。在经营与市场假设不变时，模型区间中点首次达到 15% 要求回报的最高买入价约 $796.74，比当前价低 20.7%；经营证据还需证明燃机与变压器按计划扩产交付、Wind 止损及预付款现金质量。宽基主状态下无需换列即可在乐观行进入正面区域。唯一相邻市场状态下当前纯格仍为 不建议投资，价值 $490～$1,075、回报 -51%～+7%。最小减弱条件是燃机或电网设备出现一至两个季度交付/质保失误，或新订单预付款不能覆盖合同履约现金流。概率层 NA：没有可辩护的经营—市场联合概率和相关性基础率。"
       },
       "matrix": {
         "cellCount": 20,
         "estimableCellCount": 20,
-        "positiveCellCount": 9,
+        "positiveCellCount": 8,
         "neutralCellCount": 2,
-        "negativeCellCount": 9,
-        "positiveShare": 0.45,
+        "negativeCellCount": 10,
+        "positiveShare": 0.4,
         "basePositiveCount": 0,
         "stressPositiveCount": 1,
         "rowPositive": {
           "pessimistic": 0,
           "base": 0,
-          "optimistic": 4,
+          "optimistic": 3,
           "breakthrough": 5
         },
         "marketPositive": {
           "broad": 2,
           "theme": 2,
           "range": 2,
-          "orderly": 2,
+          "orderly": 1,
           "liquidity": 1
         },
         "firstPositiveScenario": "optimistic",
@@ -10360,9 +10295,9 @@
       "ticker": "HPE",
       "name": "惠普企业",
       "category": "AI服务器存储EMS",
-      "title": "HPE 经营情景 × 市场状态投资决策研究",
-      "reportDate": "2026-07-15",
-      "sourcePath": "分析报告/公司情景投资决策/结果/HPE_经营情景市场状态投资决策_2026-07-15.md",
+      "title": "HPE 经营情景 × 市场状态投资决策（2026-08-19）",
+      "reportDate": "2026-08-19",
+      "sourcePath": "分析报告/公司情景投资决策/结果/HPE_经营情景市场状态投资决策_2026-08-19.md",
       "dataFile": "reports/scenario-decision/HPE.json",
       "current": {
         "operatingScenario": "base",
@@ -10372,53 +10307,53 @@
         "composite": false,
         "rotationAdjusted": false,
         "adjustmentType": "pure",
-        "adviceKey": "cautious",
-        "adviceLabel": "谨慎建议投资",
-        "adviceRank": 3,
-        "adviceGroup": "positive",
-        "pureAdviceKey": "cautious",
-        "pureAdviceLabel": "谨慎建议投资",
-        "pureAdviceRank": 3,
+        "adviceKey": "neutral",
+        "adviceLabel": "中性 / 等待",
+        "adviceRank": 2,
+        "adviceGroup": "neutral",
+        "pureAdviceKey": "neutral",
+        "pureAdviceLabel": "中性 / 等待",
+        "pureAdviceRank": 2,
         "pureReturnRange": {
-          "low": -4,
-          "high": 30
+          "low": -8,
+          "high": 24
         },
-        "pureReturnRangeText": "-4%～+30%",
-        "perShareValue": "$45～$61",
+        "pureReturnRangeText": "-8%—+24%",
+        "perShareValue": "$50.3—$68.3",
         "returnRange": {
-          "low": -4,
-          "high": 30
+          "low": -8,
+          "high": 24
         },
-        "returnRangeText": "-4%—+30%",
-        "currentPrice": 54.9,
-        "weakLink": "收入 → 单位经济与利润",
-        "priceBoundary": "$53.3",
-        "marketSnapshotIdentity": "MS-US-v1.0",
-        "summary": "当前条件定位： 当前证据最接近 基准 / 正常兑现；复合定位不需要。虽然 AI 需求、订单和网络产品进度局部接近乐观行，但收入到单位经济、库存到自由现金流以及 Juniper 协同仍停留在基准行；把这些冲突另建复合定位，只使当前主市场列每股价值中点提高约 3.8%，且不改变“谨慎建议投资”，未达到 10% 或一级建议差异门槛。共享市场快照 MS-US-v1.0 锁定主状态“宽基风险扩张”、相邻状态“窄幅/主题主导上涨”。基准 × 宽基格子的条件建议为 谨慎建议投资，稀释后市值 $61.2～$86.0bn、每股价值 $45～$61、目标期含息总回报 -4%～+30%；相邻主题列同为 谨慎建议投资，每股 $46～$63、回报 -1%～+35%。经营与市场状态证据强度均为中，两个格子的估值置信度均为中。当前最弱传导环节是 收入 → 单位经济与利润：GPU、HBM 和系统内存的高额转售可以迅速推高收入，却未必形成足够毛利；其后还要穿过库存和营运资本才能成为普通股股东现金。当前已经位于第一个正面条件区域，经营证据距离为 0；主状态下正面建议可承受的最高买入价约 $53.3，较现价有约 12.4% 余量，相邻主题列约 $54.9、余量约 15.9%。若要仅靠价格使主状态建议更稳健地升至“建议投资”，买入价约需降至 $45.7 或以下；经营上则需要 Networking 利润率、AI 交付毛利和 FCF 三者至少两项同步验证。最小减弱条件是市场转为震荡而经营仍只属基准，或 FY2027 FCF 路径降至 $4.0bn 以下。概率层为 NA，因为缺少可辩护的经营—市场联合概率与相关性。"
+        "returnRangeText": "-8%—+24%",
+        "currentPrice": 55.69,
+        "weakLink": "高毛利网络、存储与软件附着能否抵消低毛利 AI 系统规模，并把 $90.34 亿库存和 $63 亿以上 AI backlog 转成自由现金流",
+        "priceBoundary": "$50.9",
+        "marketSnapshotIdentity": "US-EQ-USD-20260818-CLOSE-5B-v1.0｜美国上市股票、美元定价、美国投资者定价环境｜2026-08-18 16:15 ET｜US-MKT-5B-v1.0",
+        "summary": "当前条件定位： 当前证据最接近 基准 / 正常兑现；复合定位不需要，因为需求与订单偏强、现金转换偏弱的冲突可由基准区间端点完整保留，诊断性复合估值中点仅比纯基准低约 2.2%，没有改变建议级别。共享市场快照身份 US-EQ-USD-20260818-CLOSE-5B-v1.0｜美国上市股票、美元定价、美国投资者定价环境｜2026-08-18 16:15 ET｜US-MKT-5B-v1.0 锁定 宽基风险扩张，唯一相邻状态为 震荡 / 均值回归。对应当前纯条件格子的建议为 中性 / 等待，稀释后股权市值 $730 亿—$970 亿、每股价值 $50.3—$68.3、目标期总回报 -8%—+24%；经营状态证据强度为 中高，共享市场状态证据强度为 中等偏强，估值置信度为 中。当前最弱传导环节为 高毛利网络、存储与软件附着能否抵消低毛利 AI 系统规模，并把 $90.34 亿库存和 $63 亿以上 AI backlog 转成自由现金流；在经营与市场假设不变时，使区间中点首次达到 18% 要求回报的最高买入价约 $50.9，较当前价低约 8.6%；经营证据还需要网络利润率、AI backlog 转收入与库存/自由现金流三项里程碑，市场状态无需改善。相邻的震荡状态下建议为 不建议投资、回报 -22%—+8%；最小减弱条件是 Q3/FY26 证明库存继续上升而 AI 系统增量毛利与 Juniper 网络利润不足以覆盖资本占用。概率层 NA，原因是没有可辩护的经营—市场联合概率。"
       },
       "matrix": {
         "cellCount": 20,
         "estimableCellCount": 20,
-        "positiveCellCount": 11,
-        "neutralCellCount": 1,
-        "negativeCellCount": 8,
-        "positiveShare": 0.55,
-        "basePositiveCount": 2,
-        "stressPositiveCount": 1,
+        "positiveCellCount": 7,
+        "neutralCellCount": 3,
+        "negativeCellCount": 10,
+        "positiveShare": 0.35,
+        "basePositiveCount": 0,
+        "stressPositiveCount": 0,
         "rowPositive": {
           "pessimistic": 0,
-          "base": 2,
-          "optimistic": 4,
-          "breakthrough": 5
+          "base": 0,
+          "optimistic": 3,
+          "breakthrough": 4
         },
         "marketPositive": {
-          "broad": 3,
-          "theme": 3,
+          "broad": 2,
+          "theme": 2,
           "range": 2,
-          "orderly": 2,
-          "liquidity": 1
+          "orderly": 1,
+          "liquidity": 0
         },
-        "firstPositiveScenario": "base",
+        "firstPositiveScenario": "optimistic",
         "breakthroughDependent": false
       }
     },
@@ -11482,9 +11417,9 @@
       "ticker": "LITE",
       "name": "Lumentum",
       "category": "AI网络光互联连接器",
-      "title": "LITE｜Lumentum 经营情景 × 市场状态投资决策研究",
-      "reportDate": "2026-07-15",
-      "sourcePath": "分析报告/公司情景投资决策/结果/LITE_经营情景市场状态投资决策_2026-07-15.md",
+      "title": "LITE（Lumentum）经营情景 × 市场状态投资决策",
+      "reportDate": "2026-08-19",
+      "sourcePath": "分析报告/公司情景投资决策/结果/LITE_经营情景市场状态投资决策_2026-08-19.md",
       "dataFile": "reports/scenario-decision/LITE.json",
       "current": {
         "operatingScenario": "base",
@@ -11502,28 +11437,28 @@
         "pureAdviceLabel": "不建议投资",
         "pureAdviceRank": 1,
         "pureReturnRange": {
-          "low": -38.8,
-          "high": 1.1
+          "low": -40.5,
+          "high": -5
         },
-        "pureReturnRangeText": "-38.8%～+1.1%",
-        "perShareValue": "$460–$760",
+        "pureReturnRangeText": "-40.5%～-5.0%",
+        "perShareValue": "520—830",
         "returnRange": {
-          "low": -38.8,
-          "high": 1.1
+          "low": -40.5,
+          "high": -5
         },
-        "returnRangeText": "-38.8%—+1.1%",
-        "currentPrice": 252,
-        "weakLink": "公司捕获与已承诺成长投入能否按时转成合格交付和收入",
-        "priceBoundary": "$500",
-        "marketSnapshotIdentity": "US-5B-v1.0",
-        "summary": "当前条件定位： 当前证据最接近 基准 / 正常兑现；复合定位 不需要，因为需求与订单偏强、但合格交付和成长投入后的现金转换仍待证明，这一冲突可以由基准行的宽区间表达，反事实复合中点只比纯基准高约 4%，未达到约 10%或建议改变一级的门槛。共享市场快照 US-5B-v1.0 锁定 宽基风险扩张，相邻状态为 震荡/均值回归。对应当前纯格子的条件建议为 不建议投资，目标期稀释后市值 $49.7B–$79.8B、每股价值 $460–$760、总回报 -38.8%～+1.1%；经营与市场状态证据强度均为 中，估值置信度为 低。当前最弱传导环节是 公司捕获与已承诺成长投入能否按时转成合格交付和收入；若这一环没有穿过良率、测试、产品组合和营运资本，订单增长不能到达自由现金流和完全稀释每股价值。经营和市场假设不变时，第一个正面区域的最高买入价约 $500，比当前价低 $252 / 33.5%；经营证据上需依次证明 Q4/Q1 收入与利润指引、OCS 和 UHP/ELS 季度爬坡、以及合并利润率和现金转换。无需单靠市场切换即可转正，但当前价下仅切换到主题上涨列仍不足以形成正面条件格子。相邻市场状态下，基准行条件建议仍为 不建议投资，回报区间为 -48.1%～-9.6%。概率层为 NA，原因是经营行与市场状态之间高度相关且没有可辩护的联合概率基础率。"
+        "returnRangeText": "-40.5%—-5%",
+        "currentPrice": null,
+        "weakLink": "合格产能、系统齐套和客户验收能否把强需求转成按期收入与利润",
+        "priceBoundary": "",
+        "marketSnapshotIdentity": "cid-us-2026-08-19-24｜US-EQ-USD-20260818-CLOSE-5B-v1.0",
+        "summary": "当前条件定位： 当前证据最接近基准 / 正常兑现；复合定位不需要，因为需求与利润的偏强证据、现金转换与稀释的偏弱证据都能被基准区间完整容纳，试算复合估值中点仅比纯基准高约 3%，建议不变，也没有新增非线性融资或永久损失风险。共享市场快照 cid-us-2026-08-19-24｜US-EQ-USD-20260818-CLOSE-5B-v1.0 锁定宽基风险扩张为主状态、震荡 / 均值回归为唯一相邻状态。基准 × 宽基风险扩张格子的条件建议为不建议投资，稀释后股权市值 54.9—87.6B、每股价值 520—830 美元、15 个月总回报 -40.5%～-5.0%；经营状态证据强度为中高、市场状态证据强度为中等偏强、估值置信度为中。当前最弱传导环节是合格产能、系统齐套和客户验收能否把强需求转成按期收入与利润；报告口径现金流是下游次级约束。仅靠价格转正的最高边界约为 675 美元，较当前价低 22.7%，更保守的执行边界为 650 美元；仅靠经营证据转正需要进入乐观行，至少验证 OCS、1.6T 和 EML/UHP 中两项独立里程碑；市场状态无需变好，但单独切换到主题上涨仍不能令基准行转正。相邻市场状态下为强烈不建议投资，每股价值 460—730 美元、回报 -47.3%～-16.4%。最小减弱条件是 FY2027 Q1 低于指引下限并伴随 OCS、1.6T 或 InP 产能兑现延后。概率层为 NA：没有足以建立经营行与 15 个月市场状态联合概率的可辩护基础率。"
       },
       "matrix": {
         "cellCount": 20,
         "estimableCellCount": 20,
         "positiveCellCount": 6,
-        "neutralCellCount": 2,
-        "negativeCellCount": 12,
+        "neutralCellCount": 1,
+        "negativeCellCount": 13,
         "positiveShare": 0.3,
         "basePositiveCount": 0,
         "stressPositiveCount": 0,
@@ -11746,63 +11681,63 @@
       "ticker": "META",
       "name": "Meta Platforms",
       "category": "云算力IDCAI软件平台",
-      "title": "META 经营情景 × 市场状态投资决策研究",
-      "reportDate": "2026-07-18",
-      "sourcePath": "分析报告/公司情景投资决策/结果/META_经营情景市场状态投资决策_2026-07-18.md",
+      "title": "META — 经营情景 × 市场状态投资决策",
+      "reportDate": "2026-08-19",
+      "sourcePath": "分析报告/公司情景投资决策/结果/META_经营情景市场状态投资决策_2026-08-19.md",
       "dataFile": "reports/scenario-decision/META.json",
       "current": {
         "operatingScenario": "base",
         "operatingLabel": "基准 / 正常兑现",
-        "marketState": "range",
-        "marketLabel": "震荡 / 均值回归",
+        "marketState": "broad",
+        "marketLabel": "宽基风险扩张",
         "composite": false,
         "rotationAdjusted": false,
         "adjustmentType": "pure",
-        "adviceKey": "no",
-        "adviceLabel": "不建议投资",
-        "adviceRank": 1,
-        "adviceGroup": "negative",
-        "pureAdviceKey": "no",
-        "pureAdviceLabel": "不建议投资",
-        "pureAdviceRank": 1,
+        "adviceKey": "neutral",
+        "adviceLabel": "中性 / 等待",
+        "adviceRank": 2,
+        "adviceGroup": "neutral",
+        "pureAdviceKey": "neutral",
+        "pureAdviceLabel": "中性 / 等待",
+        "pureAdviceRank": 2,
         "pureReturnRange": {
-          "low": -26.1,
-          "high": 14.1
+          "low": -12.1,
+          "high": 41.2
         },
-        "pureReturnRangeText": "-26.1%～+14.1%",
-        "perShareValue": "$475–735",
+        "pureReturnRangeText": "-12.1%～+41.2%",
+        "perShareValue": "475–765",
         "returnRange": {
-          "low": -26.1,
-          "high": 14.1
+          "low": -12.1,
+          "high": 41.2
         },
-        "returnRangeText": "-26.1%—+14.1%",
-        "currentPrice": 625,
-        "weakLink": "成长性 AI 投入能否形成可验证的增量 ROIC 并把会计利润转成自由现金流",
-        "priceBoundary": "$537",
-        "marketSnapshotIdentity": "美国上市大盘股（USD）｜2026-07-17 16:00 ET｜US-MKT-5B-v1.0",
-        "summary": "当前条件定位： 当前证据最接近 基准 / 正常兑现；复合定位不需要，因为广告捕获与 FCF 的冲突已在纯基准区间中完整保留，复合压力测试中点只低约 2.5%、建议不变。共享市场快照 美国上市大盘股（USD）｜2026-07-17 16:00 ET｜US-MKT-5B-v1.0 锁定 震荡/均值回归 为主状态、宽基风险扩张 为唯一相邻状态。主状态格子的条件建议为 不建议投资，稀释后市值 $1.24–1.92tn、每股价值 $475–735、总回报 -26.1%～+14.1%；相邻状态为 中性/等待、回报 -9.1%～+28.0%。经营与市场状态证据强度分别为中高和中高，估值置信度为中。当前最弱传导环节是 成长性 AI 投入能否形成可验证的增量 ROIC 并把会计利润转成自由现金流。在主状态且经营不变时，第一个正面建议的最高买入价约 $537，较当前价低 16.9%；若市场转为宽基风险扩张，该边界约 $625，低 3.3%。经营证据上需至少看到广告量价/转化持续和高 CapEx 下 FCF/ROIC 改善；市场只切至相邻宽基状态仍不足以直接转正。概率层为 NA，因为缺少可辩护的经营—市场联合概率。"
+        "returnRangeText": "-12.1%—+41.2%",
+        "currentPrice": null,
+        "weakLink": "已承诺成长性投入能否成为已通电、被生产负载使用且产生增量利润的算力",
+        "priceBoundary": "$531",
+        "marketSnapshotIdentity": "US-EQ-USD-20260818-CLOSE-5B-v1.0",
+        "summary": "当前条件定位：当前证据最接近 基准 / 正常兑现；复合定位 不需要。需求与广告量价偏向乐观，但利润、折旧和重资本现金转换把完整路径拉回基准；把重资本环节单独改成悲观只令估值中点下降约 4.0%，没有达到 10%门槛，也不改变条件建议。共享市场快照 US-EQ-USD-20260818-CLOSE-5B-v1.0 锁定 宽基风险扩张，唯一相邻状态为 震荡 / 均值回归。当前纯格子为 中性 / 等待，稀释后市值 1.23T–1.99T、每股价值 475–765、15个月总回报 -12.1%～+41.2%；经营状态证据强度 中高，市场状态证据强度 中等偏强，估值置信度 中。当前最弱传导环节是 已承诺成长性投入能否成为已通电、被生产负载使用且产生增量利润的算力。在经营与市场不变时，价格降至约 531 或以下（较 543.67 低约 2.3%）才首次进入“谨慎建议投资”；若价格不变，最近正面经营行是乐观，需要广告量价、利润覆盖和资本回报三项里程碑。相邻市场状态下基准格子降为 不建议投资；最小减弱条件是广告量价合计降至 12%以下，或 Capex 超过 170 而新增毛利与自由现金流没有同步验证。概率层 NA，因为没有可辩护的经营 × 市场联合概率。"
       },
       "matrix": {
         "cellCount": 20,
         "estimableCellCount": 20,
-        "positiveCellCount": 9,
-        "neutralCellCount": 2,
+        "positiveCellCount": 8,
+        "neutralCellCount": 3,
         "negativeCellCount": 9,
-        "positiveShare": 0.45,
+        "positiveShare": 0.4,
         "basePositiveCount": 1,
-        "stressPositiveCount": 1,
+        "stressPositiveCount": 0,
         "rowPositive": {
           "pessimistic": 0,
           "base": 1,
           "optimistic": 3,
-          "breakthrough": 5
+          "breakthrough": 4
         },
         "marketPositive": {
           "broad": 2,
           "theme": 3,
           "range": 2,
           "orderly": 1,
-          "liquidity": 1
+          "liquidity": 0
         },
         "firstPositiveScenario": "base",
         "breakthroughDependent": false
@@ -11944,9 +11879,9 @@
       "ticker": "MKSI",
       "name": "MKS Inc",
       "category": "晶圆制造前道设备",
-      "title": "MKSI（MKS Inc.）经营情景 × 市场状态投资决策研究",
-      "reportDate": "2026-07-15",
-      "sourcePath": "分析报告/公司情景投资决策/结果/MKSI_经营情景市场状态投资决策_2026-07-15.md",
+      "title": "MKSI 经营情景 × 市场状态投资决策研究",
+      "reportDate": "2026-08-19",
+      "sourcePath": "分析报告/公司情景投资决策/结果/MKSI_经营情景市场状态投资决策_2026-08-19.md",
       "dataFile": "reports/scenario-decision/MKSI.json",
       "current": {
         "operatingScenario": "base",
@@ -11956,50 +11891,50 @@
         "composite": false,
         "rotationAdjusted": false,
         "adjustmentType": "pure",
-        "adviceKey": "no",
-        "adviceLabel": "不建议投资",
-        "adviceRank": 1,
-        "adviceGroup": "negative",
-        "pureAdviceKey": "no",
-        "pureAdviceLabel": "不建议投资",
-        "pureAdviceRank": 1,
+        "adviceKey": "neutral",
+        "adviceLabel": "中性 / 等待",
+        "adviceRank": 2,
+        "adviceGroup": "neutral",
+        "pureAdviceKey": "neutral",
+        "pureAdviceLabel": "中性 / 等待",
+        "pureAdviceRank": 2,
         "pureReturnRange": {
-          "low": -53,
-          "high": 19
+          "low": -26,
+          "high": 30
         },
-        "pureReturnRangeText": "-53%～+19%",
-        "perShareValue": "$164—420",
+        "pureReturnRangeText": "-26%～+30%",
+        "perShareValue": "$221—$390",
         "returnRange": {
-          "low": -53,
-          "high": 19
+          "low": -26,
+          "high": 30
         },
-        "returnRangeText": "-53%—+19%",
-        "currentPrice": 353.8,
-        "weakLink": "利润与成长投入能否在高营运资本占用下转成可用于去杠杆的自由现金流，并继续穿过可转债现金/稀释到达普通股每股价值",
-        "priceBoundary": "$250",
-        "marketSnapshotIdentity": "美国主要定价市场｜2026-07-15 16:00 ET｜MKSTATE-5BLOCK-v1.0",
-        "summary": "当前条件定位：当前证据最接近 基准 / 正常兑现；复合定位 不需要，因为行业需求偏乐观、而现金/资本结构偏弱的冲突已经能由基准行的现金、净债务和完全稀释股数区间表达，复合模型相对纯基准中点只降低约 5%—6%，未达到约 10%或建议改变一级的门槛。共享市场快照 美国主要定价市场｜2026-07-15 16:00 ET｜MKSTATE-5BLOCK-v1.0 锁定主状态 宽基风险扩张、相邻状态 窄幅/主题主导上涨。当前主格子为 不建议投资，稀释后股权市值 $11.9B—$29.2B、每股价值 $164—$420、目标期总回报 -53%—+19%；相邻市场格子为 中性 / 等待，每股 $180—$453、回报 -49%—+28%。经营与市场状态证据强度分别为 中 / 高，两格估值置信度均为 低。当前最弱传导环节是 利润与成长投入能否在高营运资本占用下转成可用于去杠杆的自由现金流，并继续穿过可转债现金/稀释到达普通股每股价值。在经营和市场不变时，主状态首个正面建议的最高买入价约 $250（较当前低 29.3%），相邻主题列约 $275（低 22.3%）；在价格不变时，最近正面经营行是 乐观 / 超预期，需要 Q2/Q3 订单—收入、Atotech chemistry attach/mix、FCF/净杠杆三项中至少两项形成独立证据。市场状态无需转为主题列才能使乐观行出现正面格子；若经营保持基准，五个市场列在当前价均没有正面建议。相邻邻域建议从 不建议投资 到 谨慎建议投资；最小减弱条件是 Q2 收入低于 $1.16B 或 GM 低于 46%，同时出现订单/库存或现金转换恶化。概率层为 NA，因为经营与市场的联合基础率及相关性不可辩护。"
+        "returnRangeText": "-26%—+30%",
+        "currentPrice": 353,
+        "weakLink": "化学设备可见度与交付 → 客户 FAT/SAT、利用率 → 24–30 个月 chemistry / 服务附着 → 自由现金流与去杠杆”，它决定价值区间低端",
+        "priceBoundary": "$277.50",
+        "marketSnapshotIdentity": "cid-us-2026-08-19-24｜US-EQ-USD-20260818-CLOSE-5B-v1.0",
+        "summary": "当前条件定位：当前证据最接近基准 / 正常兑现纯经营行；复合定位不需要，因为把设备验收到 chemistry attach 的谨慎处理和净债务约束加入后，相对纯基准估值中点只改变约 3.3%，建议仍为中性 / 等待，未达到 10%或一级建议变化门槛。共享市场快照 cid-us-2026-08-19-24｜US-EQ-USD-20260818-CLOSE-5B-v1.0 锁定主状态宽基风险扩张、唯一相邻状态震荡 / 均值回归。主状态对应条件格子为中性 / 等待，稀释后市值 $15.1bn–$28.0bn、每股价值 $221–$390、目标期总回报 -26%～+30%；经营与市场状态证据强度分别为中高、中等偏强，估值置信度为低。当前最弱传导环节是“化学设备可见度与交付 → 客户 FAT/SAT、利用率 → 24–30 个月 chemistry / 服务附着 → 自由现金流与去杠杆”，它决定价值区间低端。距离第一个正面区域，固定当前经营和主市场状态时最高买入价约 $277.50，较 $300.24 低 7.6%；固定当前价格时需进入乐观经营行，最少验证 Q3 半导体/毛利、AI chemistry 与现金转换三组里程碑，不需要市场状态切换。相邻市场状态下，基准格建议降为不建议投资，每股价值 $178–$325、回报 -40%～+9%。最小减弱条件是市场切到相邻列，或 Q3 半导体低于 $615m、综合毛利率低于 46%并伴随设备延期。概率层为 NA：没有可辩护的经营 × 市场联合概率，故不强行生成期望目标价。"
       },
       "matrix": {
         "cellCount": 20,
         "estimableCellCount": 20,
-        "positiveCellCount": 5,
+        "positiveCellCount": 7,
         "neutralCellCount": 3,
-        "negativeCellCount": 12,
-        "positiveShare": 0.25,
+        "negativeCellCount": 10,
+        "positiveShare": 0.35,
         "basePositiveCount": 0,
         "stressPositiveCount": 0,
         "rowPositive": {
           "pessimistic": 0,
           "base": 0,
-          "optimistic": 2,
-          "breakthrough": 3
+          "optimistic": 3,
+          "breakthrough": 4
         },
         "marketPositive": {
           "broad": 2,
           "theme": 2,
-          "range": 1,
-          "orderly": 0,
+          "range": 2,
+          "orderly": 1,
           "liquidity": 0
         },
         "firstPositiveScenario": "optimistic",
@@ -12670,9 +12605,9 @@
       "ticker": "MU",
       "name": "Micron Technology 美光科技",
       "category": "AI服务器存储EMS",
-      "title": "MU Micron Technology 美光科技：经营情景 × 市场状态投资决策",
-      "reportDate": "2026-07-15",
-      "sourcePath": "分析报告/公司情景投资决策/结果/MU_经营情景市场状态投资决策_2026-07-15.md",
+      "title": "MU（Micron Technology）经营情景 × 市场状态投资决策（2026-08-19）",
+      "reportDate": "2026-08-19",
+      "sourcePath": "分析报告/公司情景投资决策/结果/MU_经营情景市场状态投资决策_2026-08-19.md",
       "dataFile": "reports/scenario-decision/MU.json",
       "current": {
         "operatingScenario": "base",
@@ -12690,42 +12625,42 @@
         "pureAdviceLabel": "中性 / 等待",
         "pureAdviceRank": 2,
         "pureReturnRange": {
-          "low": -40,
-          "high": 31
+          "low": -27,
+          "high": 29
         },
-        "pureReturnRangeText": "-40%～+31%",
-        "perShareValue": "$538–1,188",
+        "pureReturnRangeText": "-27%—+29%",
+        "perShareValue": "$686—1,211",
         "returnRange": {
-          "low": -40,
-          "high": 31
+          "low": -27,
+          "high": 29
         },
-        "returnRangeText": "-40%—+31%",
-        "currentPrice": 8,
-        "weakLink": "利润 → 再投资、自由现金流与未来经营能力",
-        "priceBoundary": "$708",
-        "marketSnapshotIdentity": "美国上市美元资产｜2026-07-15 16:00 ET｜MS-5B-v1.0",
-        "summary": "当前条件定位： 当前证据最接近 基准 / 正常兑现；复合定位不需要。近端 84.6%–86% 毛利率靠近乐观行，但 bit 增长、2027 合同、产品多客户资格和 3–5 年正常化仍在基准行。把“基准数量与捕获 + 乐观近端利润率”单独估值只令当前主市场列价值中点提高约 4.6%，建议仍为“中性 / 等待”，未达到 10% 或一级建议差异门槛。共享市场快照 美国上市美元资产｜2026-07-15 16:00 ET｜MS-5B-v1.0 锁定主状态 宽基风险扩张、唯一相邻状态 窄幅 / 主题主导上涨。对应当前纯格子的建议为 中性 / 等待，稀释后市值 $630B–$1.390T、每股价值 $538–$1,188、15 个月总回报 -40%～+31%；经营与市场状态证据强度均为 中，估值置信度为 中。当前最弱传导环节是 利润 → 再投资、自由现金流与未来经营能力：Q3 利润很强，但九个月应收账款增加 $19.953B、FY2027 每季 CapEx 预计高于约 $10B，且上游 ASP 正常化会同时压利润和现金。距离第一个正面区域还需要价格降至约 $708 或以下（-21.7%），或经营证据升级到乐观行；市场状态无需改善。相邻市场状态下仍为“中性 / 等待”，相邻经营行则为“建议投资”。最小减弱条件为 Q4 收入低于 $49B、毛利率低于 84%，或 2027 合同价与 bit 交付同时低于基准。概率层 NA，因为没有可辩护的经营—市场联合概率。"
+        "returnRangeText": "-27%—+29%",
+        "currentPrice": 41.456,
+        "weakLink": "收入 → 单位经济与利润 → 再投资后自由现金流",
+        "priceBoundary": "",
+        "marketSnapshotIdentity": "US-EQ-USD-20260818-CLOSE-5B-v1.0",
+        "summary": "当前条件定位： 当前证据最接近 基准 / 正常兑现；复合定位不需要。需求与公司捕获有偏乐观证据，而价格—利润—再投资后的可持续现金仍更接近基准；将这两部分做成复合估值只把当前主状态下每股价值中点提高约 4.8%，建议仍为“中性 / 等待”，未达到约 10% 或改变一级建议的门槛。共享市场快照 US-EQ-USD-20260818-CLOSE-5B-v1.0 锁定主状态宽基风险扩张、相邻状态震荡 / 均值回归。当前纯格子为 中性 / 等待，稀释后股权市值 $802—1,380bn、每股价值 $686—1,211、目标期总回报 -27%—+29%；经营状态证据强度为中，市场状态证据强度为中等偏强，估值置信度为中。当前最弱传导环节是 收入 → 单位经济与利润 → 再投资后自由现金流：Q3 84.6% 毛利率主要由 DRAM/NAND ASP 跳升推动，而 FY2027 每季资本开支预计高于 FY2026 Q4 的约 $10bn。距离第一个正面区域，纯靠价格需降至约 $790（较当前约 -16%）；纯靠经营需上移一行至乐观，并至少验证价格/组合韧性、HBM4/SOCAMM 捕获和数据中心 SSD 重复订单；无需市场状态切换。相邻市场状态下为 不建议投资，每股 $577—1,053、回报 -39%—+12%。最小减弱条件为 FY2026 Q4 收入低于 $49bn 或毛利率低于 84%，或 DRAM/NAND ASP 连续两个季度下降且 bit/mix 不能抵消。概率层为 NA，因为没有可辩护的经营—市场联合概率。"
       },
       "matrix": {
         "cellCount": 20,
         "estimableCellCount": 20,
-        "positiveCellCount": 8,
-        "neutralCellCount": 3,
+        "positiveCellCount": 9,
+        "neutralCellCount": 2,
         "negativeCellCount": 9,
-        "positiveShare": 0.4,
+        "positiveShare": 0.45,
         "basePositiveCount": 0,
         "stressPositiveCount": 1,
         "rowPositive": {
           "pessimistic": 0,
           "base": 0,
-          "optimistic": 3,
+          "optimistic": 4,
           "breakthrough": 5
         },
         "marketPositive": {
           "broad": 2,
           "theme": 2,
           "range": 2,
-          "orderly": 1,
+          "orderly": 2,
           "liquidity": 1
         },
         "firstPositiveScenario": "optimistic",
@@ -12868,9 +12803,9 @@
       "ticker": "NBIS",
       "name": "Nebius Group",
       "category": "云算力IDCAI软件平台",
-      "title": "NBIS Nebius Group：经营情景 × 市场状态投资决策",
-      "reportDate": "2026-07-18",
-      "sourcePath": "分析报告/公司情景投资决策/结果/NBIS_经营情景市场状态投资决策_2026-07-18.md",
+      "title": "NBIS（Nebius Group N.V.）经营情景 × 市场状态投资决策",
+      "reportDate": "2026-08-19",
+      "sourcePath": "分析报告/公司情景投资决策/结果/NBIS_经营情景市场状态投资决策_2026-08-19.md",
       "dataFile": "reports/scenario-decision/NBIS.json",
       "current": {
         "operatingScenario": "base",
@@ -12880,51 +12815,51 @@
         "composite": false,
         "rotationAdjusted": false,
         "adjustmentType": "pure",
-        "adviceKey": "neutral",
-        "adviceLabel": "中性 / 等待",
-        "adviceRank": 2,
-        "adviceGroup": "neutral",
-        "pureAdviceKey": "neutral",
-        "pureAdviceLabel": "中性 / 等待",
-        "pureAdviceRank": 2,
+        "adviceKey": "no",
+        "adviceLabel": "不建议投资",
+        "adviceRank": 1,
+        "adviceGroup": "negative",
+        "pureAdviceKey": "no",
+        "pureAdviceLabel": "不建议投资",
+        "pureAdviceRank": 1,
         "pureReturnRange": {
-          "low": -35,
-          "high": 30
+          "low": -44,
+          "high": -4
         },
-        "pureReturnRangeText": "-35%～+30%",
-        "perShareValue": "$116–$230",
+        "pureReturnRangeText": "-44%～-4%",
+        "perShareValue": "138～238",
         "returnRange": {
-          "low": -35,
-          "high": 30
+          "low": -44,
+          "high": -4
         },
-        "returnRangeText": "-35%—+30%",
-        "currentPrice": 177.71,
-        "weakLink": "已签约电力/合同 → connected/active MW → burn-in 与客户验收 → 扣设备消耗及融资成本后的经济利润",
-        "priceBoundary": "$147",
-        "marketSnapshotIdentity": "MS-US-5B-v1.0",
-        "summary": "当前条件定位： 当前证据最接近 基准/正常兑现，状态证据强度 中高；复合定位 不需要，因为强需求与高资本强度并非两套互不相容的经营路径，二者已在完整基准行内通过交付、现金与股数区间勾稽，另建复合定位只使纯基准中点改变约 3%，未达到 10% 或建议一级门槛。共享市场快照 MS-US-5B-v1.0 锁定 宽基风险扩张，唯一相邻状态为 震荡/均值回归，市场状态证据强度 中。对应当前纯格子为 中性/等待｜$40.6B–$76.0B 稀释后市值｜$116–$230/股｜-35%～+30%｜估值置信度中；相邻市场格子为 不建议投资｜$32.4B–$63.0B｜$91–$188/股｜-49%～+6%｜中。当前最弱传导环节是 已签约电力/合同 → connected/active MW → burn-in 与客户验收 → 扣设备消耗及融资成本后的经济利润。在经营与市场假设不变时，宽基列首次达到“谨慎建议投资”的最高买入价约 $147（较现价低 17%）；相邻震荡列约 $118（低 34%）。经营证据距离为三项：披露并达到上线 MW 斜率、连续两个季度按 RPO 路径确认收入、经济贡献及自有资本需求同时改善；达到后最近正面格子为乐观行。任何市场列切换都不足以单独令基准行在现价形成稳健正面区域。概率层 NA，因为没有可辩护的经营×市场联合概率和相关结构。"
+        "returnRangeText": "-44%—-4%",
+        "currentPrice": null,
+        "weakLink": "已签约/已连接 MW → 激活、验收和计费 → 扣除折旧、成长投入、融资成本与稀释后的每股现金价值",
+        "priceBoundary": "$157",
+        "marketSnapshotIdentity": "US-EQ-USD-20260818-CLOSE-5B-v1.0",
+        "summary": "当前条件定位： 当前证据最接近 基准 / 正常兑现；复合定位不需要。资本开支、现金转换和潜在融资虽偏向基准低端/悲观边界，但复合估值相对纯基准的中点降低约 6.9%，条件建议仍为“不建议投资”，既未达到约 10% 的价值中点门槛，也未改变一级建议或新增纯基准无法表达的清偿风险。共享市场快照 US-EQ-USD-20260818-CLOSE-5B-v1.0 锁定 宽基风险扩张，唯一相邻状态为 震荡 / 均值回归。基准 × 宽基风险扩张的条件建议为 不建议投资，稀释后市值 55～88、每股价值 138～238、目标期总回报 -44%～-4%；经营状态证据强度为 中，市场状态证据强度为 中等偏强，估值置信度为 中。当前最弱传导环节是“已签约/已连接 MW → 激活、验收和计费 → 扣除折旧、成长投入、融资成本与稀释后的每股现金价值”。若经营与市场假设不变，按条件价值中点和 20% 要求回报计算，宽基列的最高买入价约 157 美元，较当前低约 37%；相邻震荡列约 128 美元，较当前低约 49%。第一个正面区域不要求市场切换，但要求经营证据上移至乐观行：2026Q4 收入/年末容量兑现、2027H1 活跃可计费容量及客户验收、以及每 MW 经济现金回报三项至少形成连续证据。相邻状态下基准格子减弱为“强烈不建议投资”。概率层为 NA，因为经营行与市场状态的联合概率及尾部融资相关性没有可辩护基础率。"
       },
       "matrix": {
         "cellCount": 20,
         "estimableCellCount": 20,
-        "positiveCellCount": 9,
-        "neutralCellCount": 2,
-        "negativeCellCount": 9,
-        "positiveShare": 0.45,
+        "positiveCellCount": 6,
+        "neutralCellCount": 1,
+        "negativeCellCount": 13,
+        "positiveShare": 0.3,
         "basePositiveCount": 0,
-        "stressPositiveCount": 1,
+        "stressPositiveCount": 0,
         "rowPositive": {
           "pessimistic": 0,
           "base": 0,
-          "optimistic": 4,
-          "breakthrough": 5
+          "optimistic": 2,
+          "breakthrough": 4
         },
         "marketPositive": {
           "broad": 2,
           "theme": 2,
-          "range": 2,
-          "orderly": 2,
-          "liquidity": 1
+          "range": 1,
+          "orderly": 1,
+          "liquidity": 0
         },
         "firstPositiveScenario": "optimistic",
         "breakthroughDependent": false
@@ -13198,9 +13133,9 @@
       "ticker": "NVDA",
       "name": "NVIDIA",
       "category": "AI计算芯片EDAIPcustomASIC",
-      "title": "NVIDIA（NVDA）经营情景 × 市场状态投资决策研究",
-      "reportDate": "2026-07-18",
-      "sourcePath": "分析报告/公司情景投资决策/结果/NVDA_经营情景市场状态投资决策_2026-07-18.md",
+      "title": "NVDA / NVIDIA 经营情景 × 市场状态投资决策",
+      "reportDate": "2026-08-19",
+      "sourcePath": "分析报告/公司情景投资决策/结果/NVDA_经营情景市场状态投资决策_2026-08-19.md",
       "dataFile": "reports/scenario-decision/NVDA.json",
       "current": {
         "operatingScenario": "base",
@@ -13218,42 +13153,42 @@
         "pureAdviceLabel": "中性 / 等待",
         "pureAdviceRank": 2,
         "pureReturnRange": {
-          "low": -17,
-          "high": 26
+          "low": -24,
+          "high": 30
         },
-        "pureReturnRangeText": "-17%～+26%",
-        "perShareValue": "$168–255",
+        "pureReturnRangeText": "-24%～+30%",
+        "perShareValue": "$166—285",
         "returnRange": {
-          "low": -17,
-          "high": 26
+          "low": -24,
+          "high": 30
         },
-        "returnRangeText": "-17%—+26%",
-        "currentPrice": 17.8,
-        "weakLink": "行业需求/供给到公司合格交付与客户验收",
-        "priceBoundary": "$185",
-        "marketSnapshotIdentity": "MS-US-5B-v1.0",
-        "summary": "当前条件定位： 当前证据最接近 基准 / 正常兑现；复合定位不需要——把 Rubin 验收和现金转换压到基准低端后的测试估值为 $168–240/股，中点较纯基准的 $168–255/股 仅低 3.4%，建议仍为“中性 / 等待”，未达到约 10% 或一级建议差异门槛。共享市场快照 MS-US-5B-v1.0 锁定主状态 宽基风险扩张、唯一相邻状态 震荡 / 均值回归。当前纯格子为 中性 / 等待，稀释后市值 $4.10–6.12T、每股价值 $168–255、目标期总回报 -17%～+26%；经营与市场状态证据强度均为 中，估值置信度为 中。当前最弱传导环节是 行业需求/供给到公司合格交付与客户验收：B300、Rubin、HBM4、先进封装、142–227kW 液冷机架、网络与客户上电必须同时兑现。当前状态下，第一个正面区域可由价格降至约 $185（较现价 -$17.8/-8.8%）或经营证据上移至乐观行到达；若价格升至约 $223以上（+$20.2/+10.0%）且经营不变，连价值区间高端也难达到15%门槛，条件建议将减弱为“不建议”。仅切换市场列不足以转正。相邻状态的基准格为 不建议投资，每股 $146–226、回报 -28%～+12%。最小减弱条件是共享市场快照转入震荡且经营仍仅为基准，或 Q2 低于指引下沿并伴随 Rubin/现金转换证据转弱。概率层 NA，因为没有可辩护的经营 × 市场联合概率及相关结构。"
+        "returnRangeText": "-24%—+30%",
+        "currentPrice": 30,
+        "weakLink": "Rubin/高密度 AI rack 从外部需求经过 HBM4、先进封装、供电液冷、OEM/客户资格和验收转成可确认收入",
+        "priceBoundary": "",
+        "marketSnapshotIdentity": "US-EQ-USD-20260818-CLOSE-5B-v1.0",
+        "summary": "当前条件定位：当前证据最接近 基准 / 正常兑现；复合定位不需要：Networking 位于基准高端、Rubin 验收和营运资本位于基准低端，但冲突没有形成两个落在不同经营行且同时决定每股价值的独立环节，测试复合估值中点只比纯基准高约 2%，建议仍为中性。共享市场快照 US-EQ-USD-20260818-CLOSE-5B-v1.0 锁定 宽基风险扩张，唯一相邻状态为 震荡 / 均值回归。对应当前纯格子的条件建议为 中性 / 等待，稀释后市值 $4.02tn—$6.82tn、每股价值 $166—$285、15 个月总回报 -24%—+30%；经营状态证据强度为 中（公司总额经营证据较强，但决定性的 Rubin 验收只达中档），市场状态证据为 中等偏强，估值置信度为 中。当前最弱传导环节是 Rubin/高密度 AI rack 从外部需求经过 HBM4、先进封装、供电液冷、OEM/客户资格和验收转成可确认收入。在经营和市场假设不变时，第一个正面价格区域约从 $192 或以下开始，较 $219.74 仍需下降约 $27.7 / 12.6%；若价格不变，则需 Rubin 多客户验收、Networking 高附加值收入超过基准上沿且 GM/FCF 不恶化，使经营行上移至乐观，市场状态无需改变。相邻状态下当前基准行降为 不建议投资；当前邻域整体从“不建议”到“建议”不等。概率层为 NA，因为没有可辩护的经营—市场联合概率。"
       },
       "matrix": {
         "cellCount": 20,
         "estimableCellCount": 20,
-        "positiveCellCount": 9,
-        "neutralCellCount": 2,
+        "positiveCellCount": 8,
+        "neutralCellCount": 3,
         "negativeCellCount": 9,
-        "positiveShare": 0.45,
+        "positiveShare": 0.4,
         "basePositiveCount": 0,
         "stressPositiveCount": 1,
         "rowPositive": {
           "pessimistic": 0,
           "base": 0,
-          "optimistic": 4,
+          "optimistic": 3,
           "breakthrough": 5
         },
         "marketPositive": {
           "broad": 2,
           "theme": 2,
           "range": 2,
-          "orderly": 2,
+          "orderly": 1,
           "liquidity": 1
         },
         "firstPositiveScenario": "optimistic",
@@ -13330,9 +13265,9 @@
       "ticker": "NVT",
       "name": "nVent Electric",
       "category": "配电电源功率器件",
-      "title": "NVT nVent Electric 经营情景 × 市场状态投资决策研究（2026-07-15）",
-      "reportDate": "2026-07-15",
-      "sourcePath": "分析报告/公司情景投资决策/结果/NVT_经营情景市场状态投资决策_2026-07-15.md",
+      "title": "NVT — nVent Electric 经营情景 × 市场状态投资决策",
+      "reportDate": "2026-08-19",
+      "sourcePath": "分析报告/公司情景投资决策/结果/NVT_经营情景市场状态投资决策_2026-08-19.md",
       "dataFile": "reports/scenario-decision/NVT.json",
       "current": {
         "operatingScenario": "base",
@@ -13342,36 +13277,36 @@
         "composite": false,
         "rotationAdjusted": false,
         "adjustmentType": "pure",
-        "adviceKey": "no",
-        "adviceLabel": "不建议投资",
-        "adviceRank": 1,
-        "adviceGroup": "negative",
-        "pureAdviceKey": "no",
-        "pureAdviceLabel": "不建议投资",
-        "pureAdviceRank": 1,
+        "adviceKey": "neutral",
+        "adviceLabel": "中性 / 等待",
+        "adviceRank": 2,
+        "adviceGroup": "neutral",
+        "pureAdviceKey": "neutral",
+        "pureAdviceLabel": "中性 / 等待",
+        "pureAdviceRank": 2,
         "pureReturnRange": {
-          "low": -21,
-          "high": 18
+          "low": -14,
+          "high": 13
         },
-        "pureReturnRangeText": "-21%～+18%",
-        "perShareValue": "$125–188",
+        "pureReturnRangeText": "-14%～+13%",
+        "perShareValue": "$140–185",
         "returnRange": {
-          "low": -21,
-          "high": 18
+          "low": -14,
+          "high": 13
         },
-        "returnRangeText": "-21%—+18%",
-        "currentPrice": 163,
-        "weakLink": "$2.591bn backlog / 高订单能否按期通过 FAT、现场 SAT、客户验收和回款，转为收入与自由现金流",
-        "priceBoundary": "$143",
-        "marketSnapshotIdentity": "US-USD-20260715-CLOSE-M5-v1.0",
-        "summary": "当前条件定位： 当前证据最接近 基准 / 正常兑现；复合定位 不需要，因为 Q1 现金转换偏弱虽然是重要反证，但把它单独移入悲观现金桥后，纯基准行与试算复合定位的每股价值中点差不足 10%，且建议未改变。共享市场快照 US-USD-20260715-CLOSE-M5-v1.0 锁定主状态 宽基风险扩张、相邻状态 窄幅 / 主题主导上涨。主状态对应格子为 不建议投资，稀释后股权市值 $20.7–31.0bn、每股价值 $125–188、目标期总回报 -21%～+18%；相邻状态对应格子为 谨慎建议投资，稀释后股权市值 $23.6–35.1bn、每股价值 $143–213、总回报 -10%～+34%。经营与市场状态证据强度均为 中，主状态估值置信度 中、相邻主题状态估值置信度 低。当前最弱传导环节是 $2.591bn backlog / 高订单能否按期通过 FAT、现场 SAT、客户验收和回款，转为收入与自由现金流。在主状态和基准经营不变时，第一个正面建议所需最高买入价约 $143，较当前低 $16.46 / 10.3%；相邻主题状态下当前价格已经处于很窄的正面区，正面价格上限约 $163，仅有约 2.2% 余量。主状态下若不靠价格下降，则需要进入乐观行的多客户复购、交付和现金里程碑。相邻状态下建议范围为 不建议投资至谨慎建议投资；最小减弱条件是共享市场状态转入震荡列，或公司 B2B 连续两季低于 0.95x、FCF conversion 低于 75%。概率层为 NA，原因是没有可辩护的经营—市场联合概率。"
+        "returnRangeText": "-14%—+13%",
+        "currentPrice": 90,
+        "weakLink": "利润与已承诺扩产能否转为自由现金流和高回报未来能力",
+        "priceBoundary": "$148",
+        "marketSnapshotIdentity": "US-EQ-USD-20260818-CLOSE-5B-v1.0",
+        "summary": "当前条件定位： 当前证据最接近 基准 / 正常兑现；复合定位不需要，因为唯一明显偏弱的“利润→现金”环节尚未造成 10% 以上价值中点差异，也不改变条件建议。共享市场快照 US-EQ-USD-20260818-CLOSE-5B-v1.0 锁定 宽基风险扩张，唯一相邻状态为 震荡 / 均值回归。对应当前纯格子的建议为 中性 / 等待，稀释后股权市值 $22.95bn–$30.38bn、每股价值 $140–$185、目标期总回报 -14%～+13%；经营证据强度为 中（公司总量接近高、产品拆分为中），市场状态证据强度为 中等偏强，估值置信度为 中。当前最弱传导环节是 利润与已承诺扩产能否转为自由现金流和高回报未来能力：H1 FCF 转换约 62%，明显低于全年 90%–95% 目标。距离第一个正面区域，单靠价格需要最高买入价约 $148，较当前低约 10.1%；单靠经营证据需要 book-to-bill/数据中心收入、Systems Protection ROS 与 FCF 转换中的两至三项共同上移到乐观路径；不要求市场状态改变。相邻市场状态下，同一基准经营行降为 不建议投资；把最近经营上移也纳入的当前邻域为 不建议投资至建议投资。最小减弱条件是市场转入震荡而经营仍停留基准，或连续两季 book-to-bill <0.9x。概率层为 NA，因为没有可辩护的经营—市场联合概率。"
       },
       "matrix": {
         "cellCount": 20,
         "estimableCellCount": 20,
         "positiveCellCount": 8,
-        "neutralCellCount": 1,
-        "negativeCellCount": 11,
+        "neutralCellCount": 3,
+        "negativeCellCount": 9,
         "positiveShare": 0.4,
         "basePositiveCount": 1,
         "stressPositiveCount": 0,
@@ -14188,9 +14123,9 @@
       "ticker": "POWL",
       "name": "Powell Industries",
       "category": "配电电源功率器件",
-      "title": "POWL（Powell Industries）经营情景 × 市场状态投资决策研究",
-      "reportDate": "2026-07-15",
-      "sourcePath": "分析报告/公司情景投资决策/结果/POWL_经营情景市场状态投资决策_2026-07-15.md",
+      "title": "POWL Powell Industries：经营情景 × 市场状态投资决策",
+      "reportDate": "2026-08-19",
+      "sourcePath": "分析报告/公司情景投资决策/结果/POWL_经营情景市场状态投资决策_2026-08-19.md",
       "dataFile": "reports/scenario-decision/POWL.json",
       "current": {
         "operatingScenario": "base",
@@ -14200,50 +14135,50 @@
         "composite": false,
         "rotationAdjusted": false,
         "adjustmentType": "pure",
-        "adviceKey": "strongNo",
-        "adviceLabel": "强烈不建议投资",
-        "adviceRank": 0,
+        "adviceKey": "no",
+        "adviceLabel": "不建议投资",
+        "adviceRank": 1,
         "adviceGroup": "negative",
-        "pureAdviceKey": "strongNo",
-        "pureAdviceLabel": "强烈不建议投资",
-        "pureAdviceRank": 0,
+        "pureAdviceKey": "no",
+        "pureAdviceLabel": "不建议投资",
+        "pureAdviceRank": 1,
         "pureReturnRange": {
-          "low": -58,
-          "high": 1
+          "low": -44.8,
+          "high": 17.1
         },
-        "pureReturnRangeText": "-58%～+1%",
-        "perShareValue": "$103—$250",
+        "pureReturnRangeText": "-44.8%—+17.1%",
+        "perShareValue": "",
         "returnRange": {
-          "low": -58,
-          "high": 1
+          "low": -44.8,
+          "high": 17.1
         },
-        "returnRangeText": "-58%—+1%",
-        "currentPrice": 1.1,
-        "weakLink": "已捕获订单与新增产能 → 按期收入 → 固定价项目单位经济与现金",
-        "priceBoundary": "$150",
-        "marketSnapshotIdentity": "US-USD-20260715-CLOSE-5B-v1.0",
-        "summary": "当前条件定位：当前证据最接近 基准 / 正常兑现；复合定位不需要，因为强劲订单捕获已被基准收入路径折算，尚未形成一条独立、已实现的乐观利润与现金路径。共享市场快照 US-USD-20260715-CLOSE-5B-v1.0 锁定 宽基风险扩张为主状态、震荡/均值回归为唯一相邻状态。基准 × 宽基风险扩张的条件建议为 强烈不建议投资，稀释后股权市值 $3.83B—$9.22B、每股价值 $103—$250、目标期总回报 -58%—+1%；相邻的基准 × 震荡格为 强烈不建议投资，每股 $89—$212、回报 -64%—-14%。经营与市场状态证据强度分别为 高 / 中，当前格估值置信度 低。当前最弱传导环节是 “已捕获订单与新增产能 → 按期收入 → 固定价项目单位经济与现金”：需求和订单已有证据，租赁产能、工程/FAT、项目成本、营运资金和多客户复购尚未共同兑现。按综合估值区间和 +18%门槛，仅靠价格变化，主状态下首个正面买入边界约 $150（较当前低 39%），相邻震荡状态约 $128（低 48%）；按当前价格，最近正面纯格为 乐观 × 窄幅/主题主导上涨，需要经营证据上移且市场切换，若市场仍为宽基扩张，则须达到更远的 突破 × 宽基风险扩张。概率层 NA，因为没有可辩护的经营—市场联合概率及相关性基础率。"
+        "returnRangeText": "-44.8%—+17.1%",
+        "currentPrice": 243.8,
+        "weakLink": "backlog 经工程、第三方型式试验、装配、FAT 和现场调试按时转成约 30% 毛利收入",
+        "priceBoundary": "$174.5",
+        "marketSnapshotIdentity": "US-EQ-USD-20260818-CLOSE-5B-v1.0",
+        "summary": "当前条件定位： 当前证据最接近 基准 / 正常兑现；复合定位不需要。需求与订单偏向乐观，但交付、型式试验、FAT、产能爬坡和现金转换仍落在基准行；把这些冲突单列为复合假设只令当前宽基状态下每股外包络区间中点提高约 3.7%，建议仍为“不建议投资”，未达到 10% 或一级建议差异门槛。共享市场快照 US-EQ-USD-20260818-CLOSE-5B-v1.0 锁定 宽基风险扩张，唯一相邻状态为 震荡 / 均值回归。当前纯格子的条件建议为 不建议投资，稀释后市值 $4.14bn–$8.81bn、每股价值 $112–$238、15 个月总回报 -44.8%～+17.1%；经营状态证据强度为 高，市场状态证据强度为 中等偏强，估值置信度为 低。当前最弱传导环节是 backlog 经工程、第三方型式试验、装配、FAT 和现场调试按时转成约 30% 毛利收入。在经营和市场不变时，第一个正面区域的最高买入价约 $174.5，较当前低 $29.1 / 14.3%；该边界要求主估值中点达到 20% 回报且 DCF 高端仍不亏损。经营证据上需完成大单新额定型式试验和首批 FAT、把年化实用能力推过 $1.5bn，并证明 FCF 不因应收/合同资产恶化而脱离利润。市场无需变化也可由乐观经营进入正面区域；单纯切换到主题上涨仍不足以修复基准行的 DCF 缺口。唯一相邻市场状态下，基准格子为 强烈不建议投资，每股 $100–$207、回报 -50.7%～+1.9%。最小减弱条件是共享市场转入相邻震荡状态，或未来 12 个月可确认 backlog 低于 $1.15bn。概率层 NA，因为没有可辩护的经营—市场联合概率和相关性估计。"
       },
       "matrix": {
         "cellCount": 20,
         "estimableCellCount": 20,
-        "positiveCellCount": 4,
-        "neutralCellCount": 2,
-        "negativeCellCount": 14,
-        "positiveShare": 0.2,
+        "positiveCellCount": 6,
+        "neutralCellCount": 1,
+        "negativeCellCount": 13,
+        "positiveShare": 0.3,
         "basePositiveCount": 0,
         "stressPositiveCount": 0,
         "rowPositive": {
           "pessimistic": 0,
           "base": 0,
-          "optimistic": 1,
-          "breakthrough": 3
+          "optimistic": 2,
+          "breakthrough": 4
         },
         "marketPositive": {
-          "broad": 1,
+          "broad": 2,
           "theme": 2,
           "range": 1,
-          "orderly": 0,
+          "orderly": 1,
           "liquidity": 0
         },
         "firstPositiveScenario": "optimistic",
@@ -15706,9 +15641,9 @@
       "ticker": "STX",
       "name": "Seagate Technology",
       "category": "AI服务器存储EMS",
-      "title": "STX Seagate Technology：经营情景 × 市场状态投资决策",
-      "reportDate": "2026-07-15",
-      "sourcePath": "分析报告/公司情景投资决策/结果/STX_经营情景市场状态投资决策_2026-07-15.md",
+      "title": "STX（Seagate Technology）经营情景 × 市场状态投资决策",
+      "reportDate": "2026-08-19",
+      "sourcePath": "分析报告/公司情景投资决策/结果/STX_经营情景市场状态投资决策_2026-08-19.md",
       "dataFile": "reports/scenario-decision/STX.json",
       "current": {
         "operatingScenario": "base",
@@ -15726,42 +15661,42 @@
         "pureAdviceLabel": "强烈不建议投资",
         "pureAdviceRank": 0,
         "pureReturnRange": {
-          "low": -51,
-          "high": -10
+          "low": -59,
+          "high": -5
         },
-        "pureReturnRangeText": "-51%—-10%",
-        "perShareValue": "$400—$740",
+        "pureReturnRangeText": "-59%～-5%",
+        "perShareValue": "$372–855",
         "returnRange": {
-          "low": -51,
-          "high": -10
+          "low": -59,
+          "high": -5
         },
-        "returnRangeText": "-51%—-10%",
-        "currentPrice": 828.3,
-        "weakLink": "NTM 高利润与 FCF 能否在竞争供给释放后继续增长为 3—5 年稳态 FCF",
-        "priceBoundary": "$480",
-        "marketSnapshotIdentity": "USEQ20260715CLOSEMS5v1",
-        "summary": "当前条件定位： 当前证据最接近 基准 / 正常兑现；复合定位不需要，因为利润和去杠杆虽位于基准上端，但相对纯基准估值中点只增加约 3.5%，未达到约 10%或建议改变一级的门槛。共享市场快照 USEQ20260715CLOSEMS5v1 锁定主状态 宽基风险扩张、唯一相邻状态 震荡 / 均值回归。对应当前条件格子为 强烈不建议投资｜稀释后市值 $93B—$173B｜每股 $400—$740｜目标期总回报 -51%—-10%｜估值置信度中；经营与市场状态证据强度分别为 高 / 高。当前最弱传导环节是 NTM 高利润与 FCF 能否在竞争供给释放后继续增长为 3—5 年稳态 FCF：当前价格的中心反向 DCF 要求 $5.0B—$5.7B NTM FCF 之后继续以约 34%—39% CAGR 增长至第五年约 $18B—$19B，独立基准并不支持。只靠价格变化，基准 × 宽基格子首次进入正面区域的最高买入价约 $480，较当前低 约 42%；经营上需要 FY2027 FCF ≥$6.8B、稀释 EPS ≥$32、HAMR客户与良率共同验证，才会接近当前宽基下第一个正面经营行。相邻震荡状态下为 强烈不建议投资｜$300—$630｜-63%—-24%。概率层为 NA，因为经营行与市场列的联合概率没有可辩护基础率。"
+        "returnRangeText": "-59%—-5%",
+        "currentPrice": 903.68,
+        "weakLink": "收入 → HAMR 单位经济与可持续自由现金流",
+        "priceBoundary": "$568",
+        "marketSnapshotIdentity": "US-EQ-USD-20260818-CLOSE-5B-v1.0",
+        "summary": "当前条件定位：当前证据最接近 基准 / 正常兑现；复合定位不需要，因为需求、交付、量价、利润和现金证据均可由基准行的合理区间表达，只有资本结构改善略偏乐观，候选复合估值中点仅提高约 3%、建议不变，未达到 10%/一级建议/永久损失门槛。共享市场快照 US-EQ-USD-20260818-CLOSE-5B-v1.0 锁定 宽基风险扩张，唯一相邻状态为 震荡 / 均值回归。当前纯格子的条件建议为 强烈不建议投资，目标期稀释后市值 $86.96–195.90bn、每股价值 $372–855、总回报 -59%～-5%；经营状态证据强度为中，市场状态证据强度为执行器固定的中等偏强，估值置信度为低。当前最弱传导环节为 收入 → HAMR 单位经济与可持续自由现金流：需求和排产可见度很强，但当前价格要求的不只是 NTM 兑现，而是竞争加入后仍把 FCF 从约 $7bn 增至第五年约 $17–21bn。仅靠价格变化，基准 × 宽基风险扩张首次达到“谨慎建议投资”的最高买入价约 $568，较当前价低约 37%；经营上则需同时证明多客户 Mozaic 4 扩量、利润率/价格质量和至少 $10.5bn 的 NTM FCF，才进入当前市场列的第一个正面经营行。市场状态无需变得更有利；相邻震荡状态下同一基准行仍为 强烈不建议投资、总回报 -64%～-20%。最小减弱条件是 Q1 毛利低于约 55%、CY2028 allocation/LTA 措辞弱化或 Data Center 收入增速落后 nearline EB。概率层为 NA，因为没有可辩护的经营 × 市场联合概率与相关结构。"
       },
       "matrix": {
         "cellCount": 20,
         "estimableCellCount": 20,
-        "positiveCellCount": 4,
+        "positiveCellCount": 5,
         "neutralCellCount": 1,
-        "negativeCellCount": 15,
-        "positiveShare": 0.2,
+        "negativeCellCount": 14,
+        "positiveShare": 0.25,
         "basePositiveCount": 0,
         "stressPositiveCount": 0,
         "rowPositive": {
           "pessimistic": 0,
           "base": 0,
           "optimistic": 1,
-          "breakthrough": 3
+          "breakthrough": 4
         },
         "marketPositive": {
           "broad": 1,
           "theme": 2,
           "range": 1,
-          "orderly": 0,
+          "orderly": 1,
           "liquidity": 0
         },
         "firstPositiveScenario": "optimistic",
@@ -15904,9 +15839,9 @@
       "ticker": "TEL",
       "name": "TE Connectivity",
       "category": "AI网络光互联连接器",
-      "title": "TEL（TE Connectivity）经营情景 × 市场状态投资决策",
-      "reportDate": "2026-07-15",
-      "sourcePath": "分析报告/公司情景投资决策/结果/TEL_经营情景市场状态投资决策_2026-07-15.md",
+      "title": "TEL（TE Connectivity）经营情景 × 市场状态投资决策研究",
+      "reportDate": "2026-08-19",
+      "sourcePath": "分析报告/公司情景投资决策/结果/TEL_经营情景市场状态投资决策_2026-08-19.md",
       "dataFile": "reports/scenario-decision/TEL.json",
       "current": {
         "operatingScenario": "base",
@@ -15924,43 +15859,43 @@
         "pureAdviceLabel": "谨慎建议投资",
         "pureAdviceRank": 3,
         "pureReturnRange": {
-          "low": -2,
-          "high": 24
+          "low": -5,
+          "high": 19
         },
-        "pureReturnRangeText": "-2%～+24%",
-        "perShareValue": "$194—$247",
+        "pureReturnRangeText": "-5%～+19%",
+        "perShareValue": "$191—$239",
         "returnRange": {
-          "low": -2,
-          "high": 24
+          "low": -5,
+          "high": 19
         },
-        "returnRangeText": "-2%—+24%",
-        "currentPrice": 201.34,
-        "weakLink": "DDN/AI 订单、专线 CapEx 与库存能否按客户平台时间转为合格交付、验收、利润和现金",
-        "priceBoundary": "$205",
-        "marketSnapshotIdentity": "美国股票｜2026-07-15 收盘｜v2026-07-15-7.1",
-        "summary": "当前条件定位： 当前证据最接近 基准 / 正常兑现；复合定位不需要，因为 DDN 订单偏乐观与 CapEx/库存转化仍待验证的冲突，在试算中只令每股价值中点提高约 3%—4%，未达到约 10%或建议改变一级的门槛。共享市场快照 美国股票｜2026-07-15 收盘｜v2026-07-15-7.1 锁定 宽基风险扩张 为主状态、窄幅/主题主导上涨 为唯一相邻状态。对应当前两个条件格子均为 谨慎建议投资：主状态稀释后市值 $57.0B—$71.2B、每股 $194—$247、目标期总回报 -2%～+24%；相邻状态市值 $57.0B—$74.1B、每股 $194—$257、总回报 -2%～+29%。经营状态证据强度为中，市场状态证据强度为中，估值置信度为中。当前最弱传导环节是 DDN/AI 订单、专线 CapEx 与库存能否按客户平台时间转为合格交付、验收、利润和现金。经营证据距离为 0，因为基准行已有正面格子；按本文“谨慎建议”边界，宽基/主题列可承受的最高价格约 $205/$210，相对 $201.34 仅余约 1.8%/4.3%。相邻市场状态内建议均为谨慎建议；若市场转入震荡而经营仍为基准，建议降为中性。概率层为 NA，因为缺乏可辩护的经营—市场联合概率。"
+        "returnRangeText": "-5%—+19%",
+        "currentPrice": 204.97,
+        "weakLink": "DDN 订单与设计赢单能否经过客户资格、合格产能、量产验收和收入确认，最终形成增量利润及自由现金流",
+        "priceBoundary": "$216",
+        "marketSnapshotIdentity": "cid-us-2026-08-19-24｜US-EQ-USD-20260818-CLOSE-5B-v1.0｜2026-08-18 16:15 ET｜US-MKT-5B-v1.0",
+        "summary": "当前条件定位： 当前证据最接近 基准 / 正常兑现；复合定位 不需要，因为 DDN 订单与需求偏向基准上端，但资格、批量交付、收入确认与现金转化仍在同一条基准路径内，且假设性复合估值中点仅比纯基准高约 5%，建议不变，未达到 10% 或一级建议差异门槛。共享市场快照 cid-us-2026-08-19-24｜US-EQ-USD-20260818-CLOSE-5B-v1.0｜2026-08-18 16:15 ET｜US-MKT-5B-v1.0 锁定 宽基风险扩张，唯一相邻状态为 震荡 / 均值回归。对应当前纯格子的建议为 谨慎建议投资，稀释后市值 $55.4bn—$68.0bn、每股价值 $191—$239、15 个月总回报 -5%—+19%；经营状态证据强度为 中，市场状态证据强度为 中等偏强，估值置信度为 中。当前最弱传导环节为 DDN 订单与设计赢单能否经过客户资格、合格产能、量产验收和收入确认，最终形成增量利润及自由现金流。当前格子已进入第一个正面区域；按本报告统一标签边界，正面建议可承受的最高买入价约 $216，比现价高约 5.6%。当前主状态下经营证据距离为 0；若市场切换至相邻的震荡状态，同一基准经营行需价格约 $194（较现价低约 5.2%）或经营证据上移至乐观行，才重新进入正面区域。相邻状态下建议从 中性 / 等待 到当前的 谨慎建议投资；最小减弱条件是市场转入震荡而经营仍只兑现基准，或 Q4/FY2027 初期出现 DDN 订单转化与工业利润率同步低于基准。概率层为 NA，原因是没有可辩护的经营行 × 市场列联合概率。"
       },
       "matrix": {
         "cellCount": 20,
         "estimableCellCount": 20,
-        "positiveCellCount": 11,
+        "positiveCellCount": 9,
         "neutralCellCount": 1,
-        "negativeCellCount": 8,
-        "positiveShare": 0.55,
+        "negativeCellCount": 10,
+        "positiveShare": 0.45,
         "basePositiveCount": 2,
-        "stressPositiveCount": 1,
+        "stressPositiveCount": 0,
         "rowPositive": {
           "pessimistic": 0,
           "base": 2,
-          "optimistic": 4,
-          "breakthrough": 5
+          "optimistic": 3,
+          "breakthrough": 4
         },
         "marketPositive": {
           "broad": 3,
           "theme": 3,
           "range": 2,
-          "orderly": 2,
-          "liquidity": 1
+          "orderly": 1,
+          "liquidity": 0
         },
         "firstPositiveScenario": "base",
         "breakthroughDependent": false
@@ -16301,14 +16236,14 @@
       "name": "台积电",
       "category": "晶圆制造前道设备",
       "title": "TSM（台积电）经营情景 × 市场状态投资决策",
-      "reportDate": "2026-07-18",
-      "sourcePath": "分析报告/公司情景投资决策/结果/TSM_经营情景市场状态投资决策_2026-07-18.md",
+      "reportDate": "2026-08-19",
+      "sourcePath": "分析报告/公司情景投资决策/结果/TSM_经营情景市场状态投资决策_2026-08-19.md",
       "dataFile": "reports/scenario-decision/TSM.json",
       "current": {
         "operatingScenario": "base",
         "operatingLabel": "基准 / 正常兑现",
-        "marketState": "range",
-        "marketLabel": "震荡 / 均值回归",
+        "marketState": "broad",
+        "marketLabel": "宽基风险扩张",
         "composite": false,
         "rotationAdjusted": false,
         "adjustmentType": "pure",
@@ -16320,45 +16255,45 @@
         "pureAdviceLabel": "中性 / 等待",
         "pureAdviceRank": 2,
         "pureReturnRange": {
-          "low": -17,
-          "high": 9.3
+          "low": -36,
+          "high": 22
         },
-        "pureReturnRangeText": "-17%—+9.3%",
+        "pureReturnRangeText": "-36%—+22%",
         "perShareValue": "",
         "returnRange": {
-          "low": -17,
-          "high": 9.3
+          "low": -36,
+          "high": 22
         },
-        "returnRangeText": "-17%—+9.3%",
-        "currentPrice": null,
-        "weakLink": "已承诺成长投入 → 合格产能、先进封装/测试有效吞吐 → 增量 ROIC 与自由现金流",
-        "priceBoundary": "",
-        "marketSnapshotIdentity": "美国股票（NYSE/Nasdaq，USD）｜2026-07-17 16:15 ET｜Yahoo Finance 7/17、Cboe 7/17、U.S. Treasury 7/17、FRED/ICE BofA 7/16、FactSet 7/17｜US-MKT-5B-v1.0",
-        "summary": "当前条件定位： 当前证据最接近“基准 / 正常兑现”；复合定位不需要，因为当前较强的毛利率证据与较弱的报告口径现金转换都已被基准行的量价、N2 初期稀释和高成长资本开支区间覆盖，模拟复合估值相对纯基准行中点只提高约 4%，建议不变。共享市场快照“美国股票（NYSE/Nasdaq，USD）｜2026-07-17 16:15 ET｜Yahoo Finance 7/17、Cboe 7/17、U.S. Treasury 7/17、FRED/ICE BofA 7/16、FactSet 7/17｜US-MKT-5B-v1.0”锁定“震荡 / 均值回归”为主状态、“宽基风险扩张”为唯一相邻状态。主状态对应格子为“中性 / 等待”，稀释后市值 1.69—2.24 万亿美元、每 ADR 价值 325—430 美元、目标期总回报 -17.0%—+9.3%；相邻状态仍为“中性 / 等待”，稀释后市值 1.90—2.52 万亿美元、每 ADR 价值 365—485 美元、总回报 -7.0%—+23.1%。经营与市场状态证据强度分别为高和中，两个格子的估值置信度均为中。当前最弱传导环节为“已承诺成长投入 → 合格产能、先进封装/测试有效吞吐 → 增量 ROIC 与自由现金流”：需求和收入证据很强，但当前价格还要求新增资本在不显著扩大海外、N2 和封装成本稀释的情况下转换成现金。仅靠价格，主状态下首次达到正面条件建议的买入边界约为 333 美元（较当前低 16.4%），相邻宽基状态约为 374 美元（低 6.0%）；仅靠经营证据则需升级至“乐观 / 超预期”，至少验证 N2/N3 量产、CoWoS/测试有效吞吐和自由现金流三项中的两项。相邻状态下建议范围仍为“中性 / 等待”；最小减弱条件是 Q3 收入和毛利率同时跌破指引下沿，或 FY2026 美元收入增长被下调至 35% 以下。概率层为 NA：公司未披露可复核 backlog，市场状态联合概率和台海离散尾部也无法用公开证据稳健校准。"
+        "returnRangeText": "-36%—+22%",
+        "currentPrice": 83,
+        "weakLink": "有效后段交付与再投资现金转化",
+        "priceBoundary": "$344",
+        "marketSnapshotIdentity": "US-EQ-USD-20260818-CLOSE-5B-v1.0",
+        "summary": "当前条件定位： 当前证据最接近 基准 / 正常兑现纯经营行；复合定位不需要——前端 AI/HPC、N3/N5/N2 与先进封装需求一度接近乐观端，但高资本开支、海外厂稀释、后段有效交付与自由现金流仍位于基准行，采用复合假设只使宽基状态下每股价值中点由约 $381 提至约 $395（约 +3.7%），且建议仍为“中性 / 等待”，未达到 10% 或一级建议差异门槛。共享市场快照 US-EQ-USD-20260818-CLOSE-5B-v1.0 锁定宽基风险扩张，唯一相邻状态为震荡 / 均值回归。当前纯格子为：中性 / 等待，稀释后市值 $1.36T—$2.60T、每 ADR 价值 $262—$500、目标期净总回报 -36%—+22%；经营状态证据强度为高，市场状态证据强度为中等偏强，估值置信度为中。当前最弱传导环节是有效后段交付与再投资现金转化：前端晶圆需求必须穿过 CoWoS/HBM/ABF/测试、客户通电部署及 $60B—$64B 资本开支，才能成为可分配现金。距离第一个正面区域，在经营和市场不变时最高买入价约 $344（较 $413.41 低约 16.9%）；或需经营证据上移到乐观行，且无需市场换列。相邻市场列的基准格为不建议投资，当前邻域建议范围为不建议投资—建议投资。最小减弱条件是 N2 / CoWoS 放量同时毛利率跌破 63% 且 NTM 自由现金流低于 $38B；概率层为 NA，因为没有足以辩护经营行与五种市场状态联合概率及相关性的证据。"
       },
       "matrix": {
         "cellCount": 20,
         "estimableCellCount": 20,
-        "positiveCellCount": 8,
-        "neutralCellCount": 3,
+        "positiveCellCount": 7,
+        "neutralCellCount": 4,
         "negativeCellCount": 9,
-        "positiveShare": 0.4,
-        "basePositiveCount": 1,
+        "positiveShare": 0.35,
+        "basePositiveCount": 0,
         "stressPositiveCount": 0,
         "rowPositive": {
           "pessimistic": 0,
-          "base": 1,
+          "base": 0,
           "optimistic": 3,
           "breakthrough": 4
         },
         "marketPositive": {
           "broad": 2,
-          "theme": 3,
+          "theme": 2,
           "range": 2,
           "orderly": 1,
           "liquidity": 0
         },
-        "firstPositiveScenario": "base",
+        "firstPositiveScenario": "optimistic",
         "breakthroughDependent": false
       }
     },
@@ -17158,9 +17093,9 @@
       "ticker": "WDC",
       "name": "WesternDigital",
       "category": "AI服务器存储EMS",
-      "title": "WDC Western Digital：经营情景 × 市场状态投资决策（2026-07-15）",
-      "reportDate": "2026-07-15",
-      "sourcePath": "分析报告/公司情景投资决策/结果/WDC_经营情景市场状态投资决策_2026-07-15.md",
+      "title": "WDC Western Digital 经营情景 × 市场状态投资决策",
+      "reportDate": "2026-08-19",
+      "sourcePath": "分析报告/公司情景投资决策/结果/WDC_经营情景市场状态投资决策_2026-08-19.md",
       "dataFile": "reports/scenario-decision/WDC.json",
       "current": {
         "operatingScenario": "base",
@@ -17170,36 +17105,36 @@
         "composite": false,
         "rotationAdjusted": false,
         "adjustmentType": "pure",
-        "adviceKey": "no",
-        "adviceLabel": "不建议投资",
-        "adviceRank": 1,
+        "adviceKey": "strongNo",
+        "adviceLabel": "强烈不建议投资",
+        "adviceRank": 0,
         "adviceGroup": "negative",
-        "pureAdviceKey": "no",
-        "pureAdviceLabel": "不建议投资",
-        "pureAdviceRank": 1,
+        "pureAdviceKey": "strongNo",
+        "pureAdviceLabel": "强烈不建议投资",
+        "pureAdviceRank": 0,
         "pureReturnRange": {
-          "low": -62,
-          "high": -13
+          "low": -69,
+          "high": -33
         },
-        "pureReturnRangeText": "-62%～-13%",
-        "perShareValue": "$195—448",
+        "pureReturnRangeText": "-69%—-33%",
+        "perShareValue": "$152—332",
         "returnRange": {
-          "low": -62,
-          "high": -13
+          "low": -69,
+          "high": -33
         },
-        "returnRangeText": "-62%—-13%",
-        "currentPrice": 353,
-        "weakLink": "40TB/HAMR 的合格交付与实现价格，能否把强需求延伸成 3—5 年可持续的单位经济和自由现金流",
-        "priceBoundary": "$313",
-        "marketSnapshotIdentity": "US-MKT-5B-v1.0-20260715-1600ET",
-        "summary": "当前条件定位： 当前证据最接近 基准 / 正常兑现；复合定位不需要：唯一偏弱项是换债后股本与 40TB 量产尚未最终核实，采用基准行的合理低端即可保留，假设复合后每股价值中点只下降约 2%，未达到 10% 或建议改变一级的门槛。共享市场快照 US-MKT-5B-v1.0-20260715-1600ET 锁定 宽基风险扩张为主状态、窄幅 / 主题主导上涨为唯一相邻状态。当前纯格子为 不建议投资｜$195—$448/股｜-62%—-13%｜估值置信度低；相邻市场列为 不建议投资｜$206—$503/股｜-60%—-2%｜估值置信度低。经营与市场状态证据强度均为中。当前最弱传导环节是 40TB/HAMR 的合格交付与实现价格，能否把强需求延伸成 3—5 年可持续的单位经济和自由现金流；短期退出倍数与五年 DCF 的巨大分歧正来自这里。仅靠价格，在主状态下首次进入正面区域的最高买入价约 $313（较现价低 39%）；在相邻主题状态下约 $353（低 31%）。经营证据要跨到最近正面行，至少需要 40TB 多客户量产、HAMR 生产资格及 NTM $20.5bn+ 收入 / $7.2bn+ FCF / ≤380m 稀释股三组里程碑。相邻邻域的建议范围为 不建议投资至中性 / 等待；最小减弱条件是 FY2026 Q4 毛利率低于约 49% 且价格/EB 不再为正，或市场转入震荡列。概率层为 NA，因为经营与市场状态高度相关且没有可辩护的联合概率。"
+        "returnRangeText": "-69%—-33%",
+        "currentPrice": 18,
+        "weakLink": "单位经济与利润能否在2027多供应商40—50TB竞争中持续转成完整投入后的股东自由现金流，而不是近端订单本身",
+        "priceBoundary": "$170",
+        "marketSnapshotIdentity": "US-EQ-USD-20260818-CLOSE-5B-v1.0",
+        "summary": "当前条件定位： 当前证据最接近 基准 / 正常兑现；复合定位 不需要，因为较强的近线需求与价格证据尚未与另一个独立、决定性的异行传导环节共同越过复合门槛。共享市场快照 US-EQ-USD-20260818-CLOSE-5B-v1.0 锁定 宽基风险扩张，唯一相邻状态为 震荡 / 均值回归。对应当前纯格子为 强烈不建议投资｜稀释后股权价值 $60.0B—$127.5B｜每股 $152—$332｜目标期总回报 -69%—-33%｜估值置信度中；当前经营状态证据强度为 中，共享市场状态证据强度为 中等偏强。当前最弱传导环节是 单位经济与利润能否在2027多供应商40—50TB竞争中持续转成完整投入后的股东自由现金流，而不是近端订单本身。仅靠价格变化，宽基主状态下首次进入正面区域的最高买入价约 $170，比当前低约 66%；相邻震荡列约 $153，低约 69%。经营证据必须上移两行至突破路径，证明可交付量至少约1.19ZB、价格/TB仍强、目标期FCFE达到$12B+且无异常稀释，主状态下才出现第一个正面格；相邻震荡列即使突破也只为 中性 / 等待。相邻状态下当前格子仍为 强烈不建议投资｜$137—$273｜-72%—-45%。当前已处最低建议档，进一步负面变化只扩大损失区间而不再降低标签。概率层为 NA，因为经营行与五种市场状态的联合概率及相关性没有可辩护基础率。"
       },
       "matrix": {
         "cellCount": 20,
         "estimableCellCount": 20,
         "positiveCellCount": 2,
-        "neutralCellCount": 2,
-        "negativeCellCount": 16,
+        "neutralCellCount": 1,
+        "negativeCellCount": 17,
         "positiveShare": 0.1,
         "basePositiveCount": 0,
         "stressPositiveCount": 0,

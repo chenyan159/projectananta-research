@@ -113,15 +113,15 @@
     "hasReport": true,
     "hasEvaluation": true,
     "report": {
-      "title": "HPE（NYSE: HPE）惠普企业全面公司尽调：AI 工厂、Juniper 网络与混合云（2026-07-11）",
-      "reportDate": "2026-07-11",
-      "sourcePath": "基本面/公司调研/AI服务器_存储_EMS/HPE_惠普企业_公司调研_2026-07-11.md",
+      "title": "公司：HPE 惠普企业（Hewlett Packard Enterprise）全面尽调",
+      "reportDate": "2026-08-19",
+      "sourcePath": "基本面/公司调研/AI服务器_存储_EMS/HPE_惠普企业_公司调研_2026-08-19.md",
       "dataFile": "reports/company/HPE.json"
     },
     "evaluation": {
-      "title": "HPE（惠普企业）NTM 收入、利润与经营价值传导四情景评估",
-      "reportDate": "2026-07-12",
-      "sourcePath": "分析报告/公司评估/结果/HPE_惠普企业_收入传导估值评估_2026-07-12.md",
+      "title": "HPE 惠普企业：NTM 收入、利润与经营价值传导评估",
+      "reportDate": "2026-08-19",
+      "sourcePath": "分析报告/公司评估/结果/HPE_惠普企业_收入传导估值评估_2026-08-19.md",
       "dataFile": "reports/company-evaluation/HPE.json"
     }
   },
@@ -407,15 +407,15 @@
     "hasReport": true,
     "hasEvaluation": true,
     "report": {
-      "title": "公司：STX Seagate Technology（希捷科技）",
-      "reportDate": "2026-07-31",
-      "sourcePath": "基本面/公司调研/AI服务器_存储_EMS/STX_Seagate_Technology_公司调研_2026-07-31.md",
+      "title": "公司：STX + Seagate Technology Holdings plc（希捷科技）",
+      "reportDate": "2026-08-19",
+      "sourcePath": "基本面/公司调研/AI服务器_存储_EMS/STX_Seagate_Technology_公司调研_2026-08-19.md",
       "dataFile": "reports/company/STX.json"
     },
     "evaluation": {
-      "title": "STX Seagate Technology：NTM 收入、利润与经营价值传导评估",
-      "reportDate": "2026-07-12",
-      "sourcePath": "分析报告/公司评估/结果/STX_Seagate_Technology_收入传导估值评估_2026-07-12.md",
+      "title": "STX（Seagate Technology）收入传导与经营价值传导评估",
+      "reportDate": "2026-08-19",
+      "sourcePath": "分析报告/公司评估/结果/STX_Seagate_Technology_收入传导估值评估_2026-08-19.md",
       "dataFile": "reports/company-evaluation/STX.json"
     }
   },
@@ -449,15 +449,15 @@
     "hasReport": true,
     "hasEvaluation": true,
     "report": {
-      "title": "公司：WDC Western Digital（西部数据）全面尽调",
-      "reportDate": "2026-07-11",
-      "sourcePath": "基本面/公司调研/AI服务器_存储_EMS/WDC_WesternDigital_公司调研_2026-07-11.md",
+      "title": "公司：WDC Western Digital（西部数据）",
+      "reportDate": "2026-08-19",
+      "sourcePath": "基本面/公司调研/AI服务器_存储_EMS/WDC_WesternDigital_公司调研_2026-08-19.md",
       "dataFile": "reports/company/WDC.json"
     },
     "evaluation": {
-      "title": "WDC Western Digital：NTM 收入、利润与经营价值传导四情景评估",
-      "reportDate": "2026-07-12",
-      "sourcePath": "分析报告/公司评估/结果/WDC_WesternDigital_收入传导估值评估_2026-07-12.md",
+      "title": "WDC Western Digital 收入传导与经营价值传导评估",
+      "reportDate": "2026-08-19",
+      "sourcePath": "分析报告/公司评估/结果/WDC_WesternDigital_收入传导估值评估_2026-08-19.md",
       "dataFile": "reports/company-evaluation/WDC.json"
     }
   },
@@ -575,15 +575,15 @@
     "hasReport": true,
     "hasEvaluation": true,
     "report": {
-      "title": "公司：MU Micron Technology 美光科技",
-      "reportDate": "2026-07-11",
-      "sourcePath": "基本面/公司调研/AI服务器_存储_EMS/MU_Micron_Technology_美光科技_公司调研_2026-07-11.md",
+      "title": "公司：MU Micron Technology, Inc.（美光科技）全面尽调",
+      "reportDate": "2026-08-19",
+      "sourcePath": "基本面/公司调研/AI服务器_存储_EMS/MU_Micron_Technology_美光科技_公司调研_2026-08-19.md",
       "dataFile": "reports/company/MU.json"
     },
     "evaluation": {
-      "title": "MU Micron Technology 美光科技：NTM 收入传导与经营价值评估",
-      "reportDate": "2026-07-12",
-      "sourcePath": "分析报告/公司评估/结果/MU_Micron_Technology_美光科技_收入传导估值评估_2026-07-12.md",
+      "title": "MU Micron Technology（美光科技）收入传导与经营价值传导评估",
+      "reportDate": "2026-08-19",
+      "sourcePath": "分析报告/公司评估/结果/MU_Micron_Technology_美光科技_收入传导估值评估_2026-08-19.md",
       "dataFile": "reports/company-evaluation/MU.json"
     }
   },
@@ -911,15 +911,15 @@
     "hasReport": true,
     "hasEvaluation": true,
     "report": {
-      "title": "公司：AVGO Broadcom（博通）全面尽调",
-      "reportDate": "2026-07-18",
-      "sourcePath": "基本面/公司调研/AI计算芯片_EDA_IP_custom_ASIC/AVGO_Broadcom_公司调研_2026-07-18.md",
+      "title": "公司：AVGO Broadcom（博通）——AI 定制芯片、以太网互联与 VMware 现金引擎全面尽调",
+      "reportDate": "2026-08-19",
+      "sourcePath": "基本面/公司调研/AI计算芯片_EDA_IP_custom_ASIC/AVGO_Broadcom_公司调研_2026-08-19.md",
       "dataFile": "reports/company/AVGO.json"
     },
     "evaluation": {
-      "title": "AVGO Broadcom 收入传导与经营价值传导评估",
-      "reportDate": "2026-07-18",
-      "sourcePath": "分析报告/公司评估/结果/AVGO_Broadcom_收入传导估值评估_2026-07-18.md",
+      "title": "AVGO Broadcom 收入传导与经营价值评估",
+      "reportDate": "2026-08-19",
+      "sourcePath": "分析报告/公司评估/结果/AVGO_Broadcom_收入传导估值评估_2026-08-19.md",
       "dataFile": "reports/company-evaluation/AVGO.json"
     }
   },
@@ -1121,15 +1121,15 @@
     "hasReport": true,
     "hasEvaluation": true,
     "report": {
-      "title": "公司：NVDA NVIDIA（英伟达）",
-      "reportDate": "2026-07-18",
-      "sourcePath": "基本面/公司调研/AI计算芯片_EDA_IP_custom_ASIC/NVDA_NVIDIA_公司调研_2026-07-18.md",
+      "title": "NVIDIA（NVDA）：从 GPU 供应商到全栈 AI 基础设施平台的公司尽调",
+      "reportDate": "2026-08-19",
+      "sourcePath": "基本面/公司调研/AI计算芯片_EDA_IP_custom_ASIC/NVDA_NVIDIA_公司调研_2026-08-19.md",
       "dataFile": "reports/company/NVDA.json"
     },
     "evaluation": {
-      "title": "NVDA / NVIDIA：NTM 收入传导与经营价值传导评估",
-      "reportDate": "2026-07-18",
-      "sourcePath": "分析报告/公司评估/结果/NVDA_NVIDIA_收入传导估值评估_2026-07-18.md",
+      "title": "NVDA / NVIDIA 公司收入传导与经营价值传导评估",
+      "reportDate": "2026-08-19",
+      "sourcePath": "分析报告/公司评估/结果/NVDA_NVIDIA_收入传导估值评估_2026-08-19.md",
       "dataFile": "reports/company-evaluation/NVDA.json"
     }
   },
@@ -1331,15 +1331,15 @@
     "hasReport": true,
     "hasEvaluation": true,
     "report": {
-      "title": "公司：ALAB + Astera Labs（Astera Labs, Inc.）全面尽调",
-      "reportDate": "2026-07-11",
-      "sourcePath": "基本面/公司调研/AI计算芯片_EDA_IP_custom_ASIC/ALAB_AsteraLabs_公司调研_2026-07-11.md",
+      "title": "公司：ALAB Astera Labs（Astera Labs, Inc.）",
+      "reportDate": "2026-08-19",
+      "sourcePath": "基本面/公司调研/AI计算芯片_EDA_IP_custom_ASIC/ALAB_AsteraLabs_公司调研_2026-08-19.md",
       "dataFile": "reports/company/ALAB.json"
     },
     "evaluation": {
-      "title": "ALAB Astera Labs 收入传导与经营价值评估（2026-07-12）",
-      "reportDate": "2026-07-12",
-      "sourcePath": "分析报告/公司评估/结果/ALAB_AsteraLabs_收入传导估值评估_2026-07-12.md",
+      "title": "ALAB Astera Labs 收入传导与经营价值传导评估",
+      "reportDate": "2026-08-19",
+      "sourcePath": "分析报告/公司评估/结果/ALAB_AsteraLabs_收入传导估值评估_2026-08-19.md",
       "dataFile": "reports/company-evaluation/ALAB.json"
     }
   },
@@ -1538,15 +1538,15 @@
     "hasReport": true,
     "hasEvaluation": true,
     "report": {
-      "title": "公司：ANET Arista Networks（Arista Networks, Inc.）全面尽调",
-      "reportDate": "2026-07-11",
-      "sourcePath": "基本面/公司调研/AI网络_光互联_连接器/ANET_Arista_Networks_公司调研_2026-07-11.md",
+      "title": "公司：ANET Arista Networks（阿里斯塔网络）——AI 以太网、Scale-out／Scale-across 与 1.6T 网络全面尽调",
+      "reportDate": "2026-08-19",
+      "sourcePath": "基本面/公司调研/AI网络_光互联_连接器/ANET_Arista_Networks_公司调研_2026-08-19.md",
       "dataFile": "reports/company/ANET.json"
     },
     "evaluation": {
-      "title": "ANET Arista Networks NTM 收入传导与经营价值评估",
-      "reportDate": "2026-07-12",
-      "sourcePath": "分析报告/公司评估/结果/ANET_Arista_Networks_收入传导估值评估_2026-07-12.md",
+      "title": "ANET Arista Networks：收入传导与经营价值评估",
+      "reportDate": "2026-08-19",
+      "sourcePath": "分析报告/公司评估/结果/ANET_Arista_Networks_收入传导估值评估_2026-08-19.md",
       "dataFile": "reports/company-evaluation/ANET.json"
     }
   },
@@ -1694,15 +1694,15 @@
     "hasReport": true,
     "hasEvaluation": true,
     "report": {
-      "title": "CRDO：Credo Technology Group 公司全面尽调（2026-07-11）",
-      "reportDate": "2026-07-11",
-      "sourcePath": "基本面/公司调研/AI网络_光互联_连接器/CRDO_Credo_Technology_Group_公司调研_2026-07-11.md",
+      "title": "公司：CRDO Credo Technology Group Holding Ltd.（Credo Technology）",
+      "reportDate": "2026-08-19",
+      "sourcePath": "基本面/公司调研/AI网络_光互联_连接器/CRDO_Credo_Technology_Group_公司调研_2026-08-19.md",
       "dataFile": "reports/company/CRDO.json"
     },
     "evaluation": {
-      "title": "CRDO：Credo Technology Group 收入传导与经营价值评估（2026-07-12）",
-      "reportDate": "2026-07-12",
-      "sourcePath": "分析报告/公司评估/结果/CRDO_Credo_Technology_Group_收入传导估值评估_2026-07-12.md",
+      "title": "CRDO Credo Technology Group：NTM 收入传导与经营价值评估",
+      "reportDate": "2026-08-19",
+      "sourcePath": "分析报告/公司评估/结果/CRDO_Credo_Technology_Group_收入传导估值评估_2026-08-19.md",
       "dataFile": "reports/company-evaluation/CRDO.json"
     }
   },
@@ -1811,15 +1811,15 @@
     "hasReport": true,
     "hasEvaluation": true,
     "report": {
-      "title": "公司：LITE Lumentum Holdings Inc.（Lumentum）全面尽调",
-      "reportDate": "2026-07-11",
-      "sourcePath": "基本面/公司调研/AI网络_光互联_连接器/LITE_Lumentum_公司调研_2026-07-11.md",
+      "title": "公司：LITE — Lumentum Holdings Inc.（Lumentum）全面尽调",
+      "reportDate": "2026-08-19",
+      "sourcePath": "基本面/公司调研/AI网络_光互联_连接器/LITE_Lumentum_公司调研_2026-08-19.md",
       "dataFile": "reports/company/LITE.json"
     },
     "evaluation": {
-      "title": "LITE（Lumentum）收入传导与经营价值评估：从 AI 光学需求到 NTM 收入、利润与现金流",
-      "reportDate": "2026-07-12",
-      "sourcePath": "分析报告/公司评估/结果/LITE_Lumentum_收入传导估值评估_2026-07-12.md",
+      "title": "LITE — Lumentum 收入传导与经营价值评估",
+      "reportDate": "2026-08-19",
+      "sourcePath": "分析报告/公司评估/结果/LITE_Lumentum_收入传导估值评估_2026-08-19.md",
       "dataFile": "reports/company-evaluation/LITE.json"
     }
   },
@@ -1928,15 +1928,15 @@
     "hasReport": true,
     "hasEvaluation": true,
     "report": {
-      "title": "公司：TEL + TE Connectivity plc（泰科电子）——全面尽调（2026-07-31）",
-      "reportDate": "2026-07-31",
-      "sourcePath": "基本面/公司调研/AI网络_光互联_连接器/TEL_TE_Connectivity_公司调研_2026-07-31.md",
+      "title": "公司：TEL — TE Connectivity plc（TE Connectivity，泰科电子）全面尽调",
+      "reportDate": "2026-08-19",
+      "sourcePath": "基本面/公司调研/AI网络_光互联_连接器/TEL_TE_Connectivity_公司调研_2026-08-19.md",
       "dataFile": "reports/company/TEL.json"
     },
     "evaluation": {
-      "title": "TEL（TE Connectivity）收入传导与经营价值评估",
-      "reportDate": "2026-07-12",
-      "sourcePath": "分析报告/公司评估/结果/TEL_TE_Connectivity_收入传导估值评估_2026-07-12.md",
+      "title": "TEL — TE Connectivity 收入传导与经营价值评估（NTM）",
+      "reportDate": "2026-08-19",
+      "sourcePath": "分析报告/公司评估/结果/TEL_TE_Connectivity_收入传导估值评估_2026-08-19.md",
       "dataFile": "reports/company-evaluation/TEL.json"
     }
   },
@@ -3155,15 +3155,15 @@
     "hasReport": true,
     "hasEvaluation": true,
     "report": {
-      "title": "公司：BE Bloom Energy——AI 数据中心现场电力全面尽调（2026-07-18）",
-      "reportDate": "2026-07-18",
-      "sourcePath": "基本面/公司调研/电力_发电_能源_储能/BE_Bloom_Energy_公司调研_2026-07-18.md",
+      "title": "Bloom Energy（布鲁姆能源，NYSE: BE）公司全面尽调：AI 数据中心现场电力平台",
+      "reportDate": "2026-08-19",
+      "sourcePath": "基本面/公司调研/电力_发电_能源_储能/BE_Bloom_Energy_公司调研_2026-08-19.md",
       "dataFile": "reports/company/BE.json"
     },
     "evaluation": {
-      "title": "Bloom Energy（BE）NTM 收入传导与经营价值传导评估",
-      "reportDate": "2026-07-18",
-      "sourcePath": "分析报告/公司评估/结果/BE_Bloom_Energy_收入传导估值评估_2026-07-18.md",
+      "title": "Bloom Energy（BE）收入传导与经营价值传导评估",
+      "reportDate": "2026-08-19",
+      "sourcePath": "分析报告/公司评估/结果/BE_Bloom_Energy_收入传导估值评估_2026-08-19.md",
       "dataFile": "reports/company-evaluation/BE.json"
     }
   },
@@ -3231,15 +3231,15 @@
     "hasReport": true,
     "hasEvaluation": true,
     "report": {
-      "title": "公司：CMI Cummins Inc.（康明斯）——AI 数据中心电源驱动的再评级、订单可见度与产能兑现",
-      "reportDate": "2026-07-11",
-      "sourcePath": "基本面/公司调研/电力_发电_能源_储能/CMI_Cummins_Inc_公司调研_2026-07-11.md",
+      "title": "公司：CMI Cummins Inc.（康明斯）全面尽调",
+      "reportDate": "2026-08-19",
+      "sourcePath": "基本面/公司调研/电力_发电_能源_储能/CMI_Cummins_Inc_公司调研_2026-08-19.md",
       "dataFile": "reports/company/CMI.json"
     },
     "evaluation": {
-      "title": "CMI Cummins Inc. 收入传导与经营价值评估（2026-07-12）",
-      "reportDate": "2026-07-12",
-      "sourcePath": "分析报告/公司评估/结果/CMI_Cummins_Inc_收入传导估值评估_2026-07-12.md",
+      "title": "CMI Cummins Inc. 收入传导与经营价值传导评估",
+      "reportDate": "2026-08-19",
+      "sourcePath": "分析报告/公司评估/结果/CMI_Cummins_Inc_收入传导估值评估_2026-08-19.md",
       "dataFile": "reports/company-evaluation/CMI.json"
     }
   },
@@ -3497,15 +3497,15 @@
     "hasReport": true,
     "hasEvaluation": true,
     "report": {
-      "title": "公司：GEV + GE Vernova（通用电气维诺瓦）",
-      "reportDate": "2026-07-31",
-      "sourcePath": "基本面/公司调研/电力_发电_能源_储能/GEV_GE_Vernova_公司调研_2026-07-31.md",
+      "title": "公司：GEV GE Vernova",
+      "reportDate": "2026-08-19",
+      "sourcePath": "基本面/公司调研/电力_发电_能源_储能/GEV_GE_Vernova_公司调研_2026-08-19.md",
       "dataFile": "reports/company/GEV.json"
     },
     "evaluation": {
-      "title": "GEV（GE Vernova）NTM 收入传导与经营价值评估",
-      "reportDate": "2026-07-12",
-      "sourcePath": "分析报告/公司评估/结果/GEV_GE_Vernova_收入传导估值评估_2026-07-12.md",
+      "title": "GEV GE Vernova：NTM 收入传导与经营价值评估（2026-08-19）",
+      "reportDate": "2026-08-19",
+      "sourcePath": "分析报告/公司评估/结果/GEV_GE_Vernova_收入传导估值评估_2026-08-19.md",
       "dataFile": "reports/company-evaluation/GEV.json"
     }
   },
@@ -3959,9 +3959,9 @@
       "dataFile": "reports/company/TE.json"
     },
     "evaluation": {
-      "title": "TEL（TE Connectivity）收入传导与经营价值评估",
-      "reportDate": "2026-07-12",
-      "sourcePath": "分析报告/公司评估/结果/TEL_TE_Connectivity_收入传导估值评估_2026-07-12.md",
+      "title": "TEL — TE Connectivity 收入传导与经营价值评估（NTM）",
+      "reportDate": "2026-08-19",
+      "sourcePath": "分析报告/公司评估/结果/TEL_TE_Connectivity_收入传导估值评估_2026-08-19.md",
       "dataFile": "reports/company-evaluation/TE.json"
     }
   },
@@ -4433,15 +4433,15 @@
     "hasReport": true,
     "hasEvaluation": true,
     "report": {
-      "title": "公司：AMKR Amkor Technology（安靠科技）全面尽调",
-      "reportDate": "2026-07-31",
-      "sourcePath": "基本面/公司调研/封测_检测_计量_光罩/AMKR_Amkor_Technology_公司调研_2026-07-31.md",
+      "title": "公司：AMKR — Amkor Technology（安靠科技）全面尽调",
+      "reportDate": "2026-08-19",
+      "sourcePath": "基本面/公司调研/封测_检测_计量_光罩/AMKR_Amkor_Technology_公司调研_2026-08-19.md",
       "dataFile": "reports/company/AMKR.json"
     },
     "evaluation": {
-      "title": "AMKR — Amkor Technology 收入传导与经营价值传导评估",
-      "reportDate": "2026-07-12",
-      "sourcePath": "分析报告/公司评估/结果/AMKR_Amkor_Technology_收入传导估值评估_2026-07-12.md",
+      "title": "AMKR — Amkor Technology 收入传导与经营价值评估",
+      "reportDate": "2026-08-19",
+      "sourcePath": "分析报告/公司评估/结果/AMKR_Amkor_Technology_收入传导估值评估_2026-08-19.md",
       "dataFile": "reports/company-evaluation/AMKR.json"
     }
   },
@@ -4749,15 +4749,15 @@
     "hasReport": true,
     "hasEvaluation": true,
     "report": {
-      "title": "公司：CARR Carrier Global Corporation（开利全球）",
-      "reportDate": "2026-07-31",
-      "sourcePath": "基本面/公司调研/机电_冷却_工程_水处理_边缘工业AI/CARR_Carrier_Global_公司调研_2026-07-31.md",
+      "title": "CARR：Carrier Global Corporation（开利全球）全面公司尽调",
+      "reportDate": "2026-08-19",
+      "sourcePath": "基本面/公司调研/机电_冷却_工程_水处理_边缘工业AI/CARR_Carrier_Global_公司调研_2026-08-19.md",
       "dataFile": "reports/company/CARR.json"
     },
     "evaluation": {
-      "title": "CARR Carrier Global 收入传导与价值传导评估",
-      "reportDate": "2026-07-12",
-      "sourcePath": "分析报告/公司评估/结果/CARR_Carrier_Global_收入传导估值评估_2026-07-12.md",
+      "title": "CARR：Carrier Global 收入传导与经营价值评估",
+      "reportDate": "2026-08-19",
+      "sourcePath": "分析报告/公司评估/结果/CARR_Carrier_Global_收入传导估值评估_2026-08-19.md",
       "dataFile": "reports/company-evaluation/CARR.json"
     }
   },
@@ -5395,15 +5395,15 @@
     "hasReport": true,
     "hasEvaluation": true,
     "report": {
-      "title": "EMCOR Group（NYSE: EME）全面公司调研：AI 数据中心电气、机械、液冷与预制化交付平台",
-      "reportDate": "2026-07-31",
-      "sourcePath": "基本面/公司调研/机电_冷却_工程_水处理_边缘工业AI/EME_EMCOR_Group_公司调研_2026-07-31.md",
+      "title": "公司：EME EMCOR Group, Inc.（EMCOR 集团）全面尽调",
+      "reportDate": "2026-08-19",
+      "sourcePath": "基本面/公司调研/机电_冷却_工程_水处理_边缘工业AI/EME_EMCOR_Group_公司调研_2026-08-19.md",
       "dataFile": "reports/company/EME.json"
     },
     "evaluation": {
-      "title": "EME EMCOR Group：NTM 收入传导与经营价值传导评估",
-      "reportDate": "2026-07-12",
-      "sourcePath": "分析报告/公司评估/结果/EME_EMCOR_Group_收入传导估值评估_2026-07-12.md",
+      "title": "EME EMCOR Group 收入传导与经营价值评估",
+      "reportDate": "2026-08-19",
+      "sourcePath": "分析报告/公司评估/结果/EME_EMCOR_Group_收入传导估值评估_2026-08-19.md",
       "dataFile": "reports/company-evaluation/EME.json"
     }
   },
@@ -5833,15 +5833,15 @@
     "hasReport": true,
     "hasEvaluation": true,
     "report": {
-      "title": "公司：MKSI — MKS Inc. 全面尽调（2026-07-12）",
-      "reportDate": "2026-07-12",
-      "sourcePath": "基本面/公司调研/晶圆制造_前道设备/MKSI_MKS_Inc_公司调研_2026-07-12.md",
+      "title": "公司：MKSI — MKS Inc.（全面尽调，2026-08-19）",
+      "reportDate": "2026-08-19",
+      "sourcePath": "基本面/公司调研/晶圆制造_前道设备/MKSI_MKS_Inc_公司调研_2026-08-19.md",
       "dataFile": "reports/company/MKSI.json"
     },
     "evaluation": {
-      "title": "MKSI（MKS Inc.）收入传导与经营价值传导评估",
-      "reportDate": "2026-07-12",
-      "sourcePath": "分析报告/公司评估/结果/MKSI_MKS_Inc_收入传导估值评估_2026-07-12.md",
+      "title": "MKSI — MKS Inc. 收入传导与经营价值评估",
+      "reportDate": "2026-08-19",
+      "sourcePath": "分析报告/公司评估/结果/MKSI_MKS_Inc_收入传导估值评估_2026-08-19.md",
       "dataFile": "reports/company-evaluation/MKSI.json"
     }
   },
@@ -5913,15 +5913,15 @@
     "hasReport": true,
     "hasEvaluation": true,
     "report": {
-      "title": "公司：TSM 台积电（Taiwan Semiconductor Manufacturing Company）全面尽调",
-      "reportDate": "2026-07-18",
-      "sourcePath": "基本面/公司调研/晶圆制造_前道设备/TSM_台积电_公司调研_2026-07-18.md",
+      "title": "公司：TSM 台积电（NYSE: TSM；TWSE: 2330）全面尽调",
+      "reportDate": "2026-08-19",
+      "sourcePath": "基本面/公司调研/晶圆制造_前道设备/TSM_台积电_公司调研_2026-08-19.md",
       "dataFile": "reports/company/TSM.json"
     },
     "evaluation": {
-      "title": "TSM 台积电：NTM 收入传导与经营价值评估",
-      "reportDate": "2026-07-18",
-      "sourcePath": "分析报告/公司评估/结果/TSM_台积电_收入传导估值评估_2026-07-18.md",
+      "title": "TSM 台积电收入传导与经营价值评估（2026-08-19）",
+      "reportDate": "2026-08-19",
+      "sourcePath": "分析报告/公司评估/结果/TSM_台积电_收入传导估值评估_2026-08-19.md",
       "dataFile": "reports/company-evaluation/TSM.json"
     }
   },
@@ -6573,15 +6573,15 @@
     "hasReport": true,
     "hasEvaluation": true,
     "report": {
-      "title": "公司：POWL + Powell Industries（鲍威尔工业）全面尽调——AI 数据中心电力岛、开关设备与集成配电系统",
-      "reportDate": "2026-07-12",
-      "sourcePath": "基本面/公司调研/配电_电源_功率器件/POWL_Powell_Industries_公司调研_2026-07-12.md",
+      "title": "公司：POWL Powell Industries（Powell Industries, Inc.）全面公司尽调",
+      "reportDate": "2026-08-19",
+      "sourcePath": "基本面/公司调研/配电_电源_功率器件/POWL_Powell_Industries_公司调研_2026-08-19.md",
       "dataFile": "reports/company/POWL.json"
     },
     "evaluation": {
-      "title": "POWL（Powell Industries）NTM 收入传导与经营价值评估",
-      "reportDate": "2026-07-12",
-      "sourcePath": "分析报告/公司评估/结果/POWL_Powell_Industries_收入传导估值评估_2026-07-12.md",
+      "title": "POWL Powell Industries：NTM 收入、利润与经营价值传导评估",
+      "reportDate": "2026-08-19",
+      "sourcePath": "分析报告/公司评估/结果/POWL_Powell_Industries_收入传导估值评估_2026-08-19.md",
       "dataFile": "reports/company-evaluation/POWL.json"
     }
   },
@@ -6839,15 +6839,15 @@
     "hasReport": true,
     "hasEvaluation": true,
     "report": {
-      "title": "公司：NVT + nVent Electric plc（恩文特电气）",
-      "reportDate": "2026-07-31",
-      "sourcePath": "基本面/公司调研/配电_电源_功率器件/NVT_nVent_Electric_公司调研_2026-07-31.md",
+      "title": "公司：NVT — nVent Electric plc（恩维特电气）全面尽调",
+      "reportDate": "2026-08-19",
+      "sourcePath": "基本面/公司调研/配电_电源_功率器件/NVT_nVent_Electric_公司调研_2026-08-19.md",
       "dataFile": "reports/company/NVT.json"
     },
     "evaluation": {
-      "title": "NVT nVent Electric 收入传导与经营价值评估（2026-07-12）",
-      "reportDate": "2026-07-12",
-      "sourcePath": "分析报告/公司评估/结果/NVT_nVent_Electric_收入传导估值评估_2026-07-12.md",
+      "title": "NVT — nVent Electric 收入与经营价值传导评估",
+      "reportDate": "2026-08-19",
+      "sourcePath": "分析报告/公司评估/结果/NVT_nVent_Electric_收入传导估值评估_2026-08-19.md",
       "dataFile": "reports/company-evaluation/NVT.json"
     }
   },
@@ -7163,15 +7163,15 @@
     "hasReport": true,
     "hasEvaluation": true,
     "report": {
-      "title": "公司：CRWV CoreWeave, Inc. 全面尽调（2026-07-12）",
-      "reportDate": "2026-07-12",
-      "sourcePath": "基本面/公司调研/云算力_IDC_AI软件平台/CRWV_CoreWeave_公司调研_2026-07-12.md",
+      "title": "公司：CRWV CoreWeave",
+      "reportDate": "2026-08-19",
+      "sourcePath": "基本面/公司调研/云算力_IDC_AI软件平台/CRWV_CoreWeave_公司调研_2026-08-19.md",
       "dataFile": "reports/company/CRWV.json"
     },
     "evaluation": {
-      "title": "CRWV CoreWeave：NTM 收入、利润与经营价值传导评估（2026-07-12）",
-      "reportDate": "2026-07-12",
-      "sourcePath": "分析报告/公司评估/结果/CRWV_CoreWeave_收入传导估值评估_2026-07-12.md",
+      "title": "CRWV / CoreWeave：收入传导与经营价值传导评估",
+      "reportDate": "2026-08-19",
+      "sourcePath": "分析报告/公司评估/结果/CRWV_CoreWeave_收入传导估值评估_2026-08-19.md",
       "dataFile": "reports/company-evaluation/CRWV.json"
     }
   },
@@ -7373,15 +7373,15 @@
     "hasReport": true,
     "hasEvaluation": true,
     "report": {
-      "title": "公司：META Meta Platforms｜全面尽调：广告现金流向 AI 超级基础设施、智能体与 AI 眼镜的再投资",
-      "reportDate": "2026-07-18",
-      "sourcePath": "基本面/公司调研/云算力_IDC_AI软件平台/META_Meta_Platforms_公司调研_2026-07-18.md",
+      "title": "公司：META — Meta Platforms, Inc.（Meta Platforms）",
+      "reportDate": "2026-08-19",
+      "sourcePath": "基本面/公司调研/云算力_IDC_AI软件平台/META_Meta_Platforms_公司调研_2026-08-19.md",
       "dataFile": "reports/company/META.json"
     },
     "evaluation": {
-      "title": "META Meta Platforms：公司收入传导与经营价值传导评估",
-      "reportDate": "2026-07-18",
-      "sourcePath": "分析报告/公司评估/结果/META_Meta_Platforms_收入传导估值评估_2026-07-18.md",
+      "title": "META — Meta Platforms 收入传导与经营价值传导评估",
+      "reportDate": "2026-08-19",
+      "sourcePath": "分析报告/公司评估/结果/META_Meta_Platforms_收入传导估值评估_2026-08-19.md",
       "dataFile": "reports/company-evaluation/META.json"
     }
   },
@@ -7625,15 +7625,15 @@
     "hasReport": true,
     "hasEvaluation": true,
     "report": {
-      "title": "公司：NBIS Nebius Group（Nebius Group N.V.）全面尽调报告",
-      "reportDate": "2026-07-18",
-      "sourcePath": "基本面/公司调研/云算力_IDC_AI软件平台/NBIS_Nebius_Group_公司调研_2026-07-18.md",
+      "title": "公司：NBIS — Nebius Group N.V.（Nebius 集团）",
+      "reportDate": "2026-08-19",
+      "sourcePath": "基本面/公司调研/云算力_IDC_AI软件平台/NBIS_Nebius_Group_公司调研_2026-08-19.md",
       "dataFile": "reports/company/NBIS.json"
     },
     "evaluation": {
-      "title": "NBIS Nebius Group：NTM 公司收入传导与经营价值传导评估",
-      "reportDate": "2026-07-18",
-      "sourcePath": "分析报告/公司评估/结果/NBIS_Nebius_Group_收入传导估值评估_2026-07-18.md",
+      "title": "NBIS — Nebius Group NTM 收入传导与经营价值评估",
+      "reportDate": "2026-08-19",
+      "sourcePath": "分析报告/公司评估/结果/NBIS_Nebius_Group_收入传导估值评估_2026-08-19.md",
       "dataFile": "reports/company-evaluation/NBIS.json"
     }
   }
