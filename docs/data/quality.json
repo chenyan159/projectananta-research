@@ -43,7 +43,7 @@
     },
     "rawIndustryReportCount": 77,
     "moduleBuilds": {
-      "companyComparisons": "stale",
+      "companyComparisons": "fresh",
       "scenarioDecisions": "fresh",
       "rankings": "fresh",
       "technicalResearch": "fresh",
@@ -51,12 +51,6 @@
     }
   },
   "alerts": [
-    {
-      "severity": "warn",
-      "type": "module-stale-companyComparisons",
-      "title": "公司对比沿用上一版站点数据",
-      "message": "本次独立生成失败；当前展示 2026-07-14 至 2026-07-18（2 个报告日） 的最近有效版本。 EPERM: operation not permitted, rename '[本地路径已省略]"
-    },
     {
       "severity": "info",
       "type": "ranking-price-history-partial",
