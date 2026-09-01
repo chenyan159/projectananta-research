@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "source": "companyScenarioDecisionSiteData",
-  "generatedAt": "2026-08-31T13:04:51.194Z",
+  "generatedAt": "2026-09-01T13:03:14.631Z",
   "sourceRoot": "分析报告/公司情景投资决策",
   "resultRoot": "分析报告/公司情景投资决策/结果",
   "reportDate": "2026-08-19",
@@ -10,7 +10,7 @@
     "2026-07-18",
     "2026-08-19"
   ],
-  "researchPlanHash": "98bdd9db23ddc6c5",
+  "researchPlanHash": "a28b07d17c20f1f6",
   "sourceHash": "429d7beb9a395d44",
   "companyCount": 192,
   "cellCount": 3840,

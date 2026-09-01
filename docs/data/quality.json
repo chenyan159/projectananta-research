@@ -182,6 +182,12 @@
       "type": "scenario-decision-na-cells",
       "title": "部分公司情景格子无法可靠估值",
       "message": "SMR 有 5 个 NA 格子"
+    },
+    {
+      "severity": "warn",
+      "type": "daily-news-audio-missing",
+      "title": "部分 AI 新闻缺少语音文件",
+      "message": "2026-09-01"
     }
   ]
 }
