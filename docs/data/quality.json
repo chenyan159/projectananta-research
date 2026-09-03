@@ -187,7 +187,7 @@
       "severity": "warn",
       "type": "daily-news-audio-missing",
       "title": "部分 AI 新闻缺少语音文件",
-      "message": "2026-09-01"
+      "message": "2026-09-03, 2026-09-01"
     }
   ]
 }
