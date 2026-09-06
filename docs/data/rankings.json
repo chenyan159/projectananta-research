@@ -1,7 +1,7 @@
 {
   "schemaVersion": 3,
   "source": "companySortingSiteData",
-  "generatedAt": "2026-09-05T13:02:35.982Z",
+  "generatedAt": "2026-09-06T13:01:45.758Z",
   "sourceHash": "3a283078f2da2699",
   "sourceRoot": "分析报告/公司排序",
   "contract": {
@@ -9,7 +9,7 @@
     "publicationPolicyPath": "分析报告/公司排序/00_站点发布策略.csv",
     "evaluationPointerPath": "分析报告/公司排序/00_当前评估.json",
     "generatorPath": "分析报告/公司排序/生成站点数据.mjs",
-    "siteInputPath": "分析报告/公司排序/.站点数据-rankings-staging-32912-3a21e9f02fb5/current.json",
+    "siteInputPath": "分析报告/公司排序/.站点数据-rankings-staging-46300-39f4b466a6f4/current.json",
     "dependencyRule": "研究目录生成一个current.json；Site只校验并消费该文件，不扫描研究目录、不解释CSV。"
   },
   "publicationPolicy": {

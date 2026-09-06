@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-05T13:02:38.029Z",
-  "generatedAtDisplay": "2026/9/5 06:02:38",
+  "generatedAt": "2026-09-06T13:01:47.472Z",
+  "generatedAtDisplay": "2026/9/6 06:01:47",
   "sourceRootName": "Investment",
   "siteRoot": "tools/site",
   "companyCount": 192,
   "companyReportCount": 192,
-  "companyEvaluationCount": 192,
-  "industryCount": 77,
-  "industryReportCount": 77,
+  "companyEvaluationCount": 0,
+  "industryCount": 82,
+  "industryReportCount": 82,
   "featureCount": 19,
   "featureScoreFileCount": 19,
   "alphaFeatureCount": 16,
@@ -23,7 +23,7 @@
   "latestCompanyComparisonDate": "2026-07-18",
   "companyComparisonCount": 192,
   "companyComparisonRowCount": 36672,
-  "latestScenarioDecisionDate": "2026-08-19",
+  "latestScenarioDecisionDate": "2026-09-05",
   "scenarioDecisionCount": 192,
   "scenarioDecisionCellCount": 3840,
   "scenarioDecisionEstimableCellCount": 3835,
@@ -32,44 +32,44 @@
   "technicalMarketCount": 5,
   "technicalHorizonCount": 5,
   "latestFinancialDate": "2026-09-04",
-  "latestDailyNewsDate": "2026-09-05",
+  "latestDailyNewsDate": "2026-09-06",
   "dailyNewsCount": 10,
-  "qualityAlertCount": 23,
+  "qualityAlertCount": 24,
   "moduleBuilds": {
     "companyComparisons": {
       "label": "公司对比",
       "status": "fresh",
-      "attemptedAt": "2026-09-05T13:02:31.129Z",
-      "generatedAt": "2026-09-05T13:02:33.809Z",
+      "attemptedAt": "2026-09-06T13:01:40.623Z",
+      "generatedAt": "2026-09-06T13:01:43.458Z",
       "dataDate": "2026-07-14 至 2026-07-18（2 个报告日）"
     },
     "scenarioDecisions": {
       "label": "情景决策",
       "status": "fresh",
-      "attemptedAt": "2026-09-05T13:02:34.731Z",
-      "generatedAt": "2026-09-05T13:02:35.400Z",
-      "dataDate": "2026-08-19"
+      "attemptedAt": "2026-09-06T13:01:44.456Z",
+      "generatedAt": "2026-09-06T13:01:45.155Z",
+      "dataDate": "2026-09-05"
     },
     "rankings": {
       "label": "公司排序",
       "status": "fresh",
-      "attemptedAt": "2026-09-05T13:02:35.849Z",
-      "generatedAt": "2026-09-05T13:02:35.982Z",
+      "attemptedAt": "2026-09-06T13:01:45.623Z",
+      "generatedAt": "2026-09-06T13:01:45.758Z",
       "dataDate": "2026-07-10"
     },
     "technicalResearch": {
       "label": "技术面",
       "status": "fresh",
-      "attemptedAt": "2026-09-05T13:02:36.007Z",
-      "generatedAt": "2026-09-05T13:02:36.109Z",
+      "attemptedAt": "2026-09-06T13:01:45.784Z",
+      "generatedAt": "2026-09-06T13:01:45.887Z",
       "dataDate": "2026-07-15"
     },
     "dailyNews": {
       "label": "每日新闻",
       "status": "fresh",
-      "attemptedAt": "2026-09-05T13:02:36.142Z",
-      "generatedAt": "2026-09-05T13:02:36.296Z",
-      "dataDate": "2026-09-05"
+      "attemptedAt": "2026-09-06T13:01:45.922Z",
+      "generatedAt": "2026-09-06T13:01:46.083Z",
+      "dataDate": "2026-09-06"
     }
   }
 }
