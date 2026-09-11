@@ -1,31 +1,32 @@
 {
   "schemaVersion": 3,
   "source": "companySortingSiteData",
-  "generatedAt": "2026-09-06T13:01:45.758Z",
-  "sourceHash": "3a283078f2da2699",
+  "generatedAt": "2026-09-10T09:28:11.116Z",
+  "sourceHash": "844491ae7928dd33",
   "sourceRoot": "分析报告/公司排序",
   "contract": {
     "registryPath": "分析报告/公司排序/00_运行与榜单注册表.csv",
     "publicationPolicyPath": "分析报告/公司排序/00_站点发布策略.csv",
     "evaluationPointerPath": "分析报告/公司排序/00_当前评估.json",
     "generatorPath": "分析报告/公司排序/生成站点数据.mjs",
-    "siteInputPath": "分析报告/公司排序/.站点数据-rankings-staging-46300-39f4b466a6f4/current.json",
-    "dependencyRule": "研究目录生成一个current.json；Site只校验并消费该文件，不扫描研究目录、不解释CSV。"
+    "siteInputPath": "分析报告/公司排序/站点数据/current.json",
+    "dependencyRule": "研究目录生成一个current.json；Site只校验并消费该文件，不扫描研究目录、不解释CSV。",
+    "companyUniverseRule": "公司池固定为当前评估实际覆盖证券；当前索引仅提供身份，不把后来新增公司补入历史排名。"
   },
   "publicationPolicy": {
     "registeredMethodCount": 26,
     "registeredListCount": 28,
-    "publishedMethodCount": 10,
-    "publishedListCount": 12,
-    "excludedMethodCount": 16,
-    "excludedListCount": 16,
-    "consensusMethodCount": 7,
-    "strictPostEvidenceMethodCount": 7,
+    "publishedMethodCount": 7,
+    "publishedListCount": 9,
+    "excludedMethodCount": 19,
+    "excludedListCount": 19,
+    "consensusMethodCount": 3,
+    "strictPostEvidenceMethodCount": 4,
     "exactCurrentRunPostEvidenceMethodCount": 0,
     "groups": {
-      "实证优先": 5,
-      "在用观察": 2,
-      "历史候选": 3
+      "实证优先": 2,
+      "历史候选": 4,
+      "在用观察": 1
     },
     "criteria": [
       "退出方案、明显反向方案和缺乏区分力的冻结或候选方案不发布公司榜。",
@@ -33,13 +34,10 @@
       "只有仍在投票的独立方法家族进入站点共识；06三视图只计算一个家族。"
     ]
   },
-  "defaultRunKey": "05",
+  "defaultRunKey": "01",
   "order": [
     "01",
     "02",
-    "03",
-    "04",
-    "05",
     "06F",
     "06G",
     "06E",
@@ -1447,11 +1445,11 @@
       "listName": "风险调整赔率",
       "siteGroup": "实证优先",
       "evidenceLabel": "前身短窗正向",
-      "publishReason": "前身版本14个交易日生成后样本外Rank IC为+0.538且Top10相对全体领先13.4个百分点；当前版本仍待生成后验证。",
-      "strategy": "暂时有效：核心",
-      "lifecycle": "暂时有效：核心",
-      "status": "暂时有效：核心试用",
-      "useCase": "当前核心排序之一，偏风险调整赔率和少犯错。",
+      "publishReason": "前身版本14个交易日生成后样本外Rank IC为+0.538且Top10相对全体领先13.4个百分点；当前版本仍待生成后验证。 原默认05停止独立发布后，改用01旧榜作为展示默认；不代表新方案已有结果。",
+      "strategy": "常规职责；此行为历史结果",
+      "lifecycle": "常规职责；此行为历史结果",
+      "status": "旧结果留存；新入口待验证",
+      "useCase": "共享经营与价值模型，保留赔率和基准承载两种判断，不平均投票。",
       "caution": "生成前历史回看（非样本外）；当前运行尚不能据此证明生成后有效性。",
       "runId": "R10_2026-07-12_独立自洽版",
       "date": "2026-07-13",
@@ -1459,7 +1457,7 @@
       "planPath": "分析报告/公司排序/01_暂时有效_核心/01_风险调整赔率_十二句话S03_原11/迭代版本/R10_2026-07-12_独立自洽版/01_研究方案.md",
       "folderPath": "分析报告/公司排序/01_暂时有效_核心/01_风险调整赔率_十二句话S03_原11",
       "evaluationPath": "分析报告/公司排序/90_有效性评估/2026-07-13_26方案3月6月生成前历史回看/00_整体分析.md",
-      "iterationCount": 7,
+      "iterationCount": 8,
       "metrics": {
         "rankedCount": 192,
         "validCount3m": 190,
@@ -2837,10 +2835,10 @@
       "siteGroup": "实证优先",
       "evidenceLabel": "前身短窗正向",
       "publishReason": "两个前身版本14个交易日生成后样本外Rank IC均为正且Top10均跑赢全体；当前版本仍待生成后验证。",
-      "strategy": "暂时有效：核心",
-      "lifecycle": "暂时有效：核心",
-      "status": "暂时有效：核心试用",
-      "useCase": "当前核心排序之一，偏兑现条件、证据新鲜度和负面闭环。原 17 作为同提示词重复运行。",
+      "strategy": "常规职责；此行为历史结果",
+      "lifecycle": "常规职责；此行为历史结果",
+      "status": "旧结果留存；新入口待验证",
+      "useCase": "独立判断市场预期与具体兑现条件。",
       "caution": "生成前历史回看（非样本外）；当前运行尚不能据此证明生成后有效性。",
       "runId": "R10_2026-07-12_独立自洽版",
       "date": "2026-07-13",
@@ -2848,7 +2846,7 @@
       "planPath": "分析报告/公司排序/01_暂时有效_核心/02_预期兑现概率_十二句话S02_原10/迭代版本/R10_2026-07-12_独立自洽版/01_研究方案.md",
       "folderPath": "分析报告/公司排序/01_暂时有效_核心/02_预期兑现概率_十二句话S02_原10",
       "evaluationPath": "分析报告/公司排序/90_有效性评估/2026-07-13_26方案3月6月生成前历史回看/00_整体分析.md",
-      "iterationCount": 6,
+      "iterationCount": 7,
       "metrics": {
         "rankedCount": 192,
         "validCount3m": 190,
@@ -4216,4173 +4214,6 @@
         }
       ]
     },
-    "03": {
-      "key": "03",
-      "methodId": "03",
-      "listId": "03",
-      "label": "反证惩罚压力防守",
-      "methodName": "反证惩罚压力防守",
-      "listName": "反证惩罚压力防守",
-      "siteGroup": "实证优先",
-      "evidenceLabel": "前身短窗正向",
-      "publishReason": "前身版本14个交易日生成后样本外Rank IC为+0.485且Top10相对全体领先8.5个百分点，当前历史回看也为正。",
-      "strategy": "暂时有效：核心",
-      "lifecycle": "暂时有效：核心",
-      "status": "暂时有效：核心试用",
-      "useCase": "当前核心排序之一，偏反证、尾部风险和压力期防守。",
-      "caution": "生成前历史回看（非样本外）；当前运行尚不能据此证明生成后有效性。",
-      "runId": "R03_2026-07-12_独立自洽版",
-      "date": "2026-07-13",
-      "sourcePath": "分析报告/公司排序/01_暂时有效_核心/03_反证惩罚_压力防守_原16/迭代版本/R03_2026-07-12_独立自洽版/02_排序结果.md",
-      "planPath": "分析报告/公司排序/01_暂时有效_核心/03_反证惩罚_压力防守_原16/迭代版本/R03_2026-07-12_独立自洽版/01_研究方案.md",
-      "folderPath": "分析报告/公司排序/01_暂时有效_核心/03_反证惩罚_压力防守_原16",
-      "evaluationPath": "分析报告/公司排序/90_有效性评估/2026-07-13_26方案3月6月生成前历史回看/00_整体分析.md",
-      "iterationCount": 3,
-      "metrics": {
-        "rankedCount": 192,
-        "validCount3m": 190,
-        "validCount6m": 190,
-        "universeMean3m": 0.2956946620325157,
-        "universeMean6m": 0.5945523256951776,
-        "top20Mean3m": 0.7110536729037891,
-        "top20Mean6m": 1.1429047370488397,
-        "top20Bottom20Spread3m": 0.4733036520193056,
-        "top20Bottom20Spread6m": 0.6006497536330253,
-        "rankIc3m": 0.15591771750493164,
-        "rankIc6m": 0.10997038844930827,
-        "categoryNeutralRankIc3m": 0.04091850393097479,
-        "categoryNeutralRankIc6m": 0.01347296318890516,
-        "top20CategoryExcessMean3m": 0.26530940007996884,
-        "top20CategoryExcessMean6m": 0.508424433033458,
-        "top20PositiveRate3m": 0.95,
-        "top20PositiveRate6m": 0.9
-      },
-      "rowCount": 192,
-      "rows": [
-        {
-          "rank": 1,
-          "ticker": "PENG",
-          "name": "Penguin Solutions",
-          "category": "AI服务器_存储_EMS",
-          "score": "83.9"
-        },
-        {
-          "rank": 2,
-          "ticker": "SIMO",
-          "name": "Silicon Motion Technology",
-          "category": "AI服务器_存储_EMS",
-          "score": "81.9"
-        },
-        {
-          "rank": 3,
-          "ticker": "ANET",
-          "name": "Arista Networks",
-          "category": "AI网络_光互联_连接器",
-          "score": "81.7"
-        },
-        {
-          "rank": 4,
-          "ticker": "DELL",
-          "name": "Dell Technologies",
-          "category": "AI服务器_存储_EMS",
-          "score": "80.4"
-        },
-        {
-          "rank": 5,
-          "ticker": "VST",
-          "name": "Vistra Corp",
-          "category": "电力_发电_能源_储能",
-          "score": "75.7"
-        },
-        {
-          "rank": 6,
-          "ticker": "STX",
-          "name": "Seagate Technology",
-          "category": "AI服务器_存储_EMS",
-          "score": "75.1"
-        },
-        {
-          "rank": 7,
-          "ticker": "NTAP",
-          "name": "NetApp",
-          "category": "AI服务器_存储_EMS",
-          "score": "74.9"
-        },
-        {
-          "rank": 8,
-          "ticker": "META",
-          "name": "Meta Platforms",
-          "category": "云算力_IDC_AI软件平台",
-          "score": "74.8"
-        },
-        {
-          "rank": 9,
-          "ticker": "NTNX",
-          "name": "Nutanix",
-          "category": "云算力_IDC_AI软件平台",
-          "score": "74.3"
-        },
-        {
-          "rank": 10,
-          "ticker": "HPE",
-          "name": "惠普企业",
-          "category": "AI服务器_存储_EMS",
-          "score": "73.6"
-        },
-        {
-          "rank": 11,
-          "ticker": "UMC",
-          "name": "United Microelectronics 联华电子",
-          "category": "晶圆制造_前道设备",
-          "score": "73.4"
-        },
-        {
-          "rank": 12,
-          "ticker": "BABA",
-          "name": "Alibaba 阿里巴巴",
-          "category": "云算力_IDC_AI软件平台",
-          "score": "73.3"
-        },
-        {
-          "rank": 13,
-          "ticker": "SNDK",
-          "name": "SanDisk",
-          "category": "AI服务器_存储_EMS",
-          "score": "73.1"
-        },
-        {
-          "rank": 14,
-          "ticker": "TXN",
-          "name": "德州仪器",
-          "category": "AI计算芯片_EDA_IP_custom_ASIC",
-          "score": "72.8"
-        },
-        {
-          "rank": 15,
-          "ticker": "ETN",
-          "name": "Eaton Corporation",
-          "category": "配电_电源_功率器件",
-          "score": "71.5"
-        },
-        {
-          "rank": 16,
-          "ticker": "NVDA",
-          "name": "NVIDIA",
-          "category": "AI计算芯片_EDA_IP_custom_ASIC",
-          "score": "71.4"
-        },
-        {
-          "rank": 17,
-          "ticker": "IMOS",
-          "name": "ChipMOS Technologies 南茂科技",
-          "category": "封测_检测_计量_光罩",
-          "score": "71.2"
-        },
-        {
-          "rank": 18,
-          "ticker": "AVGO",
-          "name": "Broadcom",
-          "category": "AI计算芯片_EDA_IP_custom_ASIC",
-          "score": "70.8"
-        },
-        {
-          "rank": 19,
-          "ticker": "WDC",
-          "name": "WesternDigital",
-          "category": "AI服务器_存储_EMS",
-          "score": "70.7"
-        },
-        {
-          "rank": 20,
-          "ticker": "MKSI",
-          "name": "MKS Inc",
-          "category": "晶圆制造_前道设备",
-          "score": "70.6"
-        },
-        {
-          "rank": 21,
-          "ticker": "VISN",
-          "name": "Vistance Networks",
-          "category": "AI网络_光互联_连接器",
-          "score": "70.5"
-        },
-        {
-          "rank": 22,
-          "ticker": "CEG",
-          "name": "Constellation Energy",
-          "category": "电力_发电_能源_储能",
-          "score": "70.0"
-        },
-        {
-          "rank": 23,
-          "ticker": "AMD",
-          "name": "Advanced Micro Devices",
-          "category": "AI计算芯片_EDA_IP_custom_ASIC",
-          "score": "69.9"
-        },
-        {
-          "rank": 24,
-          "ticker": "MCHP",
-          "name": "Microchip Technology",
-          "category": "AI计算芯片_EDA_IP_custom_ASIC",
-          "score": "69.8"
-        },
-        {
-          "rank": 25,
-          "ticker": "ATEYY",
-          "name": "Advantest",
-          "category": "封测_检测_计量_光罩",
-          "score": "69.7"
-        },
-        {
-          "rank": 26,
-          "ticker": "NVT",
-          "name": "nVent Electric",
-          "category": "配电_电源_功率器件",
-          "score": "69.7"
-        },
-        {
-          "rank": 27,
-          "ticker": "MOD",
-          "name": "Modine Manufacturing",
-          "category": "机电_冷却_工程_水处理_边缘工业AI",
-          "score": "69.6"
-        },
-        {
-          "rank": 28,
-          "ticker": "FLEX",
-          "name": "Flex Ltd",
-          "category": "AI服务器_存储_EMS",
-          "score": "69.6"
-        },
-        {
-          "rank": 29,
-          "ticker": "QCOM",
-          "name": "Qualcomm",
-          "category": "AI计算芯片_EDA_IP_custom_ASIC",
-          "score": "69.6"
-        },
-        {
-          "rank": 30,
-          "ticker": "NOK",
-          "name": "诺基亚",
-          "category": "AI网络_光互联_连接器",
-          "score": "69.6"
-        },
-        {
-          "rank": 31,
-          "ticker": "LITE",
-          "name": "Lumentum",
-          "category": "AI网络_光互联_连接器",
-          "score": "69.5"
-        },
-        {
-          "rank": 32,
-          "ticker": "ADI",
-          "name": "Analog Devices",
-          "category": "AI计算芯片_EDA_IP_custom_ASIC",
-          "score": "69.4"
-        },
-        {
-          "rank": 33,
-          "ticker": "KLIC",
-          "name": "Kulicke Soffa",
-          "category": "封测_检测_计量_光罩",
-          "score": "69.3"
-        },
-        {
-          "rank": 34,
-          "ticker": "MMM",
-          "name": "3M",
-          "category": "半导体材料_化学品_基板",
-          "score": "69.3"
-        },
-        {
-          "rank": 35,
-          "ticker": "HUBB",
-          "name": "Hubbell",
-          "category": "配电_电源_功率器件",
-          "score": "69.1"
-        },
-        {
-          "rank": 36,
-          "ticker": "CARR",
-          "name": "Carrier Global",
-          "category": "机电_冷却_工程_水处理_边缘工业AI",
-          "score": "69.1"
-        },
-        {
-          "rank": 37,
-          "ticker": "CRDO",
-          "name": "Credo Technology Group",
-          "category": "AI网络_光互联_连接器",
-          "score": "69.0"
-        },
-        {
-          "rank": 38,
-          "ticker": "ASX",
-          "name": "ASE Technology Holding",
-          "category": "封测_检测_计量_光罩",
-          "score": "68.9"
-        },
-        {
-          "rank": 39,
-          "ticker": "TDY",
-          "name": "Teledyne Technologies",
-          "category": "封测_检测_计量_光罩",
-          "score": "68.8"
-        },
-        {
-          "rank": 40,
-          "ticker": "GEV",
-          "name": "GE Vernova",
-          "category": "电力_发电_能源_储能",
-          "score": "68.7"
-        },
-        {
-          "rank": 41,
-          "ticker": "ONTO",
-          "name": "Onto Innovation",
-          "category": "封测_检测_计量_光罩",
-          "score": "68.5"
-        },
-        {
-          "rank": 42,
-          "ticker": "AMAT",
-          "name": "Applied Materials",
-          "category": "晶圆制造_前道设备",
-          "score": "68.5"
-        },
-        {
-          "rank": 43,
-          "ticker": "PNR",
-          "name": "Pentair plc",
-          "category": "机电_冷却_工程_水处理_边缘工业AI",
-          "score": "68.4"
-        },
-        {
-          "rank": 44,
-          "ticker": "ICHR",
-          "name": "Ichor Holdings",
-          "category": "晶圆制造_前道设备",
-          "score": "68.4"
-        },
-        {
-          "rank": 45,
-          "ticker": "MYRG",
-          "name": "MYR Group",
-          "category": "机电_冷却_工程_水处理_边缘工业AI",
-          "score": "68.3"
-        },
-        {
-          "rank": 46,
-          "ticker": "DOV",
-          "name": "Dover Corporation",
-          "category": "机电_冷却_工程_水处理_边缘工业AI",
-          "score": "68.2"
-        },
-        {
-          "rank": 47,
-          "ticker": "TSM",
-          "name": "台积电",
-          "category": "晶圆制造_前道设备",
-          "score": "68.0"
-        },
-        {
-          "rank": 48,
-          "ticker": "APH",
-          "name": "Amphenol 安费诺",
-          "category": "AI网络_光互联_连接器",
-          "score": "67.9"
-        },
-        {
-          "rank": 49,
-          "ticker": "ENS",
-          "name": "EnerSys",
-          "category": "电力_发电_能源_储能",
-          "score": "67.8"
-        },
-        {
-          "rank": 50,
-          "ticker": "CLS",
-          "name": "Celestica Inc",
-          "category": "AI服务器_存储_EMS",
-          "score": "67.4"
-        },
-        {
-          "rank": 51,
-          "ticker": "JBL",
-          "name": "Jabil Inc",
-          "category": "AI服务器_存储_EMS",
-          "score": "67.4"
-        },
-        {
-          "rank": 52,
-          "ticker": "ENPH",
-          "name": "Enphase Energy",
-          "category": "电力_发电_能源_储能",
-          "score": "67.3"
-        },
-        {
-          "rank": 53,
-          "ticker": "AMZN",
-          "name": "Amazon",
-          "category": "云算力_IDC_AI软件平台",
-          "score": "67.2"
-        },
-        {
-          "rank": 54,
-          "ticker": "FTV",
-          "name": "Fortive Corporation",
-          "category": "机电_冷却_工程_水处理_边缘工业AI",
-          "score": "67.1"
-        },
-        {
-          "rank": 55,
-          "ticker": "VRT",
-          "name": "Vertiv",
-          "category": "机电_冷却_工程_水处理_边缘工业AI",
-          "score": "67.0"
-        },
-        {
-          "rank": 56,
-          "ticker": "ON",
-          "name": "onsemi",
-          "category": "AI计算芯片_EDA_IP_custom_ASIC",
-          "score": "67.0"
-        },
-        {
-          "rank": 57,
-          "ticker": "ET",
-          "name": "Energy Transfer LP",
-          "category": "电力_发电_能源_储能",
-          "score": "67.0"
-        },
-        {
-          "rank": 58,
-          "ticker": "DHR",
-          "name": "Danaher Corporation",
-          "category": "半导体材料_化学品_基板",
-          "score": "67.0"
-        },
-        {
-          "rank": 59,
-          "ticker": "ATKR",
-          "name": "Atkore",
-          "category": "配电_电源_功率器件",
-          "score": "66.8"
-        },
-        {
-          "rank": 60,
-          "ticker": "MXL",
-          "name": "MaxLinear",
-          "category": "AI计算芯片_EDA_IP_custom_ASIC",
-          "score": "66.8"
-        },
-        {
-          "rank": 61,
-          "ticker": "PH",
-          "name": "Parker-Hannifin",
-          "category": "机电_冷却_工程_水处理_边缘工业AI",
-          "score": "66.8"
-        },
-        {
-          "rank": 62,
-          "ticker": "PLAB",
-          "name": "Photronics",
-          "category": "封测_检测_计量_光罩",
-          "score": "66.7"
-        },
-        {
-          "rank": 63,
-          "ticker": "TMO",
-          "name": "Thermo Fisher Scientific",
-          "category": "封测_检测_计量_光罩",
-          "score": "66.4"
-        },
-        {
-          "rank": 64,
-          "ticker": "BDC",
-          "name": "Belden",
-          "category": "AI网络_光互联_连接器",
-          "score": "66.2"
-        },
-        {
-          "rank": 65,
-          "ticker": "MSFT",
-          "name": "微软",
-          "category": "云算力_IDC_AI软件平台",
-          "score": "66.2"
-        },
-        {
-          "rank": 66,
-          "ticker": "TT",
-          "name": "Trane Technologies",
-          "category": "机电_冷却_工程_水处理_边缘工业AI",
-          "score": "65.9"
-        },
-        {
-          "rank": 67,
-          "ticker": "ROG",
-          "name": "Rogers Corporation",
-          "category": "半导体材料_化学品_基板",
-          "score": "65.9"
-        },
-        {
-          "rank": 68,
-          "ticker": "ST",
-          "name": "Sensata Technologies",
-          "category": "配电_电源_功率器件",
-          "score": "65.8"
-        },
-        {
-          "rank": 69,
-          "ticker": "LRCX",
-          "name": "Lam Research",
-          "category": "晶圆制造_前道设备",
-          "score": "65.4"
-        },
-        {
-          "rank": 70,
-          "ticker": "ABBNY",
-          "name": "ABB Ltd",
-          "category": "配电_电源_功率器件",
-          "score": "65.4"
-        },
-        {
-          "rank": 71,
-          "ticker": "AAON",
-          "name": "AAON",
-          "category": "机电_冷却_工程_水处理_边缘工业AI",
-          "score": "65.3"
-        },
-        {
-          "rank": 72,
-          "ticker": "ASML",
-          "name": "ASML Holding NV",
-          "category": "晶圆制造_前道设备",
-          "score": "65.2"
-        },
-        {
-          "rank": 73,
-          "ticker": "ACMR",
-          "name": "ACM Research",
-          "category": "晶圆制造_前道设备",
-          "score": "65.1"
-        },
-        {
-          "rank": 74,
-          "ticker": "UCTT",
-          "name": "Ultra Clean Holdings",
-          "category": "晶圆制造_前道设备",
-          "score": "65.1"
-        },
-        {
-          "rank": 75,
-          "ticker": "ARM",
-          "name": "Arm Holdings",
-          "category": "AI计算芯片_EDA_IP_custom_ASIC",
-          "score": "65.0"
-        },
-        {
-          "rank": 76,
-          "ticker": "CSCO",
-          "name": "Cisco Systems",
-          "category": "AI网络_光互联_连接器",
-          "score": "64.7"
-        },
-        {
-          "rank": 77,
-          "ticker": "AEIS",
-          "name": "Advanced Energy Industries",
-          "category": "晶圆制造_前道设备",
-          "score": "64.5"
-        },
-        {
-          "rank": 78,
-          "ticker": "CAMT",
-          "name": "Camtek",
-          "category": "封测_检测_计量_光罩",
-          "score": "64.4"
-        },
-        {
-          "rank": 79,
-          "ticker": "FIX",
-          "name": "Comfort Systems USA",
-          "category": "机电_冷却_工程_水处理_边缘工业AI",
-          "score": "64.4"
-        },
-        {
-          "rank": 80,
-          "ticker": "DTE",
-          "name": "DTE Energy Company",
-          "category": "电力_发电_能源_储能",
-          "score": "64.3"
-        },
-        {
-          "rank": 81,
-          "ticker": "TEL",
-          "name": "TE Connectivity",
-          "category": "AI网络_光互联_连接器",
-          "score": "64.3"
-        },
-        {
-          "rank": 82,
-          "ticker": "FORM",
-          "name": "FormFactor",
-          "category": "封测_检测_计量_光罩",
-          "score": "64.1"
-        },
-        {
-          "rank": 83,
-          "ticker": "GLW",
-          "name": "Corning",
-          "category": "AI网络_光互联_连接器",
-          "score": "64.1"
-        },
-        {
-          "rank": 84,
-          "ticker": "SMCI",
-          "name": "Super Micro Computer Inc",
-          "category": "AI服务器_存储_EMS",
-          "score": "64.0"
-        },
-        {
-          "rank": 85,
-          "ticker": "MTRN",
-          "name": "Materion",
-          "category": "半导体材料_化学品_基板",
-          "score": "64.0"
-        },
-        {
-          "rank": 86,
-          "ticker": "DCI",
-          "name": "Donaldson Company",
-          "category": "机电_冷却_工程_水处理_边缘工业AI",
-          "score": "64.0"
-        },
-        {
-          "rank": 87,
-          "ticker": "JCI",
-          "name": "Johnson Controls",
-          "category": "机电_冷却_工程_水处理_边缘工业AI",
-          "score": "63.6"
-        },
-        {
-          "rank": 88,
-          "ticker": "IBM",
-          "name": "International Business Machines",
-          "category": "云算力_IDC_AI软件平台",
-          "score": "63.6"
-        },
-        {
-          "rank": 89,
-          "ticker": "DIOD",
-          "name": "Diodes Incorporated",
-          "category": "配电_电源_功率器件",
-          "score": "63.6"
-        },
-        {
-          "rank": 90,
-          "ticker": "ECL",
-          "name": "Ecolab",
-          "category": "半导体材料_化学品_基板",
-          "score": "63.4"
-        },
-        {
-          "rank": 91,
-          "ticker": "VECO",
-          "name": "Veeco Instruments",
-          "category": "晶圆制造_前道设备",
-          "score": "63.2"
-        },
-        {
-          "rank": 92,
-          "ticker": "GFS",
-          "name": "GlobalFoundries",
-          "category": "晶圆制造_前道设备",
-          "score": "63.2"
-        },
-        {
-          "rank": 93,
-          "ticker": "ASMVY",
-          "name": "ASMPT",
-          "category": "封测_检测_计量_光罩",
-          "score": "63.2"
-        },
-        {
-          "rank": 94,
-          "ticker": "LIN",
-          "name": "Linde plc",
-          "category": "半导体材料_化学品_基板",
-          "score": "63.0"
-        },
-        {
-          "rank": 95,
-          "ticker": "COHU",
-          "name": "Cohu Inc",
-          "category": "封测_检测_计量_光罩",
-          "score": "62.9"
-        },
-        {
-          "rank": 96,
-          "ticker": "APD",
-          "name": "Air Products and Chemicals",
-          "category": "半导体材料_化学品_基板",
-          "score": "62.9"
-        },
-        {
-          "rank": 97,
-          "ticker": "ENTG",
-          "name": "Entegris",
-          "category": "半导体材料_化学品_基板",
-          "score": "62.8"
-        },
-        {
-          "rank": 98,
-          "ticker": "STM",
-          "name": "STMicroelectronics",
-          "category": "AI计算芯片_EDA_IP_custom_ASIC",
-          "score": "62.8"
-        },
-        {
-          "rank": 99,
-          "ticker": "DKILY",
-          "name": "Daikin Industries",
-          "category": "半导体材料_化学品_基板",
-          "score": "62.8"
-        },
-        {
-          "rank": 100,
-          "ticker": "HTHIY",
-          "name": "Hitachi Ltd",
-          "category": "电力_发电_能源_储能",
-          "score": "62.4"
-        },
-        {
-          "rank": 101,
-          "ticker": "COHR",
-          "name": "Coherent",
-          "category": "AI网络_光互联_连接器",
-          "score": "62.4"
-        },
-        {
-          "rank": 102,
-          "ticker": "LFUS",
-          "name": "Littelfuse",
-          "category": "配电_电源_功率器件",
-          "score": "62.4"
-        },
-        {
-          "rank": 103,
-          "ticker": "CAT",
-          "name": "Caterpillar Inc",
-          "category": "机电_冷却_工程_水处理_边缘工业AI",
-          "score": "62.3"
-        },
-        {
-          "rank": 104,
-          "ticker": "P",
-          "name": "Everpure",
-          "category": "AI服务器_存储_EMS",
-          "score": "62.2"
-        },
-        {
-          "rank": 105,
-          "ticker": "NVMI",
-          "name": "Nova Ltd",
-          "category": "晶圆制造_前道设备",
-          "score": "62.2"
-        },
-        {
-          "rank": 106,
-          "ticker": "TSEM",
-          "name": "Tower Semiconductor",
-          "category": "晶圆制造_前道设备",
-          "score": "62.1"
-        },
-        {
-          "rank": 107,
-          "ticker": "VIAV",
-          "name": "VIAVI Solutions",
-          "category": "AI网络_光互联_连接器",
-          "score": "62.1"
-        },
-        {
-          "rank": 108,
-          "ticker": "SMTOY",
-          "name": "住友电工 Sumitomo Electric Industries",
-          "category": "半导体材料_化学品_基板",
-          "score": "62.1"
-        },
-        {
-          "rank": 109,
-          "ticker": "BELFB",
-          "name": "Bel Fuse Inc",
-          "category": "AI网络_光互联_连接器",
-          "score": "62.1"
-        },
-        {
-          "rank": 110,
-          "ticker": "TER",
-          "name": "Teradyne",
-          "category": "封测_检测_计量_光罩",
-          "score": "62.0"
-        },
-        {
-          "rank": 111,
-          "ticker": "IFNNY",
-          "name": "Infineon Technologies AG 英飞凌科技",
-          "category": "配电_电源_功率器件",
-          "score": "61.8"
-        },
-        {
-          "rank": 112,
-          "ticker": "DD",
-          "name": "DuPont de Nemours",
-          "category": "半导体材料_化学品_基板",
-          "score": "61.8"
-        },
-        {
-          "rank": 113,
-          "ticker": "CMI",
-          "name": "Cummins Inc",
-          "category": "电力_发电_能源_储能",
-          "score": "61.7"
-        },
-        {
-          "rank": 114,
-          "ticker": "AMKR",
-          "name": "Amkor Technology",
-          "category": "封测_检测_计量_光罩",
-          "score": "61.7"
-        },
-        {
-          "rank": 115,
-          "ticker": "AEP",
-          "name": "American Electric Power",
-          "category": "电力_发电_能源_储能",
-          "score": "61.6"
-        },
-        {
-          "rank": 116,
-          "ticker": "POWI",
-          "name": "Power Integrations",
-          "category": "配电_电源_功率器件",
-          "score": "61.5"
-        },
-        {
-          "rank": 117,
-          "ticker": "CDNS",
-          "name": "Cadence Design Systems",
-          "category": "AI计算芯片_EDA_IP_custom_ASIC",
-          "score": "61.4"
-        },
-        {
-          "rank": 118,
-          "ticker": "MPWR",
-          "name": "Monolithic Power Systems",
-          "category": "配电_电源_功率器件",
-          "score": "61.2"
-        },
-        {
-          "rank": 119,
-          "ticker": "EQIX",
-          "name": "Equinix",
-          "category": "云算力_IDC_AI软件平台",
-          "score": "61.2"
-        },
-        {
-          "rank": 120,
-          "ticker": "EME",
-          "name": "EMCOR Group",
-          "category": "机电_冷却_工程_水处理_边缘工业AI",
-          "score": "61.1"
-        },
-        {
-          "rank": 121,
-          "ticker": "SANM",
-          "name": "Sanmina Corporation",
-          "category": "AI服务器_存储_EMS",
-          "score": "60.9"
-        },
-        {
-          "rank": 122,
-          "ticker": "GOOGL",
-          "name": "Alphabet Inc",
-          "category": "云算力_IDC_AI软件平台",
-          "score": "60.9"
-        },
-        {
-          "rank": 123,
-          "ticker": "MU",
-          "name": "Micron Technology 美光科技",
-          "category": "AI服务器_存储_EMS",
-          "score": "60.8"
-        },
-        {
-          "rank": 124,
-          "ticker": "MIELY",
-          "name": "三菱电机 Mitsubishi Electric",
-          "category": "配电_电源_功率器件",
-          "score": "60.8"
-        },
-        {
-          "rank": 125,
-          "ticker": "KEYS",
-          "name": "Keysight Technologies",
-          "category": "封测_检测_计量_光罩",
-          "score": "60.5"
-        },
-        {
-          "rank": 126,
-          "ticker": "MTSI",
-          "name": "MACOM Technology Solutions",
-          "category": "AI网络_光互联_连接器",
-          "score": "60.5"
-        },
-        {
-          "rank": 127,
-          "ticker": "PWR",
-          "name": "Quanta Services",
-          "category": "电力_发电_能源_储能",
-          "score": "60.4"
-        },
-        {
-          "rank": 128,
-          "ticker": "ADBE",
-          "name": "Adobe",
-          "category": "云算力_IDC_AI软件平台",
-          "score": "60.2"
-        },
-        {
-          "rank": 129,
-          "ticker": "VICR",
-          "name": "Vicor Corporation",
-          "category": "配电_电源_功率器件",
-          "score": "60.1"
-        },
-        {
-          "rank": 130,
-          "ticker": "CC",
-          "name": "The Chemours Company",
-          "category": "半导体材料_化学品_基板",
-          "score": "60.1"
-        },
-        {
-          "rank": 131,
-          "ticker": "PSIX",
-          "name": "Power Solutions International",
-          "category": "电力_发电_能源_储能",
-          "score": "60.0"
-        },
-        {
-          "rank": 132,
-          "ticker": "GNRC",
-          "name": "Generac Holdings",
-          "category": "电力_发电_能源_储能",
-          "score": "59.8"
-        },
-        {
-          "rank": 133,
-          "ticker": "MSI",
-          "name": "Motorola Solutions",
-          "category": "机电_冷却_工程_水处理_边缘工业AI",
-          "score": "59.8"
-        },
-        {
-          "rank": 134,
-          "ticker": "ASMIY",
-          "name": "ASM International",
-          "category": "晶圆制造_前道设备",
-          "score": "59.5"
-        },
-        {
-          "rank": 135,
-          "ticker": "CRWV",
-          "name": "CoreWeave",
-          "category": "云算力_IDC_AI软件平台",
-          "score": "58.8"
-        },
-        {
-          "rank": 136,
-          "ticker": "MRVL",
-          "name": "Marvell Technology",
-          "category": "AI计算芯片_EDA_IP_custom_ASIC",
-          "score": "58.8"
-        },
-        {
-          "rank": 137,
-          "ticker": "BESIY",
-          "name": "BE Semiconductor",
-          "category": "封测_检测_计量_光罩",
-          "score": "58.7"
-        },
-        {
-          "rank": 138,
-          "ticker": "ALAB",
-          "name": "AsteraLabs",
-          "category": "AI计算芯片_EDA_IP_custom_ASIC",
-          "score": "58.5"
-        },
-        {
-          "rank": 139,
-          "ticker": "DSCSY",
-          "name": "DISCO",
-          "category": "晶圆制造_前道设备",
-          "score": "58.5"
-        },
-        {
-          "rank": 140,
-          "ticker": "Q",
-          "name": "Qnity Electronics",
-          "category": "半导体材料_化学品_基板",
-          "score": "58.2"
-        },
-        {
-          "rank": 141,
-          "ticker": "KLAC",
-          "name": "KLA Corporation",
-          "category": "晶圆制造_前道设备",
-          "score": "58.1"
-        },
-        {
-          "rank": 142,
-          "ticker": "POWL",
-          "name": "Powell Industries",
-          "category": "配电_电源_功率器件",
-          "score": "57.9"
-        },
-        {
-          "rank": 143,
-          "ticker": "AOSL",
-          "name": "Alpha and Omega Semiconductor",
-          "category": "配电_电源_功率器件",
-          "score": "57.7"
-        },
-        {
-          "rank": 144,
-          "ticker": "HOCPY",
-          "name": "HOYA Corporation",
-          "category": "半导体材料_化学品_基板",
-          "score": "57.4"
-        },
-        {
-          "rank": 145,
-          "ticker": "ACLS",
-          "name": "Axcelis Technologies",
-          "category": "晶圆制造_前道设备",
-          "score": "57.3"
-        },
-        {
-          "rank": 146,
-          "ticker": "AJNMY",
-          "name": "味之素 Ajinomoto",
-          "category": "半导体材料_化学品_基板",
-          "score": "57.3"
-        },
-        {
-          "rank": 147,
-          "ticker": "SNPS",
-          "name": "Synopsys",
-          "category": "AI计算芯片_EDA_IP_custom_ASIC",
-          "score": "57.2"
-        },
-        {
-          "rank": 148,
-          "ticker": "SMTC",
-          "name": "Semtech Corporation",
-          "category": "AI网络_光互联_连接器",
-          "score": "57.2"
-        },
-        {
-          "rank": 149,
-          "ticker": "TTDKY",
-          "name": "TDK Corporation",
-          "category": "配电_电源_功率器件",
-          "score": "56.9"
-        },
-        {
-          "rank": 150,
-          "ticker": "ALLE",
-          "name": "Allegion plc",
-          "category": "机电_冷却_工程_水处理_边缘工业AI",
-          "score": "56.8"
-        },
-        {
-          "rank": 151,
-          "ticker": "RMBS",
-          "name": "Rambus",
-          "category": "AI服务器_存储_EMS",
-          "score": "56.5"
-        },
-        {
-          "rank": 152,
-          "ticker": "IESC",
-          "name": "IES Holdings",
-          "category": "机电_冷却_工程_水处理_边缘工业AI",
-          "score": "56.5"
-        },
-        {
-          "rank": 153,
-          "ticker": "TOELY",
-          "name": "Tokyo Electron",
-          "category": "晶圆制造_前道设备",
-          "score": "56.5"
-        },
-        {
-          "rank": 154,
-          "ticker": "SHECY",
-          "name": "Shin-Etsu Chemical 信越化学",
-          "category": "半导体材料_化学品_基板",
-          "score": "56.0"
-        },
-        {
-          "rank": 155,
-          "ticker": "MRAAY",
-          "name": "Murata Manufacturing",
-          "category": "配电_电源_功率器件",
-          "score": "56.0"
-        },
-        {
-          "rank": 156,
-          "ticker": "FN",
-          "name": "Fabrinet",
-          "category": "AI服务器_存储_EMS",
-          "score": "55.8"
-        },
-        {
-          "rank": 157,
-          "ticker": "SITM",
-          "name": "SiTime Corporation",
-          "category": "AI网络_光互联_连接器",
-          "score": "55.8"
-        },
-        {
-          "rank": 158,
-          "ticker": "BE",
-          "name": "Bloom Energy",
-          "category": "电力_发电_能源_储能",
-          "score": "55.4"
-        },
-        {
-          "rank": 159,
-          "ticker": "DLR",
-          "name": "Digital Realty",
-          "category": "云算力_IDC_AI软件平台",
-          "score": "55.0"
-        },
-        {
-          "rank": 160,
-          "ticker": "BWXT",
-          "name": "BWX Technologies",
-          "category": "电力_发电_能源_储能",
-          "score": "54.8"
-        },
-        {
-          "rank": 161,
-          "ticker": "RYCEY",
-          "name": "Rolls-Royce Holdings",
-          "category": "电力_发电_能源_储能",
-          "score": "54.4"
-        },
-        {
-          "rank": 162,
-          "ticker": "NDSN",
-          "name": "Nordson",
-          "category": "半导体材料_化学品_基板",
-          "score": "54.4"
-        },
-        {
-          "rank": 163,
-          "ticker": "CBRS",
-          "name": "Cerebras Systems Inc",
-          "category": "AI计算芯片_EDA_IP_custom_ASIC",
-          "score": "54.1"
-        },
-        {
-          "rank": 164,
-          "ticker": "CIEN",
-          "name": "Ciena Corporation",
-          "category": "AI网络_光互联_连接器",
-          "score": "53.5"
-        },
-        {
-          "rank": 165,
-          "ticker": "SOMMY",
-          "name": "住友化学 Sumitomo Chemical",
-          "category": "半导体材料_化学品_基板",
-          "score": "53.4"
-        },
-        {
-          "rank": 166,
-          "ticker": "VSH",
-          "name": "Vishay Intertechnology",
-          "category": "配电_电源_功率器件",
-          "score": "52.8"
-        },
-        {
-          "rank": 167,
-          "ticker": "ORCL",
-          "name": "Oracle Corporation",
-          "category": "云算力_IDC_AI软件平台",
-          "score": "52.7"
-        },
-        {
-          "rank": 168,
-          "ticker": "ASGLY",
-          "name": "AGC Inc",
-          "category": "半导体材料_化学品_基板",
-          "score": "52.5"
-        },
-        {
-          "rank": 169,
-          "ticker": "CRWD",
-          "name": "CrowdStrike",
-          "category": "云算力_IDC_AI软件平台",
-          "score": "52.2"
-        },
-        {
-          "rank": 170,
-          "ticker": "MICLF",
-          "name": "Mycronic AB",
-          "category": "封测_检测_计量_光罩",
-          "score": "51.9"
-        },
-        {
-          "rank": 171,
-          "ticker": "SKHY",
-          "name": "SK hynix Inc",
-          "category": "AI服务器_存储_EMS",
-          "score": "51.8"
-        },
-        {
-          "rank": 172,
-          "ticker": "MRAM",
-          "name": "Everspin Technologies",
-          "category": "AI服务器_存储_EMS",
-          "score": "51.8"
-        },
-        {
-          "rank": 173,
-          "ticker": "INTC",
-          "name": "Intel Corporation 英特尔",
-          "category": "AI计算芯片_EDA_IP_custom_ASIC",
-          "score": "51.6"
-        },
-        {
-          "rank": 174,
-          "ticker": "ETR",
-          "name": "Entergy Corporation",
-          "category": "电力_发电_能源_储能",
-          "score": "50.9"
-        },
-        {
-          "rank": 175,
-          "ticker": "AEHR",
-          "name": "Aehr Test Systems",
-          "category": "封测_检测_计量_光罩",
-          "score": "50.5"
-        },
-        {
-          "rank": 176,
-          "ticker": "OKLO",
-          "name": "Oklo Inc",
-          "category": "电力_发电_能源_储能",
-          "score": "48.2"
-        },
-        {
-          "rank": 177,
-          "ticker": "IREN",
-          "name": "IREN Limited",
-          "category": "云算力_IDC_AI软件平台",
-          "score": "47.2"
-        },
-        {
-          "rank": 178,
-          "ticker": "AXTI",
-          "name": "AXT Inc",
-          "category": "半导体材料_化学品_基板",
-          "score": "46.9"
-        },
-        {
-          "rank": 179,
-          "ticker": "TE",
-          "name": "T1 Energy Inc",
-          "category": "电力_发电_能源_储能",
-          "score": "46.4"
-        },
-        {
-          "rank": 180,
-          "ticker": "WOLF",
-          "name": "Wolfspeed",
-          "category": "配电_电源_功率器件",
-          "score": "44.4"
-        },
-        {
-          "rank": 181,
-          "ticker": "RKLB",
-          "name": "Rocket Lab",
-          "category": "机电_冷却_工程_水处理_边缘工业AI",
-          "score": "43.7"
-        },
-        {
-          "rank": 182,
-          "ticker": "AAOI",
-          "name": "Applied Optoelectronics",
-          "category": "AI网络_光互联_连接器",
-          "score": "43.4"
-        },
-        {
-          "rank": 183,
-          "ticker": "AMPX",
-          "name": "Amprius Technologies",
-          "category": "电力_发电_能源_储能",
-          "score": "42.6"
-        },
-        {
-          "rank": 184,
-          "ticker": "NBIS",
-          "name": "Nebius Group",
-          "category": "云算力_IDC_AI软件平台",
-          "score": "42.5"
-        },
-        {
-          "rank": 185,
-          "ticker": "TSLA",
-          "name": "Tesla",
-          "category": "机电_冷却_工程_水处理_边缘工业AI",
-          "score": "42.1"
-        },
-        {
-          "rank": 186,
-          "ticker": "APLD",
-          "name": "Applied Digital",
-          "category": "云算力_IDC_AI软件平台",
-          "score": "41.6"
-        },
-        {
-          "rank": 187,
-          "ticker": "FLNC",
-          "name": "Fluence Energy",
-          "category": "电力_发电_能源_储能",
-          "score": "39.9"
-        },
-        {
-          "rank": 188,
-          "ticker": "NVTS",
-          "name": "Navitas Semiconductor",
-          "category": "配电_电源_功率器件",
-          "score": "37.3"
-        },
-        {
-          "rank": 189,
-          "ticker": "LWLG",
-          "name": "Lightwave Logic",
-          "category": "AI网络_光互联_连接器",
-          "score": "36.8"
-        },
-        {
-          "rank": 190,
-          "ticker": "SMR",
-          "name": "NuScale Power",
-          "category": "电力_发电_能源_储能",
-          "score": "36.1"
-        },
-        {
-          "rank": 191,
-          "ticker": "FCEL",
-          "name": "FuelCell Energy",
-          "category": "电力_发电_能源_储能",
-          "score": "35.3"
-        },
-        {
-          "rank": 192,
-          "ticker": "POET",
-          "name": "POET Technologies",
-          "category": "AI网络_光互联_连接器",
-          "score": "31.4"
-        }
-      ]
-    },
-    "04": {
-      "key": "04",
-      "methodId": "04",
-      "listId": "04",
-      "label": "极简基准兑现",
-      "methodName": "极简基准兑现",
-      "listName": "极简基准兑现",
-      "siteGroup": "实证优先",
-      "evidenceLabel": "前身短窗正向",
-      "publishReason": "两个前身版本14个交易日生成后样本外Rank IC均超过+0.42；当前3个月和6个月历史回看反向，必须同时展示冲突。",
-      "strategy": "暂时有效：辅助",
-      "lifecycle": "暂时有效：辅助",
-      "status": "暂时有效：辅助",
-      "useCase": "辅助排序和 sanity check。原 20 是同提示词重复运行，不独立投票。",
-      "caution": "生成前历史回看（非样本外）；当前运行尚不能据此证明生成后有效性。",
-      "runId": "R23_2026-07-12_独立自洽版",
-      "date": "2026-07-13",
-      "sourcePath": "分析报告/公司排序/02_暂时有效_辅助/04_极简基准兑现_迭代实验_原06/迭代版本/R23_2026-07-12_独立自洽版/02_排序结果.md",
-      "planPath": "分析报告/公司排序/02_暂时有效_辅助/04_极简基准兑现_迭代实验_原06/迭代版本/R23_2026-07-12_独立自洽版/01_研究方案.md",
-      "folderPath": "分析报告/公司排序/02_暂时有效_辅助/04_极简基准兑现_迭代实验_原06",
-      "evaluationPath": "分析报告/公司排序/90_有效性评估/2026-07-13_26方案3月6月生成前历史回看/00_整体分析.md",
-      "iterationCount": 7,
-      "metrics": {
-        "rankedCount": 192,
-        "validCount3m": 190,
-        "validCount6m": 190,
-        "universeMean3m": 0.2956946620325157,
-        "universeMean6m": 0.5945523256951776,
-        "top20Mean3m": 0.16262422696877404,
-        "top20Mean6m": 0.2535007983296049,
-        "top20Bottom20Spread3m": -0.2773559764761504,
-        "top20Bottom20Spread6m": -0.6765669454113198,
-        "rankIc3m": -0.1878072143710061,
-        "rankIc6m": -0.3342781036360535,
-        "categoryNeutralRankIc3m": -0.21972619749065156,
-        "categoryNeutralRankIc6m": -0.329130368505585,
-        "top20CategoryExcessMean3m": -0.07187112111476893,
-        "top20CategoryExcessMean6m": -0.1841188698082749,
-        "top20PositiveRate3m": 0.75,
-        "top20PositiveRate6m": 0.7
-      },
-      "rowCount": 192,
-      "rows": [
-        {
-          "rank": 1,
-          "ticker": "NTAP",
-          "name": "NetApp",
-          "category": "AI服务器_存储_EMS",
-          "score": "76.7"
-        },
-        {
-          "rank": 2,
-          "ticker": "PNR",
-          "name": "Pentair plc",
-          "category": "机电_冷却_工程_水处理_边缘工业AI",
-          "score": "75.5"
-        },
-        {
-          "rank": 3,
-          "ticker": "VISN",
-          "name": "Vistance Networks",
-          "category": "AI网络_光互联_连接器",
-          "score": "75.3"
-        },
-        {
-          "rank": 4,
-          "ticker": "TDY",
-          "name": "Teledyne Technologies",
-          "category": "封测_检测_计量_光罩",
-          "score": "74.3"
-        },
-        {
-          "rank": 5,
-          "ticker": "TEL",
-          "name": "TE Connectivity",
-          "category": "AI网络_光互联_连接器",
-          "score": "73.6"
-        },
-        {
-          "rank": 6,
-          "ticker": "ET",
-          "name": "Energy Transfer LP",
-          "category": "电力_发电_能源_储能",
-          "score": "73.3"
-        },
-        {
-          "rank": 7,
-          "ticker": "QCOM",
-          "name": "Qualcomm",
-          "category": "AI计算芯片_EDA_IP_custom_ASIC",
-          "score": "72.8"
-        },
-        {
-          "rank": 8,
-          "ticker": "VST",
-          "name": "Vistra Corp",
-          "category": "电力_发电_能源_储能",
-          "score": "72.6"
-        },
-        {
-          "rank": 9,
-          "ticker": "NVDA",
-          "name": "NVIDIA",
-          "category": "AI计算芯片_EDA_IP_custom_ASIC",
-          "score": "71.8"
-        },
-        {
-          "rank": 10,
-          "ticker": "DELL",
-          "name": "Dell Technologies",
-          "category": "AI服务器_存储_EMS",
-          "score": "71.7"
-        },
-        {
-          "rank": 11,
-          "ticker": "MSFT",
-          "name": "微软",
-          "category": "云算力_IDC_AI软件平台",
-          "score": "71.7"
-        },
-        {
-          "rank": 12,
-          "ticker": "SANM",
-          "name": "Sanmina Corporation",
-          "category": "AI服务器_存储_EMS",
-          "score": "71.7"
-        },
-        {
-          "rank": 13,
-          "ticker": "AEP",
-          "name": "American Electric Power",
-          "category": "电力_发电_能源_储能",
-          "score": "71.6"
-        },
-        {
-          "rank": 14,
-          "ticker": "LIN",
-          "name": "Linde plc",
-          "category": "半导体材料_化学品_基板",
-          "score": "71.4"
-        },
-        {
-          "rank": 15,
-          "ticker": "PSIX",
-          "name": "Power Solutions International",
-          "category": "电力_发电_能源_储能",
-          "score": "71.2"
-        },
-        {
-          "rank": 16,
-          "ticker": "MMM",
-          "name": "3M",
-          "category": "半导体材料_化学品_基板",
-          "score": "70.9"
-        },
-        {
-          "rank": 17,
-          "ticker": "FIX",
-          "name": "Comfort Systems USA",
-          "category": "机电_冷却_工程_水处理_边缘工业AI",
-          "score": "70.8"
-        },
-        {
-          "rank": 18,
-          "ticker": "ADI",
-          "name": "Analog Devices",
-          "category": "AI计算芯片_EDA_IP_custom_ASIC",
-          "score": "70.7"
-        },
-        {
-          "rank": 19,
-          "ticker": "DOV",
-          "name": "Dover Corporation",
-          "category": "机电_冷却_工程_水处理_边缘工业AI",
-          "score": "70.3"
-        },
-        {
-          "rank": 20,
-          "ticker": "FTV",
-          "name": "Fortive Corporation",
-          "category": "机电_冷却_工程_水处理_边缘工业AI",
-          "score": "70.1"
-        },
-        {
-          "rank": 21,
-          "ticker": "NTNX",
-          "name": "Nutanix",
-          "category": "云算力_IDC_AI软件平台",
-          "score": "69.7"
-        },
-        {
-          "rank": 22,
-          "ticker": "DHR",
-          "name": "Danaher Corporation",
-          "category": "半导体材料_化学品_基板",
-          "score": "69.5"
-        },
-        {
-          "rank": 23,
-          "ticker": "HPE",
-          "name": "惠普企业",
-          "category": "AI服务器_存储_EMS",
-          "score": "69.4"
-        },
-        {
-          "rank": 24,
-          "ticker": "BDC",
-          "name": "Belden",
-          "category": "AI网络_光互联_连接器",
-          "score": "69.4"
-        },
-        {
-          "rank": 25,
-          "ticker": "ATKR",
-          "name": "Atkore",
-          "category": "配电_电源_功率器件",
-          "score": "69.1"
-        },
-        {
-          "rank": 26,
-          "ticker": "TMO",
-          "name": "Thermo Fisher Scientific",
-          "category": "封测_检测_计量_光罩",
-          "score": "68.9"
-        },
-        {
-          "rank": 27,
-          "ticker": "IBM",
-          "name": "International Business Machines",
-          "category": "云算力_IDC_AI软件平台",
-          "score": "68.8"
-        },
-        {
-          "rank": 28,
-          "ticker": "CMI",
-          "name": "Cummins Inc",
-          "category": "电力_发电_能源_储能",
-          "score": "68.8"
-        },
-        {
-          "rank": 29,
-          "ticker": "CDNS",
-          "name": "Cadence Design Systems",
-          "category": "AI计算芯片_EDA_IP_custom_ASIC",
-          "score": "68.7"
-        },
-        {
-          "rank": 30,
-          "ticker": "ENS",
-          "name": "EnerSys",
-          "category": "电力_发电_能源_储能",
-          "score": "68.5"
-        },
-        {
-          "rank": 31,
-          "ticker": "SMCI",
-          "name": "Super Micro Computer Inc",
-          "category": "AI服务器_存储_EMS",
-          "score": "68.4"
-        },
-        {
-          "rank": 32,
-          "ticker": "ANET",
-          "name": "Arista Networks",
-          "category": "AI网络_光互联_连接器",
-          "score": "68.2"
-        },
-        {
-          "rank": 33,
-          "ticker": "DD",
-          "name": "DuPont de Nemours",
-          "category": "半导体材料_化学品_基板",
-          "score": "68.2"
-        },
-        {
-          "rank": 34,
-          "ticker": "ALLE",
-          "name": "Allegion plc",
-          "category": "机电_冷却_工程_水处理_边缘工业AI",
-          "score": "68.1"
-        },
-        {
-          "rank": 35,
-          "ticker": "Q",
-          "name": "Qnity Electronics",
-          "category": "半导体材料_化学品_基板",
-          "score": "68.1"
-        },
-        {
-          "rank": 36,
-          "ticker": "ETN",
-          "name": "Eaton Corporation",
-          "category": "配电_电源_功率器件",
-          "score": "68.0"
-        },
-        {
-          "rank": 37,
-          "ticker": "DTE",
-          "name": "DTE Energy Company",
-          "category": "电力_发电_能源_储能",
-          "score": "68.0"
-        },
-        {
-          "rank": 38,
-          "ticker": "FLEX",
-          "name": "Flex Ltd",
-          "category": "AI服务器_存储_EMS",
-          "score": "68.0"
-        },
-        {
-          "rank": 39,
-          "ticker": "ST",
-          "name": "Sensata Technologies",
-          "category": "配电_电源_功率器件",
-          "score": "68.0"
-        },
-        {
-          "rank": 40,
-          "ticker": "TSM",
-          "name": "台积电",
-          "category": "晶圆制造_前道设备",
-          "score": "67.9"
-        },
-        {
-          "rank": 41,
-          "ticker": "CARR",
-          "name": "Carrier Global",
-          "category": "机电_冷却_工程_水处理_边缘工业AI",
-          "score": "67.9"
-        },
-        {
-          "rank": 42,
-          "ticker": "EME",
-          "name": "EMCOR Group",
-          "category": "机电_冷却_工程_水处理_边缘工业AI",
-          "score": "67.9"
-        },
-        {
-          "rank": 43,
-          "ticker": "ADBE",
-          "name": "Adobe",
-          "category": "云算力_IDC_AI软件平台",
-          "score": "67.9"
-        },
-        {
-          "rank": 44,
-          "ticker": "CEG",
-          "name": "Constellation Energy",
-          "category": "电力_发电_能源_储能",
-          "score": "67.7"
-        },
-        {
-          "rank": 45,
-          "ticker": "AVGO",
-          "name": "Broadcom",
-          "category": "AI计算芯片_EDA_IP_custom_ASIC",
-          "score": "67.5"
-        },
-        {
-          "rank": 46,
-          "ticker": "JBL",
-          "name": "Jabil Inc",
-          "category": "AI服务器_存储_EMS",
-          "score": "67.4"
-        },
-        {
-          "rank": 47,
-          "ticker": "VECO",
-          "name": "Veeco Instruments",
-          "category": "晶圆制造_前道设备",
-          "score": "67.3"
-        },
-        {
-          "rank": 48,
-          "ticker": "UMC",
-          "name": "United Microelectronics 联华电子",
-          "category": "晶圆制造_前道设备",
-          "score": "67.1"
-        },
-        {
-          "rank": 49,
-          "ticker": "PLAB",
-          "name": "Photronics",
-          "category": "封测_检测_计量_光罩",
-          "score": "67.0"
-        },
-        {
-          "rank": 50,
-          "ticker": "PH",
-          "name": "Parker-Hannifin",
-          "category": "机电_冷却_工程_水处理_边缘工业AI",
-          "score": "66.7"
-        },
-        {
-          "rank": 51,
-          "ticker": "HUBB",
-          "name": "Hubbell",
-          "category": "配电_电源_功率器件",
-          "score": "66.6"
-        },
-        {
-          "rank": 52,
-          "ticker": "WDC",
-          "name": "WesternDigital",
-          "category": "AI服务器_存储_EMS",
-          "score": "66.6"
-        },
-        {
-          "rank": 53,
-          "ticker": "NVT",
-          "name": "nVent Electric",
-          "category": "配电_电源_功率器件",
-          "score": "66.5"
-        },
-        {
-          "rank": 54,
-          "ticker": "AMAT",
-          "name": "Applied Materials",
-          "category": "晶圆制造_前道设备",
-          "score": "66.3"
-        },
-        {
-          "rank": 55,
-          "ticker": "CAT",
-          "name": "Caterpillar Inc",
-          "category": "机电_冷却_工程_水处理_边缘工业AI",
-          "score": "66.1"
-        },
-        {
-          "rank": 56,
-          "ticker": "BABA",
-          "name": "Alibaba 阿里巴巴",
-          "category": "云算力_IDC_AI软件平台",
-          "score": "66.0"
-        },
-        {
-          "rank": 57,
-          "ticker": "CAMT",
-          "name": "Camtek",
-          "category": "封测_检测_计量_光罩",
-          "score": "66.0"
-        },
-        {
-          "rank": 58,
-          "ticker": "PENG",
-          "name": "Penguin Solutions",
-          "category": "AI服务器_存储_EMS",
-          "score": "65.9"
-        },
-        {
-          "rank": 59,
-          "ticker": "TXN",
-          "name": "德州仪器",
-          "category": "AI计算芯片_EDA_IP_custom_ASIC",
-          "score": "65.7"
-        },
-        {
-          "rank": 60,
-          "ticker": "MU",
-          "name": "Micron Technology 美光科技",
-          "category": "AI服务器_存储_EMS",
-          "score": "65.7"
-        },
-        {
-          "rank": 61,
-          "ticker": "MOD",
-          "name": "Modine Manufacturing",
-          "category": "机电_冷却_工程_水处理_边缘工业AI",
-          "score": "65.6"
-        },
-        {
-          "rank": 62,
-          "ticker": "NOK",
-          "name": "诺基亚",
-          "category": "AI网络_光互联_连接器",
-          "score": "65.5"
-        },
-        {
-          "rank": 63,
-          "ticker": "DCI",
-          "name": "Donaldson Company",
-          "category": "机电_冷却_工程_水处理_边缘工业AI",
-          "score": "65.5"
-        },
-        {
-          "rank": 64,
-          "ticker": "GFS",
-          "name": "GlobalFoundries",
-          "category": "晶圆制造_前道设备",
-          "score": "65.3"
-        },
-        {
-          "rank": 65,
-          "ticker": "MSI",
-          "name": "Motorola Solutions",
-          "category": "机电_冷却_工程_水处理_边缘工业AI",
-          "score": "65.3"
-        },
-        {
-          "rank": 66,
-          "ticker": "ECL",
-          "name": "Ecolab",
-          "category": "半导体材料_化学品_基板",
-          "score": "65.3"
-        },
-        {
-          "rank": 67,
-          "ticker": "AEIS",
-          "name": "Advanced Energy Industries",
-          "category": "晶圆制造_前道设备",
-          "score": "65.2"
-        },
-        {
-          "rank": 68,
-          "ticker": "CLS",
-          "name": "Celestica Inc",
-          "category": "AI服务器_存储_EMS",
-          "score": "64.9"
-        },
-        {
-          "rank": 69,
-          "ticker": "ENPH",
-          "name": "Enphase Energy",
-          "category": "电力_发电_能源_储能",
-          "score": "64.6"
-        },
-        {
-          "rank": 70,
-          "ticker": "CC",
-          "name": "The Chemours Company",
-          "category": "半导体材料_化学品_基板",
-          "score": "64.5"
-        },
-        {
-          "rank": 71,
-          "ticker": "GNRC",
-          "name": "Generac Holdings",
-          "category": "电力_发电_能源_储能",
-          "score": "64.5"
-        },
-        {
-          "rank": 72,
-          "ticker": "GEV",
-          "name": "GE Vernova",
-          "category": "电力_发电_能源_储能",
-          "score": "64.4"
-        },
-        {
-          "rank": 73,
-          "ticker": "APD",
-          "name": "Air Products and Chemicals",
-          "category": "半导体材料_化学品_基板",
-          "score": "64.3"
-        },
-        {
-          "rank": 74,
-          "ticker": "SIMO",
-          "name": "Silicon Motion Technology",
-          "category": "AI服务器_存储_EMS",
-          "score": "64.2"
-        },
-        {
-          "rank": 75,
-          "ticker": "GOOGL",
-          "name": "Alphabet Inc",
-          "category": "云算力_IDC_AI软件平台",
-          "score": "63.8"
-        },
-        {
-          "rank": 76,
-          "ticker": "NDSN",
-          "name": "Nordson",
-          "category": "半导体材料_化学品_基板",
-          "score": "63.8"
-        },
-        {
-          "rank": 77,
-          "ticker": "DIOD",
-          "name": "Diodes Incorporated",
-          "category": "配电_电源_功率器件",
-          "score": "63.7"
-        },
-        {
-          "rank": 78,
-          "ticker": "APH",
-          "name": "Amphenol 安费诺",
-          "category": "AI网络_光互联_连接器",
-          "score": "63.6"
-        },
-        {
-          "rank": 79,
-          "ticker": "AMZN",
-          "name": "Amazon",
-          "category": "云算力_IDC_AI软件平台",
-          "score": "63.5"
-        },
-        {
-          "rank": 80,
-          "ticker": "IESC",
-          "name": "IES Holdings",
-          "category": "机电_冷却_工程_水处理_边缘工业AI",
-          "score": "63.5"
-        },
-        {
-          "rank": 81,
-          "ticker": "META",
-          "name": "Meta Platforms",
-          "category": "云算力_IDC_AI软件平台",
-          "score": "63.5"
-        },
-        {
-          "rank": 82,
-          "ticker": "ON",
-          "name": "onsemi",
-          "category": "AI计算芯片_EDA_IP_custom_ASIC",
-          "score": "63.4"
-        },
-        {
-          "rank": 83,
-          "ticker": "KLIC",
-          "name": "Kulicke Soffa",
-          "category": "封测_检测_计量_光罩",
-          "score": "63.3"
-        },
-        {
-          "rank": 84,
-          "ticker": "MYRG",
-          "name": "MYR Group",
-          "category": "机电_冷却_工程_水处理_边缘工业AI",
-          "score": "63.2"
-        },
-        {
-          "rank": 85,
-          "ticker": "SNDK",
-          "name": "SanDisk",
-          "category": "AI服务器_存储_EMS",
-          "score": "63.0"
-        },
-        {
-          "rank": 86,
-          "ticker": "JCI",
-          "name": "Johnson Controls",
-          "category": "机电_冷却_工程_水处理_边缘工业AI",
-          "score": "62.9"
-        },
-        {
-          "rank": 87,
-          "ticker": "TT",
-          "name": "Trane Technologies",
-          "category": "机电_冷却_工程_水处理_边缘工业AI",
-          "score": "62.8"
-        },
-        {
-          "rank": 88,
-          "ticker": "STM",
-          "name": "STMicroelectronics",
-          "category": "AI计算芯片_EDA_IP_custom_ASIC",
-          "score": "62.8"
-        },
-        {
-          "rank": 89,
-          "ticker": "MKSI",
-          "name": "MKS Inc",
-          "category": "晶圆制造_前道设备",
-          "score": "62.8"
-        },
-        {
-          "rank": 90,
-          "ticker": "FN",
-          "name": "Fabrinet",
-          "category": "AI服务器_存储_EMS",
-          "score": "62.7"
-        },
-        {
-          "rank": 91,
-          "ticker": "BWXT",
-          "name": "BWX Technologies",
-          "category": "电力_发电_能源_储能",
-          "score": "62.5"
-        },
-        {
-          "rank": 92,
-          "ticker": "SNPS",
-          "name": "Synopsys",
-          "category": "AI计算芯片_EDA_IP_custom_ASIC",
-          "score": "62.4"
-        },
-        {
-          "rank": 93,
-          "ticker": "CSCO",
-          "name": "Cisco Systems",
-          "category": "AI网络_光互联_连接器",
-          "score": "62.4"
-        },
-        {
-          "rank": 94,
-          "ticker": "LRCX",
-          "name": "Lam Research",
-          "category": "晶圆制造_前道设备",
-          "score": "62.3"
-        },
-        {
-          "rank": 95,
-          "ticker": "P",
-          "name": "Everpure",
-          "category": "AI服务器_存储_EMS",
-          "score": "62.0"
-        },
-        {
-          "rank": 96,
-          "ticker": "AMKR",
-          "name": "Amkor Technology",
-          "category": "封测_检测_计量_光罩",
-          "score": "62.0"
-        },
-        {
-          "rank": 97,
-          "ticker": "ENTG",
-          "name": "Entegris",
-          "category": "半导体材料_化学品_基板",
-          "score": "62.0"
-        },
-        {
-          "rank": 98,
-          "ticker": "CRDO",
-          "name": "Credo Technology Group",
-          "category": "AI网络_光互联_连接器",
-          "score": "61.9"
-        },
-        {
-          "rank": 99,
-          "ticker": "EQIX",
-          "name": "Equinix",
-          "category": "云算力_IDC_AI软件平台",
-          "score": "61.6"
-        },
-        {
-          "rank": 100,
-          "ticker": "KEYS",
-          "name": "Keysight Technologies",
-          "category": "封测_检测_计量_光罩",
-          "score": "61.6"
-        },
-        {
-          "rank": 101,
-          "ticker": "ABBNY",
-          "name": "ABB Ltd",
-          "category": "配电_电源_功率器件",
-          "score": "61.5"
-        },
-        {
-          "rank": 102,
-          "ticker": "BELFB",
-          "name": "Bel Fuse Inc",
-          "category": "AI网络_光互联_连接器",
-          "score": "61.5"
-        },
-        {
-          "rank": 103,
-          "ticker": "ACMR",
-          "name": "ACM Research",
-          "category": "晶圆制造_前道设备",
-          "score": "61.4"
-        },
-        {
-          "rank": 104,
-          "ticker": "PWR",
-          "name": "Quanta Services",
-          "category": "电力_发电_能源_储能",
-          "score": "61.2"
-        },
-        {
-          "rank": 105,
-          "ticker": "VRT",
-          "name": "Vertiv",
-          "category": "机电_冷却_工程_水处理_边缘工业AI",
-          "score": "61.2"
-        },
-        {
-          "rank": 106,
-          "ticker": "ASML",
-          "name": "ASML Holding NV",
-          "category": "晶圆制造_前道设备",
-          "score": "61.2"
-        },
-        {
-          "rank": 107,
-          "ticker": "TER",
-          "name": "Teradyne",
-          "category": "封测_检测_计量_光罩",
-          "score": "61.1"
-        },
-        {
-          "rank": 108,
-          "ticker": "AAON",
-          "name": "AAON",
-          "category": "机电_冷却_工程_水处理_边缘工业AI",
-          "score": "61.1"
-        },
-        {
-          "rank": 109,
-          "ticker": "ACLS",
-          "name": "Axcelis Technologies",
-          "category": "晶圆制造_前道设备",
-          "score": "61.1"
-        },
-        {
-          "rank": 110,
-          "ticker": "ORCL",
-          "name": "Oracle Corporation",
-          "category": "云算力_IDC_AI软件平台",
-          "score": "61.1"
-        },
-        {
-          "rank": 111,
-          "ticker": "ETR",
-          "name": "Entergy Corporation",
-          "category": "电力_发电_能源_储能",
-          "score": "61.1"
-        },
-        {
-          "rank": 112,
-          "ticker": "POWL",
-          "name": "Powell Industries",
-          "category": "配电_电源_功率器件",
-          "score": "60.7"
-        },
-        {
-          "rank": 113,
-          "ticker": "MTRN",
-          "name": "Materion",
-          "category": "半导体材料_化学品_基板",
-          "score": "60.6"
-        },
-        {
-          "rank": 114,
-          "ticker": "RMBS",
-          "name": "Rambus",
-          "category": "AI服务器_存储_EMS",
-          "score": "60.5"
-        },
-        {
-          "rank": 115,
-          "ticker": "COHR",
-          "name": "Coherent",
-          "category": "AI网络_光互联_连接器",
-          "score": "60.4"
-        },
-        {
-          "rank": 116,
-          "ticker": "DLR",
-          "name": "Digital Realty",
-          "category": "云算力_IDC_AI软件平台",
-          "score": "60.4"
-        },
-        {
-          "rank": 117,
-          "ticker": "VIAV",
-          "name": "VIAVI Solutions",
-          "category": "AI网络_光互联_连接器",
-          "score": "60.4"
-        },
-        {
-          "rank": 118,
-          "ticker": "CIEN",
-          "name": "Ciena Corporation",
-          "category": "AI网络_光互联_连接器",
-          "score": "60.3"
-        },
-        {
-          "rank": 119,
-          "ticker": "DKILY",
-          "name": "Daikin Industries",
-          "category": "半导体材料_化学品_基板",
-          "score": "60.0"
-        },
-        {
-          "rank": 120,
-          "ticker": "ATEYY",
-          "name": "Advantest",
-          "category": "封测_检测_计量_光罩",
-          "score": "60.0"
-        },
-        {
-          "rank": 121,
-          "ticker": "DSCSY",
-          "name": "DISCO",
-          "category": "晶圆制造_前道设备",
-          "score": "60.0"
-        },
-        {
-          "rank": 122,
-          "ticker": "HTHIY",
-          "name": "Hitachi Ltd",
-          "category": "电力_发电_能源_储能",
-          "score": "60.0"
-        },
-        {
-          "rank": 123,
-          "ticker": "MRAAY",
-          "name": "Murata Manufacturing",
-          "category": "配电_电源_功率器件",
-          "score": "60.0"
-        },
-        {
-          "rank": 124,
-          "ticker": "RYCEY",
-          "name": "Rolls-Royce Holdings",
-          "category": "电力_发电_能源_储能",
-          "score": "60.0"
-        },
-        {
-          "rank": 125,
-          "ticker": "SMTOY",
-          "name": "住友电工 Sumitomo Electric Industries",
-          "category": "半导体材料_化学品_基板",
-          "score": "60.0"
-        },
-        {
-          "rank": 126,
-          "ticker": "TOELY",
-          "name": "Tokyo Electron",
-          "category": "晶圆制造_前道设备",
-          "score": "60.0"
-        },
-        {
-          "rank": 127,
-          "ticker": "SOMMY",
-          "name": "住友化学 Sumitomo Chemical",
-          "category": "半导体材料_化学品_基板",
-          "score": "60.0"
-        },
-        {
-          "rank": 128,
-          "ticker": "ASMIY",
-          "name": "ASM International",
-          "category": "晶圆制造_前道设备",
-          "score": "60.0"
-        },
-        {
-          "rank": 129,
-          "ticker": "BESIY",
-          "name": "BE Semiconductor",
-          "category": "封测_检测_计量_光罩",
-          "score": "60.0"
-        },
-        {
-          "rank": 130,
-          "ticker": "AJNMY",
-          "name": "味之素 Ajinomoto",
-          "category": "半导体材料_化学品_基板",
-          "score": "60.0"
-        },
-        {
-          "rank": 131,
-          "ticker": "ASMVY",
-          "name": "ASMPT",
-          "category": "封测_检测_计量_光罩",
-          "score": "60.0"
-        },
-        {
-          "rank": 132,
-          "ticker": "HOCPY",
-          "name": "HOYA Corporation",
-          "category": "半导体材料_化学品_基板",
-          "score": "60.0"
-        },
-        {
-          "rank": 133,
-          "ticker": "IFNNY",
-          "name": "Infineon Technologies AG 英飞凌科技",
-          "category": "配电_电源_功率器件",
-          "score": "60.0"
-        },
-        {
-          "rank": 134,
-          "ticker": "MIELY",
-          "name": "三菱电机 Mitsubishi Electric",
-          "category": "配电_电源_功率器件",
-          "score": "60.0"
-        },
-        {
-          "rank": 135,
-          "ticker": "SHECY",
-          "name": "Shin-Etsu Chemical 信越化学",
-          "category": "半导体材料_化学品_基板",
-          "score": "60.0"
-        },
-        {
-          "rank": 136,
-          "ticker": "TTDKY",
-          "name": "TDK Corporation",
-          "category": "配电_电源_功率器件",
-          "score": "60.0"
-        },
-        {
-          "rank": 137,
-          "ticker": "ASGLY",
-          "name": "AGC Inc",
-          "category": "半导体材料_化学品_基板",
-          "score": "59.8"
-        },
-        {
-          "rank": 138,
-          "ticker": "MRVL",
-          "name": "Marvell Technology",
-          "category": "AI计算芯片_EDA_IP_custom_ASIC",
-          "score": "59.8"
-        },
-        {
-          "rank": 139,
-          "ticker": "LITE",
-          "name": "Lumentum",
-          "category": "AI网络_光互联_连接器",
-          "score": "59.7"
-        },
-        {
-          "rank": 140,
-          "ticker": "ONTO",
-          "name": "Onto Innovation",
-          "category": "封测_检测_计量_光罩",
-          "score": "59.6"
-        },
-        {
-          "rank": 141,
-          "ticker": "NVMI",
-          "name": "Nova Ltd",
-          "category": "晶圆制造_前道设备",
-          "score": "59.5"
-        },
-        {
-          "rank": 142,
-          "ticker": "COHU",
-          "name": "Cohu Inc",
-          "category": "封测_检测_计量_光罩",
-          "score": "59.3"
-        },
-        {
-          "rank": 143,
-          "ticker": "KLAC",
-          "name": "KLA Corporation",
-          "category": "晶圆制造_前道设备",
-          "score": "59.3"
-        },
-        {
-          "rank": 144,
-          "ticker": "MCHP",
-          "name": "Microchip Technology",
-          "category": "AI计算芯片_EDA_IP_custom_ASIC",
-          "score": "59.2"
-        },
-        {
-          "rank": 145,
-          "ticker": "ROG",
-          "name": "Rogers Corporation",
-          "category": "半导体材料_化学品_基板",
-          "score": "58.9"
-        },
-        {
-          "rank": 146,
-          "ticker": "LFUS",
-          "name": "Littelfuse",
-          "category": "配电_电源_功率器件",
-          "score": "58.7"
-        },
-        {
-          "rank": 147,
-          "ticker": "SKHY",
-          "name": "SK hynix Inc",
-          "category": "AI服务器_存储_EMS",
-          "score": "58.6"
-        },
-        {
-          "rank": 148,
-          "ticker": "VSH",
-          "name": "Vishay Intertechnology",
-          "category": "配电_电源_功率器件",
-          "score": "58.6"
-        },
-        {
-          "rank": 149,
-          "ticker": "STX",
-          "name": "Seagate Technology",
-          "category": "AI服务器_存储_EMS",
-          "score": "58.4"
-        },
-        {
-          "rank": 150,
-          "ticker": "UCTT",
-          "name": "Ultra Clean Holdings",
-          "category": "晶圆制造_前道设备",
-          "score": "58.4"
-        },
-        {
-          "rank": 151,
-          "ticker": "GLW",
-          "name": "Corning",
-          "category": "AI网络_光互联_连接器",
-          "score": "58.4"
-        },
-        {
-          "rank": 152,
-          "ticker": "TE",
-          "name": "T1 Energy Inc",
-          "category": "电力_发电_能源_储能",
-          "score": "58.1"
-        },
-        {
-          "rank": 153,
-          "ticker": "ARM",
-          "name": "Arm Holdings",
-          "category": "AI计算芯片_EDA_IP_custom_ASIC",
-          "score": "58.1"
-        },
-        {
-          "rank": 154,
-          "ticker": "TSEM",
-          "name": "Tower Semiconductor",
-          "category": "晶圆制造_前道设备",
-          "score": "58.0"
-        },
-        {
-          "rank": 155,
-          "ticker": "POWI",
-          "name": "Power Integrations",
-          "category": "配电_电源_功率器件",
-          "score": "58.0"
-        },
-        {
-          "rank": 156,
-          "ticker": "VICR",
-          "name": "Vicor Corporation",
-          "category": "配电_电源_功率器件",
-          "score": "57.8"
-        },
-        {
-          "rank": 157,
-          "ticker": "FORM",
-          "name": "FormFactor",
-          "category": "封测_检测_计量_光罩",
-          "score": "57.5"
-        },
-        {
-          "rank": 158,
-          "ticker": "MICLF",
-          "name": "Mycronic AB",
-          "category": "封测_检测_计量_光罩",
-          "score": "57.3"
-        },
-        {
-          "rank": 159,
-          "ticker": "MPWR",
-          "name": "Monolithic Power Systems",
-          "category": "配电_电源_功率器件",
-          "score": "57.3"
-        },
-        {
-          "rank": 160,
-          "ticker": "IREN",
-          "name": "IREN Limited",
-          "category": "云算力_IDC_AI软件平台",
-          "score": "56.6"
-        },
-        {
-          "rank": 161,
-          "ticker": "MTSI",
-          "name": "MACOM Technology Solutions",
-          "category": "AI网络_光互联_连接器",
-          "score": "56.2"
-        },
-        {
-          "rank": 162,
-          "ticker": "MRAM",
-          "name": "Everspin Technologies",
-          "category": "AI服务器_存储_EMS",
-          "score": "55.8"
-        },
-        {
-          "rank": 163,
-          "ticker": "ASX",
-          "name": "ASE Technology Holding",
-          "category": "封测_检测_计量_光罩",
-          "score": "55.6"
-        },
-        {
-          "rank": 164,
-          "ticker": "SMTC",
-          "name": "Semtech Corporation",
-          "category": "AI网络_光互联_连接器",
-          "score": "55.4"
-        },
-        {
-          "rank": 165,
-          "ticker": "IMOS",
-          "name": "ChipMOS Technologies 南茂科技",
-          "category": "封测_检测_计量_光罩",
-          "score": "55.3"
-        },
-        {
-          "rank": 166,
-          "ticker": "AOSL",
-          "name": "Alpha and Omega Semiconductor",
-          "category": "配电_电源_功率器件",
-          "score": "54.7"
-        },
-        {
-          "rank": 167,
-          "ticker": "ALAB",
-          "name": "AsteraLabs",
-          "category": "AI计算芯片_EDA_IP_custom_ASIC",
-          "score": "52.7"
-        },
-        {
-          "rank": 168,
-          "ticker": "CRWV",
-          "name": "CoreWeave",
-          "category": "云算力_IDC_AI软件平台",
-          "score": "52.7"
-        },
-        {
-          "rank": 169,
-          "ticker": "CRWD",
-          "name": "CrowdStrike",
-          "category": "云算力_IDC_AI软件平台",
-          "score": "51.8"
-        },
-        {
-          "rank": 170,
-          "ticker": "AMD",
-          "name": "Advanced Micro Devices",
-          "category": "AI计算芯片_EDA_IP_custom_ASIC",
-          "score": "51.8"
-        },
-        {
-          "rank": 171,
-          "ticker": "WOLF",
-          "name": "Wolfspeed",
-          "category": "配电_电源_功率器件",
-          "score": "51.2"
-        },
-        {
-          "rank": 172,
-          "ticker": "SITM",
-          "name": "SiTime Corporation",
-          "category": "AI网络_光互联_连接器",
-          "score": "51.2"
-        },
-        {
-          "rank": 173,
-          "ticker": "TSLA",
-          "name": "Tesla",
-          "category": "机电_冷却_工程_水处理_边缘工业AI",
-          "score": "50.3"
-        },
-        {
-          "rank": 174,
-          "ticker": "NBIS",
-          "name": "Nebius Group",
-          "category": "云算力_IDC_AI软件平台",
-          "score": "49.8"
-        },
-        {
-          "rank": 175,
-          "ticker": "MXL",
-          "name": "MaxLinear",
-          "category": "AI计算芯片_EDA_IP_custom_ASIC",
-          "score": "49.5"
-        },
-        {
-          "rank": 176,
-          "ticker": "FLNC",
-          "name": "Fluence Energy",
-          "category": "电力_发电_能源_储能",
-          "score": "48.9"
-        },
-        {
-          "rank": 177,
-          "ticker": "ICHR",
-          "name": "Ichor Holdings",
-          "category": "晶圆制造_前道设备",
-          "score": "48.3"
-        },
-        {
-          "rank": 178,
-          "ticker": "CBRS",
-          "name": "Cerebras Systems Inc",
-          "category": "AI计算芯片_EDA_IP_custom_ASIC",
-          "score": "46.4"
-        },
-        {
-          "rank": 179,
-          "ticker": "INTC",
-          "name": "Intel Corporation 英特尔",
-          "category": "AI计算芯片_EDA_IP_custom_ASIC",
-          "score": "45.3"
-        },
-        {
-          "rank": 180,
-          "ticker": "AAOI",
-          "name": "Applied Optoelectronics",
-          "category": "AI网络_光互联_连接器",
-          "score": "45.1"
-        },
-        {
-          "rank": 181,
-          "ticker": "APLD",
-          "name": "Applied Digital",
-          "category": "云算力_IDC_AI软件平台",
-          "score": "44.9"
-        },
-        {
-          "rank": 182,
-          "ticker": "AXTI",
-          "name": "AXT Inc",
-          "category": "半导体材料_化学品_基板",
-          "score": "44.8"
-        },
-        {
-          "rank": 183,
-          "ticker": "AEHR",
-          "name": "Aehr Test Systems",
-          "category": "封测_检测_计量_光罩",
-          "score": "43.5"
-        },
-        {
-          "rank": 184,
-          "ticker": "BE",
-          "name": "Bloom Energy",
-          "category": "电力_发电_能源_储能",
-          "score": "41.8"
-        },
-        {
-          "rank": 185,
-          "ticker": "AMPX",
-          "name": "Amprius Technologies",
-          "category": "电力_发电_能源_储能",
-          "score": "39.3"
-        },
-        {
-          "rank": 186,
-          "ticker": "NVTS",
-          "name": "Navitas Semiconductor",
-          "category": "配电_电源_功率器件",
-          "score": "37.0"
-        },
-        {
-          "rank": 187,
-          "ticker": "RKLB",
-          "name": "Rocket Lab",
-          "category": "机电_冷却_工程_水处理_边缘工业AI",
-          "score": "35.6"
-        },
-        {
-          "rank": 188,
-          "ticker": "LWLG",
-          "name": "Lightwave Logic",
-          "category": "AI网络_光互联_连接器",
-          "score": "35.6"
-        },
-        {
-          "rank": 189,
-          "ticker": "SMR",
-          "name": "NuScale Power",
-          "category": "电力_发电_能源_储能",
-          "score": "30.0"
-        },
-        {
-          "rank": 190,
-          "ticker": "FCEL",
-          "name": "FuelCell Energy",
-          "category": "电力_发电_能源_储能",
-          "score": "28.9"
-        },
-        {
-          "rank": 191,
-          "ticker": "POET",
-          "name": "POET Technologies",
-          "category": "AI网络_光互联_连接器",
-          "score": "28.1"
-        },
-        {
-          "rank": 192,
-          "ticker": "OKLO",
-          "name": "Oklo Inc",
-          "category": "电力_发电_能源_储能",
-          "score": "25.6"
-        }
-      ]
-    },
-    "05": {
-      "key": "05",
-      "methodId": "05",
-      "listId": "05",
-      "label": "反证惩罚优先",
-      "methodName": "反证惩罚优先",
-      "listName": "反证惩罚优先",
-      "siteGroup": "实证优先",
-      "evidenceLabel": "前身与回看均正向",
-      "publishReason": "两个前身版本14个交易日生成后样本外均为正，当前3个月和6个月历史回看也为正；作为站点默认榜单。",
-      "strategy": "暂时有效：辅助",
-      "lifecycle": "暂时有效：辅助",
-      "status": "暂时有效：辅助",
-      "useCase": "压力与尾部风险识别的辅助排序。原 15 是同提示词重复运行，不独立投票。",
-      "caution": "生成前历史回看（非样本外）；当前运行尚不能据此证明生成后有效性。",
-      "runId": "R10_2026-07-12_独立自洽版",
-      "date": "2026-07-13",
-      "sourcePath": "分析报告/公司排序/02_暂时有效_辅助/05_反证惩罚优先_原09/迭代版本/R10_2026-07-12_独立自洽版/02_排序结果.md",
-      "planPath": "分析报告/公司排序/02_暂时有效_辅助/05_反证惩罚优先_原09/迭代版本/R10_2026-07-12_独立自洽版/01_研究方案.md",
-      "folderPath": "分析报告/公司排序/02_暂时有效_辅助/05_反证惩罚优先_原09",
-      "evaluationPath": "分析报告/公司排序/90_有效性评估/2026-07-13_26方案3月6月生成前历史回看/00_整体分析.md",
-      "iterationCount": 8,
-      "metrics": {
-        "rankedCount": 192,
-        "validCount3m": 190,
-        "validCount6m": 190,
-        "universeMean3m": 0.2956946620325157,
-        "universeMean6m": 0.5945523256951777,
-        "top20Mean3m": 0.9486356620192996,
-        "top20Mean6m": 1.5474850742523223,
-        "top20Bottom20Spread3m": 0.7850252962411218,
-        "top20Bottom20Spread6m": 1.114369362834347,
-        "rankIc3m": 0.24066711280819852,
-        "rankIc6m": 0.19086022210849987,
-        "categoryNeutralRankIc3m": 0.22981648268966792,
-        "categoryNeutralRankIc6m": 0.17141847586060519,
-        "top20CategoryExcessMean3m": 0.6061222715427559,
-        "top20CategoryExcessMean6m": 0.9177328646446037,
-        "top20PositiveRate3m": 1,
-        "top20PositiveRate6m": 0.95
-      },
-      "rowCount": 192,
-      "rows": [
-        {
-          "rank": 1,
-          "ticker": "ACMR",
-          "name": "ACM Research",
-          "category": "晶圆制造_前道设备",
-          "score": "87.0"
-        },
-        {
-          "rank": 2,
-          "ticker": "ICHR",
-          "name": "Ichor Holdings",
-          "category": "晶圆制造_前道设备",
-          "score": "85.0"
-        },
-        {
-          "rank": 3,
-          "ticker": "ATEYY",
-          "name": "Advantest",
-          "category": "封测_检测_计量_光罩",
-          "score": "84.0"
-        },
-        {
-          "rank": 4,
-          "ticker": "SIMO",
-          "name": "Silicon Motion Technology",
-          "category": "AI服务器_存储_EMS",
-          "score": "83.0"
-        },
-        {
-          "rank": 5,
-          "ticker": "ANET",
-          "name": "Arista Networks",
-          "category": "AI网络_光互联_连接器",
-          "score": "83.0"
-        },
-        {
-          "rank": 6,
-          "ticker": "WDC",
-          "name": "WesternDigital",
-          "category": "AI服务器_存储_EMS",
-          "score": "82.0"
-        },
-        {
-          "rank": 7,
-          "ticker": "AMD",
-          "name": "Advanced Micro Devices",
-          "category": "AI计算芯片_EDA_IP_custom_ASIC",
-          "score": "81.0"
-        },
-        {
-          "rank": 8,
-          "ticker": "ONTO",
-          "name": "Onto Innovation",
-          "category": "封测_检测_计量_光罩",
-          "score": "81.0"
-        },
-        {
-          "rank": 9,
-          "ticker": "PENG",
-          "name": "Penguin Solutions",
-          "category": "AI服务器_存储_EMS",
-          "score": "80.0"
-        },
-        {
-          "rank": 10,
-          "ticker": "UMC",
-          "name": "United Microelectronics 联华电子",
-          "category": "晶圆制造_前道设备",
-          "score": "80.0"
-        },
-        {
-          "rank": 11,
-          "ticker": "ALAB",
-          "name": "AsteraLabs",
-          "category": "AI计算芯片_EDA_IP_custom_ASIC",
-          "score": "80.0"
-        },
-        {
-          "rank": 12,
-          "ticker": "AMAT",
-          "name": "Applied Materials",
-          "category": "晶圆制造_前道设备",
-          "score": "80.0"
-        },
-        {
-          "rank": 13,
-          "ticker": "VRT",
-          "name": "Vertiv",
-          "category": "机电_冷却_工程_水处理_边缘工业AI",
-          "score": "80.0"
-        },
-        {
-          "rank": 14,
-          "ticker": "GEV",
-          "name": "GE Vernova",
-          "category": "电力_发电_能源_储能",
-          "score": "79.0"
-        },
-        {
-          "rank": 15,
-          "ticker": "SNDK",
-          "name": "SanDisk",
-          "category": "AI服务器_存储_EMS",
-          "score": "79.0"
-        },
-        {
-          "rank": 16,
-          "ticker": "ASX",
-          "name": "ASE Technology Holding",
-          "category": "封测_检测_计量_光罩",
-          "score": "77.0"
-        },
-        {
-          "rank": 17,
-          "ticker": "RYCEY",
-          "name": "Rolls-Royce Holdings",
-          "category": "电力_发电_能源_储能",
-          "score": "77.0"
-        },
-        {
-          "rank": 18,
-          "ticker": "VST",
-          "name": "Vistra Corp",
-          "category": "电力_发电_能源_储能",
-          "score": "77.0"
-        },
-        {
-          "rank": 19,
-          "ticker": "IMOS",
-          "name": "ChipMOS Technologies 南茂科技",
-          "category": "封测_检测_计量_光罩",
-          "score": "76.0"
-        },
-        {
-          "rank": 20,
-          "ticker": "MXL",
-          "name": "MaxLinear",
-          "category": "AI计算芯片_EDA_IP_custom_ASIC",
-          "score": "76.0"
-        },
-        {
-          "rank": 21,
-          "ticker": "AJNMY",
-          "name": "味之素 Ajinomoto",
-          "category": "半导体材料_化学品_基板",
-          "score": "76.0"
-        },
-        {
-          "rank": 22,
-          "ticker": "UCTT",
-          "name": "Ultra Clean Holdings",
-          "category": "晶圆制造_前道设备",
-          "score": "75.0"
-        },
-        {
-          "rank": 23,
-          "ticker": "STX",
-          "name": "Seagate Technology",
-          "category": "AI服务器_存储_EMS",
-          "score": "75.0"
-        },
-        {
-          "rank": 24,
-          "ticker": "ETN",
-          "name": "Eaton Corporation",
-          "category": "配电_电源_功率器件",
-          "score": "75.0"
-        },
-        {
-          "rank": 25,
-          "ticker": "MKSI",
-          "name": "MKS Inc",
-          "category": "晶圆制造_前道设备",
-          "score": "74.0"
-        },
-        {
-          "rank": 26,
-          "ticker": "GLW",
-          "name": "Corning",
-          "category": "AI网络_光互联_连接器",
-          "score": "74.0"
-        },
-        {
-          "rank": 27,
-          "ticker": "ENTG",
-          "name": "Entegris",
-          "category": "半导体材料_化学品_基板",
-          "score": "74.0"
-        },
-        {
-          "rank": 28,
-          "ticker": "TXN",
-          "name": "德州仪器",
-          "category": "AI计算芯片_EDA_IP_custom_ASIC",
-          "score": "74.0"
-        },
-        {
-          "rank": 29,
-          "ticker": "NTNX",
-          "name": "Nutanix",
-          "category": "云算力_IDC_AI软件平台",
-          "score": "74.0"
-        },
-        {
-          "rank": 30,
-          "ticker": "PH",
-          "name": "Parker-Hannifin",
-          "category": "机电_冷却_工程_水处理_边缘工业AI",
-          "score": "74.0"
-        },
-        {
-          "rank": 31,
-          "ticker": "SHECY",
-          "name": "Shin-Etsu Chemical 信越化学",
-          "category": "半导体材料_化学品_基板",
-          "score": "74.0"
-        },
-        {
-          "rank": 32,
-          "ticker": "CIEN",
-          "name": "Ciena Corporation",
-          "category": "AI网络_光互联_连接器",
-          "score": "74.0"
-        },
-        {
-          "rank": 33,
-          "ticker": "NTAP",
-          "name": "NetApp",
-          "category": "AI服务器_存储_EMS",
-          "score": "74.0"
-        },
-        {
-          "rank": 34,
-          "ticker": "DELL",
-          "name": "Dell Technologies",
-          "category": "AI服务器_存储_EMS",
-          "score": "73.0"
-        },
-        {
-          "rank": 35,
-          "ticker": "CRWD",
-          "name": "CrowdStrike",
-          "category": "云算力_IDC_AI软件平台",
-          "score": "73.0"
-        },
-        {
-          "rank": 36,
-          "ticker": "MU",
-          "name": "Micron Technology 美光科技",
-          "category": "AI服务器_存储_EMS",
-          "score": "73.0"
-        },
-        {
-          "rank": 37,
-          "ticker": "TMO",
-          "name": "Thermo Fisher Scientific",
-          "category": "封测_检测_计量_光罩",
-          "score": "73.0"
-        },
-        {
-          "rank": 38,
-          "ticker": "KLAC",
-          "name": "KLA Corporation",
-          "category": "晶圆制造_前道设备",
-          "score": "73.0"
-        },
-        {
-          "rank": 39,
-          "ticker": "CMI",
-          "name": "Cummins Inc",
-          "category": "电力_发电_能源_储能",
-          "score": "73.0"
-        },
-        {
-          "rank": 40,
-          "ticker": "HPE",
-          "name": "惠普企业",
-          "category": "AI服务器_存储_EMS",
-          "score": "73.0"
-        },
-        {
-          "rank": 41,
-          "ticker": "META",
-          "name": "Meta Platforms",
-          "category": "云算力_IDC_AI软件平台",
-          "score": "72.0"
-        },
-        {
-          "rank": 42,
-          "ticker": "MTRN",
-          "name": "Materion",
-          "category": "半导体材料_化学品_基板",
-          "score": "72.0"
-        },
-        {
-          "rank": 43,
-          "ticker": "CRDO",
-          "name": "Credo Technology Group",
-          "category": "AI网络_光互联_连接器",
-          "score": "72.0"
-        },
-        {
-          "rank": 44,
-          "ticker": "TT",
-          "name": "Trane Technologies",
-          "category": "机电_冷却_工程_水处理_边缘工业AI",
-          "score": "72.0"
-        },
-        {
-          "rank": 45,
-          "ticker": "DCI",
-          "name": "Donaldson Company",
-          "category": "机电_冷却_工程_水处理_边缘工业AI",
-          "score": "71.0"
-        },
-        {
-          "rank": 46,
-          "ticker": "NVDA",
-          "name": "NVIDIA",
-          "category": "AI计算芯片_EDA_IP_custom_ASIC",
-          "score": "71.0"
-        },
-        {
-          "rank": 47,
-          "ticker": "LRCX",
-          "name": "Lam Research",
-          "category": "晶圆制造_前道设备",
-          "score": "70.0"
-        },
-        {
-          "rank": 48,
-          "ticker": "IBM",
-          "name": "International Business Machines",
-          "category": "云算力_IDC_AI软件平台",
-          "score": "70.0"
-        },
-        {
-          "rank": 49,
-          "ticker": "AVGO",
-          "name": "Broadcom",
-          "category": "AI计算芯片_EDA_IP_custom_ASIC",
-          "score": "69.0"
-        },
-        {
-          "rank": 50,
-          "ticker": "PNR",
-          "name": "Pentair plc",
-          "category": "机电_冷却_工程_水处理_边缘工业AI",
-          "score": "69.0"
-        },
-        {
-          "rank": 51,
-          "ticker": "TSM",
-          "name": "台积电",
-          "category": "晶圆制造_前道设备",
-          "score": "69.0"
-        },
-        {
-          "rank": 52,
-          "ticker": "NBIS",
-          "name": "Nebius Group",
-          "category": "云算力_IDC_AI软件平台",
-          "score": "69.0"
-        },
-        {
-          "rank": 53,
-          "ticker": "ARM",
-          "name": "Arm Holdings",
-          "category": "AI计算芯片_EDA_IP_custom_ASIC",
-          "score": "68.0"
-        },
-        {
-          "rank": 54,
-          "ticker": "AMZN",
-          "name": "Amazon",
-          "category": "云算力_IDC_AI软件平台",
-          "score": "68.0"
-        },
-        {
-          "rank": 55,
-          "ticker": "FIX",
-          "name": "Comfort Systems USA",
-          "category": "机电_冷却_工程_水处理_边缘工业AI",
-          "score": "68.0"
-        },
-        {
-          "rank": 56,
-          "ticker": "TDY",
-          "name": "Teledyne Technologies",
-          "category": "封测_检测_计量_光罩",
-          "score": "67.0"
-        },
-        {
-          "rank": 57,
-          "ticker": "HUBB",
-          "name": "Hubbell",
-          "category": "配电_电源_功率器件",
-          "score": "67.0"
-        },
-        {
-          "rank": 58,
-          "ticker": "ABBNY",
-          "name": "ABB Ltd",
-          "category": "配电_电源_功率器件",
-          "score": "67.0"
-        },
-        {
-          "rank": 59,
-          "ticker": "PLAB",
-          "name": "Photronics",
-          "category": "封测_检测_计量_光罩",
-          "score": "67.0"
-        },
-        {
-          "rank": 60,
-          "ticker": "CEG",
-          "name": "Constellation Energy",
-          "category": "电力_发电_能源_储能",
-          "score": "67.0"
-        },
-        {
-          "rank": 61,
-          "ticker": "ET",
-          "name": "Energy Transfer LP",
-          "category": "电力_发电_能源_储能",
-          "score": "67.0"
-        },
-        {
-          "rank": 62,
-          "ticker": "MSI",
-          "name": "Motorola Solutions",
-          "category": "机电_冷却_工程_水处理_边缘工业AI",
-          "score": "67.0"
-        },
-        {
-          "rank": 63,
-          "ticker": "CAT",
-          "name": "Caterpillar Inc",
-          "category": "机电_冷却_工程_水处理_边缘工业AI",
-          "score": "66.0"
-        },
-        {
-          "rank": 64,
-          "ticker": "KLIC",
-          "name": "Kulicke Soffa",
-          "category": "封测_检测_计量_光罩",
-          "score": "66.0"
-        },
-        {
-          "rank": 65,
-          "ticker": "ECL",
-          "name": "Ecolab",
-          "category": "半导体材料_化学品_基板",
-          "score": "66.0"
-        },
-        {
-          "rank": 66,
-          "ticker": "MIELY",
-          "name": "三菱电机 Mitsubishi Electric",
-          "category": "配电_电源_功率器件",
-          "score": "66.0"
-        },
-        {
-          "rank": 67,
-          "ticker": "ALLE",
-          "name": "Allegion plc",
-          "category": "机电_冷却_工程_水处理_边缘工业AI",
-          "score": "66.0"
-        },
-        {
-          "rank": 68,
-          "ticker": "ASML",
-          "name": "ASML Holding NV",
-          "category": "晶圆制造_前道设备",
-          "score": "66.0"
-        },
-        {
-          "rank": 69,
-          "ticker": "FTV",
-          "name": "Fortive Corporation",
-          "category": "机电_冷却_工程_水处理_边缘工业AI",
-          "score": "66.0"
-        },
-        {
-          "rank": 70,
-          "ticker": "VISN",
-          "name": "Vistance Networks",
-          "category": "AI网络_光互联_连接器",
-          "score": "66.0"
-        },
-        {
-          "rank": 71,
-          "ticker": "NDSN",
-          "name": "Nordson",
-          "category": "半导体材料_化学品_基板",
-          "score": "66.0"
-        },
-        {
-          "rank": 72,
-          "ticker": "APH",
-          "name": "Amphenol 安费诺",
-          "category": "AI网络_光互联_连接器",
-          "score": "65.0"
-        },
-        {
-          "rank": 73,
-          "ticker": "LIN",
-          "name": "Linde plc",
-          "category": "半导体材料_化学品_基板",
-          "score": "65.0"
-        },
-        {
-          "rank": 74,
-          "ticker": "Q",
-          "name": "Qnity Electronics",
-          "category": "半导体材料_化学品_基板",
-          "score": "65.0"
-        },
-        {
-          "rank": 75,
-          "ticker": "CSCO",
-          "name": "Cisco Systems",
-          "category": "AI网络_光互联_连接器",
-          "score": "65.0"
-        },
-        {
-          "rank": 76,
-          "ticker": "EQIX",
-          "name": "Equinix",
-          "category": "云算力_IDC_AI软件平台",
-          "score": "65.0"
-        },
-        {
-          "rank": 77,
-          "ticker": "PWR",
-          "name": "Quanta Services",
-          "category": "电力_发电_能源_储能",
-          "score": "65.0"
-        },
-        {
-          "rank": 78,
-          "ticker": "APD",
-          "name": "Air Products and Chemicals",
-          "category": "半导体材料_化学品_基板",
-          "score": "64.0"
-        },
-        {
-          "rank": 79,
-          "ticker": "NVT",
-          "name": "nVent Electric",
-          "category": "配电_电源_功率器件",
-          "score": "64.0"
-        },
-        {
-          "rank": 80,
-          "ticker": "CARR",
-          "name": "Carrier Global",
-          "category": "机电_冷却_工程_水处理_边缘工业AI",
-          "score": "64.0"
-        },
-        {
-          "rank": 81,
-          "ticker": "CDNS",
-          "name": "Cadence Design Systems",
-          "category": "AI计算芯片_EDA_IP_custom_ASIC",
-          "score": "64.0"
-        },
-        {
-          "rank": 82,
-          "ticker": "COHU",
-          "name": "Cohu Inc",
-          "category": "封测_检测_计量_光罩",
-          "score": "63.0"
-        },
-        {
-          "rank": 83,
-          "ticker": "BWXT",
-          "name": "BWX Technologies",
-          "category": "电力_发电_能源_储能",
-          "score": "63.0"
-        },
-        {
-          "rank": 84,
-          "ticker": "EME",
-          "name": "EMCOR Group",
-          "category": "机电_冷却_工程_水处理_边缘工业AI",
-          "score": "63.0"
-        },
-        {
-          "rank": 85,
-          "ticker": "KEYS",
-          "name": "Keysight Technologies",
-          "category": "封测_检测_计量_光罩",
-          "score": "63.0"
-        },
-        {
-          "rank": 86,
-          "ticker": "JCI",
-          "name": "Johnson Controls",
-          "category": "机电_冷却_工程_水处理_边缘工业AI",
-          "score": "62.0"
-        },
-        {
-          "rank": 87,
-          "ticker": "MCHP",
-          "name": "Microchip Technology",
-          "category": "AI计算芯片_EDA_IP_custom_ASIC",
-          "score": "62.0"
-        },
-        {
-          "rank": 88,
-          "ticker": "DOV",
-          "name": "Dover Corporation",
-          "category": "机电_冷却_工程_水处理_边缘工业AI",
-          "score": "62.0"
-        },
-        {
-          "rank": 89,
-          "ticker": "MMM",
-          "name": "3M",
-          "category": "半导体材料_化学品_基板",
-          "score": "62.0"
-        },
-        {
-          "rank": 90,
-          "ticker": "BELFB",
-          "name": "Bel Fuse Inc",
-          "category": "AI网络_光互联_连接器",
-          "score": "62.0"
-        },
-        {
-          "rank": 91,
-          "ticker": "ASMVY",
-          "name": "ASMPT",
-          "category": "封测_检测_计量_光罩",
-          "score": "61.0"
-        },
-        {
-          "rank": 92,
-          "ticker": "TSLA",
-          "name": "Tesla",
-          "category": "机电_冷却_工程_水处理_边缘工业AI",
-          "score": "61.0"
-        },
-        {
-          "rank": 93,
-          "ticker": "TER",
-          "name": "Teradyne",
-          "category": "封测_检测_计量_光罩",
-          "score": "61.0"
-        },
-        {
-          "rank": 94,
-          "ticker": "MYRG",
-          "name": "MYR Group",
-          "category": "机电_冷却_工程_水处理_边缘工业AI",
-          "score": "61.0"
-        },
-        {
-          "rank": 95,
-          "ticker": "ADI",
-          "name": "Analog Devices",
-          "category": "AI计算芯片_EDA_IP_custom_ASIC",
-          "score": "61.0"
-        },
-        {
-          "rank": 96,
-          "ticker": "TEL",
-          "name": "TE Connectivity",
-          "category": "AI网络_光互联_连接器",
-          "score": "61.0"
-        },
-        {
-          "rank": 97,
-          "ticker": "QCOM",
-          "name": "Qualcomm",
-          "category": "AI计算芯片_EDA_IP_custom_ASIC",
-          "score": "61.0"
-        },
-        {
-          "rank": 98,
-          "ticker": "ADBE",
-          "name": "Adobe",
-          "category": "云算力_IDC_AI软件平台",
-          "score": "61.0"
-        },
-        {
-          "rank": 99,
-          "ticker": "AEP",
-          "name": "American Electric Power",
-          "category": "电力_发电_能源_储能",
-          "score": "60.0"
-        },
-        {
-          "rank": 100,
-          "ticker": "ETR",
-          "name": "Entergy Corporation",
-          "category": "电力_发电_能源_储能",
-          "score": "60.0"
-        },
-        {
-          "rank": 101,
-          "ticker": "DTE",
-          "name": "DTE Energy Company",
-          "category": "电力_发电_能源_储能",
-          "score": "60.0"
-        },
-        {
-          "rank": 102,
-          "ticker": "AMKR",
-          "name": "Amkor Technology",
-          "category": "封测_检测_计量_光罩",
-          "score": "60.0"
-        },
-        {
-          "rank": 103,
-          "ticker": "GOOGL",
-          "name": "Alphabet Inc",
-          "category": "云算力_IDC_AI软件平台",
-          "score": "60.0"
-        },
-        {
-          "rank": 104,
-          "ticker": "CLS",
-          "name": "Celestica Inc",
-          "category": "AI服务器_存储_EMS",
-          "score": "60.0"
-        },
-        {
-          "rank": 105,
-          "ticker": "VICR",
-          "name": "Vicor Corporation",
-          "category": "配电_电源_功率器件",
-          "score": "60.0"
-        },
-        {
-          "rank": 106,
-          "ticker": "SNPS",
-          "name": "Synopsys",
-          "category": "AI计算芯片_EDA_IP_custom_ASIC",
-          "score": "60.0"
-        },
-        {
-          "rank": 107,
-          "ticker": "FORM",
-          "name": "FormFactor",
-          "category": "封测_检测_计量_光罩",
-          "score": "59.0"
-        },
-        {
-          "rank": 108,
-          "ticker": "STM",
-          "name": "STMicroelectronics",
-          "category": "AI计算芯片_EDA_IP_custom_ASIC",
-          "score": "59.0"
-        },
-        {
-          "rank": 109,
-          "ticker": "HOCPY",
-          "name": "HOYA Corporation",
-          "category": "半导体材料_化学品_基板",
-          "score": "59.0"
-        },
-        {
-          "rank": 110,
-          "ticker": "FLEX",
-          "name": "Flex Ltd",
-          "category": "AI服务器_存储_EMS",
-          "score": "59.0"
-        },
-        {
-          "rank": 111,
-          "ticker": "MSFT",
-          "name": "微软",
-          "category": "云算力_IDC_AI软件平台",
-          "score": "59.0"
-        },
-        {
-          "rank": 112,
-          "ticker": "TSEM",
-          "name": "Tower Semiconductor",
-          "category": "晶圆制造_前道设备",
-          "score": "59.0"
-        },
-        {
-          "rank": 113,
-          "ticker": "MOD",
-          "name": "Modine Manufacturing",
-          "category": "机电_冷却_工程_水处理_边缘工业AI",
-          "score": "59.0"
-        },
-        {
-          "rank": 114,
-          "ticker": "HTHIY",
-          "name": "Hitachi Ltd",
-          "category": "电力_发电_能源_储能",
-          "score": "59.0"
-        },
-        {
-          "rank": 115,
-          "ticker": "BDC",
-          "name": "Belden",
-          "category": "AI网络_光互联_连接器",
-          "score": "58.0"
-        },
-        {
-          "rank": 116,
-          "ticker": "ROG",
-          "name": "Rogers Corporation",
-          "category": "半导体材料_化学品_基板",
-          "score": "58.0"
-        },
-        {
-          "rank": 117,
-          "ticker": "POWI",
-          "name": "Power Integrations",
-          "category": "配电_电源_功率器件",
-          "score": "58.0"
-        },
-        {
-          "rank": 118,
-          "ticker": "NVMI",
-          "name": "Nova Ltd",
-          "category": "晶圆制造_前道设备",
-          "score": "58.0"
-        },
-        {
-          "rank": 119,
-          "ticker": "MICLF",
-          "name": "Mycronic AB",
-          "category": "封测_检测_计量_光罩",
-          "score": "58.0"
-        },
-        {
-          "rank": 120,
-          "ticker": "BABA",
-          "name": "Alibaba 阿里巴巴",
-          "category": "云算力_IDC_AI软件平台",
-          "score": "57.0"
-        },
-        {
-          "rank": 121,
-          "ticker": "ST",
-          "name": "Sensata Technologies",
-          "category": "配电_电源_功率器件",
-          "score": "57.0"
-        },
-        {
-          "rank": 122,
-          "ticker": "ENS",
-          "name": "EnerSys",
-          "category": "电力_发电_能源_储能",
-          "score": "57.0"
-        },
-        {
-          "rank": 123,
-          "ticker": "TOELY",
-          "name": "Tokyo Electron",
-          "category": "晶圆制造_前道设备",
-          "score": "57.0"
-        },
-        {
-          "rank": 124,
-          "ticker": "DKILY",
-          "name": "Daikin Industries",
-          "category": "半导体材料_化学品_基板",
-          "score": "57.0"
-        },
-        {
-          "rank": 125,
-          "ticker": "DSCSY",
-          "name": "DISCO",
-          "category": "晶圆制造_前道设备",
-          "score": "57.0"
-        },
-        {
-          "rank": 126,
-          "ticker": "DLR",
-          "name": "Digital Realty",
-          "category": "云算力_IDC_AI软件平台",
-          "score": "56.0"
-        },
-        {
-          "rank": 127,
-          "ticker": "ASMIY",
-          "name": "ASM International",
-          "category": "晶圆制造_前道设备",
-          "score": "56.0"
-        },
-        {
-          "rank": 128,
-          "ticker": "JBL",
-          "name": "Jabil Inc",
-          "category": "AI服务器_存储_EMS",
-          "score": "56.0"
-        },
-        {
-          "rank": 129,
-          "ticker": "P",
-          "name": "Everpure",
-          "category": "AI服务器_存储_EMS",
-          "score": "56.0"
-        },
-        {
-          "rank": 130,
-          "ticker": "SOMMY",
-          "name": "住友化学 Sumitomo Chemical",
-          "category": "半导体材料_化学品_基板",
-          "score": "56.0"
-        },
-        {
-          "rank": 131,
-          "ticker": "LFUS",
-          "name": "Littelfuse",
-          "category": "配电_电源_功率器件",
-          "score": "55.0"
-        },
-        {
-          "rank": 132,
-          "ticker": "MRVL",
-          "name": "Marvell Technology",
-          "category": "AI计算芯片_EDA_IP_custom_ASIC",
-          "score": "55.0"
-        },
-        {
-          "rank": 133,
-          "ticker": "DHR",
-          "name": "Danaher Corporation",
-          "category": "半导体材料_化学品_基板",
-          "score": "55.0"
-        },
-        {
-          "rank": 134,
-          "ticker": "SMTOY",
-          "name": "住友电工 Sumitomo Electric Industries",
-          "category": "半导体材料_化学品_基板",
-          "score": "55.0"
-        },
-        {
-          "rank": 135,
-          "ticker": "SKHY",
-          "name": "SK hynix Inc",
-          "category": "AI服务器_存储_EMS",
-          "score": "55.0"
-        },
-        {
-          "rank": 136,
-          "ticker": "ASGLY",
-          "name": "AGC Inc",
-          "category": "半导体材料_化学品_基板",
-          "score": "55.0"
-        },
-        {
-          "rank": 137,
-          "ticker": "AOSL",
-          "name": "Alpha and Omega Semiconductor",
-          "category": "配电_电源_功率器件",
-          "score": "54.0"
-        },
-        {
-          "rank": 138,
-          "ticker": "IFNNY",
-          "name": "Infineon Technologies AG 英飞凌科技",
-          "category": "配电_电源_功率器件",
-          "score": "54.0"
-        },
-        {
-          "rank": 139,
-          "ticker": "LITE",
-          "name": "Lumentum",
-          "category": "AI网络_光互联_连接器",
-          "score": "54.0"
-        },
-        {
-          "rank": 140,
-          "ticker": "NOK",
-          "name": "诺基亚",
-          "category": "AI网络_光互联_连接器",
-          "score": "54.0"
-        },
-        {
-          "rank": 141,
-          "ticker": "AEIS",
-          "name": "Advanced Energy Industries",
-          "category": "晶圆制造_前道设备",
-          "score": "54.0"
-        },
-        {
-          "rank": 142,
-          "ticker": "BE",
-          "name": "Bloom Energy",
-          "category": "电力_发电_能源_储能",
-          "score": "53.0"
-        },
-        {
-          "rank": 143,
-          "ticker": "GNRC",
-          "name": "Generac Holdings",
-          "category": "电力_发电_能源_储能",
-          "score": "53.0"
-        },
-        {
-          "rank": 144,
-          "ticker": "ATKR",
-          "name": "Atkore",
-          "category": "配电_电源_功率器件",
-          "score": "53.0"
-        },
-        {
-          "rank": 145,
-          "ticker": "AAON",
-          "name": "AAON",
-          "category": "机电_冷却_工程_水处理_边缘工业AI",
-          "score": "53.0"
-        },
-        {
-          "rank": 146,
-          "ticker": "CBRS",
-          "name": "Cerebras Systems Inc",
-          "category": "AI计算芯片_EDA_IP_custom_ASIC",
-          "score": "53.0"
-        },
-        {
-          "rank": 147,
-          "ticker": "DD",
-          "name": "DuPont de Nemours",
-          "category": "半导体材料_化学品_基板",
-          "score": "53.0"
-        },
-        {
-          "rank": 148,
-          "ticker": "MRAAY",
-          "name": "Murata Manufacturing",
-          "category": "配电_电源_功率器件",
-          "score": "53.0"
-        },
-        {
-          "rank": 149,
-          "ticker": "SMCI",
-          "name": "Super Micro Computer Inc",
-          "category": "AI服务器_存储_EMS",
-          "score": "52.0"
-        },
-        {
-          "rank": 150,
-          "ticker": "SITM",
-          "name": "SiTime Corporation",
-          "category": "AI网络_光互联_连接器",
-          "score": "52.0"
-        },
-        {
-          "rank": 151,
-          "ticker": "INTC",
-          "name": "Intel Corporation 英特尔",
-          "category": "AI计算芯片_EDA_IP_custom_ASIC",
-          "score": "51.0"
-        },
-        {
-          "rank": 152,
-          "ticker": "DIOD",
-          "name": "Diodes Incorporated",
-          "category": "配电_电源_功率器件",
-          "score": "51.0"
-        },
-        {
-          "rank": 153,
-          "ticker": "VIAV",
-          "name": "VIAVI Solutions",
-          "category": "AI网络_光互联_连接器",
-          "score": "51.0"
-        },
-        {
-          "rank": 154,
-          "ticker": "MPWR",
-          "name": "Monolithic Power Systems",
-          "category": "配电_电源_功率器件",
-          "score": "51.0"
-        },
-        {
-          "rank": 155,
-          "ticker": "IESC",
-          "name": "IES Holdings",
-          "category": "机电_冷却_工程_水处理_边缘工业AI",
-          "score": "50.0"
-        },
-        {
-          "rank": 156,
-          "ticker": "TTDKY",
-          "name": "TDK Corporation",
-          "category": "配电_电源_功率器件",
-          "score": "50.0"
-        },
-        {
-          "rank": 157,
-          "ticker": "GFS",
-          "name": "GlobalFoundries",
-          "category": "晶圆制造_前道设备",
-          "score": "49.0"
-        },
-        {
-          "rank": 158,
-          "ticker": "SMTC",
-          "name": "Semtech Corporation",
-          "category": "AI网络_光互联_连接器",
-          "score": "49.0"
-        },
-        {
-          "rank": 159,
-          "ticker": "SANM",
-          "name": "Sanmina Corporation",
-          "category": "AI服务器_存储_EMS",
-          "score": "48.0"
-        },
-        {
-          "rank": 160,
-          "ticker": "PSIX",
-          "name": "Power Solutions International",
-          "category": "电力_发电_能源_储能",
-          "score": "48.0"
-        },
-        {
-          "rank": 161,
-          "ticker": "BESIY",
-          "name": "BE Semiconductor",
-          "category": "封测_检测_计量_光罩",
-          "score": "48.0"
-        },
-        {
-          "rank": 162,
-          "ticker": "ACLS",
-          "name": "Axcelis Technologies",
-          "category": "晶圆制造_前道设备",
-          "score": "47.0"
-        },
-        {
-          "rank": 163,
-          "ticker": "POWL",
-          "name": "Powell Industries",
-          "category": "配电_电源_功率器件",
-          "score": "47.0"
-        },
-        {
-          "rank": 164,
-          "ticker": "MTSI",
-          "name": "MACOM Technology Solutions",
-          "category": "AI网络_光互联_连接器",
-          "score": "46.0"
-        },
-        {
-          "rank": 165,
-          "ticker": "VECO",
-          "name": "Veeco Instruments",
-          "category": "晶圆制造_前道设备",
-          "score": "46.0"
-        },
-        {
-          "rank": 166,
-          "ticker": "CAMT",
-          "name": "Camtek",
-          "category": "封测_检测_计量_光罩",
-          "score": "46.0"
-        },
-        {
-          "rank": 167,
-          "ticker": "ON",
-          "name": "onsemi",
-          "category": "AI计算芯片_EDA_IP_custom_ASIC",
-          "score": "45.0"
-        },
-        {
-          "rank": 168,
-          "ticker": "FCEL",
-          "name": "FuelCell Energy",
-          "category": "电力_发电_能源_储能",
-          "score": "44.0"
-        },
-        {
-          "rank": 169,
-          "ticker": "COHR",
-          "name": "Coherent",
-          "category": "AI网络_光互联_连接器",
-          "score": "44.0"
-        },
-        {
-          "rank": 170,
-          "ticker": "RMBS",
-          "name": "Rambus",
-          "category": "AI服务器_存储_EMS",
-          "score": "43.0"
-        },
-        {
-          "rank": 171,
-          "ticker": "CC",
-          "name": "The Chemours Company",
-          "category": "半导体材料_化学品_基板",
-          "score": "42.0"
-        },
-        {
-          "rank": 172,
-          "ticker": "FN",
-          "name": "Fabrinet",
-          "category": "AI服务器_存储_EMS",
-          "score": "42.0"
-        },
-        {
-          "rank": 173,
-          "ticker": "CRWV",
-          "name": "CoreWeave",
-          "category": "云算力_IDC_AI软件平台",
-          "score": "38.0"
-        },
-        {
-          "rank": 174,
-          "ticker": "ENPH",
-          "name": "Enphase Energy",
-          "category": "电力_发电_能源_储能",
-          "score": "38.0"
-        },
-        {
-          "rank": 175,
-          "ticker": "VSH",
-          "name": "Vishay Intertechnology",
-          "category": "配电_电源_功率器件",
-          "score": "37.0"
-        },
-        {
-          "rank": 176,
-          "ticker": "AEHR",
-          "name": "Aehr Test Systems",
-          "category": "封测_检测_计量_光罩",
-          "score": "37.0"
-        },
-        {
-          "rank": 177,
-          "ticker": "SMR",
-          "name": "NuScale Power",
-          "category": "电力_发电_能源_储能",
-          "score": "33.0"
-        },
-        {
-          "rank": 178,
-          "ticker": "MRAM",
-          "name": "Everspin Technologies",
-          "category": "AI服务器_存储_EMS",
-          "score": "33.0"
-        },
-        {
-          "rank": 179,
-          "ticker": "RKLB",
-          "name": "Rocket Lab",
-          "category": "机电_冷却_工程_水处理_边缘工业AI",
-          "score": "32.0"
-        },
-        {
-          "rank": 180,
-          "ticker": "AAOI",
-          "name": "Applied Optoelectronics",
-          "category": "AI网络_光互联_连接器",
-          "score": "32.0"
-        },
-        {
-          "rank": 181,
-          "ticker": "IREN",
-          "name": "IREN Limited",
-          "category": "云算力_IDC_AI软件平台",
-          "score": "30.0"
-        },
-        {
-          "rank": 182,
-          "ticker": "AMPX",
-          "name": "Amprius Technologies",
-          "category": "电力_发电_能源_储能",
-          "score": "30.0"
-        },
-        {
-          "rank": 183,
-          "ticker": "AXTI",
-          "name": "AXT Inc",
-          "category": "半导体材料_化学品_基板",
-          "score": "30.0"
-        },
-        {
-          "rank": 184,
-          "ticker": "FLNC",
-          "name": "Fluence Energy",
-          "category": "电力_发电_能源_储能",
-          "score": "29.0"
-        },
-        {
-          "rank": 185,
-          "ticker": "ORCL",
-          "name": "Oracle Corporation",
-          "category": "云算力_IDC_AI软件平台",
-          "score": "29.0"
-        },
-        {
-          "rank": 186,
-          "ticker": "APLD",
-          "name": "Applied Digital",
-          "category": "云算力_IDC_AI软件平台",
-          "score": "28.0"
-        },
-        {
-          "rank": 187,
-          "ticker": "TE",
-          "name": "T1 Energy Inc",
-          "category": "电力_发电_能源_储能",
-          "score": "28.0"
-        },
-        {
-          "rank": 188,
-          "ticker": "OKLO",
-          "name": "Oklo Inc",
-          "category": "电力_发电_能源_储能",
-          "score": "25.0"
-        },
-        {
-          "rank": 189,
-          "ticker": "WOLF",
-          "name": "Wolfspeed",
-          "category": "配电_电源_功率器件",
-          "score": "21.0"
-        },
-        {
-          "rank": 190,
-          "ticker": "POET",
-          "name": "POET Technologies",
-          "category": "AI网络_光互联_连接器",
-          "score": "18.0"
-        },
-        {
-          "rank": 191,
-          "ticker": "LWLG",
-          "name": "Lightwave Logic",
-          "category": "AI网络_光互联_连接器",
-          "score": "17.0"
-        },
-        {
-          "rank": 192,
-          "ticker": "NVTS",
-          "name": "Navitas Semiconductor",
-          "category": "配电_电源_功率器件",
-          "score": "15.0"
-        }
-      ]
-    },
     "06F": {
       "key": "06F",
       "methodId": "06",
@@ -8390,13 +4221,13 @@
       "label": "双源三视图 · 基本面性价比",
       "methodName": "双源三视图",
       "listName": "基本面性价比",
-      "siteGroup": "在用观察",
-      "evidenceLabel": "前身反向、回看正向",
-      "publishReason": "当前三视图历史回看转为正向，但前身版本生成后样本明显反向；保留用于观察冲突，不视为已验证。",
-      "strategy": "暂时有效：辅助",
-      "lifecycle": "暂时有效：辅助",
-      "status": "暂时有效：辅助",
-      "useCase": "一次file-run生成基本面、激进成长、财报事件三个视图；只算一个方法家族。",
+      "siteGroup": "历史候选",
+      "evidenceLabel": "历史三视图；新入口未运行",
+      "publishReason": "旧06F/G/E仅作历史展示；未来06只研究事件，F/G职责并入U01/U07，旧三视图不继续作为独立收益共识。",
+      "strategy": "常规职责；此行为历史结果",
+      "lifecycle": "常规职责；此行为历史结果",
+      "status": "旧结果留存；新入口待验证",
+      "useCase": "一份研究三种视图，同一家族只计一次。",
       "caution": "生成前历史回看（非样本外）；当前运行尚不能据此证明生成后有效性。",
       "runId": "R03_2026-07-12_独立自洽版",
       "date": "2026-07-13",
@@ -8404,7 +4235,7 @@
       "planPath": "分析报告/公司排序/02_暂时有效_辅助/06_双源三视图_原01/迭代版本/R03_2026-07-12_独立自洽版/01_研究方案.md",
       "folderPath": "分析报告/公司排序/02_暂时有效_辅助/06_双源三视图_原01",
       "evaluationPath": "分析报告/公司排序/90_有效性评估/2026-07-13_26方案3月6月生成前历史回看/00_整体分析.md",
-      "iterationCount": 3,
+      "iterationCount": 4,
       "metrics": {
         "rankedCount": 192,
         "validCount3m": 190,
@@ -9779,13 +5610,13 @@
       "label": "双源三视图 · 激进成长",
       "methodName": "双源三视图",
       "listName": "激进成长",
-      "siteGroup": "在用观察",
-      "evidenceLabel": "前身反向、回看正向",
-      "publishReason": "当前三视图历史回看转为正向，但前身版本生成后样本明显反向；保留用于观察冲突，不视为已验证。",
-      "strategy": "暂时有效：辅助",
-      "lifecycle": "暂时有效：辅助",
-      "status": "暂时有效：辅助",
-      "useCase": "一次file-run生成基本面、激进成长、财报事件三个视图；只算一个方法家族。",
+      "siteGroup": "历史候选",
+      "evidenceLabel": "历史三视图；新入口未运行",
+      "publishReason": "旧06F/G/E仅作历史展示；未来06只研究事件，F/G职责并入U01/U07，旧三视图不继续作为独立收益共识。",
+      "strategy": "常规职责；此行为历史结果",
+      "lifecycle": "常规职责；此行为历史结果",
+      "status": "旧结果留存；新入口待验证",
+      "useCase": "一份研究三种视图，同一家族只计一次。",
       "caution": "生成前历史回看（非样本外）；当前运行尚不能据此证明生成后有效性。",
       "runId": "R03_2026-07-12_独立自洽版",
       "date": "2026-07-13",
@@ -9793,7 +5624,7 @@
       "planPath": "分析报告/公司排序/02_暂时有效_辅助/06_双源三视图_原01/迭代版本/R03_2026-07-12_独立自洽版/01_研究方案.md",
       "folderPath": "分析报告/公司排序/02_暂时有效_辅助/06_双源三视图_原01",
       "evaluationPath": "分析报告/公司排序/90_有效性评估/2026-07-13_26方案3月6月生成前历史回看/00_整体分析.md",
-      "iterationCount": 3,
+      "iterationCount": 4,
       "metrics": {
         "rankedCount": 192,
         "validCount3m": 190,
@@ -11168,13 +6999,13 @@
       "label": "双源三视图 · 财报事件与右尾弹性",
       "methodName": "双源三视图",
       "listName": "财报事件与右尾弹性",
-      "siteGroup": "在用观察",
-      "evidenceLabel": "前身反向、回看正向",
-      "publishReason": "当前三视图历史回看转为正向，但前身版本生成后样本明显反向；保留用于观察冲突，不视为已验证。",
-      "strategy": "暂时有效：辅助",
-      "lifecycle": "暂时有效：辅助",
-      "status": "暂时有效：辅助",
-      "useCase": "一次file-run生成基本面、激进成长、财报事件三个视图；只算一个方法家族。",
+      "siteGroup": "历史候选",
+      "evidenceLabel": "历史三视图；新入口未运行",
+      "publishReason": "旧06F/G/E仅作历史展示；未来06只研究事件，F/G职责并入U01/U07，旧三视图不继续作为独立收益共识。",
+      "strategy": "常规职责；此行为历史结果",
+      "lifecycle": "常规职责；此行为历史结果",
+      "status": "旧结果留存；新入口待验证",
+      "useCase": "一份研究三种视图，同一家族只计一次。",
       "caution": "生成前历史回看（非样本外）；当前运行尚不能据此证明生成后有效性。",
       "runId": "R03_2026-07-12_独立自洽版",
       "date": "2026-07-13",
@@ -11182,7 +7013,7 @@
       "planPath": "分析报告/公司排序/02_暂时有效_辅助/06_双源三视图_原01/迭代版本/R03_2026-07-12_独立自洽版/01_研究方案.md",
       "folderPath": "分析报告/公司排序/02_暂时有效_辅助/06_双源三视图_原01",
       "evaluationPath": "分析报告/公司排序/90_有效性评估/2026-07-13_26方案3月6月生成前历史回看/00_整体分析.md",
-      "iterationCount": 3,
+      "iterationCount": 4,
       "metrics": {
         "rankedCount": 192,
         "validCount3m": 190,
@@ -12560,10 +8391,10 @@
       "siteGroup": "在用观察",
       "evidenceLabel": "有限且混合",
       "publishReason": "32个交易日前身版本温和正向，14个交易日版本接近无区分；当前6个月历史回看为正。",
-      "strategy": "暂时有效：辅助",
-      "lifecycle": "暂时有效：辅助",
-      "status": "暂时有效：辅助",
-      "useCase": "独特的长期收入台阶候选生成器，不作为防守核心。",
+      "strategy": "常规职责；此行为历史结果",
+      "lifecycle": "常规职责；此行为历史结果",
+      "status": "旧结果留存；新入口待验证",
+      "useCase": "共用收入桥，保留收入跃迁与现金每股价值两种判断。",
       "caution": "生成前历史回看（非样本外）；当前运行尚不能据此证明生成后有效性。",
       "runId": "R03_2026-07-12_独立自洽版",
       "date": "2026-07-13",
@@ -12571,7 +8402,7 @@
       "planPath": "分析报告/公司排序/02_暂时有效_辅助/07_未来收入台阶_原07/迭代版本/R03_2026-07-12_独立自洽版/01_研究方案.md",
       "folderPath": "分析报告/公司排序/02_暂时有效_辅助/07_未来收入台阶_原07",
       "evaluationPath": "分析报告/公司排序/90_有效性评估/2026-07-13_26方案3月6月生成前历史回看/00_整体分析.md",
-      "iterationCount": 3,
+      "iterationCount": 4,
       "metrics": {
         "rankedCount": 192,
         "validCount3m": 190,
@@ -13949,10 +9780,10 @@
       "siteGroup": "历史候选",
       "evidenceLabel": "仅历史回看正向",
       "publishReason": "当前3个月和6个月生成前历史回看均为正，但行业中性证据较弱且没有生成后样本。",
-      "strategy": "候选：待生成后验证",
-      "lifecycle": "候选：待生成后验证",
-      "status": "已运行：待生成后验证",
-      "useCase": "长期超高增长与多倍价值候选",
+      "strategy": "常规职责；此行为历史结果",
+      "lifecycle": "常规职责；此行为历史结果",
+      "status": "旧结果留存；新入口待验证",
+      "useCase": "发现早期非线性成长并解释3/6个月参与理由。",
       "caution": "生成前历史回看（非样本外）；当前运行尚不能据此证明生成后有效性。",
       "runId": "R02_2026-07-12_独立自洽版",
       "date": "2026-07-13",
@@ -13960,7 +9791,7 @@
       "planPath": "分析报告/公司排序/06_候选新方案_待验证/N06_超高增长与多倍价值/迭代版本/R02_2026-07-12_独立自洽版/01_研究方案.md",
       "folderPath": "分析报告/公司排序/06_候选新方案_待验证/N06_超高增长与多倍价值",
       "evaluationPath": "分析报告/公司排序/90_有效性评估/2026-07-13_26方案3月6月生成前历史回看/00_整体分析.md",
-      "iterationCount": 2,
+      "iterationCount": 3,
       "metrics": {
         "rankedCount": 192,
         "validCount3m": 190,
@@ -16730,10 +12561,10 @@
         "label": "风险调整赔率",
         "group": "实证优先",
         "evidenceLabel": "前身短窗正向",
-        "publishReason": "前身版本14个交易日生成后样本外Rank IC为+0.538且Top10相对全体领先13.4个百分点；当前版本仍待生成后验证。",
-        "lifecycle": "暂时有效：核心",
-        "status": "暂时有效：核心试用",
-        "role": "当前核心排序之一，偏风险调整赔率和少犯错。",
+        "publishReason": "前身版本14个交易日生成后样本外Rank IC为+0.538且Top10相对全体领先13.4个百分点；当前版本仍待生成后验证。 原默认05停止独立发布后，改用01旧榜作为展示默认；不代表新方案已有结果。",
+        "lifecycle": "常规职责；此行为历史结果",
+        "status": "旧结果留存；新入口待验证",
+        "role": "共享经营与价值模型，保留赔率和基准承载两种判断，不平均投票。",
         "currentRunId": "R10_2026-07-12_独立自洽版",
         "currentRunDate": "2026-07-13",
         "listIds": [
@@ -16806,9 +12637,9 @@
         "group": "实证优先",
         "evidenceLabel": "前身短窗正向",
         "publishReason": "两个前身版本14个交易日生成后样本外Rank IC均为正且Top10均跑赢全体；当前版本仍待生成后验证。",
-        "lifecycle": "暂时有效：核心",
-        "status": "暂时有效：核心试用",
-        "role": "当前核心排序之一，偏兑现条件、证据新鲜度和负面闭环。原 17 作为同提示词重复运行。",
+        "lifecycle": "常规职责；此行为历史结果",
+        "status": "旧结果留存；新入口待验证",
+        "role": "独立判断市场预期与具体兑现条件。",
         "currentRunId": "R10_2026-07-12_独立自洽版",
         "currentRunDate": "2026-07-13",
         "listIds": [
@@ -16897,281 +12728,14 @@
         }
       },
       {
-        "methodId": "03",
-        "label": "反证惩罚压力防守",
-        "group": "实证优先",
-        "evidenceLabel": "前身短窗正向",
-        "publishReason": "前身版本14个交易日生成后样本外Rank IC为+0.485且Top10相对全体领先8.5个百分点，当前历史回看也为正。",
-        "lifecycle": "暂时有效：核心",
-        "status": "暂时有效：核心试用",
-        "role": "当前核心排序之一，偏反证、尾部风险和压力期防守。",
-        "currentRunId": "R03_2026-07-12_独立自洽版",
-        "currentRunDate": "2026-07-13",
-        "listIds": [
-          "03"
-        ],
-        "consensusEligible": true,
-        "postGeneration": {
-          "relationToCurrentRun": "证据来自同方法家族前身版本；当前运行尚无严格生成后样本",
-          "exactCurrentRunCheckCount": 0,
-          "familyPredecessorCheckCount": 1,
-          "checkCount": 1,
-          "positiveCheckCount": 1,
-          "medianRankIc": 0.4851487185818492,
-          "medianTopUniverseExcessPct": 8.549416929938367,
-          "medianTopBottomSpreadPct": 26.609625582702748,
-          "minHoldingDays": 14,
-          "maxHoldingDays": 14,
-          "rows": [
-            {
-              "sourceSchemeId": "16",
-              "runRole": "主方案",
-              "runId": "R01_2026-06-21_资料更新重跑",
-              "rankingGeneratedDate": "2026-06-21",
-              "evaluationStart": "2026-06-22",
-              "evaluationEnd": "2026-07-10",
-              "holdingDays": 14,
-              "rankedCount": 180,
-              "validCount": 180,
-              "topBucketN": 10,
-              "bottomBucketN": 10,
-              "topBucketReturnPct": -2.1273806513696645,
-              "universeReturnPct": -10.676797581308032,
-              "topUniverseExcessPct": 8.549416929938367,
-              "topBottomSpreadPct": 26.609625582702748,
-              "rankIc": 0.4851487185818492,
-              "categoryNeutralRankIc": null,
-              "maxDrawdownPct": -4.4999637502803775,
-              "sourcePath": "16_反证惩罚_压力防守\\迭代版本\\R01_2026-06-21_资料更新重跑\\02_排序结果.md"
-            }
-          ]
-        },
-        "historicalLookback": {
-          "evidenceType": "生成前历史回看（非样本外）",
-          "priceAsOf": "2026-07-10",
-          "exactCurrentRun": true,
-          "metrics": {
-            "rankedCount": 192,
-            "validCount3m": 190,
-            "validCount6m": 190,
-            "universeMean3m": 0.2956946620325157,
-            "universeMean6m": 0.5945523256951776,
-            "top20Mean3m": 0.7110536729037891,
-            "top20Mean6m": 1.1429047370488397,
-            "top20Bottom20Spread3m": 0.4733036520193056,
-            "top20Bottom20Spread6m": 0.6006497536330253,
-            "rankIc3m": 0.15591771750493164,
-            "rankIc6m": 0.10997038844930827,
-            "categoryNeutralRankIc3m": 0.04091850393097479,
-            "categoryNeutralRankIc6m": 0.01347296318890516,
-            "top20CategoryExcessMean3m": 0.26530940007996884,
-            "top20CategoryExcessMean6m": 0.508424433033458,
-            "top20PositiveRate3m": 0.95,
-            "top20PositiveRate6m": 0.9
-          }
-        }
-      },
-      {
-        "methodId": "04",
-        "label": "极简基准兑现",
-        "group": "实证优先",
-        "evidenceLabel": "前身短窗正向",
-        "publishReason": "两个前身版本14个交易日生成后样本外Rank IC均超过+0.42；当前3个月和6个月历史回看反向，必须同时展示冲突。",
-        "lifecycle": "暂时有效：辅助",
-        "status": "暂时有效：辅助",
-        "role": "辅助排序和 sanity check。原 20 是同提示词重复运行，不独立投票。",
-        "currentRunId": "R23_2026-07-12_独立自洽版",
-        "currentRunDate": "2026-07-13",
-        "listIds": [
-          "04"
-        ],
-        "consensusEligible": true,
-        "postGeneration": {
-          "relationToCurrentRun": "证据来自同方法家族前身版本；当前运行尚无严格生成后样本",
-          "exactCurrentRunCheckCount": 0,
-          "familyPredecessorCheckCount": 2,
-          "checkCount": 2,
-          "positiveCheckCount": 2,
-          "medianRankIc": 0.4488327829048222,
-          "medianTopUniverseExcessPct": 8.016431049475962,
-          "medianTopBottomSpreadPct": 22.622584769907167,
-          "minHoldingDays": 14,
-          "maxHoldingDays": 14,
-          "rows": [
-            {
-              "sourceSchemeId": "06",
-              "runRole": "主方案",
-              "runId": "R22_2026-06-21_资料更新重跑",
-              "rankingGeneratedDate": "2026-06-21",
-              "evaluationStart": "2026-06-22",
-              "evaluationEnd": "2026-07-10",
-              "holdingDays": 14,
-              "rankedCount": 180,
-              "validCount": 180,
-              "topBucketN": 10,
-              "bottomBucketN": 10,
-              "topBucketReturnPct": -5.1337172064270575,
-              "universeReturnPct": -10.676797581308032,
-              "topUniverseExcessPct": 5.543080374880974,
-              "topBottomSpreadPct": 20.4731825768467,
-              "rankIc": 0.47312982910995194,
-              "categoryNeutralRankIc": null,
-              "maxDrawdownPct": -11.280252901570176,
-              "sourcePath": "06_投资排序_极简迭代22轮\\迭代版本\\R22_2026-06-21_资料更新重跑\\02_排序结果.md"
-            },
-            {
-              "sourceSchemeId": "20",
-              "runRole": "合并视图或重复运行",
-              "runId": "R01_2026-06-21_资料更新重跑",
-              "rankingGeneratedDate": "2026-06-21",
-              "evaluationStart": "2026-06-22",
-              "evaluationEnd": "2026-07-10",
-              "holdingDays": 14,
-              "rankedCount": 180,
-              "validCount": 180,
-              "topBucketN": 10,
-              "bottomBucketN": 10,
-              "topBucketReturnPct": -0.18701585723708028,
-              "universeReturnPct": -10.676797581308032,
-              "topUniverseExcessPct": 10.489781724070951,
-              "topBottomSpreadPct": 24.771986962967635,
-              "rankIc": 0.4245357366996924,
-              "categoryNeutralRankIc": null,
-              "maxDrawdownPct": -6.284815519732656,
-              "sourcePath": "20_极简右尾_快速筛选\\迭代版本\\R01_2026-06-21_资料更新重跑\\02_排序结果.md"
-            }
-          ]
-        },
-        "historicalLookback": {
-          "evidenceType": "生成前历史回看（非样本外）",
-          "priceAsOf": "2026-07-10",
-          "exactCurrentRun": true,
-          "metrics": {
-            "rankedCount": 192,
-            "validCount3m": 190,
-            "validCount6m": 190,
-            "universeMean3m": 0.2956946620325157,
-            "universeMean6m": 0.5945523256951776,
-            "top20Mean3m": 0.16262422696877404,
-            "top20Mean6m": 0.2535007983296049,
-            "top20Bottom20Spread3m": -0.2773559764761504,
-            "top20Bottom20Spread6m": -0.6765669454113198,
-            "rankIc3m": -0.1878072143710061,
-            "rankIc6m": -0.3342781036360535,
-            "categoryNeutralRankIc3m": -0.21972619749065156,
-            "categoryNeutralRankIc6m": -0.329130368505585,
-            "top20CategoryExcessMean3m": -0.07187112111476893,
-            "top20CategoryExcessMean6m": -0.1841188698082749,
-            "top20PositiveRate3m": 0.75,
-            "top20PositiveRate6m": 0.7
-          }
-        }
-      },
-      {
-        "methodId": "05",
-        "label": "反证惩罚优先",
-        "group": "实证优先",
-        "evidenceLabel": "前身与回看均正向",
-        "publishReason": "两个前身版本14个交易日生成后样本外均为正，当前3个月和6个月历史回看也为正；作为站点默认榜单。",
-        "lifecycle": "暂时有效：辅助",
-        "status": "暂时有效：辅助",
-        "role": "压力与尾部风险识别的辅助排序。原 15 是同提示词重复运行，不独立投票。",
-        "currentRunId": "R10_2026-07-12_独立自洽版",
-        "currentRunDate": "2026-07-13",
-        "listIds": [
-          "05"
-        ],
-        "consensusEligible": true,
-        "postGeneration": {
-          "relationToCurrentRun": "证据来自同方法家族前身版本；当前运行尚无严格生成后样本",
-          "exactCurrentRunCheckCount": 0,
-          "familyPredecessorCheckCount": 2,
-          "checkCount": 2,
-          "positiveCheckCount": 2,
-          "medianRankIc": 0.44630081175344916,
-          "medianTopUniverseExcessPct": 7.799528514230531,
-          "medianTopBottomSpreadPct": 24.562463804280334,
-          "minHoldingDays": 14,
-          "maxHoldingDays": 14,
-          "rows": [
-            {
-              "sourceSchemeId": "09",
-              "runRole": "主方案",
-              "runId": "R08_2026-06-21_资料更新重跑",
-              "rankingGeneratedDate": "2026-06-21",
-              "evaluationStart": "2026-06-22",
-              "evaluationEnd": "2026-07-10",
-              "holdingDays": 14,
-              "rankedCount": 180,
-              "validCount": 180,
-              "topBucketN": 10,
-              "bottomBucketN": 10,
-              "topBucketReturnPct": -7.784760880296284,
-              "universeReturnPct": -10.676797581308032,
-              "topUniverseExcessPct": 2.8920367010117474,
-              "topBottomSpreadPct": 20.651686645159266,
-              "rankIc": 0.3766700618331841,
-              "categoryNeutralRankIc": null,
-              "maxDrawdownPct": -9.417246782885357,
-              "sourcePath": "09_历史分析_十二句话_S04_反证惩罚优先\\迭代版本\\R08_2026-06-21_资料更新重跑\\02_排序结果.md"
-            },
-            {
-              "sourceSchemeId": "15",
-              "runRole": "合并视图或重复运行",
-              "runId": "R01_2026-06-21_资料更新重跑",
-              "rankingGeneratedDate": "2026-06-21",
-              "evaluationStart": "2026-06-22",
-              "evaluationEnd": "2026-07-10",
-              "holdingDays": 14,
-              "rankedCount": 180,
-              "validCount": 180,
-              "topBucketN": 10,
-              "bottomBucketN": 10,
-              "topBucketReturnPct": 2.0302227461412814,
-              "universeReturnPct": -10.676797581308032,
-              "topUniverseExcessPct": 12.707020327449314,
-              "topBottomSpreadPct": 28.4732409634014,
-              "rankIc": 0.5159315616737142,
-              "categoryNeutralRankIc": null,
-              "maxDrawdownPct": -2.3819293046460466,
-              "sourcePath": "15_反证惩罚_短窗确认\\迭代版本\\R01_2026-06-21_资料更新重跑\\02_排序结果.md"
-            }
-          ]
-        },
-        "historicalLookback": {
-          "evidenceType": "生成前历史回看（非样本外）",
-          "priceAsOf": "2026-07-10",
-          "exactCurrentRun": true,
-          "metrics": {
-            "rankedCount": 192,
-            "validCount3m": 190,
-            "validCount6m": 190,
-            "universeMean3m": 0.2956946620325157,
-            "universeMean6m": 0.5945523256951777,
-            "top20Mean3m": 0.9486356620192996,
-            "top20Mean6m": 1.5474850742523223,
-            "top20Bottom20Spread3m": 0.7850252962411218,
-            "top20Bottom20Spread6m": 1.114369362834347,
-            "rankIc3m": 0.24066711280819852,
-            "rankIc6m": 0.19086022210849987,
-            "categoryNeutralRankIc3m": 0.22981648268966792,
-            "categoryNeutralRankIc6m": 0.17141847586060519,
-            "top20CategoryExcessMean3m": 0.6061222715427559,
-            "top20CategoryExcessMean6m": 0.9177328646446037,
-            "top20PositiveRate3m": 1,
-            "top20PositiveRate6m": 0.95
-          }
-        }
-      },
-      {
         "methodId": "06",
         "label": "双源三视图",
-        "group": "在用观察",
-        "evidenceLabel": "前身反向、回看正向",
-        "publishReason": "当前三视图历史回看转为正向，但前身版本生成后样本明显反向；保留用于观察冲突，不视为已验证。",
-        "lifecycle": "暂时有效：辅助",
-        "status": "暂时有效：辅助",
-        "role": "一次file-run生成基本面、激进成长、财报事件三个视图；只算一个方法家族。",
+        "group": "历史候选",
+        "evidenceLabel": "历史三视图；新入口未运行",
+        "publishReason": "旧06F/G/E仅作历史展示；未来06只研究事件，F/G职责并入U01/U07，旧三视图不继续作为独立收益共识。",
+        "lifecycle": "常规职责；此行为历史结果",
+        "status": "旧结果留存；新入口待验证",
+        "role": "一份研究三种视图，同一家族只计一次。",
         "currentRunId": "R03_2026-07-12_独立自洽版",
         "currentRunDate": "2026-07-13",
         "listIds": [
@@ -17179,7 +12743,7 @@
           "06G",
           "06E"
         ],
-        "consensusEligible": true,
+        "consensusEligible": false,
         "postGeneration": {
           "relationToCurrentRun": "证据来自同方法家族前身版本；当前运行尚无严格生成后样本",
           "exactCurrentRunCheckCount": 0,
@@ -17267,9 +12831,9 @@
         "group": "在用观察",
         "evidenceLabel": "有限且混合",
         "publishReason": "32个交易日前身版本温和正向，14个交易日版本接近无区分；当前6个月历史回看为正。",
-        "lifecycle": "暂时有效：辅助",
-        "status": "暂时有效：辅助",
-        "role": "独特的长期收入台阶候选生成器，不作为防守核心。",
+        "lifecycle": "常规职责；此行为历史结果",
+        "status": "旧结果留存；新入口待验证",
+        "role": "共用收入桥，保留收入跃迁与现金每股价值两种判断。",
         "currentRunId": "R03_2026-07-12_独立自洽版",
         "currentRunDate": "2026-07-13",
         "listIds": [
@@ -17416,9 +12980,9 @@
         "group": "历史候选",
         "evidenceLabel": "仅历史回看正向",
         "publishReason": "当前3个月和6个月生成前历史回看均为正，但行业中性证据较弱且没有生成后样本。",
-        "lifecycle": "候选：待生成后验证",
-        "status": "已运行：待生成后验证",
-        "role": "长期超高增长与多倍价值候选",
+        "lifecycle": "常规职责；此行为历史结果",
+        "status": "旧结果留存；新入口待验证",
+        "role": "发现早期非线性成长并解释3/6个月参与理由。",
         "currentRunId": "R02_2026-07-12_独立自洽版",
         "currentRunDate": "2026-07-13",
         "listIds": [
@@ -17526,15 +13090,15 @@
     "priceAsOf": "2026-07-10",
     "reportPath": "分析报告/公司排序/90_有效性评估/2026-07-13_26方案3月6月生成前历史回看/00_整体分析.md",
     "coverage": {
-      "methodCount": 10,
-      "listCount": 12,
+      "methodCount": 7,
+      "listCount": 9,
       "registeredMethodCount": 26,
       "registeredListCount": 28,
       "rankedCompanyCount": 192,
       "pricedCompanyCount": 190,
-      "strictPostEvidenceMethodCount": 7,
+      "strictPostEvidenceMethodCount": 4,
       "exactCurrentRunPostEvidenceMethodCount": 0,
-      "consensusMethodCount": 7
+      "consensusMethodCount": 3
     },
     "topMethods3m": [
       {
@@ -17588,35 +13152,10 @@
         "top20PositiveRate6m": 1
       },
       {
-        "methodId": "05",
-        "label": "反证惩罚优先",
-        "lifecycle": "暂时有效：辅助",
-        "status": "暂时有效：辅助",
-        "group": "实证优先",
-        "evidenceLabel": "前身与回看均正向",
-        "rankedCount": 192,
-        "validCount3m": 190,
-        "validCount6m": 190,
-        "universeMean3m": 0.2956946620325157,
-        "universeMean6m": 0.5945523256951777,
-        "top20Mean3m": 0.9486356620192996,
-        "top20Mean6m": 1.5474850742523223,
-        "top20Bottom20Spread3m": 0.7850252962411218,
-        "top20Bottom20Spread6m": 1.114369362834347,
-        "rankIc3m": 0.24066711280819852,
-        "rankIc6m": 0.19086022210849987,
-        "categoryNeutralRankIc3m": 0.22981648268966792,
-        "categoryNeutralRankIc6m": 0.17141847586060519,
-        "top20CategoryExcessMean3m": 0.6061222715427559,
-        "top20CategoryExcessMean6m": 0.9177328646446037,
-        "top20PositiveRate3m": 1,
-        "top20PositiveRate6m": 0.95
-      },
-      {
         "methodId": "N06",
         "label": "超高增长与多倍价值",
-        "lifecycle": "候选：待生成后验证",
-        "status": "已运行：待生成后验证",
+        "lifecycle": "常规职责；此行为历史结果",
+        "status": "旧结果留存；新入口待验证",
         "group": "历史候选",
         "evidenceLabel": "仅历史回看正向",
         "rankedCount": 192,
@@ -17640,10 +13179,10 @@
       {
         "methodId": "06",
         "label": "双源三视图",
-        "lifecycle": "暂时有效：辅助",
-        "status": "暂时有效：辅助",
-        "group": "在用观察",
-        "evidenceLabel": "前身反向、回看正向",
+        "lifecycle": "常规职责；此行为历史结果",
+        "status": "旧结果留存；新入口待验证",
+        "group": "历史候选",
+        "evidenceLabel": "历史三视图；新入口未运行",
         "rankedCount": 192,
         "validCount3m": 190,
         "validCount6m": 190,
@@ -17661,6 +13200,31 @@
         "top20CategoryExcessMean6m": 0.06898157466290834,
         "top20PositiveRate3m": 0.7894736842105263,
         "top20PositiveRate6m": 0.6842105263157895
+      },
+      {
+        "methodId": "07",
+        "label": "未来收入台阶",
+        "lifecycle": "常规职责；此行为历史结果",
+        "status": "旧结果留存；新入口待验证",
+        "group": "在用观察",
+        "evidenceLabel": "有限且混合",
+        "rankedCount": 192,
+        "validCount3m": 190,
+        "validCount6m": 190,
+        "universeMean3m": 0.2956946620325157,
+        "universeMean6m": 0.5945523256951777,
+        "top20Mean3m": 0.3562251347741934,
+        "top20Mean6m": 0.8702154991848655,
+        "top20Bottom20Spread3m": 0.09546054687284833,
+        "top20Bottom20Spread6m": 0.6249394778990526,
+        "rankIc3m": 0.011028443709623097,
+        "rankIc6m": 0.11764227322232285,
+        "categoryNeutralRankIc3m": -0.030744220520103952,
+        "categoryNeutralRankIc6m": 0.12031606372365125,
+        "top20CategoryExcessMean3m": 0.04435327214627846,
+        "top20CategoryExcessMean6m": 0.36649481342397017,
+        "top20PositiveRate3m": 0.8,
+        "top20PositiveRate6m": 0.85
       }
     ],
     "topMethods6m": [
@@ -17692,8 +13256,8 @@
       {
         "methodId": "N06",
         "label": "超高增长与多倍价值",
-        "lifecycle": "候选：待生成后验证",
-        "status": "已运行：待生成后验证",
+        "lifecycle": "常规职责；此行为历史结果",
+        "status": "旧结果留存；新入口待验证",
         "group": "历史候选",
         "evidenceLabel": "仅历史回看正向",
         "rankedCount": 192,
@@ -17740,37 +13304,12 @@
         "top20PositiveRate6m": 0.95
       },
       {
-        "methodId": "05",
-        "label": "反证惩罚优先",
-        "lifecycle": "暂时有效：辅助",
-        "status": "暂时有效：辅助",
-        "group": "实证优先",
-        "evidenceLabel": "前身与回看均正向",
-        "rankedCount": 192,
-        "validCount3m": 190,
-        "validCount6m": 190,
-        "universeMean3m": 0.2956946620325157,
-        "universeMean6m": 0.5945523256951777,
-        "top20Mean3m": 0.9486356620192996,
-        "top20Mean6m": 1.5474850742523223,
-        "top20Bottom20Spread3m": 0.7850252962411218,
-        "top20Bottom20Spread6m": 1.114369362834347,
-        "rankIc3m": 0.24066711280819852,
-        "rankIc6m": 0.19086022210849987,
-        "categoryNeutralRankIc3m": 0.22981648268966792,
-        "categoryNeutralRankIc6m": 0.17141847586060519,
-        "top20CategoryExcessMean3m": 0.6061222715427559,
-        "top20CategoryExcessMean6m": 0.9177328646446037,
-        "top20PositiveRate3m": 1,
-        "top20PositiveRate6m": 0.95
-      },
-      {
         "methodId": "06",
         "label": "双源三视图",
-        "lifecycle": "暂时有效：辅助",
-        "status": "暂时有效：辅助",
-        "group": "在用观察",
-        "evidenceLabel": "前身反向、回看正向",
+        "lifecycle": "常规职责；此行为历史结果",
+        "status": "旧结果留存；新入口待验证",
+        "group": "历史候选",
+        "evidenceLabel": "历史三视图；新入口未运行",
         "rankedCount": 192,
         "validCount3m": 190,
         "validCount6m": 190,
@@ -17788,14 +13327,39 @@
         "top20CategoryExcessMean6m": 0.06898157466290834,
         "top20PositiveRate3m": 0.7894736842105263,
         "top20PositiveRate6m": 0.6842105263157895
+      },
+      {
+        "methodId": "07",
+        "label": "未来收入台阶",
+        "lifecycle": "常规职责；此行为历史结果",
+        "status": "旧结果留存；新入口待验证",
+        "group": "在用观察",
+        "evidenceLabel": "有限且混合",
+        "rankedCount": 192,
+        "validCount3m": 190,
+        "validCount6m": 190,
+        "universeMean3m": 0.2956946620325157,
+        "universeMean6m": 0.5945523256951777,
+        "top20Mean3m": 0.3562251347741934,
+        "top20Mean6m": 0.8702154991848655,
+        "top20Bottom20Spread3m": 0.09546054687284833,
+        "top20Bottom20Spread6m": 0.6249394778990526,
+        "rankIc3m": 0.011028443709623097,
+        "rankIc6m": 0.11764227322232285,
+        "categoryNeutralRankIc3m": -0.030744220520103952,
+        "categoryNeutralRankIc6m": 0.12031606372365125,
+        "top20CategoryExcessMean3m": 0.04435327214627846,
+        "top20CategoryExcessMean6m": 0.36649481342397017,
+        "top20PositiveRate3m": 0.8,
+        "top20PositiveRate6m": 0.85
       }
     ],
     "methodMetrics": [
       {
         "methodId": "01",
         "label": "风险调整赔率",
-        "lifecycle": "暂时有效：核心",
-        "status": "暂时有效：核心试用",
+        "lifecycle": "常规职责；此行为历史结果",
+        "status": "旧结果留存；新入口待验证",
         "group": "实证优先",
         "evidenceLabel": "前身短窗正向",
         "rankedCount": 192,
@@ -17819,8 +13383,8 @@
       {
         "methodId": "02",
         "label": "预期兑现概率",
-        "lifecycle": "暂时有效：核心",
-        "status": "暂时有效：核心试用",
+        "lifecycle": "常规职责；此行为历史结果",
+        "status": "旧结果留存；新入口待验证",
         "group": "实证优先",
         "evidenceLabel": "前身短窗正向",
         "rankedCount": 192,
@@ -17842,87 +13406,12 @@
         "top20PositiveRate6m": 0.5
       },
       {
-        "methodId": "03",
-        "label": "反证惩罚压力防守",
-        "lifecycle": "暂时有效：核心",
-        "status": "暂时有效：核心试用",
-        "group": "实证优先",
-        "evidenceLabel": "前身短窗正向",
-        "rankedCount": 192,
-        "validCount3m": 190,
-        "validCount6m": 190,
-        "universeMean3m": 0.2956946620325157,
-        "universeMean6m": 0.5945523256951776,
-        "top20Mean3m": 0.7110536729037891,
-        "top20Mean6m": 1.1429047370488397,
-        "top20Bottom20Spread3m": 0.4733036520193056,
-        "top20Bottom20Spread6m": 0.6006497536330253,
-        "rankIc3m": 0.15591771750493164,
-        "rankIc6m": 0.10997038844930827,
-        "categoryNeutralRankIc3m": 0.04091850393097479,
-        "categoryNeutralRankIc6m": 0.01347296318890516,
-        "top20CategoryExcessMean3m": 0.26530940007996884,
-        "top20CategoryExcessMean6m": 0.508424433033458,
-        "top20PositiveRate3m": 0.95,
-        "top20PositiveRate6m": 0.9
-      },
-      {
-        "methodId": "04",
-        "label": "极简基准兑现",
-        "lifecycle": "暂时有效：辅助",
-        "status": "暂时有效：辅助",
-        "group": "实证优先",
-        "evidenceLabel": "前身短窗正向",
-        "rankedCount": 192,
-        "validCount3m": 190,
-        "validCount6m": 190,
-        "universeMean3m": 0.2956946620325157,
-        "universeMean6m": 0.5945523256951776,
-        "top20Mean3m": 0.16262422696877404,
-        "top20Mean6m": 0.2535007983296049,
-        "top20Bottom20Spread3m": -0.2773559764761504,
-        "top20Bottom20Spread6m": -0.6765669454113198,
-        "rankIc3m": -0.1878072143710061,
-        "rankIc6m": -0.3342781036360535,
-        "categoryNeutralRankIc3m": -0.21972619749065156,
-        "categoryNeutralRankIc6m": -0.329130368505585,
-        "top20CategoryExcessMean3m": -0.07187112111476893,
-        "top20CategoryExcessMean6m": -0.1841188698082749,
-        "top20PositiveRate3m": 0.75,
-        "top20PositiveRate6m": 0.7
-      },
-      {
-        "methodId": "05",
-        "label": "反证惩罚优先",
-        "lifecycle": "暂时有效：辅助",
-        "status": "暂时有效：辅助",
-        "group": "实证优先",
-        "evidenceLabel": "前身与回看均正向",
-        "rankedCount": 192,
-        "validCount3m": 190,
-        "validCount6m": 190,
-        "universeMean3m": 0.2956946620325157,
-        "universeMean6m": 0.5945523256951777,
-        "top20Mean3m": 0.9486356620192996,
-        "top20Mean6m": 1.5474850742523223,
-        "top20Bottom20Spread3m": 0.7850252962411218,
-        "top20Bottom20Spread6m": 1.114369362834347,
-        "rankIc3m": 0.24066711280819852,
-        "rankIc6m": 0.19086022210849987,
-        "categoryNeutralRankIc3m": 0.22981648268966792,
-        "categoryNeutralRankIc6m": 0.17141847586060519,
-        "top20CategoryExcessMean3m": 0.6061222715427559,
-        "top20CategoryExcessMean6m": 0.9177328646446037,
-        "top20PositiveRate3m": 1,
-        "top20PositiveRate6m": 0.95
-      },
-      {
         "methodId": "06",
         "label": "双源三视图",
-        "lifecycle": "暂时有效：辅助",
-        "status": "暂时有效：辅助",
-        "group": "在用观察",
-        "evidenceLabel": "前身反向、回看正向",
+        "lifecycle": "常规职责；此行为历史结果",
+        "status": "旧结果留存；新入口待验证",
+        "group": "历史候选",
+        "evidenceLabel": "历史三视图；新入口未运行",
         "rankedCount": 192,
         "validCount3m": 190,
         "validCount6m": 190,
@@ -17944,8 +13433,8 @@
       {
         "methodId": "07",
         "label": "未来收入台阶",
-        "lifecycle": "暂时有效：辅助",
-        "status": "暂时有效：辅助",
+        "lifecycle": "常规职责；此行为历史结果",
+        "status": "旧结果留存；新入口待验证",
         "group": "在用观察",
         "evidenceLabel": "有限且混合",
         "rankedCount": 192,
@@ -17994,8 +13483,8 @@
       {
         "methodId": "N06",
         "label": "超高增长与多倍价值",
-        "lifecycle": "候选：待生成后验证",
-        "status": "已运行：待生成后验证",
+        "lifecycle": "常规职责；此行为历史结果",
+        "status": "旧结果留存；新入口待验证",
         "group": "历史候选",
         "evidenceLabel": "仅历史回看正向",
         "rankedCount": 192,
@@ -18044,244 +13533,244 @@
     ],
     "consensus": [
       {
+        "ticker": "DTE",
+        "name": "DTE Energy Company",
+        "category": "电力_发电_能源_储能",
+        "meanRank": 14.67,
+        "top20Count": 2,
+        "methodCount": 3,
+        "bestRank": 2,
+        "worstRank": 38,
+        "return3m": 0.011931178246237906,
+        "return6m": 0.17526277126746526
+      },
+      {
         "ticker": "VST",
         "name": "Vistra Corp",
         "category": "电力_发电_能源_储能",
-        "meanRank": 27,
-        "top20Count": 5,
-        "methodCount": 7,
+        "meanRank": 17.33,
+        "top20Count": 2,
+        "methodCount": 3,
         "bestRank": 1,
-        "worstRank": 106,
+        "worstRank": 41,
         "return3m": 0.028129494527268095,
         "return6m": -0.042498747372425094
       },
       {
-        "ticker": "DELL",
-        "name": "Dell Technologies",
-        "category": "AI服务器_存储_EMS",
-        "meanRank": 30.43,
-        "top20Count": 3,
-        "methodCount": 7,
-        "bestRank": 4,
-        "worstRank": 72,
-        "return3m": 1.4539699964481123,
-        "return6m": 2.633101090547412
+        "ticker": "GNRC",
+        "name": "Generac Holdings",
+        "category": "电力_发电_能源_储能",
+        "meanRank": 19,
+        "top20Count": 2,
+        "methodCount": 3,
+        "bestRank": 12,
+        "worstRank": 30,
+        "return3m": 0.12998118060560215,
+        "return6m": 0.5312213922671356
+      },
+      {
+        "ticker": "EME",
+        "name": "EMCOR Group",
+        "category": "机电_冷却_工程_水处理_边缘工业AI",
+        "meanRank": 20,
+        "top20Count": 2,
+        "methodCount": 3,
+        "bestRank": 12,
+        "worstRank": 29,
+        "return3m": -0.025249098795484426,
+        "return6m": 0.2110049206265916
       },
       {
         "ticker": "HPE",
         "name": "惠普企业",
         "category": "AI服务器_存储_EMS",
-        "meanRank": 32.86,
-        "top20Count": 3,
-        "methodCount": 7,
+        "meanRank": 23,
+        "top20Count": 2,
+        "methodCount": 3,
         "bestRank": 10,
-        "worstRank": 88,
+        "worstRank": 43,
         "return3m": 0.9558865799841063,
         "return6m": 1.2100098772885408
-      },
-      {
-        "ticker": "NVDA",
-        "name": "NVIDIA",
-        "category": "AI计算芯片_EDA_IP_custom_ASIC",
-        "meanRank": 37.71,
-        "top20Count": 4,
-        "methodCount": 7,
-        "bestRank": 5,
-        "worstRank": 135,
-        "return3m": 0.11968335713675415,
-        "return6m": 0.14257989892089618
       },
       {
         "ticker": "ETN",
         "name": "Eaton Corporation",
         "category": "配电_电源_功率器件",
-        "meanRank": 39.14,
-        "top20Count": 3,
-        "methodCount": 7,
-        "bestRank": 15,
-        "worstRank": 125,
+        "meanRank": 24.67,
+        "top20Count": 2,
+        "methodCount": 3,
+        "bestRank": 16,
+        "worstRank": 41,
         "return3m": 0.013413206100244768,
         "return6m": 0.2624541256892734
-      },
-      {
-        "ticker": "PENG",
-        "name": "Penguin Solutions",
-        "category": "AI服务器_存储_EMS",
-        "meanRank": 42.71,
-        "top20Count": 3,
-        "methodCount": 7,
-        "bestRank": 1,
-        "worstRank": 86,
-        "return3m": 2.4035619859293686,
-        "return6m": 3.106394066426315
       },
       {
         "ticker": "SMCI",
         "name": "Super Micro Computer Inc",
         "category": "AI服务器_存储_EMS",
-        "meanRank": 48.57,
-        "top20Count": 2,
-        "methodCount": 7,
-        "bestRank": 2,
-        "worstRank": 149,
+        "meanRank": 24.67,
+        "top20Count": 1,
+        "methodCount": 3,
+        "bestRank": 3,
+        "worstRank": 50,
         "return3m": 0.12074422840159893,
         "return6m": -0.061339535504953524
-      },
-      {
-        "ticker": "MU",
-        "name": "Micron Technology 美光科技",
-        "category": "AI服务器_存储_EMS",
-        "meanRank": 49.86,
-        "top20Count": 2,
-        "methodCount": 7,
-        "bestRank": 4,
-        "worstRank": 123,
-        "return3m": 1.3287538678065403,
-        "return6m": 1.839439320113876
-      },
-      {
-        "ticker": "APH",
-        "name": "Amphenol 安费诺",
-        "category": "AI网络_光互联_连接器",
-        "meanRank": 49.86,
-        "top20Count": 1,
-        "methodCount": 7,
-        "bestRank": 18,
-        "worstRank": 78,
-        "return3m": 0.13179368700053873,
-        "return6m": 0.13880434106941775
-      },
-      {
-        "ticker": "SNDK",
-        "name": "SanDisk",
-        "category": "AI服务器_存储_EMS",
-        "meanRank": 52.71,
-        "top20Count": 3,
-        "methodCount": 7,
-        "bestRank": 13,
-        "worstRank": 105,
-        "return3m": 1.2493396104733652,
-        "return6m": 4.07649512560513
-      },
-      {
-        "ticker": "NVT",
-        "name": "nVent Electric",
-        "category": "配电_电源_功率器件",
-        "meanRank": 54.71,
-        "top20Count": 1,
-        "methodCount": 7,
-        "bestRank": 9,
-        "worstRank": 104,
-        "return3m": 0.23281834744611118,
-        "return6m": 0.5302742848749562
-      },
-      {
-        "ticker": "QCOM",
-        "name": "Qualcomm",
-        "category": "AI计算芯片_EDA_IP_custom_ASIC",
-        "meanRank": 56.86,
-        "top20Count": 3,
-        "methodCount": 7,
-        "bestRank": 5,
-        "worstRank": 128,
-        "return3m": 0.48257585084964916,
-        "return6m": 0.07479828008554135
-      },
-      {
-        "ticker": "MOD",
-        "name": "Modine Manufacturing",
-        "category": "机电_冷却_工程_水处理_边缘工业AI",
-        "meanRank": 57.14,
-        "top20Count": 1,
-        "methodCount": 7,
-        "bestRank": 17,
-        "worstRank": 113,
-        "return3m": 0.018429540398031463,
-        "return6m": 0.965079150243715
-      },
-      {
-        "ticker": "META",
-        "name": "Meta Platforms",
-        "category": "云算力_IDC_AI软件平台",
-        "meanRank": 57.43,
-        "top20Count": 1,
-        "methodCount": 7,
-        "bestRank": 8,
-        "worstRank": 91,
-        "return3m": 0.06345902598139497,
-        "return6m": 0.026557761011890335
       },
       {
         "ticker": "BDC",
         "name": "Belden",
         "category": "AI网络_光互联_连接器",
-        "meanRank": 58,
+        "meanRank": 26.33,
         "top20Count": 2,
-        "methodCount": 7,
+        "methodCount": 3,
         "bestRank": 11,
-        "worstRank": 124,
+        "worstRank": 56,
         "return3m": -0.16836385492053896,
         "return6m": -0.06145867782426784
+      },
+      {
+        "ticker": "ORCL",
+        "name": "Oracle Corporation",
+        "category": "云算力_IDC_AI软件平台",
+        "meanRank": 27,
+        "top20Count": 1,
+        "methodCount": 3,
+        "bestRank": 3,
+        "worstRank": 47,
+        "return3m": 0.022009447034986307,
+        "return6m": -0.2866100081594566
       },
       {
         "ticker": "MSFT",
         "name": "微软",
         "category": "云算力_IDC_AI软件平台",
-        "meanRank": 58,
-        "top20Count": 2,
-        "methodCount": 7,
+        "meanRank": 28.67,
+        "top20Count": 1,
+        "methodCount": 3,
         "bestRank": 7,
-        "worstRank": 133,
+        "worstRank": 44,
         "return3m": 0.04061822449590169,
         "return6m": -0.19292487095644006
       },
       {
-        "ticker": "ET",
-        "name": "Energy Transfer LP",
-        "category": "电力_发电_能源_储能",
-        "meanRank": 59.14,
-        "top20Count": 2,
-        "methodCount": 7,
-        "bestRank": 1,
-        "worstRank": 142,
-        "return3m": 0.04217536003701383,
-        "return6m": 0.20133145844466216
-      },
-      {
-        "ticker": "CEG",
-        "name": "Constellation Energy",
-        "category": "电力_发电_能源_储能",
-        "meanRank": 60.14,
+        "ticker": "ADBE",
+        "name": "Adobe",
+        "category": "云算力_IDC_AI软件平台",
+        "meanRank": 36,
         "top20Count": 1,
-        "methodCount": 7,
-        "bestRank": 15,
-        "worstRank": 180,
-        "return3m": -0.12121968931673,
-        "return6m": -0.2639612641478378
+        "methodCount": 3,
+        "bestRank": 1,
+        "worstRank": 84,
+        "return3m": -0.0075882257268796716,
+        "return6m": -0.33031893632330955
       },
       {
-        "ticker": "WDC",
-        "name": "WesternDigital",
+        "ticker": "APH",
+        "name": "Amphenol 安费诺",
+        "category": "AI网络_光互联_连接器",
+        "meanRank": 37,
+        "top20Count": 1,
+        "methodCount": 3,
+        "bestRank": 18,
+        "worstRank": 72,
+        "return3m": 0.13179368700053873,
+        "return6m": 0.13880434106941775
+      },
+      {
+        "ticker": "DELL",
+        "name": "Dell Technologies",
         "category": "AI服务器_存储_EMS",
-        "meanRank": 61.57,
-        "top20Count": 2,
-        "methodCount": 7,
-        "bestRank": 6,
-        "worstRank": 97,
-        "return3m": 0.696828812663097,
-        "return6m": 1.9084146122227605
+        "meanRank": 37,
+        "top20Count": 1,
+        "methodCount": 3,
+        "bestRank": 13,
+        "worstRank": 72,
+        "return3m": 1.4539699964481123,
+        "return6m": 2.633101090547412
       },
       {
-        "ticker": "TSM",
-        "name": "台积电",
-        "category": "晶圆制造_前道设备",
-        "meanRank": 61.57,
+        "ticker": "ENS",
+        "name": "EnerSys",
+        "category": "电力_发电_能源_储能",
+        "meanRank": 38.67,
+        "top20Count": 2,
+        "methodCount": 3,
+        "bestRank": 4,
+        "worstRank": 93,
+        "return3m": 0.07804754337780784,
+        "return6m": 0.30303516281022924
+      },
+      {
+        "ticker": "MOD",
+        "name": "Modine Manufacturing",
+        "category": "机电_冷却_工程_水处理_边缘工业AI",
+        "meanRank": 39,
+        "top20Count": 1,
+        "methodCount": 3,
+        "bestRank": 17,
+        "worstRank": 62,
+        "return3m": 0.018429540398031463,
+        "return6m": 0.965079150243715
+      },
+      {
+        "ticker": "JBL",
+        "name": "Jabil Inc",
+        "category": "AI服务器_存储_EMS",
+        "meanRank": 39.67,
+        "top20Count": 1,
+        "methodCount": 3,
+        "bestRank": 16,
+        "worstRank": 69,
+        "return3m": 0.10305377198882981,
+        "return6m": 0.46127986269324617
+      },
+      {
+        "ticker": "NVT",
+        "name": "nVent Electric",
+        "category": "配电_电源_功率器件",
+        "meanRank": 40.33,
+        "top20Count": 1,
+        "methodCount": 3,
+        "bestRank": 9,
+        "worstRank": 87,
+        "return3m": 0.23281834744611118,
+        "return6m": 0.5302742848749562
+      },
+      {
+        "ticker": "GOOGL",
+        "name": "Alphabet Inc",
+        "category": "云算力_IDC_AI软件平台",
+        "meanRank": 41,
         "top20Count": 0,
-        "methodCount": 7,
-        "bestRank": 31,
-        "worstRank": 135,
-        "return3m": 0.1741139081278711,
-        "return6m": 0.34830732640879036
+        "methodCount": 3,
+        "bestRank": 36,
+        "worstRank": 49,
+        "return3m": 0.12657083880580777,
+        "return6m": 0.0884892248246143
+      },
+      {
+        "ticker": "MU",
+        "name": "Micron Technology 美光科技",
+        "category": "AI服务器_存储_EMS",
+        "meanRank": 42,
+        "top20Count": 1,
+        "methodCount": 3,
+        "bestRank": 9,
+        "worstRank": 95,
+        "return3m": 1.3287538678065403,
+        "return6m": 1.839439320113876
+      },
+      {
+        "ticker": "DCI",
+        "name": "Donaldson Company",
+        "category": "机电_冷却_工程_水处理_边缘工业AI",
+        "meanRank": 44,
+        "top20Count": 2,
+        "methodCount": 3,
+        "bestRank": 6,
+        "worstRank": 106,
+        "return3m": 0.01039753127413845,
+        "return6m": -0.053976913599847465
       }
     ],
     "inputComparisons": [
@@ -18302,13 +13791,43 @@
     ]
   },
   "validation": {
-    "methodCount": 10,
-    "listCount": 12,
-    "expectedMethodCount": 10,
-    "expectedListCount": 12,
+    "methodCount": 7,
+    "listCount": 9,
+    "expectedMethodCount": 7,
+    "expectedListCount": 9,
     "expectedRowsPerList": 192,
     "registeredMethodCount": 26,
     "registeredListCount": 28,
-    "complete": true
-  }
+    "complete": false,
+    "sourceComplete": true,
+    "coverageComplete": false
+  },
+  "missing": [
+    "ALGM",
+    "AMBA",
+    "ASTS",
+    "CCJ",
+    "CGNX",
+    "CW",
+    "DDOG",
+    "EMR",
+    "FANUY",
+    "ITT",
+    "LEU",
+    "NET",
+    "NOW",
+    "PANW",
+    "PL",
+    "PLTR",
+    "RDW",
+    "ROK",
+    "SBGSY",
+    "SMCAY",
+    "SNOW",
+    "SPCX",
+    "SPXC",
+    "SYM",
+    "TTMI",
+    "YASKY"
+  ]
 }

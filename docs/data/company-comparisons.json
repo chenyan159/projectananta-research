@@ -20,7 +20,34 @@
   "companyCount": 192,
   "rowCount": 36672,
   "pairCount": 18336,
-  "missing": [],
+  "missing": [
+    "AMBA",
+    "TTMI",
+    "ALGM",
+    "SBGSY",
+    "CCJ",
+    "LEU",
+    "ITT",
+    "SPXC",
+    "CGNX",
+    "EMR",
+    "FANUY",
+    "ROK",
+    "SMCAY",
+    "SYM",
+    "YASKY",
+    "ASTS",
+    "CW",
+    "PL",
+    "RDW",
+    "SPCX",
+    "NET",
+    "DDOG",
+    "NOW",
+    "PLTR",
+    "SNOW",
+    "PANW"
+  ],
   "dimensions": [
     {
       "key": "near",
@@ -48,7 +75,7 @@
     }
   ],
   "quality": {
-    "complete": true,
+    "complete": false,
     "status": "warning",
     "expectedCompanyCount": 192,
     "expectedRowsPerCompany": 191,
@@ -83,7 +110,9 @@
       "2026-07-12",
       "2026-07-13",
       "2026-07-14"
-    ]
+    ],
+    "sourceComplete": true,
+    "coverageComplete": false
   },
   "metrics": {
     "reciprocal": {

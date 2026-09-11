@@ -104,7 +104,7 @@
     }
   ],
   "quality": {
-    "complete": true,
+    "complete": false,
     "status": "warning",
     "expectedCompanyCount": 192,
     "expectedCellsPerCompany": 20,
@@ -115,7 +115,9 @@
       "CRWV 未解析当前最弱传导环节",
       "SMR 有 5 个 NA 格子"
     ],
-    "snapshotIdentityCount": 141
+    "snapshotIdentityCount": 141,
+    "sourceComplete": true,
+    "coverageComplete": false
   },
   "metrics": {
     "companyCount": 192,
@@ -17290,5 +17292,33 @@
       }
     }
   ],
-  "qualityNote": "完整覆盖 192 家公司和 3,835 个可估值条件格；概率层不参与汇总。"
+  "qualityNote": "完整覆盖 192 家公司和 3,835 个可估值条件格；概率层不参与汇总。",
+  "missing": [
+    "AMBA",
+    "TTMI",
+    "ALGM",
+    "SBGSY",
+    "CCJ",
+    "LEU",
+    "ITT",
+    "SPXC",
+    "CGNX",
+    "EMR",
+    "FANUY",
+    "ROK",
+    "SMCAY",
+    "SYM",
+    "YASKY",
+    "ASTS",
+    "CW",
+    "PL",
+    "RDW",
+    "SPCX",
+    "NET",
+    "DDOG",
+    "NOW",
+    "PLTR",
+    "SNOW",
+    "PANW"
+  ]
 }

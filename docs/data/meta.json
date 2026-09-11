@@ -1,20 +1,19 @@
 {
-  "generatedAt": "2026-09-06T13:01:47.472Z",
-  "generatedAtDisplay": "2026/9/6 06:01:47",
+  "generatedAt": "2026-09-11T07:08:37.305Z",
+  "generatedAtDisplay": "2026/9/11 00:08:37",
   "sourceRootName": "Investment",
   "siteRoot": "tools/site",
-  "companyCount": 192,
-  "companyReportCount": 192,
-  "companyEvaluationCount": 0,
-  "industryCount": 82,
-  "industryReportCount": 82,
+  "companyCount": 218,
+  "companyReportCount": 193,
+  "industryCount": 91,
+  "industryReportCount": 80,
   "featureCount": 19,
   "featureScoreFileCount": 19,
   "alphaFeatureCount": 16,
   "gateCount": 3,
   "latestRankingDate": "2026-07-13",
-  "rankingMethodCount": 10,
-  "rankingListCount": 12,
+  "rankingMethodCount": 7,
+  "rankingListCount": 9,
   "rankingRegisteredMethodCount": 26,
   "rankingRegisteredListCount": 28,
   "currentRankingEvaluationId": "2026-07-13_26方案3月6月生成前历史回看",
@@ -31,45 +30,48 @@
   "technicalFactorCount": 18,
   "technicalMarketCount": 5,
   "technicalHorizonCount": 5,
-  "latestFinancialDate": "2026-09-04",
-  "latestDailyNewsDate": "2026-09-06",
+  "latestFinancialDate": "2026-09-10",
+  "latestDailyNewsDate": "2026-09-08",
   "dailyNewsCount": 10,
-  "qualityAlertCount": 24,
+  "qualityAlertCount": 31,
   "moduleBuilds": {
     "companyComparisons": {
       "label": "公司对比",
-      "status": "fresh",
-      "attemptedAt": "2026-09-06T13:01:40.623Z",
+      "status": "stale",
+      "attemptedAt": "2026-09-11T07:08:34.417Z",
       "generatedAt": "2026-09-06T13:01:43.458Z",
-      "dataDate": "2026-07-14 至 2026-07-18（2 个报告日）"
+      "dataDate": "2026-07-14 至 2026-07-18（2 个报告日）",
+      "error": "Error: 公司索引应有 192 家，实际 218 家。 at readCompanyIndex (fil[本地路径已省略] at async main (fil[本地路径已省略]"
     },
     "scenarioDecisions": {
       "label": "情景决策",
-      "status": "fresh",
-      "attemptedAt": "2026-09-06T13:01:44.456Z",
+      "status": "stale",
+      "attemptedAt": "2026-09-11T07:08:34.860Z",
       "generatedAt": "2026-09-06T13:01:45.155Z",
-      "dataDate": "2026-09-05"
+      "dataDate": "2026-09-05",
+      "error": "fil[本地路径已省略] throw new Error(`公司索引应有 ${EXPECTED_COMPANY_COUNT} 家，实际 ${rows.length} 家。`); ^ Error: 公司索引应有 192 家，实际 218 家。 at readCompanyIndex (fil[本地路径已省略] at async main (fil[本地路径已省略] at async fil[本地路径已省略] Node.js v24.15.0"
     },
     "rankings": {
       "label": "公司排序",
-      "status": "fresh",
-      "attemptedAt": "2026-09-06T13:01:45.623Z",
-      "generatedAt": "2026-09-06T13:01:45.758Z",
-      "dataDate": "2026-07-10"
+      "status": "stale",
+      "attemptedAt": "2026-09-11T07:08:35.135Z",
+      "generatedAt": "2026-09-10T09:28:11.116Z",
+      "dataDate": "2026-07-10",
+      "error": "公司排序站点数据校验失败： - 13 榜单无效：rows=192, ranks=192, tickers=192, missing=26, extra=0 - 01 榜单无效：rows=192, ranks=192, tickers=192, missing=26, extra=0 - 02 榜单无效：rows=192, ranks=192, tickers=192, missing=26, extra=0 - 06F 榜单无效：rows=192, ranks=192, ti"
     },
     "technicalResearch": {
       "label": "技术面",
       "status": "fresh",
-      "attemptedAt": "2026-09-06T13:01:45.784Z",
-      "generatedAt": "2026-09-06T13:01:45.887Z",
+      "attemptedAt": "2026-09-11T07:08:35.345Z",
+      "generatedAt": "2026-09-11T07:08:35.462Z",
       "dataDate": "2026-07-15"
     },
     "dailyNews": {
       "label": "每日新闻",
       "status": "fresh",
-      "attemptedAt": "2026-09-06T13:01:45.922Z",
-      "generatedAt": "2026-09-06T13:01:46.083Z",
-      "dataDate": "2026-09-06"
+      "attemptedAt": "2026-09-11T07:08:35.503Z",
+      "generatedAt": "2026-09-11T07:08:35.667Z",
+      "dataDate": "2026-09-08"
     }
   }
 }
