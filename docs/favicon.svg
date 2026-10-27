@@ -1,3 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Project Ananta">
-  <path d="M32 7C43 18 50 29 49 41C48 52 39 59 32 59C25 59 16 52 15 41C14 31 21 22 32 7C29.8 18.5 37.6 25 39 35C43 29 40 18 32 7Z" fill="none" stroke="#f59e0b" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Project Ananta"><rect width="64" height="64" rx="16" fill="#173d33"/><path d="M15 45 29 16h7l14 29h-8l-3-7H26l-3 7zm14-14h7l-3.5-9z" fill="#ddc791"/><circle cx="46" cy="44" r="8" fill="none" stroke="#ddc791" stroke-width="2"/></svg>
